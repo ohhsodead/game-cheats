@@ -1,0 +1,535 @@
+{
+  "Game": "Aliens vs. Predator EU",
+  "Region": "BLES00585",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Checkpoints Are Made Nonstop",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035561C",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Checkpoints Selfmade (Hold Select + Start=Activate)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035561C",
+          "Opcode": "00002000",
+          "Value": "2F8003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00090000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0035561C",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003A1E8",
+          "Opcode": "00002000",
+          "Value": "801F0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003A1F0",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003A1F8",
+          "Opcode": "00002000",
+          "Value": "3C004220",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003A1FC",
+          "Opcode": "00002000",
+          "Value": "901F0018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003A204",
+          "Opcode": "00002000",
+          "Value": "419E0034",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Die From Any Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003A1E8",
+          "Opcode": "00002000",
+          "Value": "801F0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003A1F0",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003A1F8",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003A1FC",
+          "Opcode": "00002000",
+          "Value": "901F0018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003A204",
+          "Opcode": "00002000",
+          "Value": "409E0050",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Never Decreases For You, Enemies Die From Any Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003A1F8",
+          "Opcode": "00002000",
+          "Value": "801F0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003A200",
+          "Opcode": "00002000",
+          "Value": "3C004220",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003A204",
+          "Opcode": "00002000",
+          "Value": "901F0030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003A208",
+          "Opcode": "00002000",
+          "Value": "419E0030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003A20C",
+          "Opcode": "00002000",
+          "Value": "48000048",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Aliens Have Trouble Moving Around",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003AB998",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Partial Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005E7444",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Any Damage Instantly Kills",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00378874",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Aliens Don't Move Or Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00678268",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Many Things Are Very Bright White",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000750E8",
+          "Opcode": "00002000",
+          "Value": "3F4044FA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000750EC",
+          "Opcode": "00002000",
+          "Value": "934B0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000750F0",
+          "Opcode": "00002000",
+          "Value": "934B0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000750F4",
+          "Opcode": "00002000",
+          "Value": "934B0020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Aliens Spin In Circles Trying To Move",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0068CDB4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0068CF14",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Turrets Don't Turn To Shoot",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0068E1E4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0068E28C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Aliens Don't Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005E93C0",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always Running",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005DAF08",
+          "Opcode": "00002000",
+          "Value": "3C00447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005DAF0C",
+          "Opcode": "00002000",
+          "Value": "901F00A4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.125x Gravity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B343C",
+          "Opcode": "00002000",
+          "Value": "3C003E00",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B3440",
+          "Opcode": "00002000",
+          "Value": "90030100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.25x Gravity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B343C",
+          "Opcode": "00002000",
+          "Value": "3C003E80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B3440",
+          "Opcode": "00002000",
+          "Value": "90030100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.5x Gravity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B343C",
+          "Opcode": "00002000",
+          "Value": "3C003F00",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B3440",
+          "Opcode": "00002000",
+          "Value": "90030100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Explosive Gas Tanks Don't Explode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0027F664",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Increased Brightness",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0016BC48",
+          "Opcode": "00002000",
+          "Value": "3C00BF80",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Faster Animations",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001DC498",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rapid Fire",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004E5EEC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E5FE4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Nothing Can Take Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003781B4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Marines & Androids Are Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003C3594",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Predators Are Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003D6B74",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Aliens Are Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003B4E8C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Never Turn To Aim",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0068DC84",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo & Medkits Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004C9E18",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Predator Energy Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009017DC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Throw Unlimited Flares Out At The Same Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004CC414",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Checkpoints Normal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035561C",
+          "Opcode": "00002000",
+          "Value": "2F8003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

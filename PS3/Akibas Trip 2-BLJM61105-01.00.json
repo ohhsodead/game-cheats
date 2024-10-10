@@ -1,0 +1,105 @@
+{
+  "Game": "Akibas Trip 2",
+  "Region": "BLJM61105",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000D52C8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E1C48",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E1C4C",
+          "Opcode": "00002000",
+          "Value": "7CE43B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "15 Attack Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000DF7B0",
+          "Opcode": "00002000",
+          "Value": "3C80000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MONEY MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000D52C8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E1C48",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E1C4C",
+          "Opcode": "00002000",
+          "Value": "7CE43B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "buki kougekiryoku",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000DF7B0",
+          "Opcode": "00002000",
+          "Value": "3C80000F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

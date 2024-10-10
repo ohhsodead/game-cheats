@@ -1,0 +1,354 @@
+{
+  "Game": "Aliens - Colonial Marines EU",
+  "Region": "BLES01455",
+  "Version": "01.05",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo/No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006A697C",
+          "Opcode": "00002000",
+          "Value": "38600063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006A6980",
+          "Opcode": "00002000",
+          "Value": "907E02C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006A6984",
+          "Opcode": "00002000",
+          "Value": "907E02E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006A6988",
+          "Opcode": "00002000",
+          "Value": "907E02B8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006A698C",
+          "Opcode": "00002000",
+          "Value": "907E02E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006A6990",
+          "Opcode": "00002000",
+          "Value": "907E02B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006A6994",
+          "Opcode": "00002000",
+          "Value": "907E02DC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health/Armor",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007207D8",
+          "Opcode": "00002000",
+          "Value": "3C0045FA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007207DC",
+          "Opcode": "00002000",
+          "Value": "90031B38",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007207E0",
+          "Opcode": "00002000",
+          "Value": "90030374",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007207E4",
+          "Opcode": "00002000",
+          "Value": "C0231B38",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007207FC",
+          "Opcode": "00002000",
+          "Value": "3C004000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720800",
+          "Opcode": "00002000",
+          "Value": "90030094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720804",
+          "Opcode": "00002000",
+          "Value": "C0231B4C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "3x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007207FC",
+          "Opcode": "00002000",
+          "Value": "3C004040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720800",
+          "Opcode": "00002000",
+          "Value": "90030094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720804",
+          "Opcode": "00002000",
+          "Value": "C0231B4C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007207FC",
+          "Opcode": "00002000",
+          "Value": "3C004080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720800",
+          "Opcode": "00002000",
+          "Value": "90030094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720804",
+          "Opcode": "00002000",
+          "Value": "C0231B4C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "5x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007207FC",
+          "Opcode": "00002000",
+          "Value": "3C0040A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720800",
+          "Opcode": "00002000",
+          "Value": "90030094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720804",
+          "Opcode": "00002000",
+          "Value": "C0231B4C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "6x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007207FC",
+          "Opcode": "00002000",
+          "Value": "3C0040C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720800",
+          "Opcode": "00002000",
+          "Value": "90030094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720804",
+          "Opcode": "00002000",
+          "Value": "C0231B4C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "7x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007207FC",
+          "Opcode": "00002000",
+          "Value": "3C0040E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720800",
+          "Opcode": "00002000",
+          "Value": "90030094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720804",
+          "Opcode": "00002000",
+          "Value": "C0231B4C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "8x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007207FC",
+          "Opcode": "00002000",
+          "Value": "3C004100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720800",
+          "Opcode": "00002000",
+          "Value": "90030094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720804",
+          "Opcode": "00002000",
+          "Value": "C0231B4C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007207FC",
+          "Opcode": "00002000",
+          "Value": "3C004110",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720800",
+          "Opcode": "00002000",
+          "Value": "90030094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720804",
+          "Opcode": "00002000",
+          "Value": "C0231B4C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "10x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007207FC",
+          "Opcode": "00002000",
+          "Value": "3C004120",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720800",
+          "Opcode": "00002000",
+          "Value": "90030094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00720804",
+          "Opcode": "00002000",
+          "Value": "C0231B4C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Super Jump",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000BFD64",
+          "Opcode": "00002000",
+          "Value": "3CA044C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000BFD70",
+          "Opcode": "00002000",
+          "Value": "90BD0334",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000BFD74",
+          "Opcode": "00002000",
+          "Value": "D09D017C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

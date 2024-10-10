@@ -1,0 +1,413 @@
+{
+  "Game": "Alice Madness Returns US",
+  "Region": "BLUS30607",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010000",
+          "Opcode": "00002000",
+          "Value": "81DE0618",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010004",
+          "Opcode": "00002000",
+          "Value": "2C0E0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010008",
+          "Opcode": "00002000",
+          "Value": "4182000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001000C",
+          "Opcode": "00002000",
+          "Value": "38A00050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010010",
+          "Opcode": "00002000",
+          "Value": "90AE0354",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010014",
+          "Opcode": "00002000",
+          "Value": "93BE06F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010018",
+          "Opcode": "00002000",
+          "Value": "48911884",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00921898",
+          "Opcode": "00002000",
+          "Value": "4B6EE768",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Teeth",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001001C",
+          "Opcode": "00002000",
+          "Value": "81DE0618",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010020",
+          "Opcode": "00002000",
+          "Value": "2C0E0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010024",
+          "Opcode": "00002000",
+          "Value": "41820010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010028",
+          "Opcode": "00002000",
+          "Value": "3CA005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001002C",
+          "Opcode": "00002000",
+          "Value": "60A5E0FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010030",
+          "Opcode": "00002000",
+          "Value": "90AE0284",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010034",
+          "Opcode": "00002000",
+          "Value": "63C30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010038",
+          "Opcode": "00002000",
+          "Value": "48911868",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0092189C",
+          "Opcode": "00002000",
+          "Value": "4B6EE780",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Moon Jump",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001003C",
+          "Opcode": "00002000",
+          "Value": "81DE0618",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010040",
+          "Opcode": "00002000",
+          "Value": "2C0E0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010044",
+          "Opcode": "00002000",
+          "Value": "4182000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010048",
+          "Opcode": "00002000",
+          "Value": "3CA044AF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001004C",
+          "Opcode": "00002000",
+          "Value": "90AE0310",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010050",
+          "Opcode": "00002000",
+          "Value": "FC20F890",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010054",
+          "Opcode": "00002000",
+          "Value": "48911850",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009218A0",
+          "Opcode": "00002000",
+          "Value": "4B6EE79C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Super Speed & No Overheat",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010058",
+          "Opcode": "00002000",
+          "Value": "81DE0618",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001005C",
+          "Opcode": "00002000",
+          "Value": "2C0E0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010060",
+          "Opcode": "00002000",
+          "Value": "4182000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010064",
+          "Opcode": "00002000",
+          "Value": "3CA04080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010068",
+          "Opcode": "00002000",
+          "Value": "90AE009C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001006C",
+          "Opcode": "00002000",
+          "Value": "63E50000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010070",
+          "Opcode": "00002000",
+          "Value": "48911838",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009218A4",
+          "Opcode": "00002000",
+          "Value": "4B6EE7B4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Mini Player Size",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010074",
+          "Opcode": "00002000",
+          "Value": "81DE0618",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010078",
+          "Opcode": "00002000",
+          "Value": "2C0E0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001007C",
+          "Opcode": "00002000",
+          "Value": "41820010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010080",
+          "Opcode": "00002000",
+          "Value": "3CA03ECD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010084",
+          "Opcode": "00002000",
+          "Value": "60A5CCCD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010088",
+          "Opcode": "00002000",
+          "Value": "90AE007C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001008C",
+          "Opcode": "00002000",
+          "Value": "63E50000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010090",
+          "Opcode": "00002000",
+          "Value": "4839F0B1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010094",
+          "Opcode": "00002000",
+          "Value": "48911818",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009218A8",
+          "Opcode": "00002000",
+          "Value": "4B6EE7CC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "One Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000100A8",
+          "Opcode": "00002000",
+          "Value": "39C00001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100AC",
+          "Opcode": "00002000",
+          "Value": "91DD0354",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100B0",
+          "Opcode": "00002000",
+          "Value": "EC3E0072",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100B4",
+          "Opcode": "00002000",
+          "Value": "480581C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00068270",
+          "Opcode": "00002000",
+          "Value": "4BFA7E38",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Slow Enemies (50% slower)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010098",
+          "Opcode": "00002000",
+          "Value": "39C03F00",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001009C",
+          "Opcode": "00002000",
+          "Value": "91DD009C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100A0",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100A4",
+          "Opcode": "00002000",
+          "Value": "480581CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0006826C",
+          "Opcode": "00002000",
+          "Value": "4BFA7E2C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

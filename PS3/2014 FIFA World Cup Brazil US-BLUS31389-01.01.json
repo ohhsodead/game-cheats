@@ -1,0 +1,31 @@
+{
+  "Game": "2014 FIFA World Cup Brazil US",
+  "Region": "BLUS31389",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "200x Point Multiplier (Training and Skill Games)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0053317C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Retries (Training)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F8D748",
+          "Opcode": "00002000",
+          "Value": "1CC600C8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

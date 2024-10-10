@@ -1,0 +1,74 @@
+{
+  "Game": "After Burner Climax US",
+  "Region": "NPUB30151",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Aircraft Count",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014976D8",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Armor",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01497A20",
+          "Opcode": "00002000",
+          "Value": "7FFFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Missiles",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "015241CC",
+          "Opcode": "00003000",
+          "Value": "000001A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000032",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Climax Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01497A68",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Credits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006195F8",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

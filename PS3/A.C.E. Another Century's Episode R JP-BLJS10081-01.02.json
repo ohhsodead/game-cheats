@@ -1,0 +1,142 @@
+{
+  "Game": "A.C.E. Another Century's Episode R JP",
+  "Region": "BLJS10081",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "(Press L2) to Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018FBD0C",
+          "Opcode": "00003000",
+          "Value": "000003E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000134",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003003",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018FBD0C",
+          "Opcode": "00003000",
+          "Value": "000003E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000013C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003006",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "348052B8",
+          "Opcode": "00003000",
+          "Value": "00000210",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "41000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "348052B8",
+          "Opcode": "00003000",
+          "Value": "00000214",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "41000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ACE Power 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018EF400",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max A.C.E. Points On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007E8B9C",
+          "Opcode": "00002000",
+          "Value": "7D695B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max A.C.E. Points On Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00807730",
+          "Opcode": "00002000",
+          "Value": "7D605B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Skill Points Gain/Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007A3FBC",
+          "Opcode": "00002000",
+          "Value": "90C70008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

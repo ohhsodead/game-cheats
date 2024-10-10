@@ -1,0 +1,172 @@
+{
+  "Game": "Warriors Legends of Troy JP",
+  "Region": "BLJM60307",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Total Kleos 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C91528",
+          "Opcode": "00003000",
+          "Value": "000001B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000000DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C169A4",
+          "Opcode": "00003000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000007C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "437A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Fury Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C169A4",
+          "Opcode": "00003000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000007C4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "437A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Max Combat Kleos 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C169A4",
+          "Opcode": "00003000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000DDC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Total Combat Kleos 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C169A4",
+          "Opcode": "00003000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000DFC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "Game": "Tales of Graces F EU",
+  "Region": "BLES01617",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Item Usage (Select+Up=On/Select+Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001AE9F0",
+          "Opcode": "00002000",
+          "Value": "4081002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00410000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001AE9F0",
+          "Opcode": "00002000",
+          "Value": "4182002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Recover 9999 HP in Battle (Press L2+R2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000 00000003",
+          "Opcode": "0000C00C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DC028",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000008D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00002394",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000E5E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DC028",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000008D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00002394",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00002404",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000E5E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Recover 9999 HP After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CC2E8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001CC2EC",
+          "Opcode": "00002000",
+          "Value": "3800270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CFED8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Quick Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CC228",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001CC22C",
+          "Opcode": "00002000",
+          "Value": "900B0024",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Weapon Skill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C0A88",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BFAD4",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Arte/Skill Usage Count",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CB088",
+          "Opcode": "00002000",
+          "Value": "48000028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Gald",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A536C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Gald (Different Version?)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A87A4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Fast Movement Speed (Hold [])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007DFB24",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DFB24",
+          "Opcode": "00002000",
+          "Value": "3FE00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Core Capacity (CC30)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CAB90",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001CACF4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Grade",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D60A0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always Drop All Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005D2B0",
+          "Opcode": "00002000",
+          "Value": "3BC00064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always Drop Materials",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005C398",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always Drop Dark Crystal Ball",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BDC18",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Eleth Mixer Slots",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C6BBC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Eleth Mixer Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C6A7C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Complete Eleth Mixer List",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C880C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Eleth Mixer EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C7884",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001C77D4",
+          "Opcode": "00002000",
+          "Value": "4800001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Eleth Mixer Break",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00068E88",
+          "Opcode": "00002000",
+          "Value": "39202710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00068E8C",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00456C8C",
+          "Opcode": "00002000",
+          "Value": "38002710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00456C90",
+          "Opcode": "00002000",
+          "Value": "9009BBB4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00456C94",
+          "Opcode": "00002000",
+          "Value": "48000218",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00456C9C",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00456CA0",
+          "Opcode": "00002000",
+          "Value": "9009BBB8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00456CA4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00456EEC",
+          "Opcode": "00002000",
+          "Value": "38002710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00456EF0",
+          "Opcode": "00002000",
+          "Value": "9009BBB4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00456EF4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

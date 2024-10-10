@@ -1,0 +1,91 @@
+{
+  "Game": "JoJo's Bizarre Adventure All-Star Battle JP",
+  "Region": "BLJS10217",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A9E74",
+          "Opcode": "00002000",
+          "Value": "2F9F0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999 Combo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0014E540",
+          "Opcode": "00002000",
+          "Value": "380003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Special",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0070D454",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MONEY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A9E74",
+          "Opcode": "00002000",
+          "Value": "2F9F0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Combo 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0014E540",
+          "Opcode": "00002000",
+          "Value": "380003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HH Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0070D454",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

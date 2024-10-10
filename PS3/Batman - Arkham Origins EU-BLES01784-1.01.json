@@ -1,0 +1,33 @@
+{
+  "Game": "Batman - Arkham Origins EU",
+  "Region": "BLES01784",
+  "Version": "1.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0059984C",
+          "Opcode": "00002000",
+          "Value": "38600080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00599850",
+          "Opcode": "00002000",
+          "Value": "907F02AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00599854",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

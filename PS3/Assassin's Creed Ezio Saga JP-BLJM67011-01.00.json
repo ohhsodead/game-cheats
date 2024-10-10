@@ -1,0 +1,31 @@
+{
+  "Game": "Assassin's Creed Ezio Saga JP",
+  "Region": "BLJM67011",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00996D6C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Cash/Throwing Knives/Bullets",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E27DBC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

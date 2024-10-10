@@ -1,0 +1,55 @@
+{
+  "Game": "Crysis 3 JP",
+  "Region": "BLJM60530",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004CCCE0",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C67E8",
+          "Opcode": "00002000",
+          "Value": "EC21F02A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004CCCE0",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE Energie",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C67E8",
+          "Opcode": "00002000",
+          "Value": "EC21F02A",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

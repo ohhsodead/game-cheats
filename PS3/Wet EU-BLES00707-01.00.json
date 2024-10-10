@@ -1,0 +1,160 @@
+{
+  "Game": "Wet EU",
+  "Region": "BLES00707",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Enemies Don't Shoot Or Throw Grenade",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012FDB6C",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012FDB7C",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012FDA80",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Move Enemy Hit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012FDA58",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012FDA74",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012FDA7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012FDA8C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00521F30",
+          "Opcode": "00002000",
+          "Value": "48D0B8F1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0122D820",
+          "Opcode": "00002000",
+          "Value": "39C00001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0122D824",
+          "Opcode": "00002000",
+          "Value": "99C3003B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0122D828",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Hit Kills",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00734C74",
+          "Opcode": "00002000",
+          "Value": "48AF8B8D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0122D800",
+          "Opcode": "00002000",
+          "Value": "893A003B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0122D800",
+          "Opcode": "00002000",
+          "Value": "2F890001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0122D800",
+          "Opcode": "00002000",
+          "Value": "419E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0122D800",
+          "Opcode": "00002000",
+          "Value": "EFE10828",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0122D800",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0122D800",
+          "Opcode": "00002000",
+          "Value": "FFE00890",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0122D800",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

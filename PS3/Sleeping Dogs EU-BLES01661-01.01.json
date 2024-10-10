@@ -1,0 +1,114 @@
+{
+  "Game": "Sleeping Dogs EU",
+  "Region": "BLES01661",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Everything",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00593D30",
+          "Opcode": "00002000",
+          "Value": "3CA07FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00581D14",
+          "Opcode": "00002000",
+          "Value": "3C607FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money on Buy in Stores Only",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005B5094",
+          "Opcode": "00002000",
+          "Value": "3D003B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005B5098",
+          "Opcode": "00002000",
+          "Value": "6108C9FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005B509C",
+          "Opcode": "00002000",
+          "Value": "91070000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "NOTE Delete saved game options or game won't boot.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.02]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3B144CE8",
+          "Opcode": "00003000",
+          "Value": "00000034",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "48000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3B144CE8",
+          "Opcode": "00003000",
+          "Value": "0000002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "48000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

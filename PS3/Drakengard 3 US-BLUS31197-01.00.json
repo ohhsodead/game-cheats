@@ -1,0 +1,407 @@
+{
+  "Game": "Drakengard 3 US",
+  "Region": "BLUS31197",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Money MAX(and victory)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E9EF0",
+          "Opcode": "00002000",
+          "Value": "4800009C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009F447C",
+          "Opcode": "00002000",
+          "Value": "807E07F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009F4484",
+          "Opcode": "00002000",
+          "Value": "907E07EC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0095A3FC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Intoner Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0095A648",
+          "Opcode": "00002000",
+          "Value": "83DF080C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A6B5A0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Hits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0096CBB4",
+          "Opcode": "00002000",
+          "Value": "3860270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier x100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ECAB0",
+          "Opcode": "00002000",
+          "Value": "494FFF11",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9C0",
+          "Opcode": "00002000",
+          "Value": "809B0044",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9C4",
+          "Opcode": "00002000",
+          "Value": "3FC00001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9C8",
+          "Opcode": "00002000",
+          "Value": "63DE869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9CC",
+          "Opcode": "00002000",
+          "Value": "7C04F000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9D0",
+          "Opcode": "00002000",
+          "Value": "80810074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9D4",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9D8",
+          "Opcode": "00002000",
+          "Value": "1C840064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9DC",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Gold",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ECC58",
+          "Opcode": "00002000",
+          "Value": "494FFD89",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9E0",
+          "Opcode": "00002000",
+          "Value": "809BFFF4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9E4",
+          "Opcode": "00002000",
+          "Value": "3FC005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9E8",
+          "Opcode": "00002000",
+          "Value": "63DEE0FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9EC",
+          "Opcode": "00002000",
+          "Value": "7C04F000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9F0",
+          "Opcode": "00002000",
+          "Value": "80810074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9F4",
+          "Opcode": "00002000",
+          "Value": "7C641810",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9F8",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015EC9FC",
+          "Opcode": "00002000",
+          "Value": "63C30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA00",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Weapons Materials",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ED0E0",
+          "Opcode": "00002000",
+          "Value": "494FF925",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA04",
+          "Opcode": "00002000",
+          "Value": "3C8005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA08",
+          "Opcode": "00002000",
+          "Value": "6084E0FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA0C",
+          "Opcode": "00002000",
+          "Value": "807DFD94",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA10",
+          "Opcode": "00002000",
+          "Value": "7C041800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA14",
+          "Opcode": "00002000",
+          "Value": "41820040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA18",
+          "Opcode": "00002000",
+          "Value": "807DFD90",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA1C",
+          "Opcode": "00002000",
+          "Value": "7C041800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA20",
+          "Opcode": "00002000",
+          "Value": "41820034",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA24",
+          "Opcode": "00002000",
+          "Value": "807DFD8C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA28",
+          "Opcode": "00002000",
+          "Value": "7C041800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA2C",
+          "Opcode": "00002000",
+          "Value": "41820028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA30",
+          "Opcode": "00002000",
+          "Value": "807DFD88",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA34",
+          "Opcode": "00002000",
+          "Value": "7C041800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA38",
+          "Opcode": "00002000",
+          "Value": "4182001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA3C",
+          "Opcode": "00002000",
+          "Value": "807DFD84",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA40",
+          "Opcode": "00002000",
+          "Value": "7C041800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA44",
+          "Opcode": "00002000",
+          "Value": "41820010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA48",
+          "Opcode": "00002000",
+          "Value": "807D0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA4C",
+          "Opcode": "00002000",
+          "Value": "3083FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA50",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA54",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015ECA58",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009F2F58",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

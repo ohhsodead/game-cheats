@@ -1,0 +1,172 @@
+{
+  "Game": "TMNT Turtles In Time Re-Shelled US",
+  "Region": "NPUB30107",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D43FDC",
+          "Opcode": "00003000",
+          "Value": "000018C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000003A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000035C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D43FDC",
+          "Opcode": "00003000",
+          "Value": "000018C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000003A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000CBC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Life 99 While Turtle's Death",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D43FDC",
+          "Opcode": "00003000",
+          "Value": "000018D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Score 100000000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D43FDC",
+          "Opcode": "00003000",
+          "Value": "000018D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0125B1A4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "013CFD80",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

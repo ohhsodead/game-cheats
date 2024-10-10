@@ -1,0 +1,146 @@
+{
+  "Game": "Strider US",
+  "Region": "NPUB31139",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Score (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EFDAC",
+          "Opcode": "00002000",
+          "Value": "490EC384",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011DC130",
+          "Opcode": "00002000",
+          "Value": "C02300E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011DC134",
+          "Opcode": "00002000",
+          "Value": "82030074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011DC138",
+          "Opcode": "00002000",
+          "Value": "2C100002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011DC13C",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011DC140",
+          "Opcode": "00002000",
+          "Value": "D02300E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011DC144",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Plasma Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A0F7C",
+          "Opcode": "00002000",
+          "Value": "C0240008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Quick Charge Strike",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004B2C44",
+          "Opcode": "00002000",
+          "Value": "3BA00023",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004B3A98",
+          "Opcode": "00002000",
+          "Value": "38A00024",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EFDAC",
+          "Opcode": "00002000",
+          "Value": "490EC384",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011DC130",
+          "Opcode": "00002000",
+          "Value": "C02300E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011DC134",
+          "Opcode": "00002000",
+          "Value": "82030074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011DC138",
+          "Opcode": "00002000",
+          "Value": "2C100002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011DC13C",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011DC140",
+          "Opcode": "00002000",
+          "Value": "D02300E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011DC144",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

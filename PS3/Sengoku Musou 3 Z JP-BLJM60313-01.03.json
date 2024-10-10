@@ -1,0 +1,350 @@
+{
+  "Game": "Sengoku Musou 3 Z JP",
+  "Region": "BLJM60313",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Gold 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E7BE8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Something",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E4D94",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Weapon Upgrades",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00215E58",
+          "Opcode": "00002000",
+          "Value": "38000009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00215E5C",
+          "Opcode": "00002000",
+          "Value": "9809002A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002162B8",
+          "Opcode": "00002000",
+          "Value": "38000009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002162BC",
+          "Opcode": "00002000",
+          "Value": "980B002A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "10x Exp After Picking Up Exp Scroll",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C1C18",
+          "Opcode": "00002000",
+          "Value": "1D290016",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "100x Exp After Picking Up Exp Scroll",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C1C18",
+          "Opcode": "00002000",
+          "Value": "1D2900C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1000x Exp After Picking Up Exp Scroll",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C1C18",
+          "Opcode": "00002000",
+          "Value": "1D2907D0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Koku 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007B3D48",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Skill Item 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007B3D4C",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "0000400E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP 99999 While Gaining",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E5D20",
+          "Opcode": "00002000",
+          "Value": "3D400002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E5D24",
+          "Opcode": "00002000",
+          "Value": "394A869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Press L2+R2 to Limited Time Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00767234",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "K.O.9999 in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ACAFC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Infinite HP in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "36AD82BC",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "36AD82C0",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Infinite Musou in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C005",
+          "Value": "00000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "36AD82CC",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "36AD82D0",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "36AD82D4",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "36AD82D8",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "36AD82DC",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Special Skill Guage in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "36AD82E4",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Offense Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "36AD82E8",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Defense Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "36AD82EC",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Hyper Speed in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "36AD82F8",
+          "Opcode": "00002000",
+          "Value": "42480000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Hyper Jump in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "36AD82FC",
+          "Opcode": "00002000",
+          "Value": "42480000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E7F68",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP 99999 While Gaining",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E60A0",
+          "Opcode": "00002000",
+          "Value": "3D400002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E60A4",
+          "Opcode": "00002000",
+          "Value": "394A869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "K.O.9999 in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ACE40",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

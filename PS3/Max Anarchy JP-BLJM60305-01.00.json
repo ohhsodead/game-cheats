@@ -1,0 +1,31 @@
+{
+  "Game": "Max Anarchy JP",
+  "Region": "BLJM60305",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Game Speed (2X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01DD855C",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Game Speed (4X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01DD855C",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

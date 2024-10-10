@@ -1,0 +1,247 @@
+{
+  "Game": "Silent Hill Downpour JP",
+  "Region": "BLJM60391",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AD91D0",
+          "Opcode": "00002000",
+          "Value": "4082001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health & 2 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009E1CBC",
+          "Opcode": "00002000",
+          "Value": "4B842D4F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00232998",
+          "Opcode": "00002000",
+          "Value": "3C8001CA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023299C",
+          "Opcode": "00002000",
+          "Value": "8084578C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002329A0",
+          "Opcode": "00002000",
+          "Value": "80840460",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002329A4",
+          "Opcode": "00002000",
+          "Value": "80840000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002329A8",
+          "Opcode": "00002000",
+          "Value": "80840040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002329AC",
+          "Opcode": "00002000",
+          "Value": "808401DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002329B0",
+          "Opcode": "00002000",
+          "Value": "7F84F800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002329B4",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002329B8",
+          "Opcode": "00002000",
+          "Value": "3860270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002329BC",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002329C0",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002329C4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0087E190",
+          "Opcode": "00002000",
+          "Value": "33430000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AD9640",
+          "Opcode": "00002000",
+          "Value": "4082001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0087E0E0",
+          "Opcode": "00002000",
+          "Value": "33430000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health & 2 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009E4784",
+          "Opcode": "00002000",
+          "Value": "4B842D4F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233128",
+          "Opcode": "00002000",
+          "Value": "3C8001CA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023312C",
+          "Opcode": "00002000",
+          "Value": "8084578C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233130",
+          "Opcode": "00002000",
+          "Value": "80840460",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233134",
+          "Opcode": "00002000",
+          "Value": "80840000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233138",
+          "Opcode": "00002000",
+          "Value": "80840040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023313C",
+          "Opcode": "00002000",
+          "Value": "808401DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233140",
+          "Opcode": "00002000",
+          "Value": "7F84F800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233144",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233148",
+          "Opcode": "00002000",
+          "Value": "3860270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023314C",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233150",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233154",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

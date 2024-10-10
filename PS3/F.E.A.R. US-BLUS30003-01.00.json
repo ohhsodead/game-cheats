@@ -1,0 +1,489 @@
+{
+  "Game": "F.E.A.R. US",
+  "Region": "BLUS30003",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Mostly Full Brightness",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001DE890",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001DE894",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001DE8A0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001DE934",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001DE93C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001DE940",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Very High Starting Focus Capacity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005D9C60",
+          "Opcode": "00002000",
+          "Value": "3C004700",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005D9C64",
+          "Opcode": "00002000",
+          "Value": "901B0064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005DBFCC",
+          "Opcode": "00002000",
+          "Value": "3C004700",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005DBFD0",
+          "Opcode": "00002000",
+          "Value": "901B0064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005DBFD4",
+          "Opcode": "00002000",
+          "Value": "480D3241",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Focus Always Starts Decreasing From Full",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005DC278",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Nothing Attacks",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0084F194",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008557B4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008557C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008558AC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Starting Focus Capacity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005D9C60",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005D9C64",
+          "Opcode": "00002000",
+          "Value": "901B0064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005DBFCC",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005DBFD0",
+          "Opcode": "00002000",
+          "Value": "901B0064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005DBFD4",
+          "Opcode": "00002000",
+          "Value": "480D3241",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Flashlight Battery Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0034997C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo & Grenades Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035F944",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0044E6A0",
+          "Opcode": "00002000",
+          "Value": "813F01FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00869744",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Slow Motion Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0057BF48",
+          "Opcode": "00002000",
+          "Value": "3C607FF0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0057BF70",
+          "Opcode": "00002000",
+          "Value": "907C0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Medical Kits Don't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035E87C",
+          "Opcode": "00002000",
+          "Value": "3920000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005E0984",
+          "Opcode": "00002000",
+          "Value": "3800000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Your Health Never Decreases, Enemies Die From Any Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009036B8",
+          "Opcode": "00002000",
+          "Value": "4860AF08",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5C0",
+          "Opcode": "00002000",
+          "Value": "893F0084",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5C4",
+          "Opcode": "00002000",
+          "Value": "2F890000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5C8",
+          "Opcode": "00002000",
+          "Value": "EC000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5CC",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5EC",
+          "Opcode": "00002000",
+          "Value": "D01F0074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5F0",
+          "Opcode": "00002000",
+          "Value": "D01F007C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5F4",
+          "Opcode": "00002000",
+          "Value": "409E0054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5F8",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E618",
+          "Opcode": "00002000",
+          "Value": "C01F0078",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E61C",
+          "Opcode": "00002000",
+          "Value": "D01F007C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E620",
+          "Opcode": "00002000",
+          "Value": "C01F0070",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E624",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E644",
+          "Opcode": "00002000",
+          "Value": "D01F0074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E648",
+          "Opcode": "00002000",
+          "Value": "813F0158",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E64C",
+          "Opcode": "00002000",
+          "Value": "4B9F5070",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Your Health Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009036B8",
+          "Opcode": "00002000",
+          "Value": "4860AF08",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5C0",
+          "Opcode": "00002000",
+          "Value": "893F0084",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5C4",
+          "Opcode": "00002000",
+          "Value": "2F890000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5C8",
+          "Opcode": "00002000",
+          "Value": "EC000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5CC",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5EC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5F0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5F4",
+          "Opcode": "00002000",
+          "Value": "409E0054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E5F8",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E618",
+          "Opcode": "00002000",
+          "Value": "C01F0078",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E61C",
+          "Opcode": "00002000",
+          "Value": "D01F007C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E620",
+          "Opcode": "00002000",
+          "Value": "C01F0070",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E624",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E644",
+          "Opcode": "00002000",
+          "Value": "D01F0074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E648",
+          "Opcode": "00002000",
+          "Value": "813F0158",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F0E64C",
+          "Opcode": "00002000",
+          "Value": "4B9F5070",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

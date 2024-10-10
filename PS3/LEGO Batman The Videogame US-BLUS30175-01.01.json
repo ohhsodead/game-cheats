@@ -1,0 +1,71 @@
+{
+  "Game": "LEGO Batman The Videogame US",
+  "Region": "BLUS30175",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0081DD14",
+          "Opcode": "00003000",
+          "Value": "00000AD8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000ADC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000808",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Gold",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007A23F0",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Box",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0080D800",
+          "Opcode": "00002000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0080D804",
+          "Opcode": "00002000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0080D808",
+          "Opcode": "00002000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

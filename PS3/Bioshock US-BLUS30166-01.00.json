@@ -1,0 +1,207 @@
+{
+  "Game": "Bioshock US",
+  "Region": "BLUS30166",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0055B4E0",
+          "Opcode": "00002000",
+          "Value": "EC00082A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010100",
+          "Opcode": "00002000",
+          "Value": "C01F050C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010104",
+          "Opcode": "00002000",
+          "Value": "3D600057",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010108",
+          "Opcode": "00002000",
+          "Value": "616BCCB4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001010C",
+          "Opcode": "00002000",
+          "Value": "7C0B0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010110",
+          "Opcode": "00002000",
+          "Value": "41820008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010114",
+          "Opcode": "00002000",
+          "Value": "485520D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010118",
+          "Opcode": "00002000",
+          "Value": "EC00F02A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001011C",
+          "Opcode": "00002000",
+          "Value": "485520D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005621E8",
+          "Opcode": "00002000",
+          "Value": "4BAADF18",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "One Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010120",
+          "Opcode": "00002000",
+          "Value": "3D600057",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010124",
+          "Opcode": "00002000",
+          "Value": "616BCCB4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010128",
+          "Opcode": "00002000",
+          "Value": "7C0B0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001012C",
+          "Opcode": "00002000",
+          "Value": "4182000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010130",
+          "Opcode": "00002000",
+          "Value": "EC000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010134",
+          "Opcode": "00002000",
+          "Value": "485520BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010138",
+          "Opcode": "00002000",
+          "Value": "EC00F028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001013C",
+          "Opcode": "00002000",
+          "Value": "485520B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005621EC",
+          "Opcode": "00002000",
+          "Value": "4BAADF34",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Money 9999 After Pickup Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0053C900",
+          "Opcode": "00002000",
+          "Value": "3C00270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F0CFB4",
+          "Opcode": "00003000",
+          "Value": "00000038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000004C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000006E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000484",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

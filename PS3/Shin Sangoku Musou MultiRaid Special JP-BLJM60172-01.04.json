@@ -1,0 +1,55 @@
+{
+  "Game": "Shin Sangoku Musou MultiRaid Special JP",
+  "Region": "BLJM60172",
+  "Version": "01.04",
+  "Cheats": [
+    {
+      "Name": "Gold 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00820928",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Force gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008A0DCA",
+          "Opcode": "00001000",
+          "Value": "0000FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008208A8",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Force gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008A0D4A",
+          "Opcode": "00001000",
+          "Value": "0000FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

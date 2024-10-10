@@ -1,0 +1,47 @@
+{
+  "Game": "MotorStorm Apocalypse EU",
+  "Region": "BCES00484",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Infinite Boost",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010100",
+          "Opcode": "00002000",
+          "Value": "EC631828",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010104",
+          "Opcode": "00002000",
+          "Value": "81D90018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010108",
+          "Opcode": "00002000",
+          "Value": "D06E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001010C",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00052F90",
+          "Opcode": "00002000",
+          "Value": "4BFBD170",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

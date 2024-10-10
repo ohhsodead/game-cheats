@@ -1,0 +1,136 @@
+{
+  "Game": "Grand Theft Auto V JP",
+  "Region": "BLJM61019",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EE1574",
+          "Opcode": "00002000",
+          "Value": "907E0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EECF6C",
+          "Opcode": "00002000",
+          "Value": "B0BE0052",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0 Wanted Level",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F47A4C",
+          "Opcode": "00002000",
+          "Value": "7D6B5A78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EE1574",
+          "Opcode": "00002000",
+          "Value": "907E0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EECF6C",
+          "Opcode": "00002000",
+          "Value": "B0BE0052",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Wanted Level 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F47A4C",
+          "Opcode": "00002000",
+          "Value": "7D6B5A78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 02.05]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F408C8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F4C5D8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Wanted Level 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FAA4FC",
+          "Opcode": "00002000",
+          "Value": "7D6B5A78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Wanted Level 5",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FAA510",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "Game": "Armoured Core - Verdict Day EU",
+  "Region": "BLES01898",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00CFD080",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Recon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0023110C",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Boost Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A92494",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Recon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0023110C",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Boost",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A92494",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00CFD080",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE recon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0023110C",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE boost",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A92494",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

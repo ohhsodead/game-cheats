@@ -1,0 +1,78 @@
+{
+  "Game": "Homefront EU",
+  "Region": "BLES00962",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Grenade & C4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B73588",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP After Pickup Grenade",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010100",
+          "Opcode": "00002000",
+          "Value": "3CC07FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010104",
+          "Opcode": "00002000",
+          "Value": "90C30418",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010108",
+          "Opcode": "00002000",
+          "Value": "90C30414",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001010C",
+          "Opcode": "00002000",
+          "Value": "88630A31",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010110",
+          "Opcode": "00002000",
+          "Value": "48B634E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B735EC",
+          "Opcode": "00002000",
+          "Value": "4B49CB14",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B8138C",
+          "Opcode": "00002000",
+          "Value": "3860000F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

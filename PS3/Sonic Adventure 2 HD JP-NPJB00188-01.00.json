@@ -1,0 +1,19 @@
+{
+  "Game": "Sonic Adventure 2 HD JP",
+  "Region": "NPJB00188",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "999 Rings",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001AB444",
+          "Opcode": "00002000",
+          "Value": "419D0368",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

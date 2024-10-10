@@ -1,0 +1,263 @@
+{
+  "Game": "Castlevania Lords of Shadow EU",
+  "Region": "BLES01047",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Gabriel Exprience Point 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FBDE7C",
+          "Opcode": "00003000",
+          "Value": "FFFFFE1C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gabriel Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FE2660",
+          "Opcode": "00003000",
+          "Value": "00000488",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Please Activate Only After 1st Restoring Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press Start) to Infinite Secondary Weapon Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00FE6FA8",
+          "Opcode": "00004000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000034",
+          "Opcode": "00004003",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00FE7044",
+          "Opcode": "00002000",
+          "Value": "0000001E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Light Magic Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FE6DE4",
+          "Opcode": "00002000",
+          "Value": "41F00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Shadow Magic Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FE6ED8",
+          "Opcode": "00002000",
+          "Value": "41F00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health (use after Besieged Village)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015B778",
+          "Opcode": "00002000",
+          "Value": "907B0488",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Experience after pause (use after Besieged Village)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015FDD8",
+          "Opcode": "00002000",
+          "Value": "3C607FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0015FDDC",
+          "Opcode": "00002000",
+          "Value": "6063FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0015FDE0",
+          "Opcode": "00002000",
+          "Value": "9064002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Daggers (use after Besieged Village)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015B2EC",
+          "Opcode": "00002000",
+          "Value": "38C00005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0015B2F0",
+          "Opcode": "00002000",
+          "Value": "90C5002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0015B2F4",
+          "Opcode": "00002000",
+          "Value": "80A5002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Crystals (use after Sanctuary Entrance)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015B2B4",
+          "Opcode": "00002000",
+          "Value": "38800004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0015B2B8",
+          "Opcode": "00002000",
+          "Value": "9083002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0015B2BC",
+          "Opcode": "00002000",
+          "Value": "8063002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Holy Water (use after Abbey Tower)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015B2D0",
+          "Opcode": "00002000",
+          "Value": "38A00063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0015B2D4",
+          "Opcode": "00002000",
+          "Value": "90A4002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0015B2D8",
+          "Opcode": "00002000",
+          "Value": "8084002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00158AAC",
+          "Opcode": "00002000",
+          "Value": "D026002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00158AB8",
+          "Opcode": "00002000",
+          "Value": "D047002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00158AD8",
+          "Opcode": "00002000",
+          "Value": "D03C0274",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00158ADC",
+          "Opcode": "00002000",
+          "Value": "D05C027C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

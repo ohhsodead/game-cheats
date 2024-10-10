@@ -1,0 +1,91 @@
+{
+  "Game": "Resistance Fall Of Man US",
+  "Region": "BCUS98107",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Loaded Ammo Does Not Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00339B00",
+          "Opcode": "00002000",
+          "Value": "61200000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Reserve Ammo Does Not Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00339264",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Secondary Ammo Does Not Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00339BF0",
+          "Opcode": "00002000",
+          "Value": "61200000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029EF08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Grenades Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002A6F10",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rapid Fire Most Primary Fire",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00338558",
+          "Opcode": "00002000",
+          "Value": "C01E800C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "High Jump",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ABD6C",
+          "Opcode": "00002000",
+          "Value": "EFFF082A",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5091 @@
+{
+  "Game": "Mortal Kombat US",
+  "Region": "BLUS30522",
+  "Version": "01.05",
+  "Cheats": [
+    {
+      "Name": "Timer 90",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0198B444",
+          "Opcode": "00002000",
+          "Value": "0000005A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01991174",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "32A62650",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "32AB8CD0",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Inflicts Less Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01984130",
+          "Opcode": "00002000",
+          "Value": "3EF00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 Inflicts Less Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01984134",
+          "Opcode": "00002000",
+          "Value": "3EF00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Super Meter Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01984190",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 Super Meter Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01984E1C",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 Death (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "32AB8CD0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Press [F1] Mortal Kombat.rtf",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 NPC Fix (L3) Pre Ladder Screen",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F536861",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "6E677473",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "756E6700",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 NPC Fix (R3) Pre Ladder Screen",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F536861",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "6E677473",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "756E6700",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-01 Scorpion MK1 (Press Select+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F53636F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "7270696F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "6E5F4300",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-02 Classic Noob* (Press Select+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "4E70635F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "436C6173",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "7369636E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "6F6F6200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-03 Classic Smoke* (Press Select+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "4E70635F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "436C6173",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "73696373",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "6D6F6B65",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-04 Classc Reptile* (Press Select+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "4E70635F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "436C6173",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "73696372",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "65707469",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "6C650000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-05 Subzero MK1 (Press Select+L1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010044",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F537562",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "7A65726F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "5F430000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-05 Classic Jade* (Press Select+L1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010044",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "4E70635F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "436C6173",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "7369636A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "61646500",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-05 Base Male* (Press Select+L1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010044",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "4E70635F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "46696768",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "74696E67",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "64756D6D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "795F4D61",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "6C650000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-06 Noob MK2 (Press Select+L1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010024",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F4E6F6F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "625F4400",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-06 Zombie* (Press Select+L1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010024",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "4E70635F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5A6F6D62",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "69655F4D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "616C6500",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-06 JC Director* (Press Select+L1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010024",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "4E70635F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "4A635F44",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "69726563",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "746F7200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-07 Smoke MK2 (Press Select+L1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F536D6F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "6B655F44",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-07 Oni* (Press Select+L1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "4E70635F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "476C5F4F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "6E690000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-07 Generic Fighter A (Press Select+L1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "4E70635F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "47656E65",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "72696366",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "69676874",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "65726100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-08 Reptile MK1 (Press Select+L1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010084",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F526570",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "74696C65",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "5F430000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-08 Tarkatan Soldier (Press Select+L1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010084",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "4E70635F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5461726B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "6174616E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "736F6C64",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "69657261",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-08 Generic Fighter B (Press Select+L1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010084",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "4E70635F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "47656E65",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "72696366",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "69676874",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "65726200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-09 Raiden (Press Select+R1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F526169",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "64656E5F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "42000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-09 Rain (Press Select+R1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F526169",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "6E000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-09 Cyber Subzero (Press Select+R1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F437962",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "65727A65",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "726F0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-10 Liu Kang (Press Select+R1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F4C6975",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "6B616E67",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-10 Kenshi (Press Select+R1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F4B656E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "73686900",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-10 Cyrax MK3 (Press Select+R1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F437972",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "61785F43",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-11 Johnnycage (Press Select+R1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F4A6F68",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "6E6E7963",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "61676500",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-11 Freddy (Press Select+R1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F467265",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "6464794B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "72756567",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "65720000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-11 Sektor Mk3 (Press Select+R1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F53656B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "746F725F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "43000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-12 Ermac MK1 (Press Select+R1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010088",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F45726D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "61635F43",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-12 Quanchi (Press Select+R1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010088",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F517561",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "6E636869",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-12 Cyber Ninja* (Press Select+R1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010088",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "4E70635F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "43796265",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "726E696E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "6A615F4C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "6B344434",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-13 Goro (Press Select+L1+R1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001004C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F476F72",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "6F000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-14 Kintaro (Press Select+L1+R1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F4B696E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "7461726F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-15 Shaokahn (Press Select+L1+R1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F536861",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "6F6B6168",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "6E000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ST-16 Kratos (Press Select+L1+R1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001008C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F4",
+          "Opcode": "00002000",
+          "Value": "43686172",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4F8",
+          "Opcode": "00002000",
+          "Value": "5F4B7261",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B4FC",
+          "Opcode": "00002000",
+          "Value": "746F7300",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B500",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B504",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0198B508",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-01 Scorpion MK1 (Press Select+L2+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010041",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F53434F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "5250494F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "4E5F4300",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-02 Classic Noob* (Press Select+L2+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010021",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "434C4153",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "5349434E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "4F4F4200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-03 Classic Smoke* (Press Select+L2+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010011",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "434C4153",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "53494353",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "4D4F4B45",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-04 Classc Reptile* (Press Select+L2+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010081",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "434C4153",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "53494352",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "45505449",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "4C450000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-05 Subzero MK1 (Press Select+L2+L1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010045",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F535542",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "5A45524F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "5F430000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-05 Classic Jade* (Press Select+L2+L1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010045",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "434C4153",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "5349434A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "41444500",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-05 Jade MK3 (Press Select+L2+L1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010045",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F4A4144",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "455F4400",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-06 Noob MK2 (Press Select+L2+L1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010025",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F4E4F4F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "425F4400",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-06 Base Male* (Press Select+L2+L1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010025",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "46494748",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "54494E47",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "44554D4D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "595F4D41",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "4C450000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-06 JC Director* (Press Select+L2+L1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010025",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "4A435F44",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "49524543",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "544F5200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-07 Smoke MK2 (Press Select+L2+L1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010015",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F534D4F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "4B455F44",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-07 Cyber Ninja* (Press Select+L2+L1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010015",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "43594245",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "524E494E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "4A415F4C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "4B344434",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-07 Generic Fighter A* (Press Select+L2+L1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010015",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "47454E45",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "52494346",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "49474854",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "45524100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-08 Reptile MK1 (Press Select+L2+L1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010085",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F524550",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "54494C45",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "5F430000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-08 Cyrax MK3 (Press Select+L2+L1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010085",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F435952",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "41585F43",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-08 Generic Fighter B (Press Select+L2+L1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010085",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "47454E45",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "52494346",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "49474854",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "45524200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-09 Raiden (Press Select+L2+R1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010049",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F524149",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "44454E5F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "42000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-09 Zombie* (Press Select+L2+R1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010049",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5A4F4D42",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "49455F4D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "414C4500",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-09 Oni* (Press Select+L2+R1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010049",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "474C5F4F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "4E490000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-10 Liu Kang (Press Select+L2+R1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010029",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F4C4955",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "4B414E47",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-10 Sektor MK3 (Press Select+L2+R1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010029",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F53454B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "544F525F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "43000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-10 Tarkatan Soldier* (Press Select+L2+R1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010029",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5441524B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "4154414E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "534F4C44",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "49455241",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-11 Johnnycage (Press Select+L2+R1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010019",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F4A4F48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "4E4E5943",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "41474500",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-12 Ermac MK1 (Press Select+L2+R1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010089",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F45524D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "41435F43",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-13 Goro* (Press Select+L2+L1+R1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001004D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F474F52",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "4F000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-14 Kintaro* (Press Select+L2+L1+R1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001002D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F4B494E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "5441524F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-15 Shaokahn* (Press Select+L2+L1+R1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001001D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F534841",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "4F4B4148",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "4E000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1-16 Kratos (Press Select+L2+L1+R1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001008D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE0",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE4",
+          "Opcode": "00002000",
+          "Value": "5F4B5241",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EE8",
+          "Opcode": "00002000",
+          "Value": "544F5300",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EEC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983EF4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-01 Scorpion MK1 (Press Select+R2+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010042",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F53434F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "5250494F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "4E5F4300",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-02 Classic Noob* (Press Select+R2+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010022",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "434C4153",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "5349434E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "4F4F4200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-03 Classic Smoke* (Press Select+R2+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010012",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "434C4153",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "53494353",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "4D4F4B45",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-04 Classc Reptile* (Press Select+R2+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010082",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "434C4153",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "53494352",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "45505449",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "4C450000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-05 Subzero MK1 (Press Select+R2+L1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010046",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F535542",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "5A45524F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "5F430000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-05 Classic Jade* (Press Select+R2+L1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010046",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "434C4153",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "5349434A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "41444500",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-05 Jade MK3 (Press Select+R2+L1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010046",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F4A4144",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "455F4400",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-06 Noob MK2 (Press Select+R2+L1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010026",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F4E4F4F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "425F4400",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-06 Base Male* (Press Select+R2+L1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010026",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "46494748",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "54494E47",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "44554D4D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "595F4D41",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "4C450000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-06 JC Director* (Press Select+R2+L1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010026",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "4A435F44",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "49524543",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "544F5200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-07 Smoke MK2 (Press Select+R2+L1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010016",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F534D4F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "4B455F44",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-07 Cyber Ninja* (Press Select+R2+L1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010016",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "43594245",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "524E494E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "4A415F4C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "4B344434",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-07 Fighter A (Press Select+R2+L1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010016",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "47454E45",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "52494346",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "49474854",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "45524100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-08 Reptile MK1 (Press Select+R2+L1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010086",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F524550",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "54494C45",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "5F430000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-08 Cyrax MK3 (Press Select+R2+L1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010086",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F435952",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "41585F43",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-08 Fighter B (Press Select+R2+L1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010086",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "47454E45",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "52494346",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "49474854",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "45524200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-09 Raiden (Press Select+R2+R1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001004A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F524149",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "44454E5F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "42000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-09 Zombie* (Press Select+R2+R1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001004A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5A4F4D42",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "49455F4D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "414C4500",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-09 Oni* (Press Select+R2+R1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001004A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "474C5F4F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "4E490000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-10 Liu Kang (Press Select+R2+R1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001002A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F4C4955",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "4B414E47",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-10 Sektor MK3 (Press Select+R2+R1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001002A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F53454B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "544F525F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "43000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-10 Tarkatan Soldier* (Press Select+R2+R1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001002A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "4E50435F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5441524B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "4154414E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "534F4C44",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "49455241",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-11 Johnnycage (Press Select+R2+R1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001001A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F4A4F48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "4E4E5943",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "41474500",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-12 Ermac MK1 (Press Select+R2+R1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001008A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F45524D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "41435F43",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-13 Goro* (Press Select+R2+L1+R1+X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001004E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F474F52",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "4F000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-14 Kintaro* (Press Select+R2+L1+R1+O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001002E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F4B494E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "5441524F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-15 Shaokahn* (Press Select+R2+L1+R1+TRIANGLE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001001E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F534841",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "4F4B4148",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "4E000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2-16 Kratos* (Press Select+R2+L1+R1+[])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0001008E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B6C",
+          "Opcode": "00002000",
+          "Value": "43484152",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B70",
+          "Opcode": "00002000",
+          "Value": "5F4B5241",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B74",
+          "Opcode": "00002000",
+          "Value": "544F5300",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B78",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01984B80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold 999999999 [1.02]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01991224",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Auto Fatality (R1+R2+Up=On,R1+R2+Down=Off) [1.02]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "0010000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983388",
+          "Opcode": "00002000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "0040000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01983388",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0016F4A4",
+          "Opcode": "00002000",
+          "Value": "C3C47708",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0016F4AC",
+          "Opcode": "00002000",
+          "Value": "D3C478C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite X-RAY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00174E64",
+          "Opcode": "00002000",
+          "Value": "3063357C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00174E68",
+          "Opcode": "00002000",
+          "Value": "3C803F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00174E6C",
+          "Opcode": "00002000",
+          "Value": "90830C14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00174E70",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

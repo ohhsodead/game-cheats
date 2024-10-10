@@ -1,0 +1,79 @@
+{
+  "Game": "Shin Sangoku Musou 7 AS",
+  "Region": "BLAS50582",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "1P Speed Move (8X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F99A04",
+          "Opcode": "00002000",
+          "Value": "41000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Speed Move (12X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F99A04",
+          "Opcode": "00002000",
+          "Value": "41400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible No Hit (2X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F99A28",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible No Hit (3X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F99A28",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible No Hit (4X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F99A28",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible No Hit (5X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F99A28",
+          "Opcode": "00002000",
+          "Value": "40A00000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

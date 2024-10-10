@@ -1,0 +1,36 @@
+{
+  "Game": "Lollipop Chainsaw EU",
+  "Region": "BLES01525",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Invincible Mode (Press Up=On Press Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Opcode": "0000C101 00000000 00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00099620",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "0000C101 00000000 00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00099620",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

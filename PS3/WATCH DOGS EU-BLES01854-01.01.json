@@ -1,0 +1,230 @@
+{
+  "Game": "WATCH DOGS EU",
+  "Region": "BLES01854",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Money On Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004748B8",
+          "Opcode": "00002000",
+          "Value": "3CC005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004748C4",
+          "Opcode": "00002000",
+          "Value": "60C6E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00123D94",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00123D98",
+          "Opcode": "00002000",
+          "Value": "90030010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00123D9C",
+          "Opcode": "00002000",
+          "Value": "90030014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00123DA0",
+          "Opcode": "00002000",
+          "Value": "48000030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E3C20",
+          "Opcode": "00002000",
+          "Value": "30630000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP multiplier x100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004693D4",
+          "Opcode": "00002000",
+          "Value": "1FA50064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Cellphone Battery",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008BA860",
+          "Opcode": "00002000",
+          "Value": "80BF0098",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008BA868",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D3560",
+          "Opcode": "00002000",
+          "Value": "3BE00063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Focus",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00123E08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001262D4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Mission Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B8790C",
+          "Opcode": "00002000",
+          "Value": "493EA595",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F71EA0",
+          "Opcode": "00002000",
+          "Value": "3C603F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F71EA4",
+          "Opcode": "00002000",
+          "Value": "907F0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F71EA8",
+          "Opcode": "00002000",
+          "Value": "C05F0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F71EAC",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Spider-Tank Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A4B744",
+          "Opcode": "00002000",
+          "Value": "C0230014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A4B750",
+          "Opcode": "00002000",
+          "Value": "D0230010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Drinking Game Freeze Timer",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009182FC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00924438",
+          "Opcode": "00002000",
+          "Value": "D07B0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0092B7A4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze ctOS Scanner",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0072D948",
+          "Opcode": "00002000",
+          "Value": "D39B0038",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

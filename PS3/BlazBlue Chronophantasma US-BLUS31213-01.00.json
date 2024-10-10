@@ -1,0 +1,198 @@
+{
+  "Game": "BlazBlue Chronophantasma US",
+  "Region": "BLUS31213",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health & Special/Barrier/Overdrive",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004104F4",
+          "Opcode": "00002000",
+          "Value": "487C5F5C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD6450",
+          "Opcode": "00002000",
+          "Value": "81630004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD6454",
+          "Opcode": "00002000",
+          "Value": "2C090850",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD6458",
+          "Opcode": "00002000",
+          "Value": "40820020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD645C",
+          "Opcode": "00002000",
+          "Value": "800B09B8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD6460",
+          "Opcode": "00002000",
+          "Value": "900B09B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD6464",
+          "Opcode": "00002000",
+          "Value": "38002710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD6468",
+          "Opcode": "00002000",
+          "Value": "900B4FD0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD646C",
+          "Opcode": "00002000",
+          "Value": "900B4FF8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD6470",
+          "Opcode": "00002000",
+          "Value": "380001F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD6474",
+          "Opcode": "00002000",
+          "Value": "900B01C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD6478",
+          "Opcode": "00002000",
+          "Value": "4B83A080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BD6460",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Infinite Special",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BD6468",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Infinite Barrier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BD646C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Infinite Overdrive",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BD6474",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Stats In Abyss Mode After Increasing Attack Once",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006F630C",
+          "Opcode": "00002000",
+          "Value": "484E0185",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD6490",
+          "Opcode": "00002000",
+          "Value": "380003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD6494",
+          "Opcode": "00002000",
+          "Value": "90090008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD6498",
+          "Opcode": "00002000",
+          "Value": "9009000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD649C",
+          "Opcode": "00002000",
+          "Value": "90090010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD64A0",
+          "Opcode": "00002000",
+          "Value": "90090014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BD64A4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "Game": "Record of Agarest War Zero US",
+  "Region": "BLUS30686",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "SP 500",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028688C",
+          "Opcode": "00002000",
+          "Value": "396001F4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AP 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029A608",
+          "Opcode": "00002000",
+          "Value": "394003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A48D8",
+          "Opcode": "00002000",
+          "Value": "394003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AP 999 (Alt)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029A608",
+          "Opcode": "00002000",
+          "Value": "394003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max PP After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00083F10",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max TP After Exchange Some In The Guild",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B245C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Gold After Win Battle (Results)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0027E7D0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00410000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0027E7D0",
+          "Opcode": "00002000",
+          "Value": "409D0010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Exp After Win Battle (Results)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0029412C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00410000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0029412C",
+          "Opcode": "00002000",
+          "Value": "409D0014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - For 6 & 7 (Select+Up=On) (Select+Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

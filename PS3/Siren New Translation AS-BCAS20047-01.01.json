@@ -1,0 +1,85 @@
+{
+  "Game": "Siren New Translation AS",
+  "Region": "BCAS20047",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0014A5F4",
+          "Opcode": "00002000",
+          "Value": "93BE0374",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Move Enemy (Select=On, Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00623210",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00623210",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Move Enemy Attack (Select=On, Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00374140",
+          "Opcode": "00002000",
+          "Value": "419E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00374140",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

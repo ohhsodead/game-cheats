@@ -1,0 +1,38 @@
+{
+  "Game": "Thexder Neo EU",
+  "Region": "NPEB00173",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C362C",
+          "Opcode": "00002000",
+          "Value": "409D03A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000C5130",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Shields Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C5AB4",
+          "Opcode": "00002000",
+          "Value": "4082FE64",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

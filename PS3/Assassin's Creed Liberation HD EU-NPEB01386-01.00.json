@@ -1,0 +1,43 @@
+{
+  "Game": "Assassin's Creed Liberation HD EU",
+  "Region": "NPEB01386",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo/Pickup/Throw",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0169392C",
+          "Opcode": "00002000",
+          "Value": "7C090378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money After Pickup/Steal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016AC878",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0125485C",
+          "Opcode": "00002000",
+          "Value": "A01E005C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

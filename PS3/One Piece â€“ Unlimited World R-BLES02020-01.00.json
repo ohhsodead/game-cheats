@@ -1,0 +1,38 @@
+{
+  "Game": "One Piece – Unlimited World R",
+  "Region": "BLES02020",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Item Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002AB64C",
+          "Opcode": "00002000",
+          "Value": "30A30000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money After buying something:",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002AC06C",
+          "Opcode": "00002000",
+          "Value": "3D003B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002AC074",
+          "Opcode": "00002000",
+          "Value": "6108C9FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

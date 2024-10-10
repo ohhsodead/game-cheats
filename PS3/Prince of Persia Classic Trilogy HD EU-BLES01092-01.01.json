@@ -1,0 +1,113 @@
+{
+  "Game": "Prince of Persia Classic Trilogy HD EU",
+  "Region": "BLES01092",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite HP (Press Select+TRIANGLE) (The Sands Of Time)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00010010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00FE861C",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "7FFFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP (Press Select+O) (Warrior Within)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C005",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010F9AEC",
+          "Opcode": "00003000",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001F6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP (Press Select+X) (The Two Thrones)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00010040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0189FD88",
+          "Opcode": "00003000",
+          "Value": "00000698",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000006C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "7FFFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

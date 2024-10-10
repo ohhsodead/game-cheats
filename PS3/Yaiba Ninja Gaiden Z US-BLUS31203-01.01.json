@@ -1,0 +1,169 @@
+{
+  "Game": "Yaiba Ninja Gaiden Z US",
+  "Region": "BLUS31203",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0092AE3C",
+          "Opcode": "00002000",
+          "Value": "807F0320",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0092AE44",
+          "Opcode": "00002000",
+          "Value": "907F031C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Bloodlust (use with enemies around)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003D1F94",
+          "Opcode": "00002000",
+          "Value": "49354D1C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726CB0",
+          "Opcode": "00002000",
+          "Value": "3C80447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726CB4",
+          "Opcode": "00002000",
+          "Value": "90831950",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726CB8",
+          "Opcode": "00002000",
+          "Value": "8083008C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726CBC",
+          "Opcode": "00002000",
+          "Value": "4ACAB2DC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Ability Points (use this code to max and disable)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005BB4C",
+          "Opcode": "00002000",
+          "Value": "496CB125",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726C70",
+          "Opcode": "00002000",
+          "Value": "801DFFF0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726C74",
+          "Opcode": "00002000",
+          "Value": "2C00FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726C78",
+          "Opcode": "00002000",
+          "Value": "40820024",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726C7C",
+          "Opcode": "00002000",
+          "Value": "801DFFE8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726C80",
+          "Opcode": "00002000",
+          "Value": "2C00FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726C84",
+          "Opcode": "00002000",
+          "Value": "40820018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726C88",
+          "Opcode": "00002000",
+          "Value": "801DFFE0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726C8C",
+          "Opcode": "00002000",
+          "Value": "2C00FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726C90",
+          "Opcode": "00002000",
+          "Value": "4082000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726C94",
+          "Opcode": "00002000",
+          "Value": "38000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726C98",
+          "Opcode": "00002000",
+          "Value": "901DFFF8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726C9C",
+          "Opcode": "00002000",
+          "Value": "807D0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01726CA0",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Game": "Gran Turismo 5 Prologue JP",
+  "Region": "BCJS30017",
+  "Version": "03.00",
+  "Cheats": [
+    {
+      "Name": "Money 99999999900",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "40A6A874",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Money 99999999900",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3066A1F4",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

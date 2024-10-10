@@ -1,0 +1,19 @@
+{
+  "Game": "Spec Ops The Line US",
+  "Region": "BLUS30531",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo/ Bottomless Clip",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C0FBC4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

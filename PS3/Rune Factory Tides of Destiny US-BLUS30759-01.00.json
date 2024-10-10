@@ -1,0 +1,55 @@
+{
+  "Game": "Rune Factory Tides of Destiny US",
+  "Region": "BLUS30759",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Dragon Shrine Donations",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00135954",
+          "Opcode": "00002000",
+          "Value": "40810010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money When Buying/Selling",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00135990",
+          "Opcode": "00002000",
+          "Value": "40810010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max RP 9999 on Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003B6F68",
+          "Opcode": "00002000",
+          "Value": "38A0270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max HP 9999 on Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003B6EFC",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Game": "Vanquish JP",
+  "Region": "BLJM60227",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00109FA8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00118F54",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infnite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A8A24",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0013132C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0015C854",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Energy For Laser Cannon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015DAE8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Score After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00492308",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

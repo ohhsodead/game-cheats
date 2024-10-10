@@ -1,0 +1,19 @@
+{
+  "Game": "NBA 2K11 US",
+  "Region": "BLUS30574",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Skill Point 99999999 in Shop",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "04D26408",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Game": "Dead Island JP",
+  "Region": "BLJS10148",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Master Code",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": " 424C4A53 10148018",
+          "Opcode": "00000102",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damager 0 (Player)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C4E8B0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player No Hit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C4E938",
+          "Opcode": "00002000",
+          "Value": "4182029C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

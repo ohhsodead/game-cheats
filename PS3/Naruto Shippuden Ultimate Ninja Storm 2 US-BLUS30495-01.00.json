@@ -1,0 +1,192 @@
+{
+  "Game": "Naruto Shippuden Ultimate Ninja Storm 2 US",
+  "Region": "BLUS30495",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Battle Time 99 in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EEF874",
+          "Opcode": "00003000",
+          "Value": "00000174",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00001770",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Health Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EEF874",
+          "Opcode": "00003000",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Chakra Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EEF874",
+          "Opcode": "00003000",
+          "Value": "00000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Storm Gauge Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EEF874",
+          "Opcode": "00003000",
+          "Value": "00000034",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Support Health Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EEF874",
+          "Opcode": "00003000",
+          "Value": "0000002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EEF874",
+          "Opcode": "00003000",
+          "Value": "00000030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L2+R2) to Win Quickly",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EEF874",
+          "Opcode": "00003000",
+          "Value": "00000070",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9999999 Ryo Once Win in Ultimate Adventure",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0056B6F4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999999 SP Once Win",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0056B724",
+          "Opcode": "00002000",
+          "Value": "901E93EC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Play Time 999:59:59 Once Win in Ultimate Adventure",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0056B71C",
+          "Opcode": "00002000",
+          "Value": "93DE93E8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

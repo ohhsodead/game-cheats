@@ -1,0 +1,31 @@
+{
+  "Game": "Tears to Tiara Kakan no Daichi JP",
+  "Region": "BLJM60081",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Max HP/MP/LV/SKL",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30335CA0",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max HP/MP/LV/SKL",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30335810",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

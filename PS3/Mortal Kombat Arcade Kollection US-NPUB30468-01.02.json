@@ -1,0 +1,824 @@
+{
+  "Game": "Mortal Kombat Arcade Kollection US",
+  "Region": "NPUB30468",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "P1 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "53B8C870",
+          "Opcode": "00000000",
+          "Value": "000000A1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "53B8CC2E",
+          "Opcode": "00000000",
+          "Value": "000000A1",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Fatality Time (Start+Down=After Finish Him)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00480000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "53B8E12B",
+          "Opcode": "00000000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "53B8E209",
+          "Opcode": "00000000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK1 P1 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001A9A04",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "000000A1",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK1 P1 0 Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001A9A04",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK1 P2 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001A9A60",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "000000A1",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK1 P2 0 Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001A9A60",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK1 Set Timer 99 (L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001A9ED0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001A9ED4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK2 P1 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001AC05E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "000000A1",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK2 P1 0 Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001AC05E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK2 P2 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001AC1D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "000000A1",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK2 P2 0 Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001AC1D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK2 Set Timer 99 (L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001AD558",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001AD55C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 P1 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001AC14C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "000000A6",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 P1 0 Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001AC14C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 P1 Infinite Run",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001AC14E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 P2 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001AC2C2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "000000A6",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 P2 0 Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001AC2C2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 P2 Infinite Run",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001AC2C6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 Set Timer 99 (L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001ADBFC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01AA3C50",
+          "Opcode": "00003000",
+          "Value": "001ADC00",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK1 P1 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001A9A04",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "000000A1",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK1 P1 0 Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001A9A04",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK1 P2 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001A9A60",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "000000A1",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK1 P2 0 Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001A9A60",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK1 Set Timer 99 (L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001A9ED0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001A9ED4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK2 P1 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001AC05E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "000000A1",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK2 P1 0 Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001AC05E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK2 P2 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001AC1D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "000000A1",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK2 P2 0 Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001AC1D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MK2 Set Timer 99 (L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001AD558",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001AD55C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 P1 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001AC14C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "000000A6",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 P1 0 Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001AC14C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 P1 Infinite Run",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001AC14E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 P2 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001AC2C2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "000000A6",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 P2 0 Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001AC2C2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 P2 Infinite Run",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001AC2C6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "UMK3 Set Timer 99 (L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001ADBFC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01A13DC8",
+          "Opcode": "00003000",
+          "Value": "001ADC00",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

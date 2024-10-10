@@ -1,0 +1,159 @@
+{
+  "Game": "Resident Evil 4 HD EU",
+  "Region": "NPEB00342",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo All Weapons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0060CCF8",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenades, Rockets, and Arrows",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0060CD50",
+          "Opcode": "00002000",
+          "Value": "A07E0002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0060720C",
+          "Opcode": "00002000",
+          "Value": "A0650002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health Leon (Can Die in QT Events or Chainsaws)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004B83A8",
+          "Opcode": "00002000",
+          "Value": "38A00960",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Mercenaries Infinite Time (L2+Up= On) (L2+Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "01100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A3384",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A3394",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A2C58",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "01400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A3384",
+          "Opcode": "00002000",
+          "Value": "909C0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A3394",
+          "Opcode": "00002000",
+          "Value": "907C000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A2C58",
+          "Opcode": "00002000",
+          "Value": "909F0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Peseta 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF8C8",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always Low Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF8C4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always 1st Save",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF8BC",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Game Round 3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF8BE",
+          "Opcode": "00001000",
+          "Value": "00000002",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

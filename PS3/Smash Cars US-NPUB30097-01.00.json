@@ -1,0 +1,33 @@
+{
+  "Game": "Smash Cars US",
+  "Region": "NPUB30097",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00CCA4CC",
+          "Opcode": "00003000",
+          "Value": "000002E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000334",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "41200000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "Game": "Dragon Ball Z - Battle Of Z JP",
+  "Region": "BLJS10234",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Exp After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00405374",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max DP After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004053EC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max PP After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00405460",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0031F74C",
+          "Opcode": "00002000",
+          "Value": "C02306CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0031F75C",
+          "Opcode": "00002000",
+          "Value": "D02306C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B3EE8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP (All)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B3EE8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max/Infinite SP (Player)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000FCBC4",
+          "Opcode": "00002000",
+          "Value": "60670000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000FCBCC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000FCBD8",
+          "Opcode": "00002000",
+          "Value": "D06706F0",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

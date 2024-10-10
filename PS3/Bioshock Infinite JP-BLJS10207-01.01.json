@@ -1,0 +1,100 @@
+{
+  "Game": "Bioshock Infinite JP",
+  "Region": "BLJS10207",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006A60E8",
+          "Opcode": "00002000",
+          "Value": "3BC00064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0088E520",
+          "Opcode": "00002000",
+          "Value": "3C800001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0088E524",
+          "Opcode": "00002000",
+          "Value": "6084869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Salt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0088E8AC",
+          "Opcode": "00002000",
+          "Value": "7F65DB78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Lock pick",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0088EAA4",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0088E9C0",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006A60E8",
+          "Opcode": "00002000",
+          "Value": "3BC00064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MONEY MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0088E520",
+          "Opcode": "00002000",
+          "Value": "3C800001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0088E524",
+          "Opcode": "00002000",
+          "Value": "6084869F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

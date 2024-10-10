@@ -1,0 +1,85 @@
+{
+  "Game": "inFamous EU",
+  "Region": "BCES00220",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "EXP 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007D5F9C",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007CCE30",
+          "Opcode": "00003000",
+          "Value": "00000754",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007CCE30",
+          "Opcode": "00003000",
+          "Value": "00000ED0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007CCE30",
+          "Opcode": "00003000",
+          "Value": "00000ED4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007CCE30",
+          "Opcode": "00003000",
+          "Value": "00000ED8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

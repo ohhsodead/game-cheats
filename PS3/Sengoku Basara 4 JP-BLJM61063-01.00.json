@@ -1,0 +1,155 @@
+{
+  "Game": "Sengoku Basara 4 JP",
+  "Region": "BLJM61063",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Giga Basara (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EDF20",
+          "Opcode": "00002000",
+          "Value": "7C632038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000EDF20",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Basarawaza (Press O)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EE98C",
+          "Opcode": "00002000",
+          "Value": "7C632038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000EE98C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0040E52C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9999 Kills",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00080614",
+          "Opcode": "00002000",
+          "Value": "28040000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MONEY MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0040E52C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kill9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00080614",
+          "Opcode": "00002000",
+          "Value": "28040000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy Freezes Move",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012A8D8",
+          "Opcode": "00002000",
+          "Value": "409E001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.9375x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000D3170",
+          "Opcode": "00002000",
+          "Value": "3F700000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.0625x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000D3170",
+          "Opcode": "00002000",
+          "Value": "3F880000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

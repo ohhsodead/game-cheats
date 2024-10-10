@@ -1,0 +1,131 @@
+{
+  "Game": "Ninja Gaiden 3 Razor's Edge US",
+  "Region": "BLUS31175",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030B834",
+          "Opcode": "00002000",
+          "Value": "4921FFAD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030BEB4",
+          "Opcode": "00002000",
+          "Value": "4921F949",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030D0D8",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B7E0",
+          "Opcode": "00002000",
+          "Value": "7C7F3010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B7E4",
+          "Opcode": "00002000",
+          "Value": "3CA0028E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B7E8",
+          "Opcode": "00002000",
+          "Value": "60A50E60",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B7EC",
+          "Opcode": "00002000",
+          "Value": "7C192800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B7F0",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B7F4",
+          "Opcode": "00002000",
+          "Value": "A079FFF0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B7F8",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B7FC",
+          "Opcode": "00002000",
+          "Value": "7F83E014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B800",
+          "Opcode": "00002000",
+          "Value": "3C60028E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B804",
+          "Opcode": "00002000",
+          "Value": "60630E60",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B808",
+          "Opcode": "00002000",
+          "Value": "7C03D800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B80C",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B810",
+          "Opcode": "00002000",
+          "Value": "A39BFFF0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0152B814",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

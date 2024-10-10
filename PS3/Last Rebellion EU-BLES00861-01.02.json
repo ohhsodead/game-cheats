@@ -1,0 +1,170 @@
+{
+  "Game": "Last Rebellion EU",
+  "Region": "BLES00861",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "EXP 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00245F80",
+          "Opcode": "00003000",
+          "Value": "000019F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "KEY 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00245F80",
+          "Opcode": "00003000",
+          "Value": "00000B4C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00245F80",
+          "Opcode": "00003000",
+          "Value": "000000CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00245F80",
+          "Opcode": "00003000",
+          "Value": "00000120",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MP 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00245F80",
+          "Opcode": "00003000",
+          "Value": "000000D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00245F80",
+          "Opcode": "00003000",
+          "Value": "00000124",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CP 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00245F80",
+          "Opcode": "00003000",
+          "Value": "000000D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00245F80",
+          "Opcode": "00003000",
+          "Value": "00000128",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Stats 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00245F80",
+          "Opcode": "00003000",
+          "Value": "000000DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00004000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004010",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

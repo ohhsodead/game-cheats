@@ -1,0 +1,156 @@
+{
+  "Game": "BLEACH Soul Ignition",
+  "Region": "BCJS30077",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009CAC0",
+          "Opcode": "00002000",
+          "Value": "48340AB1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003DD570",
+          "Opcode": "00002000",
+          "Value": "2C000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003DD574",
+          "Opcode": "00002000",
+          "Value": "40820010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003DD578",
+          "Opcode": "00002000",
+          "Value": "813F0160",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003DD57C",
+          "Opcode": "00002000",
+          "Value": "913F015C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003DD580",
+          "Opcode": "00002000",
+          "Value": "913F0164",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003DD584",
+          "Opcode": "00002000",
+          "Value": "813F015C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003DD588",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009C7F0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009E438",
+          "Opcode": "00002000",
+          "Value": "B11F0180",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00128CC4",
+          "Opcode": "00002000",
+          "Value": "61600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Full Ignition Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009D520",
+          "Opcode": "00002000",
+          "Value": "A01F016E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00086014",
+          "Opcode": "00002000",
+          "Value": "B13F016C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Slash",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0004691C",
+          "Opcode": "00002000",
+          "Value": "3800270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Beats",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002ED9C",
+          "Opcode": "00002000",
+          "Value": "3800270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Soul Points After getting some",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002ED2C",
+          "Opcode": "00002000",
+          "Value": "4BFFFFE0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0002ED14",
+          "Opcode": "00002000",
+          "Value": "9123000C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Game": "Tom Clancy's Rainbow Six Vegas 2 US",
+  "Region": "BLUS30125",
+  "Version": "01.30",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003DD674",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenades",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002D6744",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

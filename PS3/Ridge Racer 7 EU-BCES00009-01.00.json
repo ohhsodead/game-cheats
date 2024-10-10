@@ -1,0 +1,62 @@
+{
+  "Game": "Ridge Racer 7 EU",
+  "Region": "BCES00009",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Fame Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10431F46",
+          "Opcode": "00001000",
+          "Value": "0000C350",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "100 million CR",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10431F40",
+          "Opcode": "00002000",
+          "Value": "05F5E100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Manufacturer Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10442E68",
+          "Opcode": "00004000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "0000401B",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Fame Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10431F48",
+          "Opcode": "00001000",
+          "Value": "0000C350",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

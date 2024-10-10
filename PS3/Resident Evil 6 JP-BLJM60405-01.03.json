@@ -1,0 +1,301 @@
+{
+  "Game": "Resident Evil 6 JP",
+  "Region": "BLJM60405",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Invincible Mode (Press L1=On Left=Off & Right)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0025B254",
+          "Opcode": "00002000",
+          "Value": "418101C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0025B254",
+          "Opcode": "00002000",
+          "Value": "408101C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0025B254",
+          "Opcode": "00002000",
+          "Value": "408101C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible Mode 2 (Press Select=On / R3=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024EA54",
+          "Opcode": "00002000",
+          "Value": "41810074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024EA54",
+          "Opcode": "00002000",
+          "Value": "40810074",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Skill Points On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00779D2C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Score In Mercenaries Always S Rank",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001688FC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always 0 Deaths Campaigns",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006E6068",
+          "Opcode": "00002000",
+          "Value": "3C800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006E607C",
+          "Opcode": "00002000",
+          "Value": "909C0018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Kills Campaigns",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006E608C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Energy/Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007EAAE0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Zombie & Dog No Attack (Press Up=On Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007E6F70",
+          "Opcode": "00002000",
+          "Value": "4182000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007E6F70",
+          "Opcode": "00002000",
+          "Value": "4082000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007E709C",
+          "Opcode": "00002000",
+          "Value": "4082000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo/No Reload/Grenade",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B7F0CC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Zombies Can't Grab",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00475408",
+          "Opcode": "00002000",
+          "Value": "41812AF0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00475410",
+          "Opcode": "00002000",
+          "Value": "418106CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0047541C",
+          "Opcode": "00002000",
+          "Value": "418106C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00475424",
+          "Opcode": "00002000",
+          "Value": "418124A0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible Mode 1 (Press L3=On R3=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00272FC4",
+          "Opcode": "00002000",
+          "Value": "418101C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00272FC4",
+          "Opcode": "00002000",
+          "Value": "408101C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible Mode 3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00828EA8",
+          "Opcode": "00002000",
+          "Value": "418206C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0082B654",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

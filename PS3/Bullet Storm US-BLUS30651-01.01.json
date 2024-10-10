@@ -1,0 +1,197 @@
+{
+  "Game": "Bullet Storm US",
+  "Region": "BLUS30651",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Unlimited Ammo/Charged Shots/Thumper",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000100F8",
+          "Opcode": "00002000",
+          "Value": "808305D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100FC",
+          "Opcode": "00002000",
+          "Value": "38A0270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010100",
+          "Opcode": "00002000",
+          "Value": "90A41454",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010104",
+          "Opcode": "00002000",
+          "Value": "90A41458",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010108",
+          "Opcode": "00002000",
+          "Value": "90A4145C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001010C",
+          "Opcode": "00002000",
+          "Value": "90A41460",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010110",
+          "Opcode": "00002000",
+          "Value": "806305D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010114",
+          "Opcode": "00002000",
+          "Value": "808306C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010118",
+          "Opcode": "00002000",
+          "Value": "90A403D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001011C",
+          "Opcode": "00002000",
+          "Value": "48BB6154",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BC626C",
+          "Opcode": "00002000",
+          "Value": "4B449E8C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010130",
+          "Opcode": "00002000",
+          "Value": "80790514",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010134",
+          "Opcode": "00002000",
+          "Value": "38807FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010138",
+          "Opcode": "00002000",
+          "Value": "90830300",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001013C",
+          "Opcode": "00002000",
+          "Value": "90830304",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010140",
+          "Opcode": "00002000",
+          "Value": "48BB6128",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BC6264",
+          "Opcode": "00002000",
+          "Value": "4B449ECC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP (Press Start)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000100C0",
+          "Opcode": "00002000",
+          "Value": "83D90098",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100C4",
+          "Opcode": "00002000",
+          "Value": "83DE01F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100C8",
+          "Opcode": "00002000",
+          "Value": "3C8005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100CC",
+          "Opcode": "00002000",
+          "Value": "6084E0FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100D0",
+          "Opcode": "00002000",
+          "Value": "909E0310",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100D4",
+          "Opcode": "00002000",
+          "Value": "62DE0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100D8",
+          "Opcode": "00002000",
+          "Value": "48BB6194",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BC6268",
+          "Opcode": "00002000",
+          "Value": "4B449E58",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Game": "Little Big Planet AS",
+  "Region": "BCAS20078",
+  "Version": "01.30",
+  "Cheats": [
+    {
+      "Name": "Unlimited Respawn",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0006BBF8",
+          "Opcode": "00002000",
+          "Value": "39200000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

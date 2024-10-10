@@ -1,0 +1,458 @@
+{
+  "Game": "God of War 3 US",
+  "Region": "BCUS98111",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Orbs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "39694C88",
+          "Opcode": "00002000",
+          "Value": "497423F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009654C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health - Hard Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00567530",
+          "Opcode": "00003000",
+          "Value": "00000010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "48000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Jump",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3969369F",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Red Orbs On Gain Or Use (999,999)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009445C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Combo Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00094EC4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00094ED4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00094EEC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00094F1C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00095040",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Hits Give You 9,999 Red Orbs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000950D4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Red Orb Amounts From Combo Attacks Keep Adding From Every Hit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000950DC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain Any Red Orbs And They Never Stop Increasing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00094FE0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Rage Of Sparta",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009C528",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009F618",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Item Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00096618",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item Meter Instantly Fully Recovers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00095280",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain/Use Red Orbs For Max Red Orbs & Max Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00094454",
+          "Opcode": "00002000",
+          "Value": "C03E8048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00094458",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009445C",
+          "Opcode": "00002000",
+          "Value": "9003E95C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00094460",
+          "Opcode": "00002000",
+          "Value": "9003E960",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Rage Of Sparta & Use Rage Of Sparta For Max Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009C524",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009C528",
+          "Opcode": "00002000",
+          "Value": "901FE95C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009C52C",
+          "Opcode": "00002000",
+          "Value": "901FE960",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009F618",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic & Use Magic For Max Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00096544",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00096548",
+          "Opcode": "00002000",
+          "Value": "901FE95C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009654C",
+          "Opcode": "00002000",
+          "Value": "901FE960",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item Meter Never Decreases, Use An Item For Max Health & Fall Sl",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00096608",
+          "Opcode": "00002000",
+          "Value": "3FC00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009660C",
+          "Opcode": "00002000",
+          "Value": "93C3E8B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00096610",
+          "Opcode": "00002000",
+          "Value": "3FC07F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00096614",
+          "Opcode": "00002000",
+          "Value": "93C3E95C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00096618",
+          "Opcode": "00002000",
+          "Value": "93C3E960",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Challenge Mode Timers Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002A220",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Some Attacks Can't Be Done (Useful For Challenge Mode)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012EBAC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Many Attacks Don't Hit (Useful For Challenge Mode)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00120F50",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Challenge Mode Timers Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002A238",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Double Jumping",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000CCB94",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Magic Never Decreases & Use Magic For Infinite Health & Have All",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00096538",
+          "Opcode": "00002000",
+          "Value": "3C001FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009653C",
+          "Opcode": "00002000",
+          "Value": "60009E3D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00096540",
+          "Opcode": "00002000",
+          "Value": "901F01A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00096544",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00096548",
+          "Opcode": "00002000",
+          "Value": "901FE95C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009654C",
+          "Opcode": "00002000",
+          "Value": "901FE960",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00140EEC",
+          "Opcode": "00002000",
+          "Value": "C1A901C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00140EF8",
+          "Opcode": "00002000",
+          "Value": "D1A901BC",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

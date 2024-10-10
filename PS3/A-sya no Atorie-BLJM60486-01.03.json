@@ -1,0 +1,178 @@
+{
+  "Game": "A-sya no Atorie",
+  "Region": "BLJM60486",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Infinite Item",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0016C25C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00173E94",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite MP",
+      "Offsets": [
+        {
+          "Offset": "000B8CA4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Days Do Not Increase",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024A4B8",
+          "Opcode": "00002000",
+          "Value": "7CC53378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Days Increase?",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024A4B8",
+          "Opcode": "00002000",
+          "Value": "7CA53010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "5000 Memory Points?",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00168E3C",
+          "Opcode": "00002000",
+          "Value": "38A51388",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00168E40",
+          "Opcode": "00002000",
+          "Value": "38841388",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "120 Quality?",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0027D9EC",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0016C25C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00173E94",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B8CA4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "nissuu susumanai",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024A4B8",
+          "Opcode": "00002000",
+          "Value": "7CC53378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "nissuu heru",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024A4B8",
+          "Opcode": "00002000",
+          "Value": "7CA53010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "omoide pt 5000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00168E3C",
+          "Opcode": "00002000",
+          "Value": "38A51388",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00168E40",
+          "Opcode": "00002000",
+          "Value": "38841388",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "hinsitu 120",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0027D9EC",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

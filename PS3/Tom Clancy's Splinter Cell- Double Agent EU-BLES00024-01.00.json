@@ -1,0 +1,111 @@
+{
+  "Game": "Tom Clancy's Splinter Cell: Double Agent EU",
+  "Region": "BLES00024",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Ammo Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00508670",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00508678",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Increased Accuracy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0046A7C0",
+          "Opcode": "00002000",
+          "Value": "EC0D6828",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0046A7CC",
+          "Opcode": "00002000",
+          "Value": "D01F08C4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004C9844",
+          "Opcode": "00002000",
+          "Value": "EC0D6828",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004C9850",
+          "Opcode": "00002000",
+          "Value": "D01F08C4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invisibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A252C",
+          "Opcode": "00002000",
+          "Value": "39600001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A2530",
+          "Opcode": "00002000",
+          "Value": "7960C9AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A2534",
+          "Opcode": "00002000",
+          "Value": "90090628",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A2538",
+          "Opcode": "00002000",
+          "Value": "48000234",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A34B4",
+          "Opcode": "00002000",
+          "Value": "3C604396",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A34B8",
+          "Opcode": "00002000",
+          "Value": "906906B4",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

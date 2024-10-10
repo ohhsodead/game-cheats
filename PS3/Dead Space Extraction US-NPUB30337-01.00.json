@@ -1,0 +1,52 @@
+{
+  "Game": "Dead Space Extraction US",
+  "Region": "NPUB30337",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00776B20",
+          "Opcode": "00003000",
+          "Value": "000009B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo (Press L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "301F28C8",
+          "Opcode": "00002000",
+          "Value": "12345678",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "301F2B68",
+          "Opcode": "00002000",
+          "Value": "12345678",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

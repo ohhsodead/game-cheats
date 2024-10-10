@@ -1,0 +1,132 @@
+{
+  "Game": "Ratchet & Clank Future Tools of Destruction AS",
+  "Region": "BCAS20023",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo (9 weapon works)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "101EFB3C",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "101EFB50",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "101EFBDC",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "101EFB78",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "101EFCB8",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "101EFCA4",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "101EFC7C",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "101EFB64",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "101EFBA0",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "101EFF3C",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10724C34",
+          "Opcode": "00003000",
+          "Value": "0000075C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "46000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "10724C34",
+          "Opcode": "00003000",
+          "Value": "00000758",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "46000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99999999 Point (For weapon update)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "101EFF40",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

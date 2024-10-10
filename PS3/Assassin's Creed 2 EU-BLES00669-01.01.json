@@ -1,0 +1,38 @@
+{
+  "Game": "Assassin's Creed 2 EU",
+  "Region": "BLES00669",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Money 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A3BFAC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A45ACC",
+          "Opcode": "00002000",
+          "Value": "913F0010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006100D0",
+          "Opcode": "00002000",
+          "Value": "801F005C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

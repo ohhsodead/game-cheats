@@ -1,0 +1,206 @@
+{
+  "Game": "Dark Souls EU",
+  "Region": "BLES01402",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Souls",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AF0FC4",
+          "Opcode": "00002000",
+          "Value": "3D403E80",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0 Damage (Player & Enemy)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0199C790",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0199C79C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Equipment Load",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0199C71C",
+          "Opcode": "00002000",
+          "Value": "49499000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Stats",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0199C76C",
+          "Opcode": "00002000",
+          "Value": "49000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Items on Use/Discard/Buy/Deposit in Storage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BC3A68",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic/Miracles/Pyromancy Slot #1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCC2B4",
+          "Opcode": "00002000",
+          "Value": "30A90004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic/Miracles/Pyromancy Slot #2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCC2F4",
+          "Opcode": "00002000",
+          "Value": "30A90004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic/Miracles/Pyromancy Slot #3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCC334",
+          "Opcode": "00002000",
+          "Value": "30A90004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic/Miracles/Pyromancy Slot #4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCC374",
+          "Opcode": "00002000",
+          "Value": "30A90004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic/Miracles/Pyromancy Slot #5",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCC3B4",
+          "Opcode": "00002000",
+          "Value": "30A90004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic/Miracles/Pyromancy Slot #6",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCC3F4",
+          "Opcode": "00002000",
+          "Value": "30A90004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic/Miracles/Pyromancy Slot #7",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCC434",
+          "Opcode": "00002000",
+          "Value": "30A90004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic/Miracles/Pyromancy Slot #8",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCC474",
+          "Opcode": "00002000",
+          "Value": "30A90004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic/Miracles/Pyromancy Slot #9",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCC4B4",
+          "Opcode": "00002000",
+          "Value": "30A90004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic/Miracles/Pyromancy Slot #10",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCC4F4",
+          "Opcode": "00002000",
+          "Value": "30A90004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Fly Mode (Useless)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0199B188",
+          "Opcode": "00002000",
+          "Value": "34000001",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

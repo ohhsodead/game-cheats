@@ -1,0 +1,19 @@
+{
+  "Game": "Killer Is Dead US",
+  "Region": "BLUS31186",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Moon Crystal Ore/Health Lvl/Blood Lvl on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00968D44",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

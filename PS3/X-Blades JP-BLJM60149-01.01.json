@@ -1,0 +1,200 @@
+{
+  "Game": "X-Blades JP",
+  "Region": "BLJM60149",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Soul 1000000000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008CF8A0",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "3B9ACA00",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008CF8A0",
+          "Opcode": "00003000",
+          "Value": "0000016C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000084",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000005C4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "44FA0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008CF8A0",
+          "Opcode": "00003000",
+          "Value": "0000016C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000084",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000005C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "44FA0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Fury Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008CF8A0",
+          "Opcode": "00003000",
+          "Value": "0000016C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000084",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "FFFFFE50",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Souls (R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C6EC0",
+          "Opcode": "00002000",
+          "Value": "2F890002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001C6EC4",
+          "Opcode": "00002000",
+          "Value": "409E0058",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001C6EC0",
+          "Opcode": "00002000",
+          "Value": "3F603B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001C6EC4",
+          "Opcode": "00002000",
+          "Value": "637BCA00",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Health (L3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E7704",
+          "Opcode": "00002000",
+          "Value": "FC200090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002E7704",
+          "Opcode": "00002000",
+          "Value": "C01D0004",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

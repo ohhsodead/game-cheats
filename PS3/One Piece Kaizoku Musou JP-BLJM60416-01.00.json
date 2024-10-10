@@ -1,0 +1,19 @@
+{
+  "Game": "One Piece Kaizoku Musou JP",
+  "Region": "BLJM60416",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Level 50 Code",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024F928",
+          "Opcode": "00002000",
+          "Value": "408500C4",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

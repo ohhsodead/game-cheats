@@ -1,0 +1,295 @@
+{
+  "Game": "Bayonetta US",
+  "Region": "BLUS30367",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B0D0C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001B0D14",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001B0D98",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Witch Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B19D8",
+          "Opcode": "00002000",
+          "Value": "D183047C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Torture Move",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B09BE",
+          "Opcode": "00002000",
+          "Value": "E2BCC182",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001B09D0",
+          "Opcode": "00002000",
+          "Value": "D183047C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001DFA3C",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001DFA6C",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999999999 Halos",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01EC5514",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01EC550C",
+          "Opcode": "00002000",
+          "Value": "44960000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Weapon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01EC54B8",
+          "Opcode": "00002000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Equip",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01EC54BC",
+          "Opcode": "00002000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00820170",
+          "Opcode": "00002000",
+          "Value": "4099FF88",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00820184",
+          "Opcode": "00002000",
+          "Value": "419EFF78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00820190",
+          "Opcode": "00002000",
+          "Value": "4182FF6C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008201A0",
+          "Opcode": "00002000",
+          "Value": "4186012C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008201B0",
+          "Opcode": "00002000",
+          "Value": "409A01CC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Attack Damage Modifier (100)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0082D018",
+          "Opcode": "00002000",
+          "Value": "3FE042C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Attack Damage Modifier (1000)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0082D018",
+          "Opcode": "00002000",
+          "Value": "3FE0447A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit Range Modifier (Up=On Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00016DC0",
+          "Opcode": "00002000",
+          "Value": "3FA0447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00016DC0",
+          "Opcode": "00002000",
+          "Value": "3FA03F80",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Attack Speed 2x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0082C150",
+          "Opcode": "00002000",
+          "Value": "3C004000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Attack Speed 3x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0082C150",
+          "Opcode": "00002000",
+          "Value": "3C004040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Attack Speed 4x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0082C150",
+          "Opcode": "00002000",
+          "Value": "3C004080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Attack Speed 5x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0082C150",
+          "Opcode": "00002000",
+          "Value": "3C0040A0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1000x Hit Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00016DC0",
+          "Opcode": "00002000",
+          "Value": "3FA0447A",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

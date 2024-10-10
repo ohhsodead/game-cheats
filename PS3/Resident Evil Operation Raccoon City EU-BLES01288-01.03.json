@@ -1,0 +1,169 @@
+{
+  "Game": "Resident Evil Operation Raccoon City EU",
+  "Region": "BLES01288",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Almost Nothing Attacks (Select+L3=On) (Select+R3=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00030000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0052C9E4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00050000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0052C9E4",
+          "Opcode": "00002000",
+          "Value": "D3F5006C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Nothing Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A9348",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Enemies Are Displayed On The Map",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003066F8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Items & Bottomless Clip",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002AA254",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002AA5A0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A65E94",
+          "Opcode": "00002000",
+          "Value": "307F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Special",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001207A0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Items & Bottomless Clip",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002B9F1C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002BA258",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A816E8",
+          "Opcode": "00002000",
+          "Value": "307F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Special",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00128350",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo, Infinite Items + Bottomless Clip",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002B9F1C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002BA258",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

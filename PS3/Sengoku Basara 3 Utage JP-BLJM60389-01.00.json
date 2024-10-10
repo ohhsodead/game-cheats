@@ -1,0 +1,88 @@
+{
+  "Game": "Sengoku Basara 3 Utage JP",
+  "Region": "BLJM60389",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Master Code",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "424C4A4D",
+          "Opcode": "00000100",
+          "Value": "60389018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit Anywhere (Press Select=On Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00074140",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00074140",
+          "Opcode": "00002000",
+          "Value": "419EFF30",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Basara",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C1960",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Hit 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006E0C6C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max KO 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AFE04",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

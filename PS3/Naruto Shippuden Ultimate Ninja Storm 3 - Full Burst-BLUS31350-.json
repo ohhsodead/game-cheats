@@ -1,0 +1,79 @@
+{
+  "Game": "Naruto Shippuden Ultimate Ninja Storm 3 - Full Burst",
+  "Region": "BLUS31350",
+  "Version": "",
+  "Cheats": [
+    {
+      "Name": "Infinite Items During Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008CB618",
+          "Opcode": "00002000",
+          "Value": "3B600009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Subsitution Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009E9A84",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Chackra's Fragments Reappear (Gekomatsu's Quest)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008CC088",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Ryo On Buy/Sell",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C1511C",
+          "Opcode": "00002000",
+          "Value": "7D405378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Level Legend On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ABC8C",
+          "Opcode": "00002000",
+          "Value": "7C040378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Level Hero On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ABC44",
+          "Opcode": "00002000",
+          "Value": "7C040378",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

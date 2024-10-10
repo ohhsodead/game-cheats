@@ -1,0 +1,45 @@
+{
+  "Game": "Shadows of the Damned EU",
+  "Region": "BLES01276",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "No Move Enemy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A45810",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit Anywhere Torch (Press O=On) Auto Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006007F0",
+          "Opcode": "00002000",
+          "Value": "42480000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006007F0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "Game": "Tales of Graces F JP",
+  "Region": "BLJS10093",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00962D20",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00962D24",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00962D38",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A85E4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "BATTLE 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00962D44",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Battle Win",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00962D0C",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP*100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CFFFC",
+          "Opcode": "00002000",
+          "Value": "1FA40064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "LV 200",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CFFFC",
+          "Opcode": "00002000",
+          "Value": "3FA00660",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CF7E8",
+          "Opcode": "00002000",
+          "Value": "3F200002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SP*100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CF7E8",
+          "Opcode": "00002000",
+          "Value": "1F240064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CC30",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CA788",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001CA8EC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Weapon Skill Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C06A4",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF6F0",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Skill Useage Times 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CAC80",
+          "Opcode": "00002000",
+          "Value": "48000028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Arles Pot EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C74A0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001C73F0",
+          "Opcode": "00002000",
+          "Value": "4800001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Arles Pot Slot 16",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C67D8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Arles Pot Energy Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C6698",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Arles Pot List",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C8410",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Item (Press Select+Up=On) (Press Select+Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001AE82C",
+          "Opcode": "00002000",
+          "Value": "4081002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00410000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001AE82C",
+          "Opcode": "00002000",
+          "Value": "4182002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Item Drop",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005D268",
+          "Opcode": "00002000",
+          "Value": "3BC00064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always Material Drop",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005C350",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Soulball Drop",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BD824",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Move Speed Fast (Press [])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007DF6FC",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DF6FC",
+          "Opcode": "00002000",
+          "Value": "3FE00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP 9999 (Press L2+R2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000 00000003",
+          "Opcode": "0000C00C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000008D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00002394",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000E5E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000008D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00002394",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00002404",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000E5E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP/SP/Max Hit 9999 (Press L1+R1, Before battle over)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000 0000000C",
+          "Opcode": "0000C00C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000071E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000722",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000726",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000072A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "0000C00C",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000071E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000722",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000726",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000072A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Battle 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00962D44",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP/SP/Max Hit 9999 (Press L1+R1, Before battle over)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000 0000000C",
+          "Opcode": "0000C00C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000071E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000722",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000726",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007DBBE4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000072A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

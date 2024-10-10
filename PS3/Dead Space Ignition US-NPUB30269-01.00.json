@@ -1,0 +1,127 @@
+{
+  "Game": "Dead Space Ignition US",
+  "Region": "NPUB30269",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Route Tracing Unlimited Boosts",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ACDEC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Route Tracing Unlimited Firewalls",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ACE4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Route Tracing Unlimited DDoS Attacks",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ACF24",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "System Overriding Timer Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E6710",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "System Overriding Bar Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00090A74",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hardware Cracking Can Always Delete Pieces",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00076144",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hardware Cracking Unlimited Projectors",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00075BA4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hardware Cracking Unlimited Mirrors",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000763E4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hardware Cracking Unlimited Time (NOTE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00073D74",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "NOTE - The visual blue bar timer still decreases, but it just lo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

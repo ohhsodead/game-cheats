@@ -1,0 +1,31 @@
+{
+  "Game": "Sniper Elite V2 JP",
+  "Region": "BLES01290",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00854560",
+          "Opcode": "00002000",
+          "Value": "8063016C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005EF7F4",
+          "Opcode": "00002000",
+          "Value": "80630038",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

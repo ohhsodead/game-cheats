@@ -1,0 +1,123 @@
+{
+  "Game": "Ridge Racer 7 US",
+  "Region": "BLUS30001",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "9999999 FP (Unlock All Races)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1042E0D4",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999999999 CR",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1042E0D0",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Nitrous",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "106C3120",
+          "Opcode": "00003000",
+          "Value": "00002D4C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43960000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "106C3120",
+          "Opcode": "00003000",
+          "Value": "00002D50",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43960000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Nitrous Alt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "104AC730",
+          "Opcode": "00003000",
+          "Value": "00002D4C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43960000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "104AC730",
+          "Opcode": "00003000",
+          "Value": "00002D50",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43960000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R2) to Lap Time 00:00:0XX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "106B9590",
+          "Opcode": "00003000",
+          "Value": "000004B8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

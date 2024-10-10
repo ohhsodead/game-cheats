@@ -1,0 +1,55 @@
+{
+  "Game": "Battlefield 4 US",
+  "Region": "BLUS31162",
+  "Version": "1.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo & Grenades, No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00795BE0",
+          "Opcode": "00002000",
+          "Value": "309F0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035A038",
+          "Opcode": "00002000",
+          "Value": "FFA0D890",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Grenades, No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007A23B8",
+          "Opcode": "00002000",
+          "Value": "309F0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039E948",
+          "Opcode": "00002000",
+          "Value": "FFA0D890",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

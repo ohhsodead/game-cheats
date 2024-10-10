@@ -1,0 +1,665 @@
+{
+  "Game": "Record of Agarest War Zero JP",
+  "Region": "BLJM60156",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Gold 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097871C",
+          "Opcode": "00003000",
+          "Value": "00076638",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EP 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097871C",
+          "Opcode": "00003000",
+          "Value": "00076644",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "TP 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097871C",
+          "Opcode": "00003000",
+          "Value": "0007663C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "PP 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097871C",
+          "Opcode": "00003000",
+          "Value": "00076640",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P EXP 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000168",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P HP 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000174",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000180",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00978F94",
+          "Opcode": "00003000",
+          "Value": "000001C4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P AP 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000178",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00978F94",
+          "Opcode": "00003000",
+          "Value": "000001C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P SP 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000017C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00978F94",
+          "Opcode": "00003000",
+          "Value": "000001CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Abilities Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000188",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2P EXP 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000168",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2P HP 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000174",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000180",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00978F94",
+          "Opcode": "00003000",
+          "Value": "00001274",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2P AP 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000178",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00978F94",
+          "Opcode": "00003000",
+          "Value": "00001278",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2P SP 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000017C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00978F94",
+          "Opcode": "00003000",
+          "Value": "0000127C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2P Abilities Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000188",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0097D0E4",
+          "Opcode": "00003000",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

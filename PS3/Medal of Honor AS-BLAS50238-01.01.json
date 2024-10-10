@@ -1,0 +1,113 @@
+{
+  "Game": "Medal of Honor AS",
+  "Region": "BLAS50238",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010120",
+          "Opcode": "00002000",
+          "Value": "3DC00001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010124",
+          "Opcode": "00002000",
+          "Value": "61CE869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010128",
+          "Opcode": "00002000",
+          "Value": "91DF0348",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001012C",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000A0ABC",
+          "Opcode": "00002000",
+          "Value": "4BF6F665",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EFE758",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EFE75C",
+          "Opcode": "00002000",
+          "Value": "90830348",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EFE760",
+          "Opcode": "00002000",
+          "Value": "38600063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000A9BE8",
+          "Opcode": "00002000",
+          "Value": "90770330",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenade",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001DFEBC",
+          "Opcode": "00002000",
+          "Value": "38600063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001DFED0",
+          "Opcode": "00002000",
+          "Value": "90680290",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EFE020",
+          "Opcode": "00002000",
+          "Value": "9068028C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EFE024",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

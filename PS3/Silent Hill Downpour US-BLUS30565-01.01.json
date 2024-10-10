@@ -1,0 +1,311 @@
+{
+  "Game": "Silent Hill Downpour US",
+  "Region": "BLUS30565",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AD6330",
+          "Opcode": "00002000",
+          "Value": "4082001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Faster Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007511A8",
+          "Opcode": "00002000",
+          "Value": "3FF00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health & 2 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009EF6EC",
+          "Opcode": "00002000",
+          "Value": "4B842D4F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00232438",
+          "Opcode": "00002000",
+          "Value": "3C8001CA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023243C",
+          "Opcode": "00002000",
+          "Value": "8084578C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00232440",
+          "Opcode": "00002000",
+          "Value": "80840460",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00232444",
+          "Opcode": "00002000",
+          "Value": "80840000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00232448",
+          "Opcode": "00002000",
+          "Value": "80840040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023244C",
+          "Opcode": "00002000",
+          "Value": "808401DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00232450",
+          "Opcode": "00002000",
+          "Value": "7F84F800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00232454",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00232458",
+          "Opcode": "00002000",
+          "Value": "3860270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023245C",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00232460",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00232464",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0087C640",
+          "Opcode": "00002000",
+          "Value": "33430000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite First-Aid Kit Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00876A18",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00876A20",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00876A34",
+          "Opcode": "00002000",
+          "Value": "30630000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AD9640",
+          "Opcode": "00002000",
+          "Value": "4082001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0087E0E0",
+          "Opcode": "00002000",
+          "Value": "33430000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite First-Aid Kit Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008784B8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008784C0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008784D4",
+          "Opcode": "00002000",
+          "Value": "30630000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health & 2 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009E4784",
+          "Opcode": "00002000",
+          "Value": "4B842D4F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233128",
+          "Opcode": "00002000",
+          "Value": "3C8001CA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023312C",
+          "Opcode": "00002000",
+          "Value": "8084578C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233130",
+          "Opcode": "00002000",
+          "Value": "80840460",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233134",
+          "Opcode": "00002000",
+          "Value": "80840000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233138",
+          "Opcode": "00002000",
+          "Value": "80840040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023313C",
+          "Opcode": "00002000",
+          "Value": "808401DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233140",
+          "Opcode": "00002000",
+          "Value": "7F84F800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233144",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233148",
+          "Opcode": "00002000",
+          "Value": "3860270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023314C",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233150",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00233154",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

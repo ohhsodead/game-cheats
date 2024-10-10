@@ -1,0 +1,57 @@
+{
+  "Game": "BlazBlue Continuum Shift JP",
+  "Region": "BLJM60238",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "All Gallery",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00CDE530",
+          "Opcode": "00004000",
+          "Value": "01010101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.03]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Gallery",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D05508",
+          "Opcode": "00004000",
+          "Value": "01010101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

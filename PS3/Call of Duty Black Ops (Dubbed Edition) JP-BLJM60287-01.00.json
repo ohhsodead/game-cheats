@@ -1,0 +1,140 @@
+{
+  "Game": "Call of Duty Black Ops (Dubbed Edition) JP",
+  "Region": "BLJM60287",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F64C24 00F64C20",
+          "Opcode": "00005000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R1) to Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000 00000008",
+          "Opcode": "0000C00C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010BBAFA 010BBB72",
+          "Opcode": "00005100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010BBAFE 010BBB76",
+          "Opcode": "00005100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010BBB02 010BBB7A",
+          "Opcode": "00005100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010BBB06 010BBB7E",
+          "Opcode": "00005100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010BBB0A 010BBB82",
+          "Opcode": "00005100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010BBB0E 010BBB86",
+          "Opcode": "00005100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R2) to Infinite Grenade",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010BBB88",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010BBB90",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Game": "Virtua Fighter 5 JP",
+  "Region": "BLJM60016",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "1P HP Max (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "103D1494",
+          "Opcode": "00002000",
+          "Value": "000000C9",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2P HP Zero (Press Start)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "103D63CC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Score 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00161044",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Item",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10224308",
+          "Opcode": "00004000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "0000400F",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

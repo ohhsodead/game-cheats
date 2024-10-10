@@ -1,0 +1,92 @@
+{
+  "Game": "One Piece – Unlimited World R",
+  "Region": "BLJS10272",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP & SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BD8BC",
+          "Opcode": "00002000",
+          "Value": "485EBC55",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008A9510",
+          "Opcode": "00002000",
+          "Value": "807F0498",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008A9514",
+          "Opcode": "00002000",
+          "Value": "80830004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008A9518",
+          "Opcode": "00002000",
+          "Value": "90830000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008A951C",
+          "Opcode": "00002000",
+          "Value": "80830020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008A9520",
+          "Opcode": "00002000",
+          "Value": "9083001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008A9524",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Item Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002AAC1C",
+          "Opcode": "00002000",
+          "Value": "30A30000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money After buying something",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002AB63C",
+          "Opcode": "00002000",
+          "Value": "3D003B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002AB644",
+          "Opcode": "00002000",
+          "Value": "6108C9FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

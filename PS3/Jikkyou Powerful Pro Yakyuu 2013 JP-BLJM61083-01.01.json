@@ -1,0 +1,171 @@
+{
+  "Game": "Jikkyou Powerful Pro Yakyuu 2013 JP",
+  "Region": "BLJM61083",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "yaruki",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007F5E8C",
+          "Opcode": "00002000",
+          "Value": "38C00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Stength Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007E2F3C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "tairyoku yowatari",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007E2F30",
+          "Opcode": "00002000",
+          "Value": "A0A301DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007E2F34",
+          "Opcode": "00002000",
+          "Value": "38C00100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007E2F38",
+          "Opcode": "00002000",
+          "Value": "B0C301ED",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007E2F3C",
+          "Opcode": "00002000",
+          "Value": "38C00101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007E2F40",
+          "Opcode": "00002000",
+          "Value": "B0C301EF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "tairyoku iiyatu",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007E2F30",
+          "Opcode": "00002000",
+          "Value": "A0A301DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007E2F34",
+          "Opcode": "00002000",
+          "Value": "38C00100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007E2F38",
+          "Opcode": "00002000",
+          "Value": "B0C301ED",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007E2F3C",
+          "Opcode": "00002000",
+          "Value": "38C00101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007E2F40",
+          "Opcode": "00002000",
+          "Value": "B0C301F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Strike 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004AEE64",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ball 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004AEE88",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Out 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004AEEAC",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "tairyoku",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007E2F3C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

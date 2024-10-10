@@ -1,0 +1,95 @@
+{
+  "Game": "Way of the Samurai 3 JP",
+  "Region": "BLJS10039",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Gold 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30217594",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Points Accumulated 10000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30217714",
+          "Opcode": "00002000",
+          "Value": "00002710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Characters Unlocked",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "302177DC",
+          "Opcode": "00004000",
+          "Value": "01010101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004023",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30217594",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Time (Select+R1=On Select+R2 Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0067E180",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0067E180",
+          "Opcode": "00002000",
+          "Value": "993F00AD",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

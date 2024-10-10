@@ -1,0 +1,204 @@
+{
+  "Game": "Silent Hill HD Collection EU",
+  "Region": "BLES01504",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Info - [For Silent Hill 2]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pick Up 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00132048",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001C5560",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health (L3=On R3=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00014A9C",
+          "Opcode": "00002000",
+          "Value": "41800014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001F7DC",
+          "Opcode": "00002000",
+          "Value": "4082083C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00014A9C",
+          "Opcode": "00002000",
+          "Value": "40800014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001F7DC",
+          "Opcode": "00002000",
+          "Value": "4182083C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Reload 65535",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001324B4",
+          "Opcode": "00002000",
+          "Value": "38A0FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001324CC",
+          "Opcode": "00002000",
+          "Value": "38A0FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy Caught (L3=On R3=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000D6C28",
+          "Opcode": "00002000",
+          "Value": "41820050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000D6C28",
+          "Opcode": "00002000",
+          "Value": "40820050",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For Silent Hill 3]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pick Up 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BFD20",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Damager",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00135F6C",
+          "Opcode": "00002000",
+          "Value": "3CA0BF80",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pick Up 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00132448",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001C59D0",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0006E3E0",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

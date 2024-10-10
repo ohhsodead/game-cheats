@@ -1,0 +1,135 @@
+{
+  "Game": "Ratchet & Clank Future Tools of Destruction EU",
+  "Region": "BCES00052",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1P Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0055044C",
+          "Opcode": "00002000",
+          "Value": "40860008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000803E0",
+          "Opcode": "00002000",
+          "Value": "409E01D0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Melee Speed 2x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00897248",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0089729C",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008972E0",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Melee Speed 3x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00897248",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0089729C",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008972E0",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Melee Speed 4x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00897248",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0089729C",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008972E0",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Melee Speed 5x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00897248",
+          "Opcode": "00002000",
+          "Value": "40A00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0089729C",
+          "Opcode": "00002000",
+          "Value": "40A00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008972E0",
+          "Opcode": "00002000",
+          "Value": "40A00000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

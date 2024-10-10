@@ -1,0 +1,67 @@
+{
+  "Game": "Dynasty Warriors 7 Empires EU",
+  "Region": "BLES01795",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "SP 99999 While Changing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002DA428",
+          "Opcode": "00002000",
+          "Value": "90030A50",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Food Gold 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002DC7DC",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Fame Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002D941C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Military 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002D94E8",
+          "Opcode": "00002000",
+          "Value": "3860270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Merit 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002D9500",
+          "Opcode": "00002000",
+          "Value": "3860270F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

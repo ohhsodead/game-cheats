@@ -1,0 +1,227 @@
+{
+  "Game": "Ore no Imouto ga Konnani Kawaii Wake ga Nai. Happy En",
+  "Region": "BLJS10238",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Unlimited Shots",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0032C3A8",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00345DBC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Camera Zooming Or Angle Restraints",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0032AD14",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0032AD2C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0032AC90",
+          "Opcode": "00002000",
+          "Value": "D03F1DF0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034BEC8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034BED0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034BED8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034BEE0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034BEB8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034BEC0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Bonus",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00348FF0",
+          "Opcode": "00002000",
+          "Value": "7C085214",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "satuei",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0032C3A8",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "zikan",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00345DBC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kamera",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0032AD14",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0032AD2C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0032AC90",
+          "Opcode": "00002000",
+          "Value": "D03F1DF0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034BEC8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034BED0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034BED8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034BEE0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034BEB8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034BEC0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "BONUS MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00348FF0",
+          "Opcode": "00002000",
+          "Value": "7C085214",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

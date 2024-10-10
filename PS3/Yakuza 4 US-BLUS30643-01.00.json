@@ -1,0 +1,71 @@
+{
+  "Game": "Yakuza 4 US",
+  "Region": "BLUS30643",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B50108",
+          "Opcode": "00002000",
+          "Value": "3C803B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B50112",
+          "Opcode": "00002000",
+          "Value": "C9FF9083",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B50118",
+          "Opcode": "00002000",
+          "Value": "7C031800",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B4FF90",
+          "Opcode": "00002000",
+          "Value": "3C803B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B4FF9A",
+          "Opcode": "00002000",
+          "Value": "C9FF9083",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B4FFA0",
+          "Opcode": "00002000",
+          "Value": "7C031800",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Walk Trophy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00280C28",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

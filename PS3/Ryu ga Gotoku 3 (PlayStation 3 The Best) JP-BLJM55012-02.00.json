@@ -1,0 +1,55 @@
+{
+  "Game": "Ryu ga Gotoku 3 (PlayStation 3 The Best) JP",
+  "Region": "BLJM55012",
+  "Version": "02.00",
+  "Cheats": [
+    {
+      "Name": "Money 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012EDD58",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Physical",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012EB964",
+          "Opcode": "00002000",
+          "Value": "05780578",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Heat",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012EB968",
+          "Opcode": "00002000",
+          "Value": "4692E000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Experience 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012EB97C",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

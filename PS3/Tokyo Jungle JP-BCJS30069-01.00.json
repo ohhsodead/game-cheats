@@ -1,0 +1,19 @@
+{
+  "Game": "Tokyo Jungle JP",
+  "Region": "BCJS30069",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "999999 Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000FF76C",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

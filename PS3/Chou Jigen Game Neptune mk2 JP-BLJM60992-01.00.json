@@ -1,0 +1,165 @@
+{
+  "Game": "Chou Jigen Game Neptune mk2 JP",
+  "Region": "BLJM60992",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Gold on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C6744",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max EXP on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BF430",
+          "Opcode": "00002000",
+          "Value": "939C0028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Status on Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BF5C8",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF5FC",
+          "Opcode": "00002000",
+          "Value": "3B4000C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF630",
+          "Opcode": "00002000",
+          "Value": "3B40012C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF664",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF698",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF6CC",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF700",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF734",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF768",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF79C",
+          "Opcode": "00002000",
+          "Value": "3B60270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF7D0",
+          "Opcode": "00002000",
+          "Value": "3B60270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF80C",
+          "Opcode": "00002000",
+          "Value": "3B60000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player/Enemy Max Damage (Press Up=On) (Press Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012B634",
+          "Opcode": "00002000",
+          "Value": "409D0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012B634",
+          "Opcode": "00002000",
+          "Value": "419D0010",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "Game": "Spider-Man Shattered Dimensions US",
+  "Region": "BLUS30499",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B0A738",
+          "Opcode": "00002000",
+          "Value": "70000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B0A740",
+          "Opcode": "00002000",
+          "Value": "70000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B24BE4",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "180 challenges completed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B2DDA0",
+          "Opcode": "00002000",
+          "Value": "000000B4",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

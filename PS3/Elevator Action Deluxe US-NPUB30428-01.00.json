@@ -1,0 +1,55 @@
+{
+  "Game": "Elevator Action Deluxe US",
+  "Region": "NPUB30428",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010897A3",
+          "Opcode": "00000000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Lots of Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0129C3B8",
+          "Opcode": "00000000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0 Time Used",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005DFCC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0 Death",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00013BBC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

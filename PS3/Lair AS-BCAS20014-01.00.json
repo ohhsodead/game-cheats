@@ -1,0 +1,61 @@
+{
+  "Game": "Lair AS",
+  "Region": "BCAS20014",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP (Press L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "102CABC8",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000920",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "4A000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "102CABC8",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000914",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "4A000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

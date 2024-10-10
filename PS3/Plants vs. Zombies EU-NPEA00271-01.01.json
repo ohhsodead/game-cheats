@@ -1,0 +1,31 @@
+{
+  "Game": "Plants vs. Zombies EU",
+  "Region": "NPEA00271",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Sun On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0017BD08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sun Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00181524",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

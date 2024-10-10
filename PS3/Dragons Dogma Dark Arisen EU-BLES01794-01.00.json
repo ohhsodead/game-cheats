@@ -1,0 +1,43 @@
+{
+  "Game": "Dragons Dogma Dark Arisen EU",
+  "Region": "BLES01794",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00956BC0",
+          "Opcode": "00002000",
+          "Value": "40820010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible 1P",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00954AD0",
+          "Opcode": "00002000",
+          "Value": "4082000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Attack Power & Magic (1000X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009699D0",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

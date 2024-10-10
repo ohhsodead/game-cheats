@@ -1,0 +1,33 @@
+{
+  "Game": "MotorStorm Pacific Rift US",
+  "Region": "BCUS98155",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Infinite Boost",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003F8B4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003F8B0",
+          "Opcode": "00002000",
+          "Value": "D0240030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003F8AC",
+          "Opcode": "00002000",
+          "Value": "EC210828",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

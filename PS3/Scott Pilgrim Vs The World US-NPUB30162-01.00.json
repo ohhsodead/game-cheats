@@ -1,0 +1,316 @@
+{
+  "Game": "Scott Pilgrim Vs The World US",
+  "Region": "NPUB30162",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "HP Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003EDBBC",
+          "Opcode": "00002000",
+          "Value": "48FDD742",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00FCD740",
+          "Opcode": "00002000",
+          "Value": "884301D7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00FCD744",
+          "Opcode": "00002000",
+          "Value": "2F820002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00FCD748",
+          "Opcode": "00002000",
+          "Value": "419E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00FCD74C",
+          "Opcode": "00002000",
+          "Value": "D0030110",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00FCD750",
+          "Opcode": "00002000",
+          "Value": "483FDBC2",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "GP Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00660694",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0044C688",
+          "Opcode": "00002000",
+          "Value": "480000E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Money Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0048B60C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0048B668",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Lives On Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003FBE44",
+          "Opcode": "00002000",
+          "Value": "480002E4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Lose A Life For 9 Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00408B0C",
+          "Opcode": "00002000",
+          "Value": "38000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain XP To Fully Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003FB924",
+          "Opcode": "00002000",
+          "Value": "C01E10FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FB928",
+          "Opcode": "00002000",
+          "Value": "3FA07F7F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FB92C",
+          "Opcode": "00002000",
+          "Value": "93BF10FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FB930",
+          "Opcode": "00002000",
+          "Value": "C3FF10FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FB934",
+          "Opcode": "00002000",
+          "Value": "EC3F002A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FB938",
+          "Opcode": "00002000",
+          "Value": "D03E10FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FB93C",
+          "Opcode": "00002000",
+          "Value": "7C7D1B78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FB940",
+          "Opcode": "00002000",
+          "Value": "7FE3FB78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FB944",
+          "Opcode": "00002000",
+          "Value": "57BD063E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FB948",
+          "Opcode": "00002000",
+          "Value": "48119061",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Stats On Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003FC0F0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FC100",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FC110",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FC120",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Higher Than Normal Stats On Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003FBE80",
+          "Opcode": "00002000",
+          "Value": "3C00447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FBE8C",
+          "Opcode": "00002000",
+          "Value": "901C0684",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FBED4",
+          "Opcode": "00002000",
+          "Value": "3C00447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FBEE0",
+          "Opcode": "00002000",
+          "Value": "901C0688",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FBF94",
+          "Opcode": "00002000",
+          "Value": "3C00447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FBFA0",
+          "Opcode": "00002000",
+          "Value": "901C0690",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FBFF4",
+          "Opcode": "00002000",
+          "Value": "3C00447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FC000",
+          "Opcode": "00002000",
+          "Value": "901C068C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Powerup State Stays On & Takes 1 Kill To Activate",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003F8D9C",
+          "Opcode": "00002000",
+          "Value": "48000030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0044D7E0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00549B30",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

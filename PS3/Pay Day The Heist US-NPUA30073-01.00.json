@@ -1,0 +1,67 @@
+{
+  "Game": "Pay Day The Heist US",
+  "Region": "NPUA30073",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Master Code",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "4E505541",
+          "Opcode": "00000100",
+          "Value": "30073018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Hits Hot Player",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "4E505541",
+          "Opcode": "00000100",
+          "Value": "30073018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Shock Misses",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6C7BC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Flame Misses",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6EAD0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Hits Hot Player",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F68E08",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

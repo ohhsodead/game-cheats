@@ -1,0 +1,119 @@
+{
+  "Game": "Ni no Kuni Wrath of the White Witch JP",
+  "Region": "BLJS10150",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Level Up on Every Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3121A400",
+          "Opcode": "00002000",
+          "Value": "007FFF3C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3121A800",
+          "Opcode": "00002000",
+          "Value": "007FFF3C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3121AC00",
+          "Opcode": "00002000",
+          "Value": "007FFF3C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3121B800",
+          "Opcode": "00002000",
+          "Value": "007FFF3C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3121BC00",
+          "Opcode": "00002000",
+          "Value": "007FFF3C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage 0 Player/Enemy (Press Select=On) (Press Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005FC3C4",
+          "Opcode": "00002000",
+          "Value": "4086EC98",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005FC3C4",
+          "Opcode": "00002000",
+          "Value": "4186EC98",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max HP/MP Summon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3121B7D8",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3121B7DC",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

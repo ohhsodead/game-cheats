@@ -1,0 +1,67 @@
+{
+  "Game": "Nobunaga No Yabou Souzou",
+  "Region": "BLJM61121",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Info - [Ver 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "sinnyou 100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00333784",
+          "Opcode": "00002000",
+          "Value": "480000A8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "rouryoku999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0034D2F0",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "nenngetu",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004E5F58",
+          "Opcode": "00002000",
+          "Value": "7FA8EB78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "zinnkou99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002D34C4",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

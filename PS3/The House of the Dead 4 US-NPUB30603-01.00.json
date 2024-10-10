@@ -1,0 +1,19 @@
+{
+  "Game": "The House of the Dead 4 US",
+  "Region": "NPUB30603",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C7774",
+          "Opcode": "00002000",
+          "Value": "409E0028",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

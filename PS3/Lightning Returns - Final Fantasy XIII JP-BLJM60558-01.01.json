@@ -1,0 +1,359 @@
+{
+  "Game": "Lightning Returns - Final Fantasy XIII JP",
+  "Region": "BLJM60558",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Invincible & Autoguard",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011681C",
+          "Opcode": "00002000",
+          "Value": "4181002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00116840",
+          "Opcode": "00002000",
+          "Value": "3FE00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00116844",
+          "Opcode": "00002000",
+          "Value": "63FF0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Don't Do Anything",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E018C",
+          "Opcode": "00002000",
+          "Value": "40800028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99999999 Attack Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012E820",
+          "Opcode": "00002000",
+          "Value": "3F000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincibile + Can Use Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001053E8",
+          "Opcode": "00002000",
+          "Value": "807E0030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Gil",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0063F654",
+          "Opcode": "00002000",
+          "Value": "7D034378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Time Stops",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00227B78",
+          "Opcode": "00002000",
+          "Value": "7FE62010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00227B78",
+          "Opcode": "00002000",
+          "Value": "7C9F2378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Dash Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00217C28",
+          "Opcode": "00002000",
+          "Value": "D0440014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Gil Acquisition",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5B50",
+          "Opcode": "00002000",
+          "Value": "1F440002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Gil Acquisition",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5B50",
+          "Opcode": "00002000",
+          "Value": "1F440004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "8x Gil Acquisition",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5B50",
+          "Opcode": "00002000",
+          "Value": "1F440008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Materials Don't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00629B48",
+          "Opcode": "00002000",
+          "Value": "7C832378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Remodeling",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0055BBA0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible & Autoguard",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00116B1C",
+          "Opcode": "00002000",
+          "Value": "4181002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00116B40",
+          "Opcode": "00002000",
+          "Value": "3FE00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00116B44",
+          "Opcode": "00002000",
+          "Value": "63FF0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Don't Do Anything",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E048C",
+          "Opcode": "00002000",
+          "Value": "40800028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max GP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0063F8C8",
+          "Opcode": "00002000",
+          "Value": "912828E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MONEY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0063F654",
+          "Opcode": "00002000",
+          "Value": "7D034378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "time stop",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00227B78",
+          "Opcode": "00002000",
+          "Value": "7C9F2378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "time -",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00227B78",
+          "Opcode": "00002000",
+          "Value": "7FE62010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "dash",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00217C28",
+          "Opcode": "00002000",
+          "Value": "D0440014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "gill 2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5B50",
+          "Opcode": "00002000",
+          "Value": "1F440002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "gill 4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5B50",
+          "Opcode": "00002000",
+          "Value": "1F440004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "gill 8",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5B50",
+          "Opcode": "00002000",
+          "Value": "1F440008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "sozai",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00629B48",
+          "Opcode": "00002000",
+          "Value": "7C832378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kaizoukaisuu",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0055BBA0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

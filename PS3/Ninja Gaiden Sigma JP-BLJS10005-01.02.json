@@ -1,0 +1,275 @@
+{
+  "Game": "Ninja Gaiden Sigma JP",
+  "Region": "BLJS10005",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "102C8680",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1028C7E4",
+          "Opcode": "00005100",
+          "Value": "1028C7B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1028C7E4",
+          "Opcode": "00005100",
+          "Value": "1028C7E6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1028C7EC",
+          "Opcode": "00005100",
+          "Value": "1028C7EE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.5x Player & Enemy Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D31174",
+          "Opcode": "00002000",
+          "Value": "3F000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.75x Player & Enemy Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D31174",
+          "Opcode": "00002000",
+          "Value": "3F400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.875x Player & Enemy Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D31174",
+          "Opcode": "00002000",
+          "Value": "3F600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.125x Player & Enemy Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D31174",
+          "Opcode": "00002000",
+          "Value": "3F900000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.25x Player & Enemy Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D31174",
+          "Opcode": "00002000",
+          "Value": "3FA00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.5x Player & Enemy Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D31174",
+          "Opcode": "00002000",
+          "Value": "3FC00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.75x Player & Enemy Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D31174",
+          "Opcode": "00002000",
+          "Value": "3FE00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Player & Enemy Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D31174",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "3x Player & Enemy Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D31174",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Player & Enemy Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D31174",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.25x Damage Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D3316C",
+          "Opcode": "00002000",
+          "Value": "3E800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.5x Damage Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D3316C",
+          "Opcode": "00002000",
+          "Value": "3F000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.75x Damage Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D3316C",
+          "Opcode": "00002000",
+          "Value": "3F400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.5x Damage Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D3316C",
+          "Opcode": "00002000",
+          "Value": "3FC00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Damage Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D3316C",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Damage Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D3316C",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1000x Damage Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D3316C",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

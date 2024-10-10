@@ -1,0 +1,924 @@
+{
+  "Game": "Kingdom Hearts HD 1.5 ReMIX US",
+  "Region": "BLUS31212",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Buy & Sell Max Munnies",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B23C0",
+          "Opcode": "00002000",
+          "Value": "41810008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B241C",
+          "Opcode": "00002000",
+          "Value": "41810008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Level (1 Fight)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00194860",
+          "Opcode": "00002000",
+          "Value": "41810008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Below are for Kingdom Hearts Final Mix",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0018A860",
+          "Opcode": "00002000",
+          "Value": "481A66B1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00330F10",
+          "Opcode": "00002000",
+          "Value": "83F60040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00330F14",
+          "Opcode": "00002000",
+          "Value": "93F6003C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00330F18",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B7380",
+          "Opcode": "00002000",
+          "Value": "93A30044",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00194844",
+          "Opcode": "00002000",
+          "Value": "1F7C0002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00194844",
+          "Opcode": "00002000",
+          "Value": "1F7C0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "8x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00194844",
+          "Opcode": "00002000",
+          "Value": "1F7C0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "16x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00194844",
+          "Opcode": "00002000",
+          "Value": "1F7C0010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "32x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00194844",
+          "Opcode": "00002000",
+          "Value": "1F7C0020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "64x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00194844",
+          "Opcode": "00002000",
+          "Value": "1F7C0040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "128x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00194844",
+          "Opcode": "00002000",
+          "Value": "1F7C0080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "256x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00194844",
+          "Opcode": "00002000",
+          "Value": "1F7C0100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Item Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00094B44",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00094E08",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00096540",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009663C",
+          "Opcode": "00002000",
+          "Value": "30E70000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B4458",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Have All Ingredients for Synthesize",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000CFDE8",
+          "Opcode": "00002000",
+          "Value": "3B600062",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000CFDEC",
+          "Opcode": "00002000",
+          "Value": "9B7A0499",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000CFDF0",
+          "Opcode": "00002000",
+          "Value": "7F7ADB78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Munny on Use/Get",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B2328",
+          "Opcode": "00002000",
+          "Value": "3C600001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B232C",
+          "Opcode": "00002000",
+          "Value": "6063869E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B23E8",
+          "Opcode": "00002000",
+          "Value": "3C600001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B23EC",
+          "Opcode": "00002000",
+          "Value": "6063869E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max HP & Stats",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000859C0",
+          "Opcode": "00002000",
+          "Value": "482AB570",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00330F30",
+          "Opcode": "00002000",
+          "Value": "388000C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00330F34",
+          "Opcode": "00002000",
+          "Value": "989C0002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00330F38",
+          "Opcode": "00002000",
+          "Value": "38806464",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00330F3C",
+          "Opcode": "00002000",
+          "Value": "B09C0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00330F40",
+          "Opcode": "00002000",
+          "Value": "B09C0006",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00330F44",
+          "Opcode": "00002000",
+          "Value": "8B9C0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00330F48",
+          "Opcode": "00002000",
+          "Value": "4BD54A7C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Gummi HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001EDC4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EDC50",
+          "Opcode": "00002000",
+          "Value": "7C641B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Gummi MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001ECD58",
+          "Opcode": "00002000",
+          "Value": "30A50000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001ECDB4",
+          "Opcode": "00002000",
+          "Value": "3AA50000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gummi Max Items After Getting One",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E6BC0",
+          "Opcode": "00002000",
+          "Value": "390003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E6BF4",
+          "Opcode": "00002000",
+          "Value": "392003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EABB4",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EAB38",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EAC74",
+          "Opcode": "00002000",
+          "Value": "388003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EAC9C",
+          "Opcode": "00002000",
+          "Value": "388003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EAC10",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EAD68",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Time (Colisseum and other minigames)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00038D04",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - below codes are for Kingdom Hearts Chain Of Memories",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Have All Cards/Infinite Cards (No Treasure Gold or 3 Storyline C",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00093040",
+          "Opcode": "00002000",
+          "Value": "48455140",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E8180",
+          "Opcode": "00002000",
+          "Value": "80E740F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E8184",
+          "Opcode": "00002000",
+          "Value": "7CF03B78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E8188",
+          "Opcode": "00002000",
+          "Value": "3A200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E818C",
+          "Opcode": "00002000",
+          "Value": "2C110499",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E8190",
+          "Opcode": "00002000",
+          "Value": "38600063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E8194",
+          "Opcode": "00002000",
+          "Value": "98700030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E8198",
+          "Opcode": "00002000",
+          "Value": "3A100001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E819C",
+          "Opcode": "00002000",
+          "Value": "3A310001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81A0",
+          "Opcode": "00002000",
+          "Value": "4081FFEC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81A4",
+          "Opcode": "00002000",
+          "Value": "4BBAAEA0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max CP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D8ED0",
+          "Opcode": "00002000",
+          "Value": "4830F2D9",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81A8",
+          "Opcode": "00002000",
+          "Value": "3D600001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81AC",
+          "Opcode": "00002000",
+          "Value": "616B869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81B0",
+          "Opcode": "00002000",
+          "Value": "9166000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81B4",
+          "Opcode": "00002000",
+          "Value": "80C6000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81B8",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0010EE10",
+          "Opcode": "00002000",
+          "Value": "483D93AD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81BC",
+          "Opcode": "00002000",
+          "Value": "38800230",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81C0",
+          "Opcode": "00002000",
+          "Value": "909F030C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81C4",
+          "Opcode": "00002000",
+          "Value": "909F0308",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81C8",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00120008",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max AP (Also works for Sora)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0010EE20",
+          "Opcode": "00002000",
+          "Value": "38600063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0010EE24",
+          "Opcode": "00002000",
+          "Value": "907F0318",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0010EE28",
+          "Opcode": "00002000",
+          "Value": "4BFA3D7D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B2BA4",
+          "Opcode": "00002000",
+          "Value": "7C7F1B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max DP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D0FF4",
+          "Opcode": "00002000",
+          "Value": "38A00063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001D0FF8",
+          "Opcode": "00002000",
+          "Value": "90A60014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001D0FFC",
+          "Opcode": "00002000",
+          "Value": "7CA507B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001D1000",
+          "Opcode": "00002000",
+          "Value": "48240E71",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Full DP Gauge in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00110260",
+          "Opcode": "00002000",
+          "Value": "483D7F6D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81CC",
+          "Opcode": "00002000",
+          "Value": "38E0001E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81D0",
+          "Opcode": "00002000",
+          "Value": "90E50328",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81D4",
+          "Opcode": "00002000",
+          "Value": "80630014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004E81D8",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00120078",
+          "Opcode": "00002000",
+          "Value": "30A50000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00125A84",
+          "Opcode": "00002000",
+          "Value": "1FA30002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00125A84",
+          "Opcode": "00002000",
+          "Value": "1FA30004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "8x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00125A84",
+          "Opcode": "00002000",
+          "Value": "1FA30008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "16x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00125A84",
+          "Opcode": "00002000",
+          "Value": "1FA30010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "32x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00125A84",
+          "Opcode": "00002000",
+          "Value": "1FA30020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "64x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00125A84",
+          "Opcode": "00002000",
+          "Value": "1FA30040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "128x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00125A84",
+          "Opcode": "00002000",
+          "Value": "1FA30080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "256x EXP Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00125A84",
+          "Opcode": "00002000",
+          "Value": "1FA30100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - The below are for the minigames in 100 Acre Woods",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Get 1 Point For Max Score Minigame 1 (Veggie Panic)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00318AC8",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Get 1 Point For Max Score Minigame 2 & 4 (Ballon Glider & Whirlw",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00311C30",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ballons Minigame 2 (Ballon Glider)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002FF278",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Get 1 Point For Max Score Minigame 3 (Jump-a-Thon)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00314780",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "Game": "inFamous 2 Festival of Blood US",
+  "Region": "NPUA80657",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Electricity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015D190",
+          "Opcode": "00002000",
+          "Value": "EDAD002A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Teleport/Fly",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AB43F0",
+          "Opcode": "00002000",
+          "Value": "4A000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AB43EC",
+          "Opcode": "00002000",
+          "Value": "4A000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP (Press L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A78FD0",
+          "Opcode": "00003000",
+          "Value": "000007EC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "4A000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A78FD0",
+          "Opcode": "00003000",
+          "Value": "000007F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "4A000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

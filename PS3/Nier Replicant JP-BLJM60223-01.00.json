@@ -1,0 +1,50 @@
+{
+  "Game": "Nier Replicant JP",
+  "Region": "BLJM60223",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "037A02CC",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "037A0280",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Item",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "037A02D0",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004100",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

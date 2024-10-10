@@ -1,0 +1,19 @@
+{
+  "Game": "Ninja Gaiden Sigma 2 US",
+  "Region": "NPUB30852",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1P Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00177E58",
+          "Opcode": "00002000",
+          "Value": "81F80004",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

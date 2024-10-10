@@ -1,0 +1,382 @@
+{
+  "Game": "Atelier Rorona The Alchemist of Arland JP",
+  "Region": "BLJM60154",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Gold 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6D460",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L2+R2) to the 1st Day",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EE7878",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters Adv. Exp Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6E7BC",
+          "Opcode": "00004000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters HP 999/999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6E7C0",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F6E7C4",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F6E7E8",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters ATK 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6E7EC",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters DEF 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6E7F0",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters SPD 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6E7F0",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rorona Alchemy EXP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6CE54",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01305050",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L2+R2) to the 1st Day",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0128E0D8",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters Adv. Exp Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "013063AC",
+          "Opcode": "00004000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters HP 999/999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "013063B0",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013063B4",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013063D8",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters ATK 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "013063DC",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters DEF 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "013063E0",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters SPD 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "013063E4",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rorona Alchemy EXP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01304A44",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters SPD 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6E7F4",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000010C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1st Day",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EE7878",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1st Day",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0128E0D8",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

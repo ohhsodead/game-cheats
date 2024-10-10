@@ -1,0 +1,40 @@
+{
+  "Game": "Golden Axe Beast Rider US",
+  "Region": "BLUS30209",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3047D020",
+          "Opcode": "00003000",
+          "Value": "00002068",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000044",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "47C34F80",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

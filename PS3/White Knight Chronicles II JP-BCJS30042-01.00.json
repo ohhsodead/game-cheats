@@ -1,0 +1,346 @@
+{
+  "Game": "White Knight Chronicles II JP",
+  "Region": "BCJS30042",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Gold Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003E500C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00380638",
+          "Opcode": "00001000",
+          "Value": "00004800",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP*100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A66A4",
+          "Opcode": "00002000",
+          "Value": "78636420",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005385B4",
+          "Opcode": "00002000",
+          "Value": "78006420",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005385BC",
+          "Opcode": "00002000",
+          "Value": "90010070",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005385C0",
+          "Opcode": "00002000",
+          "Value": "4BDDE75D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0053886C",
+          "Opcode": "00002000",
+          "Value": "78006420",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00538870",
+          "Opcode": "00002000",
+          "Value": "90010070",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00538874",
+          "Opcode": "00002000",
+          "Value": "4BDDE4A9",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite CP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0037A72C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "DP*32",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00537D9C",
+          "Opcode": "00002000",
+          "Value": "1C000032",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00537DA0",
+          "Opcode": "00002000",
+          "Value": "90010074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00537DA4",
+          "Opcode": "00002000",
+          "Value": "4BDE27D5",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "DP Get Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003E7520",
+          "Opcode": "00001000",
+          "Value": "00004800",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "GP*50",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A57CC",
+          "Opcode": "00002000",
+          "Value": "1F640032",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item change Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003D42E8",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item Drop rate 100%",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003AA594",
+          "Opcode": "00002000",
+          "Value": "3B400008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AA60C",
+          "Opcode": "00001000",
+          "Value": "00004800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AA7A0",
+          "Opcode": "00001000",
+          "Value": "00007F9E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AA7A4",
+          "Opcode": "00001000",
+          "Value": "0000419D",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item Drop*10",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003AA7CF",
+          "Opcode": "00000000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Synthesis Without the Materials",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007D2BB8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007E9358",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007C1E18",
+          "Opcode": "00001000",
+          "Value": "00004BFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP/MP Recover When Holding Weapon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005654B0",
+          "Opcode": "00002000",
+          "Value": "8009005C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005654B4",
+          "Opcode": "00002000",
+          "Value": "2F800001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AC Max After Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00572FE8",
+          "Opcode": "00002000",
+          "Value": "3C0042C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00572FEC",
+          "Opcode": "00002000",
+          "Value": "90091560",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Move Speed *2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0110C670",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0110C674",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0110C678",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Move Speed *3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0110C670",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0110C674",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0110C678",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Move Speed *4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0110C670",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0110C674",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0110C678",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

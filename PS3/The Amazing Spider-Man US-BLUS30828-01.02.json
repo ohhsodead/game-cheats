@@ -1,0 +1,128 @@
+{
+  "Game": "The Amazing Spider-Man US",
+  "Region": "BLUS30828",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AF97BC",
+          "Opcode": "00002000",
+          "Value": "806448FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AF97C0",
+          "Opcode": "00002000",
+          "Value": "90644900",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AF97C4",
+          "Opcode": "00002000",
+          "Value": "808548FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AF97D8",
+          "Opcode": "00002000",
+          "Value": "480001D4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Visual Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009C4DC4",
+          "Opcode": "00002000",
+          "Value": "807C00C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C4DC8",
+          "Opcode": "00002000",
+          "Value": "907C00BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C4DCC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Maximum Visual Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009C4DC4",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C4DC8",
+          "Opcode": "00002000",
+          "Value": "907C00BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C4DCC",
+          "Opcode": "00002000",
+          "Value": "48000030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Character Upgrade Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AEA8E0",
+          "Opcode": "00002000",
+          "Value": "7C7A1B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Tech Upgrade Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AF259C",
+          "Opcode": "00002000",
+          "Value": "7C791B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Remove Upgrade Available on Screen",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AF559C",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

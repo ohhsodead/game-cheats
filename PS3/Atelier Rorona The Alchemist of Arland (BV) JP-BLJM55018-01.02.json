@@ -1,0 +1,43 @@
+{
+  "Game": "Atelier Rorona The Alchemist of Arland (BV) JP",
+  "Region": "BLJM55018",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Gold 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "013150D0",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Characters EXP 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0131642C",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Alchemy EXP 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01314AC4",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

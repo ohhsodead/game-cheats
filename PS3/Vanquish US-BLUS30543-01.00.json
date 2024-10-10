@@ -1,0 +1,169 @@
+{
+  "Game": "Vanquish US",
+  "Region": "BLUS30543",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000100C0",
+          "Opcode": "00002000",
+          "Value": "3C60270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100C4",
+          "Opcode": "00002000",
+          "Value": "6063270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100C8",
+          "Opcode": "00002000",
+          "Value": "90640008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100CC",
+          "Opcode": "00002000",
+          "Value": "38600063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100D0",
+          "Opcode": "00002000",
+          "Value": "B064000E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100D4",
+          "Opcode": "00002000",
+          "Value": "80640004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000100D8",
+          "Opcode": "00002000",
+          "Value": "480E1A10",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000F1AE4",
+          "Opcode": "00002000",
+          "Value": "4BF1E5DC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenade",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010130",
+          "Opcode": "00002000",
+          "Value": "3C60270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010134",
+          "Opcode": "00002000",
+          "Value": "6063270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010138",
+          "Opcode": "00002000",
+          "Value": "90640008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001013C",
+          "Opcode": "00002000",
+          "Value": "38600063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010140",
+          "Opcode": "00002000",
+          "Value": "B064000E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010144",
+          "Opcode": "00002000",
+          "Value": "80640004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010148",
+          "Opcode": "00002000",
+          "Value": "480F742C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00107570",
+          "Opcode": "00002000",
+          "Value": "4BF08BC0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP (Press L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0169DB3C",
+          "Opcode": "00003000",
+          "Value": "0000036C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "10000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0169DB3C",
+          "Opcode": "00003000",
+          "Value": "00000364",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "10000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

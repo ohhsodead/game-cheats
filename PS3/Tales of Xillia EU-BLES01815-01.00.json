@@ -1,0 +1,633 @@
+{
+  "Game": "Tales of Xillia EU",
+  "Region": "BLES01815",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Gald",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00204FA8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Items + Max All Items (Press L2+R2+L1+R1)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00229DF0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E1C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E20",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E24",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E28",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E2C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E30",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E34",
+          "Opcode": "00002000",
+          "Value": "3C6000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E38",
+          "Opcode": "00002000",
+          "Value": "6063DCF0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E3C",
+          "Opcode": "00002000",
+          "Value": "80630000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E40",
+          "Opcode": "00002000",
+          "Value": "3CE0006C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E44",
+          "Opcode": "00002000",
+          "Value": "7F833840",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E48",
+          "Opcode": "00002000",
+          "Value": "419E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E4C",
+          "Opcode": "00002000",
+          "Value": "48000040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E50",
+          "Opcode": "00002000",
+          "Value": "3E2000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E54",
+          "Opcode": "00002000",
+          "Value": "62310F8C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E58",
+          "Opcode": "00002000",
+          "Value": "82310000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E5C",
+          "Opcode": "00002000",
+          "Value": "3A310040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E60",
+          "Opcode": "00002000",
+          "Value": "3F606363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E64",
+          "Opcode": "00002000",
+          "Value": "637B6363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E68",
+          "Opcode": "00002000",
+          "Value": "3F8000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E6C",
+          "Opcode": "00002000",
+          "Value": "639C0F8C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E70",
+          "Opcode": "00002000",
+          "Value": "839C0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E74",
+          "Opcode": "00002000",
+          "Value": "3B9C10CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E78",
+          "Opcode": "00002000",
+          "Value": "7F9DE378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E7C",
+          "Opcode": "00002000",
+          "Value": "3A310004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E80",
+          "Opcode": "00002000",
+          "Value": "9371FFFC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E84",
+          "Opcode": "00002000",
+          "Value": "7C9D8840",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E88",
+          "Opcode": "00002000",
+          "Value": "4086FFF4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E8C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E90",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E94",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00229E98",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0048C5E0",
+          "Opcode": "00002000",
+          "Value": "68800001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Arte Count On Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021C990",
+          "Opcode": "00002000",
+          "Value": "3980270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max GP On Spend",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218BE0",
+          "Opcode": "00002000",
+          "Value": "388001F4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max EXP on Gain - Use After Alwin Joins The Party",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021E794",
+          "Opcode": "00002000",
+          "Value": "7D244B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Have All Items + Infinite All Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0048C588",
+          "Opcode": "00002000",
+          "Value": "38600063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0048C5E0",
+          "Opcode": "00002000",
+          "Value": "68800063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max + Infinite Overdrive",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002052E8",
+          "Opcode": "00002000",
+          "Value": "3E20447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002052EC",
+          "Opcode": "00002000",
+          "Value": "92290028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items Only",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0048ED10",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Items on Gain/Discard/Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0048ECF0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 2x Gald",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C63F8",
+          "Opcode": "00002000",
+          "Value": "1C840002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 4x Gald",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C63F8",
+          "Opcode": "00002000",
+          "Value": "1C840004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 8x Gald",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C63F8",
+          "Opcode": "00002000",
+          "Value": "1C840008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 16x Gald",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C63F8",
+          "Opcode": "00002000",
+          "Value": "1C840010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 32x Gald",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C63F8",
+          "Opcode": "00002000",
+          "Value": "1C840020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 64x Gald",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C63F8",
+          "Opcode": "00002000",
+          "Value": "1C840040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 128x Gald",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C63F8",
+          "Opcode": "00002000",
+          "Value": "1C840080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 256x Gald",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C63F8",
+          "Opcode": "00002000",
+          "Value": "1C840100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 2x Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C3B38",
+          "Opcode": "00002000",
+          "Value": "1C840002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 4x Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C3B38",
+          "Opcode": "00002000",
+          "Value": "1C840004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 8x Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C3B38",
+          "Opcode": "00002000",
+          "Value": "1C840008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 16x Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C3B38",
+          "Opcode": "00002000",
+          "Value": "1C840010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 32x Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C3B38",
+          "Opcode": "00002000",
+          "Value": "1C840020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 64x Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C3B38",
+          "Opcode": "00002000",
+          "Value": "1C840040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 128x Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C3B38",
+          "Opcode": "00002000",
+          "Value": "1C840080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 256x Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C3B38",
+          "Opcode": "00002000",
+          "Value": "1C840100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Hourglass Timer",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E3EBC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E3EF4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item Use Timer 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E3F78",
+          "Opcode": "00002000",
+          "Value": "3FC00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E3F7C",
+          "Opcode": "00002000",
+          "Value": "93DB0080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Game Timer",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0020722C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00207270",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite TP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218B64",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite AC",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218B94",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

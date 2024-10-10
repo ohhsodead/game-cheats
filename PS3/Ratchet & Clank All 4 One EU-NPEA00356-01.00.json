@@ -1,0 +1,19 @@
+{
+  "Game": "Ratchet & Clank All 4 One EU",
+  "Region": "NPEA00356",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1P Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00047144",
+          "Opcode": "00002000",
+          "Value": "4086FF94",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

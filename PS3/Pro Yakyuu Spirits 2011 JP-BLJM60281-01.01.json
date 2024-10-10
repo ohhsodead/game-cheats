@@ -1,0 +1,163 @@
+{
+  "Game": "Pro Yakyuu Spirits 2011 JP",
+  "Region": "BLJM60281",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite VP 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "02426A50",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001295B8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001295DC",
+          "Opcode": "00002000",
+          "Value": "90A30080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "S.C.9999999 in Grandprix Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0094B298",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press Select) to Money 99999999 in Starplayer Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3292B484",
+          "Opcode": "00003000",
+          "Value": "000151B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007CC80C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press Select) to Fans 999900 in Starplayer Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3292B484",
+          "Opcode": "00003000",
+          "Value": "00015140",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F41DC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press Select) to Performance Max in Starplayer Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3292B484",
+          "Opcode": "00003000",
+          "Value": "00015144",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00004000",
+          "Value": "000005DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004004",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Update EXP 999999 in Starplayer Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0079FA20",
+          "Opcode": "00002000",
+          "Value": "907F0904",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0079FA24",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007CC7C8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

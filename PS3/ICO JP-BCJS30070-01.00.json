@@ -1,0 +1,64 @@
+{
+  "Game": "ICO JP",
+  "Region": "BCJS30070",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "(Press L2) to Zoom Out / (Press R2) to Normal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0052F770",
+          "Opcode": "00002000",
+          "Value": "3F000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0052F770",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy 1 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012CF5C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy Low AI",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001328FC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Game": "MGS 2 - Sons of Liberty HD EU",
+  "Region": "NPEB00685",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "No Enemy Mode (Up=On, Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005B60B0",
+          "Opcode": "00002000",
+          "Value": "408001FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005B60B0",
+          "Opcode": "00002000",
+          "Value": "418001FC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rapid Fire",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007DC644",
+          "Opcode": "00002000",
+          "Value": "39000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Alert Disable",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00535AAC",
+          "Opcode": "00002000",
+          "Value": "4080E5B0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007E46E0",
+          "Opcode": "00002000",
+          "Value": "38C00000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

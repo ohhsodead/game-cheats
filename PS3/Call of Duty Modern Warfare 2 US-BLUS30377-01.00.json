@@ -1,0 +1,83 @@
+{
+  "Game": "Call of Duty Modern Warfare 2 US",
+  "Region": "BLUS30377",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010D5AAC",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010D5AB0",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenade",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0120E80C",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Flash Grenade",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0120E818",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo for All",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0120E7F4",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0120E778",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0120E7E8",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0120E770",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Game": "God of War III (Ultimate Edition) US",
+  "Region": "BCUS98231",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "39694C88",
+          "Opcode": "00002000",
+          "Value": "497423F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009654C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health - Hard Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00567530",
+          "Opcode": "00003000",
+          "Value": "00000010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "48000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Jump",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3969369F",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

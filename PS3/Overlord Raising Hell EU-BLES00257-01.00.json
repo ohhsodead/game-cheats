@@ -1,0 +1,31 @@
+{
+  "Game": "Overlord Raising Hell EU",
+  "Region": "BLES00257",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002A2600",
+          "Opcode": "00002000",
+          "Value": "D1BD047C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002A2630",
+          "Opcode": "00002000",
+          "Value": "D03D04C0",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

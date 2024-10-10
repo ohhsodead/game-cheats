@@ -1,0 +1,236 @@
+{
+  "Game": "Dragon Ball Raging Blast JP",
+  "Region": "BLJS10066",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "P1 Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00778660",
+          "Opcode": "00003000",
+          "Value": "00000094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "47435000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Power Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00778660",
+          "Opcode": "00003000",
+          "Value": "00000098",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "42480000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 Death (Press Select + L2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00010001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00778660",
+          "Opcode": "00003000",
+          "Value": "000007D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P3 Death (Press Select + R2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00010002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00778660",
+          "Opcode": "00003000",
+          "Value": "00000940",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press Select) to D Point 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "340D5C34",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press Select) to Star 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "340E0C34",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health & Ki",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000D7D14",
+          "Opcode": "00002000",
+          "Value": "48525E6D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005FDB80",
+          "Opcode": "00002000",
+          "Value": "2C170000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005FDB84",
+          "Opcode": "00002000",
+          "Value": "40820018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005FDB88",
+          "Opcode": "00002000",
+          "Value": "3C004347",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005FDB8C",
+          "Opcode": "00002000",
+          "Value": "6000FD71",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005FDB90",
+          "Opcode": "00002000",
+          "Value": "90150020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005FDB94",
+          "Opcode": "00002000",
+          "Value": "C1950018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005FDB98",
+          "Opcode": "00002000",
+          "Value": "D195001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005FDB9C",
+          "Opcode": "00002000",
+          "Value": "C195001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005FDBA0",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max D-Point On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00405D4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001607F4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00160850",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

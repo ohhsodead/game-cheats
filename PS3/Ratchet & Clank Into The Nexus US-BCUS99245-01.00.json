@@ -1,0 +1,243 @@
+{
+  "Game": "Ratchet & Clank Into The Nexus US",
+  "Region": "BCUS99245",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "999,999,999 Bolts",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E46A0",
+          "Opcode": "00002000",
+          "Value": "3C603B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E46A4",
+          "Opcode": "00002000",
+          "Value": "6063C9FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E46A8",
+          "Opcode": "00002000",
+          "Value": "33BD0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E46AC",
+          "Opcode": "00002000",
+          "Value": "7F9C1814",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E46B0",
+          "Opcode": "00002000",
+          "Value": "33FF0028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E46B4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00495C88",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9,999 Raritanium After Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004EFA4C",
+          "Opcode": "00002000",
+          "Value": "3860270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E6DC4",
+          "Opcode": "00002000",
+          "Value": "D3BD0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill An Enemy To Instantly Max Out Health Cap",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D9A28",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit An Enemy With A Weapon To Instantly Fully Level It",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00495F94",
+          "Opcode": "00002000",
+          "Value": "D03F000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jetpack Fuel Never Decreases (NOTE!)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001468CC",
+          "Opcode": "00002000",
+          "Value": "38600001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00153C40",
+          "Opcode": "00002000",
+          "Value": "C03F6230",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0017BA64",
+          "Opcode": "00002000",
+          "Value": "C0256230",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0017C48C",
+          "Opcode": "00002000",
+          "Value": "C3C46230",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "NOTE - Do not use on levels that don't have jetpack fuel!",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Clank Netherverse 0 Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00368B80",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Clank Netherverse Never Took Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00133890",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Clank Netherverse 0 Time (NOTE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006A0280",
+          "Opcode": "00002000",
+          "Value": "90640000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "NOTE - Disable it if you aren't doing Netherverse missions",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Clank Netherverse 0 Time Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006A0280",
+          "Opcode": "00002000",
+          "Value": "D0240000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Many Timers From Decreasing On (NOTE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006A02BC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Many Timers From Decreasing Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006A02BC",
+          "Opcode": "00002000",
+          "Value": "D0240000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

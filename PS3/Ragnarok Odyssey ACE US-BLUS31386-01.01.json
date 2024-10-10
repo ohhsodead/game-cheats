@@ -1,0 +1,690 @@
+{
+  "Game": "Ragnarok Odyssey ACE US",
+  "Region": "BLUS31386",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Zenny (After buying)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00414E80",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00203774",
+          "Opcode": "00002000",
+          "Value": "48C7EFAC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E82720",
+          "Opcode": "00002000",
+          "Value": "3C8047C3",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E82724",
+          "Opcode": "00002000",
+          "Value": "60844F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E82728",
+          "Opcode": "00002000",
+          "Value": "908B0060",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E8272C",
+          "Opcode": "00002000",
+          "Value": "908B0068",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E82730",
+          "Opcode": "00002000",
+          "Value": "3880002D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E82734",
+          "Opcode": "00002000",
+          "Value": "4B381044",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0065A83C",
+          "Opcode": "00002000",
+          "Value": "817F0018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Quick/Infinite Dainsleif",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00619E8C",
+          "Opcode": "00002000",
+          "Value": "388003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Item Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00491614",
+          "Opcode": "00002000",
+          "Value": "38840000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00340B90",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enable Refine Without Required Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0031E29C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Zenny (After buying)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00414F88",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0065B294",
+          "Opcode": "00002000",
+          "Value": "817F0018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Quick- Infinite Dainsleif",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0061A8E4",
+          "Opcode": "00002000",
+          "Value": "388003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enable Refine Without Required Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0031E3B0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Life Swordsman",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34DF0ED0",
+          "Opcode": "00002000",
+          "Value": "7F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34DF0ED4",
+          "Opcode": "00002000",
+          "Value": "7F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34DF0ED8",
+          "Opcode": "00002000",
+          "Value": "7F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34DF0EDC",
+          "Opcode": "00002000",
+          "Value": "7F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Life Archer",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34D54BE0",
+          "Opcode": "00002000",
+          "Value": "7F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34D54BE4",
+          "Opcode": "00002000",
+          "Value": "7F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34D54BE8",
+          "Opcode": "00002000",
+          "Value": "7F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34D54BEC",
+          "Opcode": "00002000",
+          "Value": "7F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Life Magus",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34CDDD30",
+          "Opcode": "00002000",
+          "Value": "7F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34CDDD34",
+          "Opcode": "00002000",
+          "Value": "7F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34CDDD38",
+          "Opcode": "00002000",
+          "Value": "7F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34CDDD3C",
+          "Opcode": "00002000",
+          "Value": "7F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Have All Special Skills Including DLC Ones",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3A202180",
+          "Opcode": "00004000",
+          "Value": "00029811",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "0000402A",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A202184",
+          "Opcode": "00004000",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "0000402A",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A202188",
+          "Opcode": "00004000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "0000402A",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Normal Items Maxed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3A1DF4A0",
+          "Opcode": "00004000",
+          "Value": "0000C35A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000010",
+          "Opcode": "000040A5",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A1DF4A8",
+          "Opcode": "00004000",
+          "Value": "0000C4F6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000010",
+          "Opcode": "000040A5",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A1DFEF0",
+          "Opcode": "00004000",
+          "Value": "0000C450",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000008",
+          "Opcode": "00004040",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A1DF4A4",
+          "Opcode": "00004000",
+          "Value": "00FE0100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000008",
+          "Opcode": "0000418C",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - The above code might have the offsets a little wrong?",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Weapons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3A19EEA0",
+          "Opcode": "00004000",
+          "Value": "00002B14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000009C",
+          "Opcode": "000040AB",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A19EEA4",
+          "Opcode": "00004000",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000009C",
+          "Opcode": "000040AB",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A19EEA8",
+          "Opcode": "00004000",
+          "Value": "00FF0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000009C",
+          "Opcode": "000040AB",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A19EEAC",
+          "Opcode": "00004000",
+          "Value": "0001B1DF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000009C",
+          "Opcode": "000040AB",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A19EEB0",
+          "Opcode": "00004000",
+          "Value": "0001B1E5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000009C",
+          "Opcode": "000040AB",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A19EEB4",
+          "Opcode": "00004000",
+          "Value": "02FF00AA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000009C",
+          "Opcode": "000040AB",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A19EEB8",
+          "Opcode": "00004000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000009C",
+          "Opcode": "000040AB",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A19EEBC",
+          "Opcode": "00004000",
+          "Value": "004B7FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000009C",
+          "Opcode": "000040AB",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A19EEC0",
+          "Opcode": "00004000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000009C",
+          "Opcode": "000040AB",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3A19EEC4",
+          "Opcode": "00004000",
+          "Value": "FFFF0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000009C",
+          "Opcode": "000040AB",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Quick Finish Quest (NOTE)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3345B8CF",
+          "Opcode": "00004200",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000004C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "NOTE - Use after killing 1 of each monster needed to finish ques",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Hp 1.01 !!",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002038E0",
+          "Opcode": "00002000",
+          "Value": "48C7EFAC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E854A5",
+          "Opcode": "00002000",
+          "Value": "80908B00",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "00002000 00E854A9 60908B00    ",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E854AD",
+          "Opcode": "00002000",
+          "Value": "68388000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E854B1",
+          "Opcode": "00002000",
+          "Value": "2D4B3810",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E854B5",
+          "Opcode": "00002000",
+          "Value": "44000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite AP(v1.01)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0065B294",
+          "Opcode": "00002000",
+          "Value": "817F0018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Quickly or Infinite Dansleif(v1.01)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0061A8E4",
+          "Opcode": "00002000",
+          "Value": "388003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Item Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0049171C",
+          "Opcode": "00002000",
+          "Value": "38840000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00340CA4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enable Refine without Required Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0031E3B0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Inf life swordsman (constant write)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34DF0ED0",
+          "Opcode": "00004000",
+          "Value": "4FFFFF00",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004004",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

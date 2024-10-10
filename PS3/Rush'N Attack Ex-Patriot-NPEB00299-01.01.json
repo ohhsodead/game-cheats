@@ -1,0 +1,157 @@
+{
+  "Game": "Rush'N Attack Ex-Patriot",
+  "Region": "NPEB00299",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "HP Increaser",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010120",
+          "Opcode": "00002000",
+          "Value": "3CE00001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010124",
+          "Opcode": "00002000",
+          "Value": "93A701F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010128",
+          "Opcode": "00002000",
+          "Value": "801D02D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001012C",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010130",
+          "Opcode": "00002000",
+          "Value": "800B0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010134",
+          "Opcode": "00002000",
+          "Value": "3CE00001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010138",
+          "Opcode": "00002000",
+          "Value": "80E701F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001013C",
+          "Opcode": "00002000",
+          "Value": "2F870000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010140",
+          "Opcode": "00002000",
+          "Value": "419E001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010144",
+          "Opcode": "00002000",
+          "Value": "30E702D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010148",
+          "Opcode": "00002000",
+          "Value": "7F875800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001014C",
+          "Opcode": "00002000",
+          "Value": "409E0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010150",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010154",
+          "Opcode": "00002000",
+          "Value": "900B0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010158",
+          "Opcode": "00002000",
+          "Value": "48964268",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001015C",
+          "Opcode": "00002000",
+          "Value": "48964260",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BFE968",
+          "Opcode": "00002000",
+          "Value": "4B4117B9",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009743B8",
+          "Opcode": "00002000",
+          "Value": "4B69BD78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Grenade Increaser",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C9CB34",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C9CB3C",
+          "Opcode": "00002000",
+          "Value": "909E02F8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

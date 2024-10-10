@@ -1,0 +1,19 @@
+{
+  "Game": "Heavy Weapon US",
+  "Region": "NPUA30004",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001967E4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

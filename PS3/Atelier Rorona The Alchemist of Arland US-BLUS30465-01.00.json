@@ -1,0 +1,67 @@
+{
+  "Game": "Atelier Rorona The Alchemist of Arland US",
+  "Region": "BLUS30465",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Cole on Change in Value",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002CD0B8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max HP Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D0010",
+          "Opcode": "00002000",
+          "Value": "409D0128",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Attack During Combat",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D0054",
+          "Opcode": "00002000",
+          "Value": "409D00C4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Defense During Combat",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D0098",
+          "Opcode": "00002000",
+          "Value": "409D0074",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Lv 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CFF88",
+          "Opcode": "00002000",
+          "Value": "409D01F0",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

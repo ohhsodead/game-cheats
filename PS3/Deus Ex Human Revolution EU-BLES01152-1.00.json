@@ -1,0 +1,126 @@
+{
+  "Game": "Deus Ex Human Revolution EU",
+  "Region": "BLES01152",
+  "Version": "1.00",
+  "Cheats": [
+    {
+      "Name": "Max Credits on Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0044F16C",
+          "Opcode": "00002000",
+          "Value": "3C007FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Credits while in Shop",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00751CAC",
+          "Opcode": "00002000",
+          "Value": "3FA07FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Upgrade/Ability Points (Re-Enter Menu)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0043559C",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Quick Level Up (1 EXP till next Level)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00435140",
+          "Opcode": "00002000",
+          "Value": "409E0024",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0044A498",
+          "Opcode": "00002000",
+          "Value": "3D8042C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0044A49C",
+          "Opcode": "00002000",
+          "Value": "919F0060",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max + Infinite Battery",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0043B274",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0043B278",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0043BC48",
+          "Opcode": "00002000",
+          "Value": "3D804316",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0043BC88",
+          "Opcode": "00002000",
+          "Value": "919F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo + Bottomless Clip",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005EDECC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005EDEE8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

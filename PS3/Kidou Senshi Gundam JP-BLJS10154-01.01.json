@@ -1,0 +1,69 @@
+{
+  "Game": "Kidou Senshi Gundam JP",
+  "Region": "BLJS10154",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max UC Points After Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006005E0",
+          "Opcode": "00002000",
+          "Value": "912A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite UC Points Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0066971C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Weapon Ammo Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00248278",
+          "Opcode": "00002000",
+          "Value": "D3FF0054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024B2B8",
+          "Opcode": "00002000",
+          "Value": "D3FF0054",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Fuel Level Always Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B71F8",
+          "Opcode": "00002000",
+          "Value": "C1BF0480",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001B7208",
+          "Opcode": "00002000",
+          "Value": "C01F0480",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

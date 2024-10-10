@@ -1,0 +1,153 @@
+{
+  "Game": "Mafia 2 EU",
+  "Region": "BLES00521",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01B6DEA0",
+          "Opcode": "00003000",
+          "Value": "00000090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01B6DEA8",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01B6DEC4",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01B6DEC8",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01B6DEA0",
+          "Opcode": "00003000",
+          "Value": "000000C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01B6DEA0",
+          "Opcode": "00003000",
+          "Value": "000000C4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO,GRENADES",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0087D384",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Grenades [01.03]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0087D384",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

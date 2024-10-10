@@ -1,0 +1,38 @@
+{
+  "Game": "Hokuto Musou JP",
+  "Region": "BLJM60196",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "All Characters Skill Points Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34009008",
+          "Opcode": "00004000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000240",
+          "Opcode": "00004008",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - For above code. Does not work with character DLC.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

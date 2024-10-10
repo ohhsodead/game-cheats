@@ -1,0 +1,45 @@
+{
+  "Game": "Transformers - Fall Of Cybertron US",
+  "Region": "BLUS30681",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B0C038",
+          "Opcode": "00002000",
+          "Value": "C0450354",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B0C03C",
+          "Opcode": "00002000",
+          "Value": "D0450350",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B0C040",
+          "Opcode": "00002000",
+          "Value": "EC221028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo / No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B7147C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

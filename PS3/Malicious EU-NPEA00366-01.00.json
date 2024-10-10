@@ -1,0 +1,31 @@
+{
+  "Game": "Malicious EU",
+  "Region": "NPEA00366",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Aura",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00120540",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000DD998",
+          "Opcode": "00002000",
+          "Value": "A0640346",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

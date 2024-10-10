@@ -1,0 +1,665 @@
+{
+  "Game": "Gundam Breaker",
+  "Region": "BLJS10197",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Credits On Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00303D14",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Credits On Sell",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030B490",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000BDF0C",
+          "Opcode": "00002000",
+          "Value": "FC401890",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C431C",
+          "Opcode": "00002000",
+          "Value": "FC201090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000C43B4",
+          "Opcode": "00002000",
+          "Value": "FC201090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C27E4",
+          "Opcode": "00002000",
+          "Value": "C03F03F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite GP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00303D14",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002137C4",
+          "Opcode": "00002000",
+          "Value": "7CE61814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Cost 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002B9A30",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002B94F0",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002B8F38",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Size 0.5x & Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C27E4",
+          "Opcode": "00002000",
+          "Value": "489D6893",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6890",
+          "Opcode": "00002000",
+          "Value": "C03F03F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6894",
+          "Opcode": "00002000",
+          "Value": "3AE03ED0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6898",
+          "Opcode": "00002000",
+          "Value": "B2FF00A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D689C",
+          "Opcode": "00002000",
+          "Value": "B2FF00A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A0",
+          "Opcode": "00002000",
+          "Value": "B2FF00A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Size x1.5x & Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C27E4",
+          "Opcode": "00002000",
+          "Value": "489D6893",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6890",
+          "Opcode": "00002000",
+          "Value": "C03F03F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6894",
+          "Opcode": "00002000",
+          "Value": "3AE04000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6898",
+          "Opcode": "00002000",
+          "Value": "B2FF00A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D689C",
+          "Opcode": "00002000",
+          "Value": "B2FF00A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A0",
+          "Opcode": "00002000",
+          "Value": "B2FF00A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Size 2x & Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C27E4",
+          "Opcode": "00002000",
+          "Value": "489D6893",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6890",
+          "Opcode": "00002000",
+          "Value": "C03F03F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6894",
+          "Opcode": "00002000",
+          "Value": "3AE04020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6898",
+          "Opcode": "00002000",
+          "Value": "B2FF00A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D689C",
+          "Opcode": "00002000",
+          "Value": "B2FF00A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A0",
+          "Opcode": "00002000",
+          "Value": "B2FF00A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Size 10x & Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C27E4",
+          "Opcode": "00002000",
+          "Value": "489D6893",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6890",
+          "Opcode": "00002000",
+          "Value": "C03F03F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6894",
+          "Opcode": "00002000",
+          "Value": "3AE040F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6898",
+          "Opcode": "00002000",
+          "Value": "B2FF00A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D689C",
+          "Opcode": "00002000",
+          "Value": "B2FF00A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A0",
+          "Opcode": "00002000",
+          "Value": "B2FF00A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Big Map",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003BFCA4",
+          "Opcode": "00002000",
+          "Value": "FD86302A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003BFCA8",
+          "Opcode": "00002000",
+          "Value": "FFE6302A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003BFCB4",
+          "Opcode": "00002000",
+          "Value": "FFC6302A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM,AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000BDF0C",
+          "Opcode": "00002000",
+          "Value": "FC401890",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ENERGY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C431C",
+          "Opcode": "00002000",
+          "Value": "FC201090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000C43B4",
+          "Opcode": "00002000",
+          "Value": "FC201090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C27E4",
+          "Opcode": "00002000",
+          "Value": "C03F03F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE GP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00303D14",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002137C4",
+          "Opcode": "00002000",
+          "Value": "7CE61814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "size x0.5 & INFINITE HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C27E4",
+          "Opcode": "00002000",
+          "Value": "489D6893",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6890",
+          "Opcode": "00002000",
+          "Value": "C03F03F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6894",
+          "Opcode": "00002000",
+          "Value": "3AE03ED0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6898",
+          "Opcode": "00002000",
+          "Value": "B2FF00A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D689C",
+          "Opcode": "00002000",
+          "Value": "B2FF00A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A0",
+          "Opcode": "00002000",
+          "Value": "B2FF00A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "size x1.5 & INFINITE HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C27E4",
+          "Opcode": "00002000",
+          "Value": "489D6893",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6890",
+          "Opcode": "00002000",
+          "Value": "C03F03F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6894",
+          "Opcode": "00002000",
+          "Value": "3AE04000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6898",
+          "Opcode": "00002000",
+          "Value": "B2FF00A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D689C",
+          "Opcode": "00002000",
+          "Value": "B2FF00A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A0",
+          "Opcode": "00002000",
+          "Value": "B2FF00A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "size x2 & INFINITE HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C27E4",
+          "Opcode": "00002000",
+          "Value": "489D6893",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6890",
+          "Opcode": "00002000",
+          "Value": "C03F03F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6894",
+          "Opcode": "00002000",
+          "Value": "3AE04020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6898",
+          "Opcode": "00002000",
+          "Value": "B2FF00A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D689C",
+          "Opcode": "00002000",
+          "Value": "B2FF00A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A0",
+          "Opcode": "00002000",
+          "Value": "B2FF00A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "size x10 & INFINITE HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C27E4",
+          "Opcode": "00002000",
+          "Value": "489D6893",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6890",
+          "Opcode": "00002000",
+          "Value": "C03F03F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6894",
+          "Opcode": "00002000",
+          "Value": "3AE040F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D6898",
+          "Opcode": "00002000",
+          "Value": "B2FF00A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D689C",
+          "Opcode": "00002000",
+          "Value": "B2FF00A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A0",
+          "Opcode": "00002000",
+          "Value": "B2FF00A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D68A4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "BIGMAP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003BFCA4",
+          "Opcode": "00002000",
+          "Value": "FD86302A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003BFCA8",
+          "Opcode": "00002000",
+          "Value": "FFE6302A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003BFCB4",
+          "Opcode": "00002000",
+          "Value": "FFC6302A",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

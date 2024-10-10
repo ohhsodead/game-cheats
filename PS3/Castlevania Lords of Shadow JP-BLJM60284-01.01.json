@@ -1,0 +1,114 @@
+{
+  "Game": "Castlevania Lords of Shadow JP",
+  "Region": "BLJM60284",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Gabriel Exprience Point 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FBDE80",
+          "Opcode": "00003000",
+          "Value": "FFFFFE1C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gabriel Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FE26E8",
+          "Opcode": "00003000",
+          "Value": "00000488",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Activate Only After 1st Saving",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Press Start to Infinite Secondary Weapon Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00FE7030",
+          "Opcode": "00004000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000034",
+          "Opcode": "00004003",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00FE70CC",
+          "Opcode": "00002000",
+          "Value": "0000001E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Light Magic Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FE6E6C",
+          "Opcode": "00002000",
+          "Value": "41F00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Shadow Magic Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FE6F60",
+          "Opcode": "00002000",
+          "Value": "41F00000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

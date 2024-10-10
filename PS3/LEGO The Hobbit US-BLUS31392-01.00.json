@@ -1,0 +1,81 @@
+{
+  "Game": "LEGO The Hobbit US",
+  "Region": "BLUS31392",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Gold Multiplier x200",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00DF6694",
+          "Opcode": "00002000",
+          "Value": "1FBD00C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Items On Get",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00ACE1D0",
+          "Opcode": "00002000",
+          "Value": "38C003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008305C0",
+          "Opcode": "00002000",
+          "Value": "889F05E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008305D4",
+          "Opcode": "00002000",
+          "Value": "989F05E1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008305D8",
+          "Opcode": "00002000",
+          "Value": "4B9B6229",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "200x Gold Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00DF6694",
+          "Opcode": "00002000",
+          "Value": "1FBD00C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Items On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00ACE1D0",
+          "Opcode": "00002000",
+          "Value": "38C003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

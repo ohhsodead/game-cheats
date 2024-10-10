@@ -1,0 +1,19 @@
+{
+  "Game": "Naruto Shippuden Ultimate Ninja Storm Generations EU>",
+  "Region": "BLES01481",
+  "Version": "",
+  "Cheats": [
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00454524",
+          "Opcode": "00002000",
+          "Value": "40990034",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

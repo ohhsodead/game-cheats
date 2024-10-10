@@ -1,0 +1,83 @@
+{
+  "Game": "Call of Duty Black Ops II EU",
+  "Region": "BLES01717",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00048618",
+          "Opcode": "00002000",
+          "Value": "7C651B78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001FE17C",
+          "Opcode": "00002000",
+          "Value": "7CF91814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Bullet Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012276A8",
+          "Opcode": "00002000",
+          "Value": "0000001E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012276B4",
+          "Opcode": "00002000",
+          "Value": "0000001E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Total Bullet 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01227630",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01227638",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenade Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01227650",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012276C0",
+          "Opcode": "00002000",
+          "Value": "00000005",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

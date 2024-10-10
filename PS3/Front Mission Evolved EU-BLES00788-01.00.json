@@ -1,0 +1,78 @@
+{
+  "Game": "Front Mission Evolved EU",
+  "Region": "BLES00788",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Ammo Infinite",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002104D8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00210488",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Boost Infinite",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000DEAB0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000DEA38",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002706E0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "E.D.G.E. Meter Infinite",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E95FC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E860C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E7E28",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

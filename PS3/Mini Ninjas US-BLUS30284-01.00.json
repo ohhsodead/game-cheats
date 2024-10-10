@@ -1,0 +1,308 @@
+{
+  "Game": "Mini Ninjas US",
+  "Region": "BLUS30284",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Gain Any EXP To Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000172D0",
+          "Opcode": "00002000",
+          "Value": "3C007F7F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000172D4",
+          "Opcode": "00002000",
+          "Value": "90030008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "High Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000BF678",
+          "Opcode": "00002000",
+          "Value": "3C007F7F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000BF67C",
+          "Opcode": "00002000",
+          "Value": "6000FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000BF680",
+          "Opcode": "00002000",
+          "Value": "901F0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Magic Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003D6C8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Red Power Orbs Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0004B8A8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Stamina Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00070E20",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Always Use Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003D2F8",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pick Up 1 Blue Ki Orb To Get Max Ki",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00064C24",
+          "Opcode": "00002000",
+          "Value": "3D207FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00064C28",
+          "Opcode": "00002000",
+          "Value": "6129FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00064C2C",
+          "Opcode": "00002000",
+          "Value": "913F0978",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pick Up 1 Red Power Orb To Get Max Power Orbs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00064A2C",
+          "Opcode": "00002000",
+          "Value": "3C007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00064A30",
+          "Opcode": "00002000",
+          "Value": "6000FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Camouflage Doesn't Drain Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003F56C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Always Drop Red Power Orbs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00111010",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Archers Never Fire",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00187A28",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Archer Arrows Go Through You",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00066C4C",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies With Spears Rarely Move",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B4C04",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Don't Do Melee Attacks, Archers Have Rapid Fire",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035E168",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0035E174",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Most Enemy Sword Attacks Miss",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00118B9C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Very Fast Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00319AF0",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can't Jump, But Instantly Teleport Direction Roll",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003C640",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Samurai Healing Brew Doesn't Decrease Ki",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000430DC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ghosts Can't Drain Ki",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00223114",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain An Item For 99 Of That Item",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000BAA28",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Use An Item For 99 Of That Item",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000BAA8C",
+          "Opcode": "00002000",
+          "Value": "39600064",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

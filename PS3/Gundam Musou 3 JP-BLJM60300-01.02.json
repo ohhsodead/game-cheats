@@ -1,0 +1,668 @@
+{
+  "Game": "Gundam Musou 3 JP",
+  "Region": "BLJM60300",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Gold 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0067426C",
+          "Opcode": "00003000",
+          "Value": "FFFFE050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Score 9999 in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00674218",
+          "Opcode": "00003000",
+          "Value": "00000016",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Armor Max in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00767E24",
+          "Opcode": "00003000",
+          "Value": "00000120",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00004E20",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00767E24",
+          "Opcode": "00003000",
+          "Value": "00000124",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00004E20",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player SP Max in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00767E24",
+          "Opcode": "00003000",
+          "Value": "00000128",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00002328",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00767E24",
+          "Opcode": "00003000",
+          "Value": "0000012C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00002328",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Infinite Thrust in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00767E24",
+          "Opcode": "00003000",
+          "Value": "0000013E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000004B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00767E24",
+          "Opcode": "00003000",
+          "Value": "00000140",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000004B0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy 1 Hit Kill in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00767E24",
+          "Opcode": "00003000",
+          "Value": "00000136",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00767E24",
+          "Opcode": "00003000",
+          "Value": "00000138",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Defense Max in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00767E24",
+          "Opcode": "00003000",
+          "Value": "0000013C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlock All Pilot",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006C7C1F 00000007",
+          "Opcode": "00004200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "0000404E 00000050 00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Pilot Level Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006C7C27",
+          "Opcode": "00004200",
+          "Value": "00000031",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "0000404E 00000050 00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Pilot Point Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006C7C28",
+          "Opcode": "00004000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Pilot Status Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006C7C30",
+          "Opcode": "00004100",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006C7C32",
+          "Opcode": "00004100",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006C7C34",
+          "Opcode": "00004100",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlock All Skill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006C7C43",
+          "Opcode": "00004200",
+          "Value": "0000007F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006C7C44",
+          "Opcode": "00004000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006842F4",
+          "Opcode": "00003000",
+          "Value": "FFFFE050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Score 9999 in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006842A0",
+          "Opcode": "00003000",
+          "Value": "00000016",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Armor Max in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00777F24",
+          "Opcode": "00003000",
+          "Value": "00000120",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00004E20",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00777F24",
+          "Opcode": "00003000",
+          "Value": "00000124",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00004E20",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player SP Max in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00777F24",
+          "Opcode": "00003000",
+          "Value": "00000128",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00002328",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00777F24",
+          "Opcode": "00003000",
+          "Value": "0000012C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00002328",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Infinite Thrust in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00777F24",
+          "Opcode": "00003000",
+          "Value": "0000013E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000004B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00777F24",
+          "Opcode": "00003000",
+          "Value": "00000140",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000004B0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy 1 Hit Kill in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00777F24",
+          "Opcode": "00003000",
+          "Value": "00000136",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00777F24",
+          "Opcode": "00003000",
+          "Value": "00000138",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Defense Max in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00777F24",
+          "Opcode": "00003000",
+          "Value": "0000013C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlock All Pilot",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006D7D1F",
+          "Opcode": "00004200",
+          "Value": "00000007",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Pilot Level Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006D7D27",
+          "Opcode": "00004200",
+          "Value": "00000031",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Pilot Point Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006D7D28",
+          "Opcode": "00004000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Pilot Status Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006D7D30",
+          "Opcode": "00004100",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006D7D32",
+          "Opcode": "00004100",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006D7D34",
+          "Opcode": "00004100",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlock All Skill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006D7D43",
+          "Opcode": "00004200",
+          "Value": "0000007F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006D7D44",
+          "Opcode": "00004000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000050",
+          "Opcode": "0000404E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "Game": "The Incredible Hulk US",
+  "Region": "BLUS30152",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Score 999999999 (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3B425860",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AAE128",
+          "Opcode": "00003000",
+          "Value": "0000057C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AAE128",
+          "Opcode": "00003000",
+          "Value": "00000584",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

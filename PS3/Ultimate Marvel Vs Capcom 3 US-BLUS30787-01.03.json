@@ -1,0 +1,19 @@
+{
+  "Game": "Ultimate Marvel Vs Capcom 3 US",
+  "Region": "BLUS30787",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "P2 CPU Stands Still",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0018C150",
+          "Opcode": "00002000",
+          "Value": "409E01D4",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

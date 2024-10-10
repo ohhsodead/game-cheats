@@ -1,0 +1,95 @@
+{
+  "Game": "Crescent Pale Mist US",
+  "Region": "NPUA30032",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Freeze Timer",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0036B6F0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0036B66C",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0036B670",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max PM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0036B674",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0036B678",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max CP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0036B680",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0036B684",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0036B688",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Score",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0036B6C4",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

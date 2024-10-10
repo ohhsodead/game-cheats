@@ -1,0 +1,57 @@
+{
+  "Game": "Tom Clancy's Ghost Recon Future Soldier US",
+  "Region": "BLUS30521",
+  "Version": "01.05",
+  "Cheats": [
+    {
+      "Name": "Items Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FD860",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018F4744",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "017F8260",
+          "Opcode": "00002000",
+          "Value": "801D0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "017F8264",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "017F8268",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

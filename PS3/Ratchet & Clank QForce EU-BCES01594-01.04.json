@@ -1,0 +1,19 @@
+{
+  "Game": "Ratchet & Clank QForce EU",
+  "Region": "BCES01594",
+  "Version": "01.04",
+  "Cheats": [
+    {
+      "Name": "1P Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00050250",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

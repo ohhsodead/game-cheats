@@ -1,0 +1,19 @@
+{
+  "Game": "Naruto Shippuden Ultimate Ninja Storm JP",
+  "Region": "BLJS10043",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Gold 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AAF504",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

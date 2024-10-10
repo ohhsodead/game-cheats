@@ -1,0 +1,38 @@
+{
+  "Game": "Kingdoms of Amalur Reckoning EU",
+  "Region": "BLES01251",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Max Gold on Gain/Sell",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002A878",
+          "Opcode": "00002000",
+          "Value": "33FE034C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Fate",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00042320",
+          "Opcode": "00002000",
+          "Value": "38800109",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00042338",
+          "Opcode": "00002000",
+          "Value": "38600109",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

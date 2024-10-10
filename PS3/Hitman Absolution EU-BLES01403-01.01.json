@@ -1,0 +1,57 @@
+{
+  "Game": "Hitman Absolution EU",
+  "Region": "BLES01403",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Never Dead Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F8AEE0",
+          "Opcode": "00002000",
+          "Value": "C2C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Never Be Seen/Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007AF7AC",
+          "Opcode": "00002000",
+          "Value": "3C604080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00500190",
+          "Opcode": "00002000",
+          "Value": "3D604480",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00500194",
+          "Opcode": "00002000",
+          "Value": "91640218",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00500190",
+          "Opcode": "00002000",
+          "Value": "9164021C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

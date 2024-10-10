@@ -1,0 +1,125 @@
+{
+  "Game": "Ninja Gaiden 3 Razor's Edge EU",
+  "Region": "BLES01524",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Invincible (Press Up=On) (Press Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024BCEC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024BCEC",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ki",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024BD14",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024C8E4",
+          "Opcode": "00002000",
+          "Value": "48000054",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible Alt? (Press Select=On) (Press Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024A7DC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024A7DC",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible (Press UP=On) (Press Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024BCEC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024BCEC",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

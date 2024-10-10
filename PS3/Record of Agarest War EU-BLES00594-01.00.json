@@ -1,0 +1,88 @@
+{
+  "Game": "Record of Agarest War EU",
+  "Region": "BLES00594",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Gold After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00074DA8",
+          "Opcode": "00002000",
+          "Value": "409C0018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max EP After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00074E58",
+          "Opcode": "00002000",
+          "Value": "409C0018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max TP After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00074FB8",
+          "Opcode": "00002000",
+          "Value": "409C0018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max PP After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00074F08",
+          "Opcode": "00002000",
+          "Value": "409C0018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Forge Anything Without Material",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00075188",
+          "Opcode": "00002000",
+          "Value": "419E00BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000751C4",
+          "Opcode": "00002000",
+          "Value": "419C0028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00075108",
+          "Opcode": "00002000",
+          "Value": "419C0024",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0002641C",
+          "Opcode": "00002000",
+          "Value": "419C0010",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

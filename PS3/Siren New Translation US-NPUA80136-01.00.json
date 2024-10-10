@@ -1,0 +1,570 @@
+{
+  "Game": "Siren New Translation US",
+  "Region": "NPUA80136",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0014AFCC",
+          "Opcode": "00002000",
+          "Value": "93BE0374",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Can't See You (Select=On Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006275C0",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006275C0",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Certain Damages (See 6 Notes Below)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0042698C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004288D4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00428448",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C007",
+          "Value": "00800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0042558C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004255C8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00425D8C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00427990",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00427B94",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00427DA4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00427EE8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "0000C00A 00000000 00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0042698C",
+          "Opcode": "00002000",
+          "Value": "D0060008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004288D4",
+          "Opcode": "00002000",
+          "Value": "D0060008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00428448",
+          "Opcode": "00002000",
+          "Value": "D0060008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0042558C",
+          "Opcode": "00002000",
+          "Value": "D0030008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004255C8",
+          "Opcode": "00002000",
+          "Value": "D0030008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00425D8C",
+          "Opcode": "00002000",
+          "Value": "D0060008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00427990",
+          "Opcode": "00002000",
+          "Value": "D1BF0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00427B94",
+          "Opcode": "00002000",
+          "Value": "D1BF0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00427DA4",
+          "Opcode": "00002000",
+          "Value": "D01F0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00427EE8",
+          "Opcode": "00002000",
+          "Value": "D0060008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 1/6 - These affect you, allies, and enemies",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 2/6 - Press Up and melee attacks do no damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 3/6 - Press Right and bullets do no damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 4/6 - Press Down and certain attacks do no damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 5/6 - Press Left for anything else to not affect health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 6/6 - Press L3 to disable all",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.25x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00457314",
+          "Opcode": "00002000",
+          "Value": "3C003FA0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00457318",
+          "Opcode": "00002000",
+          "Value": "901C000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.5x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00457314",
+          "Opcode": "00002000",
+          "Value": "3C003FC0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00457318",
+          "Opcode": "00002000",
+          "Value": "901C000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.75x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00457314",
+          "Opcode": "00002000",
+          "Value": "3C003FE0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00457318",
+          "Opcode": "00002000",
+          "Value": "901C000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00457314",
+          "Opcode": "00002000",
+          "Value": "3C004000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00457318",
+          "Opcode": "00002000",
+          "Value": "901C000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Flying Shibito Don't Move",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004476CC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.5x Brightness",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000517D4",
+          "Opcode": "00002000",
+          "Value": "3FA03FC0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000517D8",
+          "Opcode": "00002000",
+          "Value": "93BF001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000517DC",
+          "Opcode": "00002000",
+          "Value": "480010FD",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Brightness",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000517D4",
+          "Opcode": "00002000",
+          "Value": "3FA04000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000517D8",
+          "Opcode": "00002000",
+          "Value": "93BF001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000517DC",
+          "Opcode": "00002000",
+          "Value": "480010FD",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Brightness",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000517D4",
+          "Opcode": "00002000",
+          "Value": "3FA04080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000517D8",
+          "Opcode": "00002000",
+          "Value": "93BF001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000517DC",
+          "Opcode": "00002000",
+          "Value": "480010FD",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "8x Brightness",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000517D4",
+          "Opcode": "00002000",
+          "Value": "3FA04100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000517D8",
+          "Opcode": "00002000",
+          "Value": "93BF001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000517DC",
+          "Opcode": "00002000",
+          "Value": "480010FD",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "16x Brightness",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000517D4",
+          "Opcode": "00002000",
+          "Value": "3FA04180",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000517D8",
+          "Opcode": "00002000",
+          "Value": "93BF001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000517DC",
+          "Opcode": "00002000",
+          "Value": "480010FD",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "32x Brightness",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000517D4",
+          "Opcode": "00002000",
+          "Value": "3FA04200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000517D8",
+          "Opcode": "00002000",
+          "Value": "93BF001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000517DC",
+          "Opcode": "00002000",
+          "Value": "480010FD",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Small Brightness Boost",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00061298",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Black & White Visuals",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00061290",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

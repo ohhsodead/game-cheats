@@ -1,0 +1,19 @@
+{
+  "Game": "World Soccer Winning Eleven 2011 JP",
+  "Region": "BLJM60271",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "GP 999,999,999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3007A7B0",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "Game": "Dead Or Alive 5 JP",
+  "Region": "BLJM60513",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1P Can Hit Anywhere And 2P Can't Hit 1P At All",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001EF614",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EF414",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EF304",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Can Throw Anywhere And 2P Can't Throw 1P At All",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002596B0",
+          "Opcode": "00002000",
+          "Value": "7C1BE800",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Block",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00258540",
+          "Opcode": "00002000",
+          "Value": "48000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002585B8",
+          "Opcode": "00002000",
+          "Value": "48000064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00258694",
+          "Opcode": "00002000",
+          "Value": "48000048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002586E4",
+          "Opcode": "00002000",
+          "Value": "48000018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Hold",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0023BA64",
+          "Opcode": "00002000",
+          "Value": "480003A8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "Game": "Demon's Souls EU",
+  "Region": "BLES00932",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Invincible For Most Enemies",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026E74C",
+          "Opcode": "00002000",
+          "Value": "3D400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026E750",
+          "Opcode": "00002000",
+          "Value": "614A0063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002BF448",
+          "Opcode": "00002000",
+          "Value": "3D400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002BF454",
+          "Opcode": "00002000",
+          "Value": "614A0063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP/MP & Max Stamina/Souls",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002D91FC",
+          "Opcode": "00002000",
+          "Value": "7F7CDB78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9200",
+          "Opcode": "00002000",
+          "Value": "3C000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9204",
+          "Opcode": "00002000",
+          "Value": "6000869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9208",
+          "Opcode": "00002000",
+          "Value": "901D000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D920C",
+          "Opcode": "00002000",
+          "Value": "901D0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9210",
+          "Opcode": "00002000",
+          "Value": "901D0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9214",
+          "Opcode": "00002000",
+          "Value": "901D0018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9218",
+          "Opcode": "00002000",
+          "Value": "901D001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D921C",
+          "Opcode": "00002000",
+          "Value": "901D0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9220",
+          "Opcode": "00002000",
+          "Value": "901D0028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9224",
+          "Opcode": "00002000",
+          "Value": "901D002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9228",
+          "Opcode": "00002000",
+          "Value": "901D0030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D922C",
+          "Opcode": "00002000",
+          "Value": "3C003B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9230",
+          "Opcode": "00002000",
+          "Value": "6000C9FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9234",
+          "Opcode": "00002000",
+          "Value": "901D0078",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9238",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D923C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9240",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9244",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D924C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9250",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002D9250",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99x Max Every Item",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00901F34",
+          "Opcode": "00002000",
+          "Value": "3B800063",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

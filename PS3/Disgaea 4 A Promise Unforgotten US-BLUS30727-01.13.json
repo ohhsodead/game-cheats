@@ -1,0 +1,7151 @@
+{
+  "Game": "Disgaea 4 A Promise Unforgotten US",
+  "Region": "BLUS30727",
+  "Version": "01.13",
+  "Cheats": [
+    {
+      "Name": "Info - Press [F1] Disgaea 4 A Promise Unforgotten.txt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP For You, Enemies Die From 1 Hit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00134108",
+          "Opcode": "00002000",
+          "Value": "8816055B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012410C",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00124110",
+          "Opcode": "00002000",
+          "Value": "E80B0BA8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00124114",
+          "Opcode": "00002000",
+          "Value": "419E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00124118",
+          "Opcode": "00002000",
+          "Value": "3C000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP For You, 0 SP For Enemies After 1 Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C86B0",
+          "Opcode": "00002000",
+          "Value": "7A6B0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C86B4",
+          "Opcode": "00002000",
+          "Value": "814B01AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C86B8",
+          "Opcode": "00002000",
+          "Value": "880B055B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C86BC",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C86C0",
+          "Opcode": "00002000",
+          "Value": "E80A0BB0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C86C4",
+          "Opcode": "00002000",
+          "Value": "419E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C86C8",
+          "Opcode": "00002000",
+          "Value": "3C000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Control Anything",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00306250",
+          "Opcode": "00002000",
+          "Value": "48000014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030695C",
+          "Opcode": "00002000",
+          "Value": "4BFFF908",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00306228",
+          "Opcode": "00002000",
+          "Value": "3D800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00306240",
+          "Opcode": "00002000",
+          "Value": "B19D055C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sell Anything For Max HL",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002965C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Evil Symbols Can Now Be Suggested",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007119C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Class A & B Created Or Reincarnated Characters Don't Require App",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0034447C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sell An Evility For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0036D288",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Magichanged Unit For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E0D8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 2x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C4",
+          "Opcode": "00002000",
+          "Value": "1D290002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0CC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0D0",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 4x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C4",
+          "Opcode": "00002000",
+          "Value": "1D290004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0CC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0D0",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 8x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C4",
+          "Opcode": "00002000",
+          "Value": "1D290008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0CC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0D0",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 16x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C4",
+          "Opcode": "00002000",
+          "Value": "1D290010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0CC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0D0",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 32x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C4",
+          "Opcode": "00002000",
+          "Value": "1D290020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0CC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0D0",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 64x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C4",
+          "Opcode": "00002000",
+          "Value": "1D290040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0CC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0D0",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 128x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C4",
+          "Opcode": "00002000",
+          "Value": "1D290080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E0C8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Fused Monster Unit For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E208",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 2x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F4",
+          "Opcode": "00002000",
+          "Value": "1D290002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1FC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E200",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 4x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F4",
+          "Opcode": "00002000",
+          "Value": "1D290004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1FC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E200",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 8x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F4",
+          "Opcode": "00002000",
+          "Value": "1D290008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1FC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E200",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 16x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F4",
+          "Opcode": "00002000",
+          "Value": "1D290010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1FC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E200",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 32x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F4",
+          "Opcode": "00002000",
+          "Value": "1D290020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1FC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E200",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 64x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F4",
+          "Opcode": "00002000",
+          "Value": "1D290040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1FC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E200",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 128x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F4",
+          "Opcode": "00002000",
+          "Value": "1D290080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1F8",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E1FC",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E200",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E22C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 2x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E218",
+          "Opcode": "00002000",
+          "Value": "1FFF0002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E21C",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E220",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E224",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 4x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E218",
+          "Opcode": "00002000",
+          "Value": "1FFF0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E21C",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E220",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E224",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 8x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E218",
+          "Opcode": "00002000",
+          "Value": "1FFF0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E21C",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E220",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E224",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 16x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E218",
+          "Opcode": "00002000",
+          "Value": "1FFF0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E21C",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E220",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E224",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 32x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E218",
+          "Opcode": "00002000",
+          "Value": "1FFF0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E21C",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E220",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E224",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 64x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E218",
+          "Opcode": "00002000",
+          "Value": "1FFF0040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E21C",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E220",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E224",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 128x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E218",
+          "Opcode": "00002000",
+          "Value": "1FFF0080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E21C",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E220",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001E224",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enter The 'Create A New Character' Or 'Reincarnate' Menu For Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001EC818",
+          "Opcode": "00002000",
+          "Value": "3C000099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Create A New Character Or Reincarnate For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003443A8",
+          "Opcode": "00002000",
+          "Value": "3C000099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Boost A Non-Character Specific Skill For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00371414",
+          "Opcode": "00002000",
+          "Value": "3C000099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Boost A Character Specific Skill For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0037149C",
+          "Opcode": "00002000",
+          "Value": "3C000099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Learn A Skill Or Evility For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C50",
+          "Opcode": "00002000",
+          "Value": "3C000099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Win The Instant A Stage Starts",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002CBA0C",
+          "Opcode": "00002000",
+          "Value": "3C000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Toggle Instant Wins (L2 + Up = On, L2 + Down = Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002CBA0C",
+          "Opcode": "00002000",
+          "Value": "3C000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00140000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002CBA0C",
+          "Opcode": "00002000",
+          "Value": "881F055B",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Have Max MV",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078A18",
+          "Opcode": "00002000",
+          "Value": "3800001F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Have Max JMP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078A20",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Are At Level 255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078A10",
+          "Opcode": "00002000",
+          "Value": "396000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Have Max Attack Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000789F8",
+          "Opcode": "00002000",
+          "Value": "38000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Have Max Critical Rate",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078A00",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Have Max Counters (Don't Use With Items Level 255)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078A10",
+          "Opcode": "00002000",
+          "Value": "38000009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078A14",
+          "Opcode": "00002000",
+          "Value": "981C00EB",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Are Legendary",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00077998",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007799C",
+          "Opcode": "00002000",
+          "Value": "38600002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Have 8 Innocents Capacity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078BB4",
+          "Opcode": "00002000",
+          "Value": "39200008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078D14",
+          "Opcode": "00002000",
+          "Value": "38000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All New Items Have 8 Innocents",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078CC8",
+          "Opcode": "00002000",
+          "Value": "2F9A0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are At Max Levels",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007891C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078920",
+          "Opcode": "00002000",
+          "Value": "38004E1E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Transferable",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078908",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Dieticians",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Masters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Gladiators",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Sentries",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Tutors",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Coaches",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600006",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Marksmen",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600007",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Physicians",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Musclemen",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960000B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Sprinters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Nerds",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960000D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Hard Workers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960000E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Patients",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Pugilists",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Snipers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600011",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Alchemists",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600015",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Hypnotists",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600016",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Witch Doctors",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600017",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Amnesiacs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Gangsters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600019",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Professionals",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960001A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Collector #1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960001F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Collector #2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Collector #3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600021",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Collector #4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600022",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Pharmacists",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600029",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Coffee Makers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960002A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Medicine Men",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960002B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Psychologists",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Social Workers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960002D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Firefighters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960002E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Aeronauts",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960002F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Cryophiles",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Fist Fighters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600033",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Fencers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600034",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Lancers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600035",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Eros",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600036",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Deadeyes",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600037",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Lumberjacks",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Cane Men",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600039",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Monster Hunters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960003A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Guardians",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960003B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Brokers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960003D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Statisticians",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960003E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Managers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960003F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Mentors",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600041",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Lose-Losers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600042",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Fusion Lovers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600047",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Magichange Lovers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Mediators",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "3960006F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Teachers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "39600070",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Kinder Gardeners",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000C9",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Berry Pickers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000CA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Secret Trainers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000CB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Chalkboard Scrapers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are High Spiriters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000CD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Gluttons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000CE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Punishers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000CF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Sweet Tempters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Mana Robbers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000D1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Cat Burglers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000D2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are All Diggers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000D3",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Trash Talkers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Rubbers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000D5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Sensationalists",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000D6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Wusses",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000D7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Town Criers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Sun Bathers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000D9",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Joke Slappers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000DA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Motivators",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000DB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Sumo Wrestlers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Hand Shakers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000DD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Beggars",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000DE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Partiers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000DF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Mode Changers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Erasers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00078860",
+          "Opcode": "00002000",
+          "Value": "396000E1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00078864",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For Max EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CAA8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 2x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CAA8",
+          "Opcode": "00002000",
+          "Value": "1C090002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 4x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CAA8",
+          "Opcode": "00002000",
+          "Value": "1C090004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 8x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CAA8",
+          "Opcode": "00002000",
+          "Value": "1C090008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 16x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CAA8",
+          "Opcode": "00002000",
+          "Value": "1C090010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 32x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CAA8",
+          "Opcode": "00002000",
+          "Value": "1C090020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 64x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CAA8",
+          "Opcode": "00002000",
+          "Value": "1C090040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 128x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CAA8",
+          "Opcode": "00002000",
+          "Value": "1C090080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 256x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CAA8",
+          "Opcode": "00002000",
+          "Value": "1C090100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unknown EXP Maximizer 1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E38C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unknown EXP Maximizer 2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E400",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unknown EXP Maximizer 3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E470",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For Max EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E4E0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 2x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E4E0",
+          "Opcode": "00002000",
+          "Value": "1C090002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 4x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E4E0",
+          "Opcode": "00002000",
+          "Value": "1C090004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 8x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E4E0",
+          "Opcode": "00002000",
+          "Value": "1C090008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 16x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E4E0",
+          "Opcode": "00002000",
+          "Value": "1C090010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 32x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E4E0",
+          "Opcode": "00002000",
+          "Value": "1C090020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 64x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E4E0",
+          "Opcode": "00002000",
+          "Value": "1C090040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 128x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E4E0",
+          "Opcode": "00002000",
+          "Value": "1C090080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 256x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E4E0",
+          "Opcode": "00002000",
+          "Value": "1C090100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unknown EXP Maximizer 4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E5A4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For Max EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E610",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 2x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E610",
+          "Opcode": "00002000",
+          "Value": "1C090002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 4x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E610",
+          "Opcode": "00002000",
+          "Value": "1C090004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 8x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E610",
+          "Opcode": "00002000",
+          "Value": "1C090008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 16x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E610",
+          "Opcode": "00002000",
+          "Value": "1C090010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 32x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E610",
+          "Opcode": "00002000",
+          "Value": "1C090020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 64x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E610",
+          "Opcode": "00002000",
+          "Value": "1C090040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 128x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E610",
+          "Opcode": "00002000",
+          "Value": "1C090080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 256x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E610",
+          "Opcode": "00002000",
+          "Value": "1C090100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For Max EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E634",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 2x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E634",
+          "Opcode": "00002000",
+          "Value": "1D600002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 4x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E634",
+          "Opcode": "00002000",
+          "Value": "1D600004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 8x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E634",
+          "Opcode": "00002000",
+          "Value": "1D600008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 16x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E634",
+          "Opcode": "00002000",
+          "Value": "1D600010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 32x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E634",
+          "Opcode": "00002000",
+          "Value": "1D600020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 64x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E634",
+          "Opcode": "00002000",
+          "Value": "1D600040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 128x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E634",
+          "Opcode": "00002000",
+          "Value": "1D600080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 256x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E634",
+          "Opcode": "00002000",
+          "Value": "1D600100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Miasma of Silence",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800073",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Dark Aura",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800074",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Bond of Souls",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388000D2",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Attack with Cure",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388000FB",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Attack with Steal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388000FC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Attack Multiple",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388000FD",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Attack Reversal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388000FE",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Protect",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880012C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Death's Heal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880012D",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Support Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800131",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are More Counter Hits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880013F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Echo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800140",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Soul Crush",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800141",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Mind Blast",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800142",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are 100% Accuracy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800143",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Double Lock-On",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800144",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Null Non-Element",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800173",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Null Fire",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800174",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Null Wind",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800175",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Null Ice",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800176",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Null Star",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800177",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Null Physical",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800178",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Null Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800179",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Void Justice",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880017D",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Faint",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880017E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Healthy Bod",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800180",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Love Field",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800183",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Backstab Poison",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880018B",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Backstab Sleep",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880018C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Backstab Paralyze",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880018D",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Backstab Forget",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880018E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Backstab Deprave",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880018F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Backstab Half HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800190",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Wpn EXP Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800194",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Skill EXP Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800195",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Heart Steal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800198",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Lucky Finger",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880019B",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Law by Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880019D",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Tower Walk",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388001C3",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Sky Swim",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388001C7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Judo Black Belt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388001C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Multiple Cube Lift",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388001CD",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Sky High",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388001D0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Learn Geo Warp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388001D8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Explosive Nature",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388001DA",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Level Spurt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388001FE",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Ties",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880026A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Copy Ninjitsu",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880026B",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Angel Blessings",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800273",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Metal Detector",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880028B",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Jet-black Sword",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "38800291",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Tyrant Guard",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880029B",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Infinite Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880029C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Revenge Throw",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002A2",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Red Scarf",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002A7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Weapon Break",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002AE",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Learn Special Skill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002B0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Tower of Babel",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002BF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Tes 6",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002C2",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Tes 11",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002C7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Tes 12",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Tes 13",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002C9",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Radar",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002CB",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Tes 16",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002CC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Dual Bonus",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002CE",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Tes 19",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002CF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Tes 20",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002D0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Replacement Doll",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "388002D9",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bought Evilities Are Protect",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00372C68",
+          "Opcode": "00002000",
+          "Value": "3880032B",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bonus Gauge Always Starts At 9",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002A8BBC",
+          "Opcode": "00002000",
+          "Value": "3BC00009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Dispatch An Unlimited Amount Of Units On Stage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BA2DC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Special Skills Are Higher Than +9 Only In Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00145D08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00145D0C",
+          "Opcode": "00002000",
+          "Value": "3800007F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Items Don't Disappear From Shops When You Buy Them",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F784",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP For You, Enemies Die From 1 Hit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001319F0",
+          "Opcode": "00002000",
+          "Value": "8816052B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001319F4",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001319F8",
+          "Opcode": "00002000",
+          "Value": "E80B0BA8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001319FC",
+          "Opcode": "00002000",
+          "Value": "419E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00131A00",
+          "Opcode": "00002000",
+          "Value": "3C000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP For You, 0 SP For Enemies After 1 Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002DEE48",
+          "Opcode": "00002000",
+          "Value": "7A6B0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002DEE4C",
+          "Opcode": "00002000",
+          "Value": "814B01AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002DEE50",
+          "Opcode": "00002000",
+          "Value": "880B052B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002DEE54",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002DEE58",
+          "Opcode": "00002000",
+          "Value": "E80A0BB0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002DEE5C",
+          "Opcode": "00002000",
+          "Value": "419E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002DEE60",
+          "Opcode": "00002000",
+          "Value": "3C000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Control Anything",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0032008C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00320098",
+          "Opcode": "00002000",
+          "Value": "4BFFF8FC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0031F958",
+          "Opcode": "00002000",
+          "Value": "3D800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0031F97C",
+          "Opcode": "00002000",
+          "Value": "B19D055C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sell Anything For Max HL",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002B2B4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Evil Symbols Can Now Be Suggested",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000757A8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Class A & B Created Or Reincarnated Characters Don't Require App",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035FA5C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sell An Evility For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00386F00",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Magichanged Unit For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D070",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 2x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D058",
+          "Opcode": "00002000",
+          "Value": "1D290002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D05C",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D060",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D064",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 4x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D058",
+          "Opcode": "00002000",
+          "Value": "1D290004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D05C",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D060",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D064",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 8x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D058",
+          "Opcode": "00002000",
+          "Value": "1D290008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D05C",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D060",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D064",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 16x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D058",
+          "Opcode": "00002000",
+          "Value": "1D290010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D05C",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D060",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D064",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 32x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D058",
+          "Opcode": "00002000",
+          "Value": "1D290020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D05C",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D060",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D064",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 64x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D058",
+          "Opcode": "00002000",
+          "Value": "1D290040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D05C",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D060",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D064",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Magichanged Unit Gets 128x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D058",
+          "Opcode": "00002000",
+          "Value": "1D290080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D05C",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D060",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D064",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Fused Monster Unit For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D264",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 2x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D250",
+          "Opcode": "00002000",
+          "Value": "1D290002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D254",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D258",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D25C",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 4x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D250",
+          "Opcode": "00002000",
+          "Value": "1D290004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D254",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D258",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D25C",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 8x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D250",
+          "Opcode": "00002000",
+          "Value": "1D290008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D254",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D258",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D25C",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 16x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D250",
+          "Opcode": "00002000",
+          "Value": "1D290010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D254",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D258",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D25C",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 32x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D250",
+          "Opcode": "00002000",
+          "Value": "1D290020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D254",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D258",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D25C",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 64x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D250",
+          "Opcode": "00002000",
+          "Value": "1D290040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D254",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D258",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D25C",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Fused Monster Unit Gets 128x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D250",
+          "Opcode": "00002000",
+          "Value": "1D290080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D254",
+          "Opcode": "00002000",
+          "Value": "7C004A14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D258",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D25C",
+          "Opcode": "00002000",
+          "Value": "3D200099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D288",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 2x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D274",
+          "Opcode": "00002000",
+          "Value": "1FFF0002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D278",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D27C",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D280",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 4x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D274",
+          "Opcode": "00002000",
+          "Value": "1FFF0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D278",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D27C",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D280",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 8x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D274",
+          "Opcode": "00002000",
+          "Value": "1FFF0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D278",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D27C",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D280",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 16x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D274",
+          "Opcode": "00002000",
+          "Value": "1FFF0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D278",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D27C",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D280",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 32x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D274",
+          "Opcode": "00002000",
+          "Value": "1FFF0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D278",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D27C",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D280",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 64x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D274",
+          "Opcode": "00002000",
+          "Value": "1FFF0040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D278",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D27C",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D280",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Killing Anything With A Normal Unit Gets 128x Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D274",
+          "Opcode": "00002000",
+          "Value": "1FFF0080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D278",
+          "Opcode": "00002000",
+          "Value": "7C00FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D27C",
+          "Opcode": "00002000",
+          "Value": "901D0C48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001D280",
+          "Opcode": "00002000",
+          "Value": "3D600099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enter The 'Create A New Character' Or 'Reincarnate Menu' For Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001EEB48",
+          "Opcode": "00002000",
+          "Value": "3C000099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Create A New Character Or Reincarnate For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035F998",
+          "Opcode": "00002000",
+          "Value": "3C000099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Boost A Non-Character Specific Skill For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038B054",
+          "Opcode": "00002000",
+          "Value": "3C000099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Boost A Character Specific Skill For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038B0E0",
+          "Opcode": "00002000",
+          "Value": "3C000099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Learn A Skill Or Evility For Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038B578",
+          "Opcode": "00002000",
+          "Value": "3C000099",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Win The Instant A Stage Starts",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E3558",
+          "Opcode": "00002000",
+          "Value": "3C000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Toggle Instant Wins (L2 + Up = On, L2 + Down = Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002E3558",
+          "Opcode": "00002000",
+          "Value": "3C000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00140000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002E3558",
+          "Opcode": "00002000",
+          "Value": "881F052B",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Have Max MV",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007DB70",
+          "Opcode": "00002000",
+          "Value": "3800001F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Have Max JMP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007DB78",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Are At Level 255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007DB68",
+          "Opcode": "00002000",
+          "Value": "396000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Have Max Attack Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007DB50",
+          "Opcode": "00002000",
+          "Value": "38000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Have Max Critical Rate",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007DB58",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Have Max Counters (Don't Use With Items Level 255)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007DB68",
+          "Opcode": "00002000",
+          "Value": "38000009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007DB6C",
+          "Opcode": "00002000",
+          "Value": "981C00EB",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Are Legendary",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007DBF4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007DBF8",
+          "Opcode": "00002000",
+          "Value": "38600002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items Have 8 Innocents Capacity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007DD0C",
+          "Opcode": "00002000",
+          "Value": "39200008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007DE6C",
+          "Opcode": "00002000",
+          "Value": "38000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All New Items Have 8 Innocents",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007DE1C",
+          "Opcode": "00002000",
+          "Value": "2F9A0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are At Max Levels",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D384",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D388",
+          "Opcode": "00002000",
+          "Value": "38004E1E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Transferable",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D370",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Dieticians",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Masters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Gladiators",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Sentries",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Tutors",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Coaches",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600006",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Marksmen",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600007",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Physicians",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Musclemen",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960000B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Sprinters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Nerds",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960000D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Hard Workers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960000E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Patients",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Pugilists",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Snipers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600011",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Alchemists",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600015",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Hypnotists",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600016",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Witch Doctors",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600017",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Amnesiacs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Gangsters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600019",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Professionals",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960001A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Collector #1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960001F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Collector #2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Collector #3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600021",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Collector #4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600022",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Pharmacists",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600029",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Coffee Makers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960002A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Medicine Men",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960002B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Psychologists",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Social Workers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960002D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Firefighters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960002E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Aeronauts",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960002F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Cryophiles",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Fist Fighters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600033",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Fencers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600034",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Lancers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600035",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Eros",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600036",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Deadeyes",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600037",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Lumberjacks",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Cane Men",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600039",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Monster Hunters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960003A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Guardians",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960003B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Brokers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960003D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Statisticians",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960003E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Managers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960003F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Mentors",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600041",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Lose-Losers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600042",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Fusion Lovers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600047",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Magichange Lovers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Mediators",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "3960006F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Teachers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "39600070",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Kinder Gardeners",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000C9",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Berry Pickers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000CA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Secret Trainers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000CB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Chalkboard Scrapers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are High Spiriters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000CD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Gluttons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000CE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Punishers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000CF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Sweet Tempters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Mana Robbers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000D1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Cat Burglers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000D2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are All Diggers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000D3",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Trash Talkers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Rubbers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000D5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Sensationalists",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000D6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Wusses",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000D7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Town Criers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Sun Bathers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000D9",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Joke Slappers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000DA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Motivators",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000DB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Sumo Wrestlers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Hand Shakers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000DD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Beggars",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000DE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Patiers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000DF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Mode Changers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "New Items' Innocents Are Erasers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007D2C8",
+          "Opcode": "00002000",
+          "Value": "396000E1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007D2CC",
+          "Opcode": "00002000",
+          "Value": "B17F0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For Max EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E210",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 2x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E210",
+          "Opcode": "00002000",
+          "Value": "1C090002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 4x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E210",
+          "Opcode": "00002000",
+          "Value": "1C090004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 8x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E210",
+          "Opcode": "00002000",
+          "Value": "1C090008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 16x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E210",
+          "Opcode": "00002000",
+          "Value": "1C090010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 32x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E210",
+          "Opcode": "00002000",
+          "Value": "1C090020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 64x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E210",
+          "Opcode": "00002000",
+          "Value": "1C090040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 128x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E210",
+          "Opcode": "00002000",
+          "Value": "1C090080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Special Tower Attack For 256x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E210",
+          "Opcode": "00002000",
+          "Value": "1C090100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unknown EXP Maximizer 1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D400",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unknown EXP Maximizer 2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D474",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unknown EXP Maximizer 3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D4E4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For Max EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D748",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 2x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D748",
+          "Opcode": "00002000",
+          "Value": "1C090002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 4x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D748",
+          "Opcode": "00002000",
+          "Value": "1C090004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 8x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D748",
+          "Opcode": "00002000",
+          "Value": "1C090008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 16x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D748",
+          "Opcode": "00002000",
+          "Value": "1C090010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 32x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D748",
+          "Opcode": "00002000",
+          "Value": "1C090020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 64x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D748",
+          "Opcode": "00002000",
+          "Value": "1C090040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 128x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D748",
+          "Opcode": "00002000",
+          "Value": "1C090080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Single Small Magichanged Unit For 256x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D748",
+          "Opcode": "00002000",
+          "Value": "1C090100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unknown EXP Maximizer 4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D80C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For Max EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D93C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 2x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D93C",
+          "Opcode": "00002000",
+          "Value": "1C090002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 4x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D93C",
+          "Opcode": "00002000",
+          "Value": "1C090004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 8x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D93C",
+          "Opcode": "00002000",
+          "Value": "1C090008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 16x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D93C",
+          "Opcode": "00002000",
+          "Value": "1C090010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 32x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D93C",
+          "Opcode": "00002000",
+          "Value": "1C090020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 64x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D93C",
+          "Opcode": "00002000",
+          "Value": "1C090040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 128x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D93C",
+          "Opcode": "00002000",
+          "Value": "1C090080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Small Fused Unit For 256x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D93C",
+          "Opcode": "00002000",
+          "Value": "1C090100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For Max EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D960",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 2x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D960",
+          "Opcode": "00002000",
+          "Value": "1D600002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 4x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D960",
+          "Opcode": "00002000",
+          "Value": "1D600004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 8x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D960",
+          "Opcode": "00002000",
+          "Value": "1D600008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 16x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D960",
+          "Opcode": "00002000",
+          "Value": "1D600010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 32x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D960",
+          "Opcode": "00002000",
+          "Value": "1D600020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 64x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D960",
+          "Opcode": "00002000",
+          "Value": "1D600040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 128x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D960",
+          "Opcode": "00002000",
+          "Value": "1D600080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kill Anything With A Normal Unit For 256x EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001D960",
+          "Opcode": "00002000",
+          "Value": "1D600100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Skill & Evility Bought Modifier is address 0038B590 3880?",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bonus Gauge Always Starts At 9",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002CE644",
+          "Opcode": "00002000",
+          "Value": "3BC00009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Dispatch An Unlimited Amount Of Units On Stage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002CF85C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Special Skills Are Higher Than +9 Only In Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001436CC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001436D0",
+          "Opcode": "00002000",
+          "Value": "3800007F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Items Don't Disappear From Shops When You Buy Them",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0027FAA8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

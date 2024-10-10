@@ -1,0 +1,215 @@
+{
+  "Game": "Rage US",
+  "Region": "BLUS30485",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "No Move Enemies & Fighters (Select=On Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003F00",
+          "Value": "01000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01E86400",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003F00",
+          "Value": "08000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01E86442",
+          "Opcode": "00002000",
+          "Value": "3F000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "44793F00",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Move Enemies & Fighters (Select=On Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01DBE864",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01DBE864",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo Doesn't Decrease, Max Money/Items On Gain/Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007B2244",
+          "Opcode": "00002000",
+          "Value": "396BFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007B2278",
+          "Opcode": "00002000",
+          "Value": "396BFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A1868",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A449DC",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A449E4",
+          "Opcode": "00002000",
+          "Value": "90031B84",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A449EC",
+          "Opcode": "00002000",
+          "Value": "C0231B84",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Die From Any Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00301BFC",
+          "Opcode": "00002000",
+          "Value": "4936767C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01669278",
+          "Opcode": "00002000",
+          "Value": "3D207F7F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0166927C",
+          "Opcode": "00002000",
+          "Value": "912100C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01669280",
+          "Opcode": "00002000",
+          "Value": "C1A100C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01669284",
+          "Opcode": "00002000",
+          "Value": "4AC9897C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Sprint",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00235ECC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00235FC8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Nitro Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0023278C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Jump In Air",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00969874",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

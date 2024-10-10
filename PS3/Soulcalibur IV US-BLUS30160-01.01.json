@@ -1,0 +1,86 @@
+{
+  "Game": "Soulcalibur IV US",
+  "Region": "BLUS30160",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Money 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0102CCA0",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Timer Always 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D2A364",
+          "Opcode": "00002000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P HP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D4FBCC",
+          "Opcode": "00002000",
+          "Value": "43700000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Soul Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D8CDCC",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press Select) to 2P HP 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00DAA59C",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2P Soul 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00DE779C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

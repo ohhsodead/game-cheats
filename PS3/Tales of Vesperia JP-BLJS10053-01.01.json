@@ -1,0 +1,434 @@
+{
+  "Game": "Tales of Vesperia JP",
+  "Region": "BLJS10053",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Gold",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B82800",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Gold",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002DD3DC",
+          "Opcode": "00002000",
+          "Value": "480000AC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Item 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B84248",
+          "Opcode": "00002000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B8280C",
+          "Opcode": "00004000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004624",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B841B4",
+          "Opcode": "00004000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "0000401B",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B84230",
+          "Opcode": "00004000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004005",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B84250",
+          "Opcode": "00004000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004002",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B84270",
+          "Opcode": "00004000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004002",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B8429C",
+          "Opcode": "00004000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "0000401D",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B84328",
+          "Opcode": "00004000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B84378",
+          "Opcode": "00004000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "000040BB",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B846C4",
+          "Opcode": "00004000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004005",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item Buy Sell 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E02C4",
+          "Opcode": "00002000",
+          "Value": "3BE00063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Item",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002DD8A4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item Always Drop",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00208ED8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP*100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002EB4E4",
+          "Opcode": "00002000",
+          "Value": "1F840064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Skill Usage Times 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E9E24",
+          "Opcode": "00002000",
+          "Value": "7CA32B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Skill Equip Complete",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E8B4C",
+          "Opcode": "00002000",
+          "Value": "7CA32B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E7B94",
+          "Opcode": "00002000",
+          "Value": "FC200090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite TP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E92AC",
+          "Opcode": "00002000",
+          "Value": "7CA32B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "OVL Level 8",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E9790",
+          "Opcode": "00002000",
+          "Value": "7CA32B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "OVL*2000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00250C28",
+          "Opcode": "00002000",
+          "Value": "3C600074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00250C2C",
+          "Opcode": "00002000",
+          "Value": "C02396D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00250C30",
+          "Opcode": "00002000",
+          "Value": "EFDE0072",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Magic Speed Fast",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0022B4D4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Combo*100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001FAA04",
+          "Opcode": "00002000",
+          "Value": "38800064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Chain*100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001F1048",
+          "Opcode": "00002000",
+          "Value": "38800064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Master Cooking Master",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E7AC4",
+          "Opcode": "00002000",
+          "Value": "7C832214",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002E7AC8",
+          "Opcode": "00002000",
+          "Value": "38600190",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002E7ACC",
+          "Opcode": "00002000",
+          "Value": "9064000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Cooking Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E7B40",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Grade*2000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028A554",
+          "Opcode": "00002000",
+          "Value": "C01F0088",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028A558",
+          "Opcode": "00002000",
+          "Value": "3C600074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028A55C",
+          "Opcode": "00002000",
+          "Value": "C02396D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028A560",
+          "Opcode": "00002000",
+          "Value": "EC000072",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Grade Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002DC60C",
+          "Opcode": "00002000",
+          "Value": "FC201890",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unknown Battle Level Open",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C5E68",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

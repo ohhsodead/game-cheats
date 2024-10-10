@@ -1,0 +1,52 @@
+{
+  "Game": "Mortal Kombat II EU",
+  "Region": "NPEB00002",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "P1 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "53B8C870",
+          "Opcode": "00000000",
+          "Value": "000000A1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "53B8CC2E",
+          "Opcode": "00000000",
+          "Value": "000000A1",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Fatality Time (Start+Down=After Finish Him)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00480000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "53B8E12B",
+          "Opcode": "00000000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "53B8E209",
+          "Opcode": "00000000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

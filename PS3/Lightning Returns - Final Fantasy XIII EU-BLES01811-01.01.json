@@ -1,0 +1,655 @@
+{
+  "Game": "Lightning Returns - Final Fantasy XIII EU",
+  "Region": "BLES01811",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Invincible + Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00105678",
+          "Opcode": "00002000",
+          "Value": "807E0030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible + Auto-Guard",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00116AAC",
+          "Opcode": "00002000",
+          "Value": "807E0030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Energy Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0063EFB8",
+          "Opcode": "00002000",
+          "Value": "912828E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Dash Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00217BA8",
+          "Opcode": "00002000",
+          "Value": "D0440014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gil Never Decreases on Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0063ED44",
+          "Opcode": "00002000",
+          "Value": "7D034378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Enemy Movement",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E041C",
+          "Opcode": "00002000",
+          "Value": "40800028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Time Freezes",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00227938",
+          "Opcode": "00002000",
+          "Value": "7C9F2378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Time Runs Backwards",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00227938",
+          "Opcode": "00002000",
+          "Value": "7FE62010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Gil Reward",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5AE0",
+          "Opcode": "00002000",
+          "Value": "1F440002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Gil Reward",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5AE0",
+          "Opcode": "00002000",
+          "Value": "1F440004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "8x Gil Reward",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5AE0",
+          "Opcode": "00002000",
+          "Value": "1F440008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "16x Gil Reward",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5AE0",
+          "Opcode": "00002000",
+          "Value": "1F440010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "32x Gil Reward",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5AE0",
+          "Opcode": "00002000",
+          "Value": "1F440020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "64x Gil Reward",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5AE0",
+          "Opcode": "00002000",
+          "Value": "1F440040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "128x Gil Reward",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5AE0",
+          "Opcode": "00002000",
+          "Value": "1F440080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "256x Gil Reward",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5AE0",
+          "Opcode": "00002000",
+          "Value": "1F440100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible + Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00107268",
+          "Opcode": "00002000",
+          "Value": "807E0030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible + Auto-Guard",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011869C",
+          "Opcode": "00002000",
+          "Value": "4181002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Energy Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00641B58",
+          "Opcode": "00002000",
+          "Value": "912828E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Dash Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00219838",
+          "Opcode": "00002000",
+          "Value": "D0440014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gil Never Decreases on Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006418E4",
+          "Opcode": "00002000",
+          "Value": "7D034378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Enemy Movement",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E200C",
+          "Opcode": "00002000",
+          "Value": "40800028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Time Freezes",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002297A8",
+          "Opcode": "00002000",
+          "Value": "7C9F2378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Time Runs Backwards",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002297A8",
+          "Opcode": "00002000",
+          "Value": "7FE62010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gil Reward Multiplier x2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F76D0",
+          "Opcode": "00002000",
+          "Value": "1F440002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gil Reward Multiplier x4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F76D0",
+          "Opcode": "00002000",
+          "Value": "1F440004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gil Reward Multiplier x8",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F76D0",
+          "Opcode": "00002000",
+          "Value": "1F440008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage Multiplier normal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001303A0",
+          "Opcode": "00002000",
+          "Value": "3C23D70A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage Multiplier 150%",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001303A0",
+          "Opcode": "00002000",
+          "Value": "3F000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage Multiplier 200%",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001303A0",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Gil (Activate but Stops Earning Money as side-effect)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0064ED44",
+          "Opcode": "00002000",
+          "Value": "7D034378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Gil (Deactivate and Fix Earning Money side-effect)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0064ED44",
+          "Opcode": "00002000",
+          "Value": "7C681814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gil Reward Multiplier x2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00105AE0",
+          "Opcode": "00002000",
+          "Value": "1F440002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gil Reward Multiplier x4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00105AE0",
+          "Opcode": "00002000",
+          "Value": "1F440004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gil Reward Multiplier x8",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00105AE0",
+          "Opcode": "00002000",
+          "Value": "1F440008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gil Reward Multiplier x50",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00105AE0",
+          "Opcode": "00002000",
+          "Value": "1F440032",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Deactivate Gil Reward Multipliers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00105AE0",
+          "Opcode": "00002000",
+          "Value": "7C9A07B4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Dash Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00227BA8",
+          "Opcode": "00002000",
+          "Value": "D0440014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Deactivate Infinite Dash Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00227BA8",
+          "Opcode": "00002000",
+          "Value": "D0240014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Time Doesn't Decrease (4 Notes)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00237938",
+          "Opcode": "00002000",
+          "Value": "7C9F2378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 1/4 - It has a side-effect. Some quests have a right time t",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 2/4 - You have to deactivate it to go on through the game.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 3/4 - If you make an event that advances time, you will pro",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 4/4 - stuck on the winning screen after any battle if you d",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Deactivate Time Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00237938",
+          "Opcode": "00002000",
+          "Value": "7FE43014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibile + Can Use Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00115678",
+          "Opcode": "00002000",
+          "Value": "807E0030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Deactivate Invincibile + Can Use Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00115678",
+          "Opcode": "00002000",
+          "Value": "807E0030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite GP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0064EFB8",
+          "Opcode": "00002000",
+          "Value": "912828E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Deactivate Infinite GP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0064EFB8",
+          "Opcode": "00002000",
+          "Value": "906828E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy Freezes Move",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F041C",
+          "Opcode": "00002000",
+          "Value": "40800028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Deactivate Enemy Freezes Move",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F041C",
+          "Opcode": "00002000",
+          "Value": "41800028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage Multiplier 150%",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0013E7B0",
+          "Opcode": "00002000",
+          "Value": "3F000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage Multiplier 200%",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0013E7B0",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Deactivate Damage Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0013E7B0",
+          "Opcode": "00002000",
+          "Value": "3C23D70A",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "Game": "Darksiders Wrath of War EU",
+  "Region": "BLES00705",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01C20318",
+          "Opcode": "00003000",
+          "Value": "00000110",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "44898000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Wrath Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01C20318",
+          "Opcode": "00003000",
+          "Value": "000006A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43FA0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Currency 100000000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01C20318",
+          "Opcode": "00003000",
+          "Value": "000006A8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "4CBEBC20",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Refill Health Bar (Press [])",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01C20318",
+          "Opcode": "00003000",
+          "Value": "00000110",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "44898000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

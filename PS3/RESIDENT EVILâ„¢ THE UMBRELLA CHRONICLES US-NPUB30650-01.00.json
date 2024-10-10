@@ -1,0 +1,132 @@
+{
+  "Game": "RESIDENT EVIL™ THE UMBRELLA CHRONICLES US",
+  "Region": "NPUB30650",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Time = 0:00:00 (Slot 01)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max All Weapon Ammo (Note 1)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "20000018",
+          "Opcode": "00002000",
+          "Value": "00002710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "2000001C",
+          "Opcode": "00002000",
+          "Value": "27102710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "20000020",
+          "Opcode": "00002000",
+          "Value": "27102710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "20000024",
+          "Opcode": "00002000",
+          "Value": "27102710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "20000028",
+          "Opcode": "00002000",
+          "Value": "27102710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "2000002C",
+          "Opcode": "00002000",
+          "Value": "27102710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "20000030",
+          "Opcode": "00002000",
+          "Value": "27102710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "20000034",
+          "Opcode": "00002000",
+          "Value": "27102710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Point Stars",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10001492",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Weapons Have Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "20001494",
+          "Opcode": "00002000",
+          "Value": "00040400",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "20001498",
+          "Opcode": "00002000",
+          "Value": "04000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "2000149C",
+          "Opcode": "00002000",
+          "Value": "04040404",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "200014A0",
+          "Opcode": "00002000",
+          "Value": "04040404",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "200014A4",
+          "Opcode": "00002000",
+          "Value": "04040400",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "Game": "Armored Core 4 JP",
+  "Region": "BLJM60012",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Master Code",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "424C4A4D",
+          "Opcode": "00000105",
+          "Value": "60012018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A5D284",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A4A1A4",
+          "Opcode": "00002000",
+          "Value": "C0030008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A4A1A8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Door will not be destroyed if Infinite AP.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite AP (Press Select+Up=On) (Press Select+Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B32128",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00410000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B32128",
+          "Opcode": "00002000",
+          "Value": "EC010828",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Cash 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1063D4E0",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.05]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Cash 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "107097E0",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Cash 999999999 (Alt)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1063D4E0",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite AP On",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B32128",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite AP Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B32128",
+          "Opcode": "00002000",
+          "Value": "EC010828",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

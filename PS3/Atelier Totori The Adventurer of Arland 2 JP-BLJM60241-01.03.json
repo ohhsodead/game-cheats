@@ -1,0 +1,598 @@
+{
+  "Game": "Atelier Totori The Adventurer of Arland 2 JP",
+  "Region": "BLJM60241",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Gold 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012D3530",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L2+R2) to the 1st Day",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01299A2C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters Adv. Exp Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012D3668",
+          "Opcode": "00004000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters HP 999/999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012D366C",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012D3678",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012D3694",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters MP 999/999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012D3670",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012D367C",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012D3698",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters LP 999/999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012D3674",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012D3680",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012D369C",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters ATK 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012D3684",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters DEF 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012D3688",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters SPD 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012D368C",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Totooria Alchemy EXP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012D3274",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0130DBB0",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L2+R2) to the 1st Day",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012D3F2C",
+          "Opcode": "00002000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters Adv. Exp Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0130DCE8",
+          "Opcode": "00004000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters HP 999/999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0130DCEC",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0130DCF8",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0130DD14",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters MP 999/999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0130DCF0",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0130DCFC",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0130DD18",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters LP 999/999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0130DCF4",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0130DD00",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0130DD1C",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000190",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters ATK 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0130DD04",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters DEF 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0130DD08",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters SPD 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0130DD0C",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Totooria Alchemy EXP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0130D8D4",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters LP 999/999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0130DCF4",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0130DD00",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0130DD1C",
+          "Opcode": "00004000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000018C",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1st Day",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01299A2C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1st Day",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012D3F2C",
+          "Opcode": "00002000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

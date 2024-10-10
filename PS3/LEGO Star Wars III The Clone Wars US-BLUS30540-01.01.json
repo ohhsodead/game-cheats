@@ -1,0 +1,19 @@
+{
+  "Game": "LEGO Star Wars III The Clone Wars US",
+  "Region": "BLUS30540",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Studs On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0073CB84",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

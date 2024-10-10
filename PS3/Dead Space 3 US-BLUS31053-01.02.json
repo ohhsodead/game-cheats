@@ -1,0 +1,559 @@
+{
+  "Game": "Dead Space 3 US",
+  "Region": "BLUS31053",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Infinite Health & Stasis",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002F05A0",
+          "Opcode": "00002000",
+          "Value": "493278F7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013278F4",
+          "Opcode": "00002000",
+          "Value": "C1A900F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013278F8",
+          "Opcode": "00002000",
+          "Value": "D1A900F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013278FC",
+          "Opcode": "00002000",
+          "Value": "D1A90100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01327900",
+          "Opcode": "00002000",
+          "Value": "D1A90104",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01327904",
+          "Opcode": "00002000",
+          "Value": "C1A900FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01327908",
+          "Opcode": "00002000",
+          "Value": "482F05A7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Bottomless Clip",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004F2B84",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health Only",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002F05A0",
+          "Opcode": "00002000",
+          "Value": "493278F7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013278F4",
+          "Opcode": "00002000",
+          "Value": "C1A900F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013278F8",
+          "Opcode": "00002000",
+          "Value": "D1A900F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013278FC",
+          "Opcode": "00002000",
+          "Value": "C1A900FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01327900",
+          "Opcode": "00002000",
+          "Value": "482F05A7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stasis Only",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002F05A0",
+          "Opcode": "00002000",
+          "Value": "493278F7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013278F4",
+          "Opcode": "00002000",
+          "Value": "C1A900F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013278F8",
+          "Opcode": "00002000",
+          "Value": "D1A90100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013278FC",
+          "Opcode": "00002000",
+          "Value": "D1A90104",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01327900",
+          "Opcode": "00002000",
+          "Value": "C1A900FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01327904",
+          "Opcode": "00002000",
+          "Value": "482F05A7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Resources On Sell",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00245144",
+          "Opcode": "00002000",
+          "Value": "3C00000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00245148",
+          "Opcode": "00002000",
+          "Value": "6000423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Resources On Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00245188",
+          "Opcode": "00002000",
+          "Value": "3C00000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024518C",
+          "Opcode": "00002000",
+          "Value": "6000423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038A874",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Die From Any Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00195AF8",
+          "Opcode": "00002000",
+          "Value": "913F00F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00195B08",
+          "Opcode": "00002000",
+          "Value": "913F00F4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Body Temperature Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00520278",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00520294",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Oxygen Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030F398",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038A55C",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Move 1.25x Faster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00323A94",
+          "Opcode": "00002000",
+          "Value": "3C003FA0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Move 1.125x Faster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00323A94",
+          "Opcode": "00002000",
+          "Value": "3C003F90",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health & Stasis",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002F6138",
+          "Opcode": "00002000",
+          "Value": "4932FA77",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0132FA74",
+          "Opcode": "00002000",
+          "Value": "C1A900F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0132FA78",
+          "Opcode": "00002000",
+          "Value": "D1A900F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0132FA7C",
+          "Opcode": "00002000",
+          "Value": "D1A90100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0132FA80",
+          "Opcode": "00002000",
+          "Value": "D1A90104",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0132FA84",
+          "Opcode": "00002000",
+          "Value": "C1A900FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0132FA88",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stasis + use Stasis to Refill Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001878FC",
+          "Opcode": "00002000",
+          "Value": "4932FA77",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00187900",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0132FA74",
+          "Opcode": "00002000",
+          "Value": "3C00461A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0132FA78",
+          "Opcode": "00002000",
+          "Value": "900300F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0132FA7C",
+          "Opcode": "00002000",
+          "Value": "900300F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0132FA80",
+          "Opcode": "00002000",
+          "Value": "90030100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0132FA84",
+          "Opcode": "00002000",
+          "Value": "90030104",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0132FA88",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Bottomless Clip",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004F7F38",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Resource on Sell",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024A770",
+          "Opcode": "00002000",
+          "Value": "3C00000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024A774",
+          "Opcode": "00002000",
+          "Value": "6000423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038B170",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Resource On Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024A7B4",
+          "Opcode": "00002000",
+          "Value": "3C00000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024A7B8",
+          "Opcode": "00002000",
+          "Value": "6000423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Die From Any Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0019AC88",
+          "Opcode": "00002000",
+          "Value": "913F00F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0019AC98",
+          "Opcode": "00002000",
+          "Value": "913F00F4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Body Temperature Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005260A8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005260C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Oxygen Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00314A7C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038AE58",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Move 1.25x Faster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003294A4",
+          "Opcode": "00002000",
+          "Value": "3C003FA0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Move 1.125x Faster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003294A4",
+          "Opcode": "00002000",
+          "Value": "3C003F90",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

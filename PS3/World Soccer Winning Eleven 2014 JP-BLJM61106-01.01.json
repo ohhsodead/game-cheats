@@ -1,0 +1,79 @@
+{
+  "Game": "World Soccer Winning Eleven 2014 JP",
+  "Region": "BLJM61106",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Points Don't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C756C",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Strength Points Don't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004E7BAC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "tennsuu",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C756C",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kyoukapoint",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004E7BAC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

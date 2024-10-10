@@ -1,0 +1,55 @@
+{
+  "Game": "Dead Island EU",
+  "Region": "NPEB00721",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Damager 0 (Player)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C50308",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damager 0 (Player) Normal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C50308",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damager 0 (Player) Recover Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C50308",
+          "Opcode": "00002000",
+          "Value": "C2C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C50390",
+          "Opcode": "00002000",
+          "Value": "4182029C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Game": "Prototype EU",
+  "Region": "BLES00269",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite EP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300B6A30",
+          "Opcode": "00002000",
+          "Value": "7FFFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP (Press L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30372C04",
+          "Opcode": "00003000",
+          "Value": "00000EB4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "49000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30372C04",
+          "Opcode": "00003000",
+          "Value": "00000EAC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "49000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - It is normal that HP displayed incorrectly",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

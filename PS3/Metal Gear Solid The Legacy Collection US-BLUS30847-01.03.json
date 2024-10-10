@@ -1,0 +1,345 @@
+{
+  "Game": "Metal Gear Solid The Legacy Collection US",
+  "Region": "BLUS30847",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Info - MGS: Peace Walker HD",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Camouflage 100%",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005C541C",
+          "Opcode": "00002000",
+          "Value": "2C0603E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005C5424",
+          "Opcode": "00002000",
+          "Value": "38C003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - MGS 3: Snake Eater HD",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Alert Disable",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0070ECB5",
+          "Opcode": "00000000",
+          "Value": "00000040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Hit Fire",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0124B099",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0124B09A",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011F0BC",
+          "Opcode": "00002000",
+          "Value": "392A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011F0F4",
+          "Opcode": "00002000",
+          "Value": "39260000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Silencer",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011F310",
+          "Opcode": "00002000",
+          "Value": "7D044378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BE38C",
+          "Opcode": "00002000",
+          "Value": "39630000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00138A54",
+          "Opcode": "00002000",
+          "Value": "7D495378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001592CC",
+          "Opcode": "00002000",
+          "Value": "7CC53378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001B2F70",
+          "Opcode": "00002000",
+          "Value": "7EC5B378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001B300C",
+          "Opcode": "00002000",
+          "Value": "7F8AE378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001B3044",
+          "Opcode": "00002000",
+          "Value": "7D966378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Battery",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015984C",
+          "Opcode": "00002000",
+          "Value": "7C0C0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "100% Camo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001598E4",
+          "Opcode": "00002000",
+          "Value": "386003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00159A90",
+          "Opcode": "00002000",
+          "Value": "386003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B2778",
+          "Opcode": "00002000",
+          "Value": "7D966378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00135858",
+          "Opcode": "00002000",
+          "Value": "7CC43378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00138BC4",
+          "Opcode": "00002000",
+          "Value": "A07D0002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00138C14",
+          "Opcode": "00002000",
+          "Value": "A0EA0002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - MGS 2: Sons of Liberty HD",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Enemy Mode (Up=On, Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005DCDD2",
+          "Opcode": "00000000",
+          "Value": "00000040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005DCDD2",
+          "Opcode": "00000000",
+          "Value": "00000041",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rapid Fire",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0081198D",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Alert Disable",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005593A2",
+          "Opcode": "00000000",
+          "Value": "00000040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00819D8B",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008F7170",
+          "Opcode": "00002000",
+          "Value": "386003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007B59F8",
+          "Opcode": "00002000",
+          "Value": "38640000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007EF810",
+          "Opcode": "00002000",
+          "Value": "396000C8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

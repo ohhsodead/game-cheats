@@ -1,0 +1,43 @@
+{
+  "Game": "Enchanted Arms EU",
+  "Region": "BLES00049",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C5430",
+          "Opcode": "00002000",
+          "Value": "2B090000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C1B40",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029750C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "Game": "Dante's Inferno US",
+  "Region": "BLUS30405",
+  "Version": "01.04",
+  "Cheats": [
+    {
+      "Name": "(Press []) to HP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00000080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0116B6DC",
+          "Opcode": "00003000",
+          "Value": "00000024",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0116B6DC",
+          "Opcode": "00003000",
+          "Value": "00000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L1) to Magic Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30884C74",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30884C78",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Souls while Absorbing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3084C1E4",
+          "Opcode": "00002000",
+          "Value": "4F000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press []) to HP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00000080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013F0474",
+          "Opcode": "00003000",
+          "Value": "0000002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "013F0474",
+          "Opcode": "00003000",
+          "Value": "00000030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L1) to Magic Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3088D544",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3088D548",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Souls while Absorbing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3086EE44",
+          "Opcode": "00002000",
+          "Value": "4F000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A83A40",
+          "Opcode": "00002000",
+          "Value": "4847451C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F5C",
+          "Opcode": "00002000",
+          "Value": "A043003E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F60",
+          "Opcode": "00002000",
+          "Value": "2C026000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F64",
+          "Opcode": "00002000",
+          "Value": "40820018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F68",
+          "Opcode": "00002000",
+          "Value": "8043002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F6C",
+          "Opcode": "00002000",
+          "Value": "2C020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F70",
+          "Opcode": "00002000",
+          "Value": "4182000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F74",
+          "Opcode": "00002000",
+          "Value": "C0230030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F78",
+          "Opcode": "00002000",
+          "Value": "D023002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F7C",
+          "Opcode": "00002000",
+          "Value": "C023002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F80",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035295C",
+          "Opcode": "00002000",
+          "Value": "48BA5629",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F84",
+          "Opcode": "00002000",
+          "Value": "2C00058C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F88",
+          "Opcode": "00002000",
+          "Value": "4082000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F8C",
+          "Opcode": "00002000",
+          "Value": "800B0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F90",
+          "Opcode": "00002000",
+          "Value": "900B0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F94",
+          "Opcode": "00002000",
+          "Value": "800B0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EF7F98",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Soul Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00155E9C",
+          "Opcode": "00002000",
+          "Value": "38002710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00155EA0",
+          "Opcode": "00002000",
+          "Value": "90030000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0017DB58",
+          "Opcode": "00002000",
+          "Value": "38802710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0017DB7C",
+          "Opcode": "00002000",
+          "Value": "90890000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "10 Hits = 1000 Hits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003141C0",
+          "Opcode": "00002000",
+          "Value": "48BE6D60",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EFAF20",
+          "Opcode": "00002000",
+          "Value": "A3DD0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EFAF24",
+          "Opcode": "00002000",
+          "Value": "D1BD0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EFAF28",
+          "Opcode": "00002000",
+          "Value": "2C1E4120",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EFAF2C",
+          "Opcode": "00002000",
+          "Value": "4082000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EFAF30",
+          "Opcode": "00002000",
+          "Value": "3FC0447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EFAF34",
+          "Opcode": "00002000",
+          "Value": "93DD0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00EFAF38",
+          "Opcode": "00002000",
+          "Value": "4B41928C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Redemption Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00314054",
+          "Opcode": "00002000",
+          "Value": "C19D0008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

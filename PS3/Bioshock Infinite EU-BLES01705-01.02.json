@@ -1,0 +1,181 @@
+{
+  "Game": "Bioshock Infinite EU",
+  "Region": "BLES01705",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo/No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006A7248",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006A4E94",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9999 Silver Eagles on Pickup/Spend",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0088D244",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0088D390",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Salt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0088D5CC",
+          "Opcode": "00002000",
+          "Value": "38A00064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo/No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006A8238",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006A5E84",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9999 Silver Eagles on Pickup/Spend",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0088E244",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0088E2C0",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Salt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0088E4FC",
+          "Opcode": "00002000",
+          "Value": "38A00064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Lockpicks On Use 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0088E6F4",
+          "Opcode": "00002000",
+          "Value": "38A00063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo (Alt)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006A60E8",
+          "Opcode": "00002000",
+          "Value": "3BC00064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0088E520",
+          "Opcode": "00002000",
+          "Value": "3C800001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0088E524",
+          "Opcode": "00002000",
+          "Value": "6084869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Salt (Alt)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0088E8AC",
+          "Opcode": "00002000",
+          "Value": "7F65DB78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Lockpicks (Alt)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0088EAA4",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0088E9C0",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

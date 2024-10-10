@@ -1,0 +1,179 @@
+{
+  "Game": "Dragons Crown JP",
+  "Region": "BLJM61041",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D3924",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0019FFB4",
+          "Opcode": "00002000",
+          "Value": "30A40000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00029A44",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99999999 Score",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004F783C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E91E4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AC380",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Skill Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0057DE90",
+          "Opcode": "00002000",
+          "Value": "7F84E378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Gold On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004BCEA0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D3924",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0019FFB4",
+          "Opcode": "00002000",
+          "Value": "30A40000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00029A44",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SCORE99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004F783C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E91E4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AC380",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE Skill Point",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0057DE90",
+          "Opcode": "00002000",
+          "Value": "7F84E378",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

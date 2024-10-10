@@ -1,0 +1,38 @@
+{
+  "Game": "Gundam Musou JP",
+  "Region": "BLJM60018",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Pilot Points 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10506630",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlock Skills",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10506678",
+          "Opcode": "00002000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1050667C",
+          "Opcode": "00002000",
+          "Value": "FFFF0000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

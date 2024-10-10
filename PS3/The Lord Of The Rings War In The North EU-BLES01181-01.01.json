@@ -1,0 +1,168 @@
+{
+  "Game": "The Lord Of The Rings War In The North EU",
+  "Region": "BLES01181",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D7F330",
+          "Opcode": "00002000",
+          "Value": "3FC07F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D7F334",
+          "Opcode": "00002000",
+          "Value": "93C9000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D7F33C",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D7F10C",
+          "Opcode": "00002000",
+          "Value": "3FC07F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D7F110",
+          "Opcode": "00002000",
+          "Value": "93C9000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D7F118",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max XP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006225B4",
+          "Opcode": "00002000",
+          "Value": "3D607F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006225B8",
+          "Opcode": "00002000",
+          "Value": "917C000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Level Up Points Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E40F3C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E3FE3C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E3FE54",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Strength/Dexterity/Stamina/Will After Using Point",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E3FE48",
+          "Opcode": "00002000",
+          "Value": "3D207F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E3FE4C",
+          "Opcode": "00002000",
+          "Value": "912B000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Skill Points Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E28B28",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E299A0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Coins",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00581DD4",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00581DDC",
+          "Opcode": "00002000",
+          "Value": "90090050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00581DE0",
+          "Opcode": "00002000",
+          "Value": "C0290050",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

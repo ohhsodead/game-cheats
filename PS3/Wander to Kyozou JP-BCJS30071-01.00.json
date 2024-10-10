@@ -1,0 +1,83 @@
+{
+  "Game": "Wander to Kyozou JP",
+  "Region": "BCJS30071",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Unlock Hard Mode after Saving",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014DBB6C",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014DFA40",
+          "Opcode": "00002000",
+          "Value": "43C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007103EC",
+          "Opcode": "00003000",
+          "Value": "0000002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grip",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014DFA44",
+          "Opcode": "00002000",
+          "Value": "43480000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007103EC",
+          "Opcode": "00003000",
+          "Value": "00000030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43480000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Attack Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014DF9E0",
+          "Opcode": "00002000",
+          "Value": "43C80000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

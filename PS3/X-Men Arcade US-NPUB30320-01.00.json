@@ -1,0 +1,115 @@
+{
+  "Game": "X-Men Arcade US",
+  "Region": "NPUB30320",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "255 HP (Press Select+Up)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "345A1B2E",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "345A1BAE",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "345A1C2E",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "345A1CAE",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "345A1D2E",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "345A1DAE",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "255 Mutant Power (Press Select+Down)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00410000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "345A1B3E",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "345A1BBE",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "345A1C3E",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "345A1CBE",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "345A1D3E",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "345A1DBE",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

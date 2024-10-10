@@ -1,0 +1,123 @@
+{
+  "Game": "Saint Seiya Brave Soldiers JP",
+  "Region": "BLJS10236",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Orbs On Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00337F54",
+          "Opcode": "00002000",
+          "Value": "3C603B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00337F58",
+          "Opcode": "00002000",
+          "Value": "6063C9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "POINT 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00337F54",
+          "Opcode": "00002000",
+          "Value": "3C603B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00337F58",
+          "Opcode": "00002000",
+          "Value": "6063C9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health + Cosmo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001F6010",
+          "Opcode": "00002000",
+          "Value": "4885A5E1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A505F0",
+          "Opcode": "00002000",
+          "Value": "3FC045FA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A505F4",
+          "Opcode": "00002000",
+          "Value": "93C50018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A505F8",
+          "Opcode": "00002000",
+          "Value": "93C50050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A505FC",
+          "Opcode": "00002000",
+          "Value": "93C50058",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A50600",
+          "Opcode": "00002000",
+          "Value": "C0250018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A50604",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99 Hits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003BCA0",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

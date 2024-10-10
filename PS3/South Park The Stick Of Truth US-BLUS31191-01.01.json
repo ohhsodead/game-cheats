@@ -1,0 +1,131 @@
+{
+  "Game": "South Park The Stick Of Truth US",
+  "Region": "BLUS31191",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Net Worth",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00464DC4",
+          "Opcode": "00002000",
+          "Value": "83BC0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max XP after battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003F7450",
+          "Opcode": "00002000",
+          "Value": "38842710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Upgrade Points doesn't decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003F71F4",
+          "Opcode": "00002000",
+          "Value": "60A60000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Perk Points doesn't decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003F7180",
+          "Opcode": "00002000",
+          "Value": "60A60000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite PP/Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0049F71C",
+          "Opcode": "00002000",
+          "Value": "C0250004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005EE5F4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "God Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00535654",
+          "Opcode": "00002000",
+          "Value": "39000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00535664",
+          "Opcode": "00002000",
+          "Value": "9103002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00432C4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable God Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00535654",
+          "Opcode": "00002000",
+          "Value": "39000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00535664",
+          "Opcode": "00002000",
+          "Value": "9103002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max/Infinite Item on use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00630338",
+          "Opcode": "00002000",
+          "Value": "3880000A",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Game": "MLB 14: The Show",
+  "Region": "BCUS99195",
+  "Version": "01.11",
+  "Cheats": [
+    {
+      "Name": "Max Skill Points on spend",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": " 00BDF484",
+          "Opcode": "00020000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "Game": "Devil May Cry HD Collection EU",
+  "Region": "BLES01228",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Info - Devil May Cry 1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max & Infinite Red Orbs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015BFDC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max & Infinite Yellow Orbs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00164330",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Blue Orbs (Press Select+Up)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D50BA8",
+          "Opcode": "00002000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Devil May Cry 2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Orbs on Gain (Press Up)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028EEB8",
+          "Opcode": "00002000",
+          "Value": "409D0048",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000379F4",
+          "Opcode": "00002000",
+          "Value": "39604E20",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Devil Trigger",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E4430",
+          "Opcode": "00002000",
+          "Value": "301F042E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Devil May Cry 3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Red Orbs on Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000A35D4",
+          "Opcode": "00002000",
+          "Value": "3C007FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Yellow/Blue Orbs (Press Up)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305D0458",
+          "Opcode": "00002000",
+          "Value": "03E70006",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "3/4 Blue Orb (Gain 1 to get 4/4) (Press Down)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002DAD9C",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Vital Star S/L, Devil Star, Holy Water (Press L3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305D0464",
+          "Opcode": "00002000",
+          "Value": "63636363",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - For above code. Don't (Press L3) while in menu or pause.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

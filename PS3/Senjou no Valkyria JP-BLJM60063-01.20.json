@@ -1,0 +1,55 @@
+{
+  "Game": "Senjou no Valkyria JP",
+  "Region": "BLJM60063",
+  "Version": "01.20",
+  "Cheats": [
+    {
+      "Name": "Experience 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "102FAC30",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10331C14",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Experience 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1030BCA0",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10342C84",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

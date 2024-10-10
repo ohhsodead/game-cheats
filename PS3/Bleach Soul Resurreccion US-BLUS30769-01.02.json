@@ -1,0 +1,62 @@
+{
+  "Game": "Bleach Soul Resurreccion US",
+  "Region": "BLUS30769",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Max Soul On Gain/Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00030488",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003046C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ignition Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000432C0",
+          "Opcode": "00002000",
+          "Value": "409D000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Beat",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003051C",
+          "Opcode": "00002000",
+          "Value": "3809270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze The Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003050C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

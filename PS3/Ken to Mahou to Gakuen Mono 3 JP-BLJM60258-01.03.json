@@ -1,0 +1,19 @@
+{
+  "Game": "Ken to Mahou to Gakuen Mono 3 JP",
+  "Region": "BLJM60258",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Gold 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005F5D40",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

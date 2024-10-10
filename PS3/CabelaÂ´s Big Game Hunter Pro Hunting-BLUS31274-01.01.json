@@ -1,0 +1,31 @@
+{
+  "Game": "Cabela´s Big Game Hunter Pro Hunting",
+  "Region": "BLUS31274",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00518258",
+          "Opcode": "00002000",
+          "Value": "3B5C0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004923F8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

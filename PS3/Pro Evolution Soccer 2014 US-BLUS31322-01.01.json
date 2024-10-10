@@ -1,0 +1,91 @@
+{
+  "Game": "Pro Evolution Soccer 2014 US",
+  "Region": "BLUS31322",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "0 Score",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BEE24",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Strength Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004D1B5C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0 Score",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C52C4",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Strength Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004E04AC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "tennsuu",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BEE24",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kyoukapoint",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004D1B5C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

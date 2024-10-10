@@ -1,0 +1,223 @@
+{
+  "Game": "Grand Theft Auto IV Episodes From Liberty City JP",
+  "Region": "BLJM60235",
+  "Version": "01",
+  "Cheats": [
+    {
+      "Name": "1P Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0066EC98",
+          "Opcode": "00002000",
+          "Value": "419EFF40",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Police",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "011076C8",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.25x Faster Car",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00136B34",
+          "Opcode": "00002000",
+          "Value": "3C003FA0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.5x Faster Car",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00136B34",
+          "Opcode": "00002000",
+          "Value": "3C003FC0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.75x Faster Car",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00136B34",
+          "Opcode": "00002000",
+          "Value": "3C003FE0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Faster Car",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00136B34",
+          "Opcode": "00002000",
+          "Value": "3C004000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "3x Faster Car",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00136B34",
+          "Opcode": "00002000",
+          "Value": "3C004040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Faster Car",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00136B34",
+          "Opcode": "00002000",
+          "Value": "3C004080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Run Speed 2x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ED840",
+          "Opcode": "00002000",
+          "Value": "3C004000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Run Speed 3x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ED840",
+          "Opcode": "00002000",
+          "Value": "3C004040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Run Speed 4x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ED840",
+          "Opcode": "00002000",
+          "Value": "3C004080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Run Speed 6x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ED840",
+          "Opcode": "00002000",
+          "Value": "3C0040C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Run Speed 8x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ED840",
+          "Opcode": "00002000",
+          "Value": "3C004100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Run Speed 10x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ED840",
+          "Opcode": "00002000",
+          "Value": "3C004120",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Run Speed 12x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ED840",
+          "Opcode": "00002000",
+          "Value": "3C004140",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Run Speed 16x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ED840",
+          "Opcode": "00002000",
+          "Value": "3C004180",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Run Speed 24x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ED840",
+          "Opcode": "00002000",
+          "Value": "3C0041C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Run Speed 32x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ED840",
+          "Opcode": "00002000",
+          "Value": "3C004200",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

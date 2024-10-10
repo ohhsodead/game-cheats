@@ -1,0 +1,503 @@
+{
+  "Game": "Shin Sangoku Musou 6 AS",
+  "Region": "BLAS50308",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Gold 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0145B6B0",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Defeated 9999999 Enemies Total",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0145B6B8",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Deeds 9999 While Gaining",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000912E8",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Fame 999999 While Gaining",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000915B4",
+          "Opcode": "00002000",
+          "Value": "7C040378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always 9999 K.O. In Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014DB234",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 HP Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E39F0",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014E39F0",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Musou Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E39F0",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001B8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014E39F0",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Offense Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E39F0",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001C4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "47C35000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Defense Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E39F0",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "47C35000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Hyper Speed in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E39F0",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "42480000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Hyper Jump in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E39F0",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "42480000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Always Activate Item Effect in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E39F0",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000000D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00004000",
+          "Value": "44E10000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004002",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014E39F0",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000000DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00004000",
+          "Value": "44E10000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004002",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014E39F0",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000000E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00004000",
+          "Value": "44E10000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004002",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters' HP Status Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00090EC4",
+          "Opcode": "00002000",
+          "Value": "388003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters' Offense Status Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00090EE8",
+          "Opcode": "00002000",
+          "Value": "388003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters' Defense Status Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00090F0C",
+          "Opcode": "00002000",
+          "Value": "388003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters' Musou Status Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00093F24",
+          "Opcode": "00002000",
+          "Value": "409D000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters' Power Status Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00093FF4",
+          "Opcode": "00002000",
+          "Value": "409D001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Characters' Agility Status Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000940D4",
+          "Opcode": "00002000",
+          "Value": "409D001C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

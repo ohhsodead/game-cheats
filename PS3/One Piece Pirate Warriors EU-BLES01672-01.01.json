@@ -1,0 +1,55 @@
+{
+  "Game": "One Piece Pirate Warriors EU",
+  "Region": "BLES01672",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Level 50 Code",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024F928",
+          "Opcode": "00002000",
+          "Value": "408500C4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Damage Received/Special Attack/Beats/Crew Strike",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006F0820",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Score On Loading",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00055C84",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Total Beats In Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C7EC8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

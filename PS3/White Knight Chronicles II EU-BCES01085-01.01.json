@@ -1,0 +1,1309 @@
+{
+  "Game": "White Knight Chronicles II EU",
+  "Region": "BCES01085",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Gain/Loss of Item Gets 255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003DB50C",
+          "Opcode": "00002000",
+          "Value": "380000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Skill Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00380D88",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00380DAC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00FBD5B8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP/MP Recovery When Drawing Weapon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0056E6EC",
+          "Opcode": "00002000",
+          "Value": "8009005C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0056E6F0",
+          "Opcode": "00002000",
+          "Value": "2F800001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain/Loss of Item Gets 255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003EA5B4",
+          "Opcode": "00002000",
+          "Value": "380000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP/MP Recover When Drawing Weapon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00583EDC",
+          "Opcode": "00002000",
+          "Value": "8009005C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00583EE0",
+          "Opcode": "00002000",
+          "Value": "2F800001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Skill Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038E5D0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038E5F4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01048618",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Normal Attack Refills AC",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00591A74",
+          "Opcode": "00002000",
+          "Value": "3C0042C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00591A78",
+          "Opcode": "00002000",
+          "Value": "90091560",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "GPx255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003B83C8",
+          "Opcode": "00002000",
+          "Value": "1F6400FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003FBF2C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Dahlia",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003FD69C",
+          "Opcode": "00001000",
+          "Value": "00004800",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Level Permitted by Guild with 1 Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003945A0",
+          "Opcode": "00001000",
+          "Value": "00004800",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Guild Points x255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003BA110",
+          "Opcode": "00002000",
+          "Value": "1F6400FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Synthesis without the Materials (Weapons not included)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0085AD64",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00874CE0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008433E0",
+          "Opcode": "00001000",
+          "Value": "00004BFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Movement speed 2x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "011C0AA0",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011C0AA4",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011C0AA8",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Movement speed 4x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "011C0AA0",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011C0AA4",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011C0AA8",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30564500",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Dahlia",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "304DFEBC",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "305283E8",
+          "Opcode": "00002000",
+          "Value": "7FFFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max GR",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "305296B8",
+          "Opcode": "00002000",
+          "Value": "00C65D3E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP and MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30528408",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Action Chips",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "305283E4",
+          "Opcode": "00002000",
+          "Value": "000F0020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "100% Critical Hit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30528440",
+          "Opcode": "00002000",
+          "Value": "7FE00003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30528444",
+          "Opcode": "00002000",
+          "Value": "7FE00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max All Stats Avatar",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3052840C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30528410",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30528414",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30528418",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3052841C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30528420",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30528424",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305293C0",
+          "Opcode": "00002000",
+          "Value": "436F6465",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305293C4",
+          "Opcode": "00002000",
+          "Value": "6D617374",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305293C8",
+          "Opcode": "00002000",
+          "Value": "65727320",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305293CC",
+          "Opcode": "00002000",
+          "Value": "50726F6A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305293D0",
+          "Opcode": "00002000",
+          "Value": "65637400",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305296C4",
+          "Opcode": "00002000",
+          "Value": "1E01436F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305296C8",
+          "Opcode": "00002000",
+          "Value": "64656D61",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305296CC",
+          "Opcode": "00002000",
+          "Value": "73746572",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305296D0",
+          "Opcode": "00002000",
+          "Value": "73000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305296D8",
+          "Opcode": "00002000",
+          "Value": "0000436F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305296DC",
+          "Opcode": "00002000",
+          "Value": "64656D61",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305296E0",
+          "Opcode": "00002000",
+          "Value": "73746572",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305296E4",
+          "Opcode": "00002000",
+          "Value": "73000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Resistances Avatar",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30528494",
+          "Opcode": "00002000",
+          "Value": "63636363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30528498",
+          "Opcode": "00002000",
+          "Value": "63636363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3052849C",
+          "Opcode": "00002000",
+          "Value": "63636363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305284B8",
+          "Opcode": "00002000",
+          "Value": "63636363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305284C0",
+          "Opcode": "00002000",
+          "Value": "63636363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305284C8",
+          "Opcode": "00002000",
+          "Value": "63636363",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max All Stats Avatar Knight",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30529100",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30529104",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30529108",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3052910C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30529110",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30529114",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30529118",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3052911C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30529120",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30529124",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30529128",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3052912C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Resistance Avatar Knight",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30529190",
+          "Opcode": "00002000",
+          "Value": "63636363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30529194",
+          "Opcode": "00002000",
+          "Value": "63636363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30529198",
+          "Opcode": "00002000",
+          "Value": "63636363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305291B4",
+          "Opcode": "00002000",
+          "Value": "64646464",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305291B8",
+          "Opcode": "00002000",
+          "Value": "64000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305291BC",
+          "Opcode": "00002000",
+          "Value": "64646464",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305291C0",
+          "Opcode": "00002000",
+          "Value": "64000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305291C4",
+          "Opcode": "00002000",
+          "Value": "64646464",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305291C8",
+          "Opcode": "00002000",
+          "Value": "64000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Yulie Max Stats and Infinite HP/MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3051D3F8",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D3FC",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D400",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D404",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D408",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D40C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D410",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Leonard Max Stats and Infinite HP/MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3051C3F8",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051C3FC",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051C400",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051C404",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051C408",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051C40C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051C410",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Caesar Max Stats and Infinite HP/MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "305203F8",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "305203FC",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30520400",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30520404",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30520408",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3052040C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30520410",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Eldore Max Stats and Infinite HP/MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3051E3F8",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E3FC",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E400",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E404",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E408",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E40C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E410",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kara Max Stats and Infinite HP/MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3051F3F8",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051F3FC",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051F400",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051F404",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051F408",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051F40C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051F410",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Wizel[White Knight] Max Stats and Infinite HP/MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3051D0FC",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D100",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D104",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D108",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D10C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D110",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D114",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D118",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D11C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D120",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D124",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D128",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D12C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051D130",
+          "Opcode": "00002000",
+          "Value": "012C012C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Laravayne[Dragon Knight] Max Stats and Infinite HP/MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "305210FC",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30521100",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30521104",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30521108",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3052110C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30521110",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30521114",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30521118",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3052111C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30521120",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30521124",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30521128",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3052112C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30521130",
+          "Opcode": "00002000",
+          "Value": "012C012C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Luthia[Moon Maiden] Max Stats and Infinite HP/MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3051E0FC",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E100",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E104",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E108",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E10C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E110",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E114",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E118",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E11C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E120",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E124",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E128",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E12C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3051E130",
+          "Opcode": "00002000",
+          "Value": "012C012C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Game": "Splatterhouse",
+  "Region": "BLES01120",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "No death on enemy hits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00018304",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

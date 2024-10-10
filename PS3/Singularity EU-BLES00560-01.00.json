@@ -1,0 +1,166 @@
+{
+  "Game": "Singularity EU",
+  "Region": "BLES00560",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Info - Press [F1] Singularity.txt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "High Jump",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EA39C8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Use A Health Kit To Get Lots Of Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E4D978",
+          "Opcode": "00002000",
+          "Value": "3D404800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E4D980",
+          "Opcode": "00002000",
+          "Value": "915F02E4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "TMD Energy Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E501EC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rapid Fire Impulse",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E54614",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Never Attack Nor Move",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F7DB98",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "You & Enemies Are Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E54C80",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Walk Through Most Things",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00691634",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0069163C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00691640",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00691650",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00691654",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00691658",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00691668",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0069166C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00691670",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

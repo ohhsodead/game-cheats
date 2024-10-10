@@ -1,0 +1,45 @@
+{
+  "Game": "Command & Conquer : Alerte Rouge 3 : Ultimate Edition",
+  "Region": "BLES00508",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002DE3E0",
+          "Opcode": "00002000",
+          "Value": "3F0005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002DE3F8",
+          "Opcode": "00002000",
+          "Value": "6318E0FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002DE404",
+          "Opcode": "00002000",
+          "Value": "931E0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Limit creation of units x5000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002B4134",
+          "Opcode": "00002000",
+          "Value": "813AFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "Game": "Bayonetta JP",
+  "Region": "BLJM60174",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Bayonetta HP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01EC5474",
+          "Opcode": "00002000",
+          "Value": "00000BB8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01E97D30",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000BB8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bayonetta Magic Gauge Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01EC550C",
+          "Opcode": "00002000",
+          "Value": "44480000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Halos 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01EC5514",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Have All Weapons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01EC54B8",
+          "Opcode": "00002000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Have All Accessories",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01EC54BC",
+          "Opcode": "00002000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Have Item 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001DFA3C",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001DFA6C",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1000x Hit Range Modifier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00016DC0",
+          "Opcode": "00002000",
+          "Value": "3FA0447A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.5x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D5894",
+          "Opcode": "00002000",
+          "Value": "3D203F00",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.25x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D5894",
+          "Opcode": "00002000",
+          "Value": "3D203FA0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.5x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D5894",
+          "Opcode": "00002000",
+          "Value": "3D203FC0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D5894",
+          "Opcode": "00002000",
+          "Value": "3D204000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "3x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D5894",
+          "Opcode": "00002000",
+          "Value": "3D204040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D5894",
+          "Opcode": "00002000",
+          "Value": "3D204080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Combo Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014D19C0",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "100x Combo Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014D19C0",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999x Combo Multiplier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014D19C0",
+          "Opcode": "00002000",
+          "Value": "4479C000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Witch Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E1640",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "100x Witch Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E1640",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999x Witch Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E1640",
+          "Opcode": "00002000",
+          "Value": "4479C000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Hit Work Affinity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E1630",
+          "Opcode": "00002000",
+          "Value": "5023D70A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0082E5B0",
+          "Opcode": "00002000",
+          "Value": "419D0058",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0082E610",
+          "Opcode": "00002000",
+          "Value": "418101C4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0082E620",
+          "Opcode": "00002000",
+          "Value": "419D01E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0082E62C",
+          "Opcode": "00002000",
+          "Value": "4099FF88",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0082E63C",
+          "Opcode": "00002000",
+          "Value": "419EFF78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0082E648",
+          "Opcode": "00002000",
+          "Value": "4182FF6C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0082E658",
+          "Opcode": "00002000",
+          "Value": "4186012C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0082E668",
+          "Opcode": "00002000",
+          "Value": "409A01CC",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

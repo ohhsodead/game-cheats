@@ -1,0 +1,95 @@
+{
+  "Game": "Valkyria Chronicles EU",
+  "Region": "BLES00372",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "(Press Select) to EXP 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1030F7B0",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "DCT 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10346794",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1031BEAC",
+          "Opcode": "00002000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0019AE18",
+          "Opcode": "00002000",
+          "Value": "D19F0310",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP & Tank BHP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1031BEF0",
+          "Opcode": "00004000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "0000404D 00000154 00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Continuous Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1031BEFE 00000000",
+          "Opcode": "00004200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "0000404D 00000154 00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

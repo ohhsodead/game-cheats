@@ -1,0 +1,252 @@
+{
+  "Game": "Dark Souls II US",
+  "Region": "BLUS41045",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Items on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00530724",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0053072C",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Items on Use/Discard/Deposit (Must have at least 2 items)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0053A7F8",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Souls",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008669D8",
+          "Opcode": "00002000",
+          "Value": "419D0104",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Souls on Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00866054",
+          "Opcode": "00002000",
+          "Value": "7D405378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004BB6D4",
+          "Opcode": "00002000",
+          "Value": "49C1AA97",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01C1AA94",
+          "Opcode": "00002000",
+          "Value": "901D0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01C1AA98",
+          "Opcode": "00002000",
+          "Value": "3C60323F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01C1AA9C",
+          "Opcode": "00002000",
+          "Value": "6063D6BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01C1AAA0",
+          "Opcode": "00002000",
+          "Value": "80630000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01C1AAA4",
+          "Opcode": "00002000",
+          "Value": "81030104",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01C1AAA8",
+          "Opcode": "00002000",
+          "Value": "910300FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01C1AAAC",
+          "Opcode": "00002000",
+          "Value": "484BB6DB",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Status Immunity (Petrification etc.)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004878F4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007CAEC0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005325B0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Durability",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00530388",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007F9F18",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Equip Load 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0084C324",
+          "Opcode": "00002000",
+          "Value": "EFFF0024",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Torch Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0054761C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Souls Don't Disappear After Death",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00665094",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Items Never Decrease (You can't use it with Max Items)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0053A7D0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0053A7F8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Buff Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005E6044",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005E6050",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

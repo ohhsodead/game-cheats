@@ -1,0 +1,127 @@
+{
+  "Game": "Dead Nation US",
+  "Region": "NPUA80358",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039D17C",
+          "Opcode": "00002000",
+          "Value": "38A07F7F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007550C",
+          "Opcode": "00002000",
+          "Value": "38A07F7F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00396DA4",
+          "Opcode": "00002000",
+          "Value": "C05F0060",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenades",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007502C",
+          "Opcode": "00002000",
+          "Value": "38C07F7F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00396DDC",
+          "Opcode": "00002000",
+          "Value": "C02500E0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003AD17C",
+          "Opcode": "00002000",
+          "Value": "38A07F7F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008550C",
+          "Opcode": "00002000",
+          "Value": "38A07F7F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A6DA4",
+          "Opcode": "00002000",
+          "Value": "C05F0060",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenades",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008502C",
+          "Opcode": "00002000",
+          "Value": "38C07F7F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A6DDC",
+          "Opcode": "00002000",
+          "Value": "C02500E0",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

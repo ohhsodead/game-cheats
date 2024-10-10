@@ -1,0 +1,152 @@
+{
+  "Game": "Hokuto Musou International JP",
+  "Region": "BLJM60303",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Play Time 999:59",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024E624",
+          "Opcode": "00002000",
+          "Value": "7CA32B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Life Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00869E28",
+          "Opcode": "00003000",
+          "Value": "0000155A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00001770",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00869E28",
+          "Opcode": "00003000",
+          "Value": "00001558",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00001770",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Aura Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00869E28",
+          "Opcode": "00003000",
+          "Value": "0000155E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00001F40",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00869E28",
+          "Opcode": "00003000",
+          "Value": "0000155C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00001F40",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Special Power Max in Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00869E28",
+          "Opcode": "00003000",
+          "Value": "00001566",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Skill Power 9999 After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E5FDC",
+          "Opcode": "00002000",
+          "Value": "7CA32B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Life Max After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E5FF4",
+          "Opcode": "00002000",
+          "Value": "7CA32B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Attack Max After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E6010",
+          "Opcode": "00002000",
+          "Value": "7CA32B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Defense Max After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E602C",
+          "Opcode": "00002000",
+          "Value": "7CA32B78",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

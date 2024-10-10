@@ -1,0 +1,145 @@
+{
+  "Game": "Tomb Raider US",
+  "Region": "BLUS31036",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Infinite Arrows, Bullets, Salvage, Parts",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005F230C",
+          "Opcode": "00002000",
+          "Value": "7C1D0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00628CAC",
+          "Opcode": "00002000",
+          "Value": "39200064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Skill Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007395DC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00422AC8",
+          "Opcode": "00002000",
+          "Value": "38002710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00422AD0",
+          "Opcode": "00002000",
+          "Value": "90030010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00422AD4",
+          "Opcode": "00002000",
+          "Value": "90030014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00422AD8",
+          "Opcode": "00002000",
+          "Value": "4BFFFC8C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Fragments",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00611504",
+          "Opcode": "00002000",
+          "Value": "A3A90000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00642614",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "10000 Fragments On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00612C8C",
+          "Opcode": "00002000",
+          "Value": "38002710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier x10",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007409EC",
+          "Opcode": "00002000",
+          "Value": "48AD1825",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01212210",
+          "Opcode": "00002000",
+          "Value": "1E73000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01212214",
+          "Opcode": "00002000",
+          "Value": "7C130214",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01212218",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

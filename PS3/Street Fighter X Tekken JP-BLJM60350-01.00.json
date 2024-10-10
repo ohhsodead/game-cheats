@@ -1,0 +1,332 @@
+{
+  "Game": "Street Fighter X Tekken JP",
+  "Region": "BLJM60350",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Info - [For 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Auto Max Power 1P/2P [01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007B200C",
+          "Opcode": "00002000",
+          "Value": "418100A4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Time Team Mode [01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007B22F0",
+          "Opcode": "00002000",
+          "Value": "418102B4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible + Multihits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00593D2C",
+          "Opcode": "00002000",
+          "Value": "80830008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00593D30",
+          "Opcode": "00002000",
+          "Value": "2C040002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00593D34",
+          "Opcode": "00002000",
+          "Value": "40800010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00593D0C",
+          "Opcode": "00002000",
+          "Value": "807C0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00593D10",
+          "Opcode": "00002000",
+          "Value": "809C0054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00593D20",
+          "Opcode": "00002000",
+          "Value": "4182002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00593D24",
+          "Opcode": "00002000",
+          "Value": "809C0050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00593D34",
+          "Opcode": "00002000",
+          "Value": "41820018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00593D38",
+          "Opcode": "00002000",
+          "Value": "2C030002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00593D40",
+          "Opcode": "00002000",
+          "Value": "4080000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00593D44",
+          "Opcode": "00002000",
+          "Value": "63840000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00593D48",
+          "Opcode": "00002000",
+          "Value": "4BFFC709",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CPU No Fighter Mode [01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005B8F6C",
+          "Opcode": "00002000",
+          "Value": "40820048",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Hit 1P/2P (Press R1=Off) [01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0068A350",
+          "Opcode": "00002000",
+          "Value": "41820008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0068A350",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Easy Kill (Hold L1+R2+Down=when CPU takes damage)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005F72B4",
+          "Opcode": "00000000",
+          "Value": "00000090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400006",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005F72B4",
+          "Opcode": "00000000",
+          "Value": "00000091",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Recover HP (Hold L2+R2=get hit,regular singles mode)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005F724D",
+          "Opcode": "00000000",
+          "Value": "0000009E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005F724D",
+          "Opcode": "00000000",
+          "Value": "0000007E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.06]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Auto Max Power 1P/2P [01.06]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007C978C",
+          "Opcode": "00002000",
+          "Value": "418100A4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Time Team Mode [01.06]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007C9A70",
+          "Opcode": "00002000",
+          "Value": "418102B4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.08]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005C386C",
+          "Opcode": "00002000",
+          "Value": "807C0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005C3870",
+          "Opcode": "00002000",
+          "Value": "2C030002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005C3874",
+          "Opcode": "00002000",
+          "Value": "41800014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Auto Max Power 1P/2P",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007EFAB0",
+          "Opcode": "00002000",
+          "Value": "418100A4",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

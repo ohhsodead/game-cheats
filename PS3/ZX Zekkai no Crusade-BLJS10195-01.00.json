@@ -1,0 +1,139 @@
+{
+  "Game": "ZX Zekkai no Crusade",
+  "Region": "BLJS10195",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015DC50",
+          "Opcode": "00002000",
+          "Value": "7C842A14",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Turns",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00092BE8",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Code Hack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00079F24",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00079348",
+          "Opcode": "00002000",
+          "Value": "7C832378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Card x10",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007A404",
+          "Opcode": "00002000",
+          "Value": "38C6000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008A87C",
+          "Opcode": "00002000",
+          "Value": "38841388",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015DC50",
+          "Opcode": "00002000",
+          "Value": "7C842A14",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE TURN",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00092BE8",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Code hack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00079F24",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MONEY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00079348",
+          "Opcode": "00002000",
+          "Value": "7C832378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008A87C",
+          "Opcode": "00002000",
+          "Value": "38841388",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

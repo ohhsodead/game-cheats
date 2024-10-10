@@ -1,0 +1,116 @@
+{
+  "Game": "G.I. Joe The Rise of Cobra AS",
+  "Region": "BLAS50133",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Score 99999 (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008EC750",
+          "Opcode": "00003000",
+          "Value": "0000070C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP Man (Press L2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3712E90C",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenade Man (Press L2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3712E924",
+          "Opcode": "00001000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP Woman (Press L2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3712EA1C",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenade Woman (Press L2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3712EA34",
+          "Opcode": "00001000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

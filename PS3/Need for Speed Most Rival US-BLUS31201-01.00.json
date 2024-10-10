@@ -1,0 +1,19 @@
+{
+  "Game": "Need for Speed Most Rival US",
+  "Region": "BLUS31201",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Monney",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0081A5E4",
+          "Opcode": "00002000",
+          "Value": "90DD0014",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

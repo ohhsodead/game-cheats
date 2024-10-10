@@ -1,0 +1,55 @@
+{
+  "Game": "Ratchet & Clank Future A Crack in Time US",
+  "Region": "BCUS98124",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E24F68",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E24F64",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008DAA8",
+          "Opcode": "00002000",
+          "Value": "409A0038",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008DAF0",
+          "Opcode": "00002000",
+          "Value": "419A0038",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

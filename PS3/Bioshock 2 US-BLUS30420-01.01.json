@@ -1,0 +1,106 @@
+{
+  "Game": "Bioshock 2 US",
+  "Region": "BLUS30420",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite HP/Money/Eye/Adam",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010130",
+          "Opcode": "00002000",
+          "Value": "3C804700",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010134",
+          "Opcode": "00002000",
+          "Value": "909C0700",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010138",
+          "Opcode": "00002000",
+          "Value": "909C05C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001013C",
+          "Opcode": "00002000",
+          "Value": "909C0CA0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010140",
+          "Opcode": "00002000",
+          "Value": "909C0C9C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010144",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010148",
+          "Opcode": "00002000",
+          "Value": "909C0C98",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001014C",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E72A0",
+          "Opcode": "00002000",
+          "Value": "4BE28E91",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E72A4",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - When you pick up the money, all Items available.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001DE03C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

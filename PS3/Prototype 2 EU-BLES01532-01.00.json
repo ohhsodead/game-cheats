@@ -1,0 +1,275 @@
+{
+  "Game": "Prototype 2 EU",
+  "Region": "BLES01532",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP (Select+Up=On/Select+Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005652DC",
+          "Opcode": "00002000",
+          "Value": "D1BF000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00410000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005652DC",
+          "Opcode": "00002000",
+          "Value": "FF806800",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1-Hit Kill (Select+Left=On/Select+Right=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Opcode": "0000C00B 00000000 00810000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00954FA0",
+          "Opcode": "00002000",
+          "Value": "4832FC61",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C00",
+          "Opcode": "00002000",
+          "Value": "801F0034",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C04",
+          "Opcode": "00002000",
+          "Value": "2F800001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C08",
+          "Opcode": "00002000",
+          "Value": "419E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C0C",
+          "Opcode": "00002000",
+          "Value": "EC000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C10",
+          "Opcode": "00002000",
+          "Value": "ED6B0028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C14",
+          "Opcode": "00002000",
+          "Value": "3D603090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C18",
+          "Opcode": "00002000",
+          "Value": "3C003B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C1C",
+          "Opcode": "00002000",
+          "Value": "6000C9FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C20",
+          "Opcode": "00002000",
+          "Value": "900B1530",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C24",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "0000C00B 00000000 00210000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00954FA0",
+          "Opcode": "00002000",
+          "Value": "ED6B0028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C00",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C04",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C08",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C0C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C10",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C14",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C18",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C1C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C20",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C84C24",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max EXP (L3+R3=On/Select+Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005652E0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00900000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005652E0",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max EXP (L3+R3=On/Select+Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005652E0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00090000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005652E0",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

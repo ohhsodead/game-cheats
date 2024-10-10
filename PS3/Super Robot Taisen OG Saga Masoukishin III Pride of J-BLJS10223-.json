@@ -1,0 +1,278 @@
+{
+  "Game": "Super Robot Taisen OG Saga Masoukishin III Pride of J",
+  "Region": "BLJS10223",
+  "Version": "",
+  "Cheats": [
+    {
+      "Name": "Infinite SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C4ED4",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite MG (Moving)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FAAC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite MG (Attack)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FC4C",
+          "Opcode": "00002000",
+          "Value": "7D074378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FC30",
+          "Opcode": "00002000",
+          "Value": "30680000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Increase Money When Upgrade Unit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E8A08",
+          "Opcode": "00002000",
+          "Value": "7C841A14",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite PP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009ACB4",
+          "Opcode": "00002000",
+          "Value": "7CA62B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite PN",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FC64",
+          "Opcode": "00002000",
+          "Value": "7CA72B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Movement",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009C250",
+          "Opcode": "00002000",
+          "Value": "60840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MAX-vis Increases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009F9A0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Not Increase The Number Of Turns",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00064F08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Not Increase The Total Number Of Turns",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00064F64",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MONEY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E8A08",
+          "Opcode": "00002000",
+          "Value": "7C841A14",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FC30",
+          "Opcode": "00002000",
+          "Value": "30680000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE PP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009ACB4",
+          "Opcode": "00002000",
+          "Value": "7CA62B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE PN",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FC64",
+          "Opcode": "00002000",
+          "Value": "7CA72B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MG",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FAAC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FC4C",
+          "Opcode": "00002000",
+          "Value": "7D074378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C4ED4",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MOVE",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009C250",
+          "Opcode": "00002000",
+          "Value": "60840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Energy Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009F9A0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "souta-nn",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00064F64",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ta-nn",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00064F08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

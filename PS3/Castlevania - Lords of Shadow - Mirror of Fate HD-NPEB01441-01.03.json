@@ -1,0 +1,43 @@
+{
+  "Game": "Castlevania - Lords of Shadow - Mirror of Fate HD",
+  "Region": "NPEB01441",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024D00C",
+          "Opcode": "00002000",
+          "Value": "C0230070",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001FBC4C",
+          "Opcode": "00002000",
+          "Value": "C05F0040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Secondary Weapon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002363CC",
+          "Opcode": "00002000",
+          "Value": "38600064",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

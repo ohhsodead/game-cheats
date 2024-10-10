@@ -1,0 +1,76 @@
+{
+  "Game": "Trinity Universe US",
+  "Region": "BLUS30535",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0022DB04",
+          "Opcode": "00002000",
+          "Value": "7F69DB78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max AP Out of Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0023F244",
+          "Opcode": "00002000",
+          "Value": "7D244B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ap In Battle (Press TRIANGLE=Reset)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024B150",
+          "Opcode": "00002000",
+          "Value": "3C000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024B154",
+          "Opcode": "00002000",
+          "Value": "6000869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024B190",
+          "Opcode": "00002000",
+          "Value": "3C000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024B194",
+          "Opcode": "00002000",
+          "Value": "6000869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - For above. Press before 0 when it's 5 for restart in 999.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

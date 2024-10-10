@@ -1,0 +1,433 @@
+{
+  "Game": "Mobile Suit Gundam Battlefield Record JP",
+  "Region": "BLJS10050",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Master Code",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "424C4A53",
+          "Opcode": "00000101",
+          "Value": " 10050018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Power 9999999pt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "31C8242C",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Experience (Hero)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E7FEC",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Combat 99 (Hero)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E7FFA",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Firing 99 (Hero)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E7FFE",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Defense 99 (Hero)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E8002",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pilot 99 (Hero)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E8006",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Experience (P2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E8048",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Combat 99 (P2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E8056",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Firing 99 (P2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E805A",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Defense 99 (P2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E805E",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pilot 99 (P2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E8062",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Experience (P3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E80A4",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Combat 99 (P3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E80B2",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Firing 99 (P3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E80B6",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Defense 99 (P3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E80BA",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pilot 99 (P3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E80BE",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Experience (P4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E8100",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Combat 99 (P4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E810E",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Firing 99 (P4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E8112",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Defense 99 (P4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E8116",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pilot 99 (P4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E811A",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Experience (P5)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E815C",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Combat 99 (P5)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E816A",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Firing 99 (P5)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E816E",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Defense 99 (P5)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E8172",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pilot 99 (P5)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319E8176",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Fully Open-armed (Gun)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319ED6A1",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004040",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Fully Open-armed (Sword)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319ED6E1",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "0000403D",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Fully Open-armed (Shield)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319ED71D",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004028",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Fully Open-armed (Parts)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "319ED8A2",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004078",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press Select) Power 9999999pt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "31C8FDAC",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "31C8FDEC",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

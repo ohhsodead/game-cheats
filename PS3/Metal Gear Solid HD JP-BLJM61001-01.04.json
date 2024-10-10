@@ -1,0 +1,47 @@
+{
+  "Game": "Metal Gear Solid HD JP",
+  "Region": "BLJM61001",
+  "Version": "01.04",
+  "Cheats": [
+    {
+      "Name": "MK22",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011F0B8",
+          "Opcode": "00002000",
+          "Value": "38A00009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011F0BC",
+          "Opcode": "00002000",
+          "Value": "B0A30015",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011F0C0",
+          "Opcode": "00002000",
+          "Value": "38A00010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011F0C4",
+          "Opcode": "00002000",
+          "Value": "B0A30034",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011F0C4",
+          "Opcode": "00002000",
+          "Value": "B143001C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "Game": "Drag-On Dragoon 3 JP",
+  "Region": "BLJM61043",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Autoplay",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00966C90",
+          "Opcode": "00002000",
+          "Value": "C03E0050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00966C9C",
+          "Opcode": "00002000",
+          "Value": "C05E0058",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00966CA0",
+          "Opcode": "00002000",
+          "Value": "FC020800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00966CA4",
+          "Opcode": "00002000",
+          "Value": "4180015C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Items Don't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AA6830",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SP Gauge Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009A2150",
+          "Opcode": "00002000",
+          "Value": "935E07EC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ututai Gauge Max When Changed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009A2170",
+          "Opcode": "00002000",
+          "Value": "49F2915A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F29158",
+          "Opcode": "00002000",
+          "Value": "2E1A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F2915C",
+          "Opcode": "00002000",
+          "Value": "41900008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F29160",
+          "Opcode": "00002000",
+          "Value": "7F44D378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F29164",
+          "Opcode": "00002000",
+          "Value": "909E0800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F29168",
+          "Opcode": "00002000",
+          "Value": "489A2176",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99 Weapon Materials",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ED5B4",
+          "Opcode": "00002000",
+          "Value": "49F28F2E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F2C",
+          "Opcode": "00002000",
+          "Value": "57E0043E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F30",
+          "Opcode": "00002000",
+          "Value": "2900A148",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F34",
+          "Opcode": "00002000",
+          "Value": "408A0018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F38",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F3C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F40",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F44",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F48",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F4C",
+          "Opcode": "00002000",
+          "Value": "909D0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F50",
+          "Opcode": "00002000",
+          "Value": "480ED5BA",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Time Limit Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A36360",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "8x Jumping Ability",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009EF858",
+          "Opcode": "00002000",
+          "Value": "FFC0F890",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "40x Jumping Ability",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009EF858",
+          "Opcode": "00002000",
+          "Value": "FFCB582A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009EF87C",
+          "Opcode": "00002000",
+          "Value": "FC5EF02A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Camera Limits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009A9D38",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009A9D3C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "item",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AA6830",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "sp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009A2150",
+          "Opcode": "00002000",
+          "Value": "935E07EC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "utautaige-zi",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009A2170",
+          "Opcode": "00002000",
+          "Value": "49F2915A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F29158",
+          "Opcode": "00002000",
+          "Value": "2E1A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F2915C",
+          "Opcode": "00002000",
+          "Value": "41900008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F29160",
+          "Opcode": "00002000",
+          "Value": "7F44D378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F29164",
+          "Opcode": "00002000",
+          "Value": "909E0800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F29168",
+          "Opcode": "00002000",
+          "Value": "489A2176",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "bukisizai",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ED5B4",
+          "Opcode": "00002000",
+          "Value": "49F28F2E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F2C",
+          "Opcode": "00002000",
+          "Value": "57E0043E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F30",
+          "Opcode": "00002000",
+          "Value": "2900A148",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F34",
+          "Opcode": "00002000",
+          "Value": "408A0018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F38",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F3C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F40",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F44",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F48",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F4C",
+          "Opcode": "00002000",
+          "Value": "909D0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F50",
+          "Opcode": "00002000",
+          "Value": "480ED5BA",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "seigenzikan",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A36360",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "jumpx8",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009EF858",
+          "Opcode": "00002000",
+          "Value": "FFC0F890",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "jumpx40",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009EF858",
+          "Opcode": "00002000",
+          "Value": "FFCB582A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009EF87C",
+          "Opcode": "00002000",
+          "Value": "FC5EF02A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kamera",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009A9D38",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009A9D3C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AA6830",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009A2150",
+          "Opcode": "00002000",
+          "Value": "935E07EC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MAX Utautai Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009A2170",
+          "Opcode": "00002000",
+          "Value": "49F2915A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F29158",
+          "Opcode": "00002000",
+          "Value": "2E1A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F2915C",
+          "Opcode": "00002000",
+          "Value": "41900008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F29160",
+          "Opcode": "00002000",
+          "Value": "7F44D378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F29164",
+          "Opcode": "00002000",
+          "Value": "909E0800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F29168",
+          "Opcode": "00002000",
+          "Value": "489A2176",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Weapons Materials",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000ED5B4",
+          "Opcode": "00002000",
+          "Value": "49F28F2E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F2C",
+          "Opcode": "00002000",
+          "Value": "57E0043E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F30",
+          "Opcode": "00002000",
+          "Value": "2900A148",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F34",
+          "Opcode": "00002000",
+          "Value": "408A0018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F38",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F3C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F40",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F44",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F48",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F4C",
+          "Opcode": "00002000",
+          "Value": "909D0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01F28F50",
+          "Opcode": "00002000",
+          "Value": "480ED5BA",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Time Limit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A36360",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

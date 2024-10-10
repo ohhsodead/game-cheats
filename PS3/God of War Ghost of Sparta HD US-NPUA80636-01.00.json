@@ -1,0 +1,300 @@
+{
+  "Game": "God of War Ghost of Sparta HD US",
+  "Region": "NPUA80636",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Unlock God (Very Hard) Costume & Treasures",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00847050",
+          "Opcode": "00003000",
+          "Value": "000004C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00004000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004004",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Red Orbs 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00847C60",
+          "Opcode": "00003000",
+          "Value": "000000F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always 99999 Hits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00847C64",
+          "Opcode": "00003000",
+          "Value": "000000D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00847C60",
+          "Opcode": "00003000",
+          "Value": "00000068",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000060",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00847C60",
+          "Opcode": "00003000",
+          "Value": "00000068",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000070",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00847C60",
+          "Opcode": "00003000",
+          "Value": "00000068",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Magic Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008453F0",
+          "Opcode": "00002000",
+          "Value": "43C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00847C60",
+          "Opcode": "00003000",
+          "Value": "000000F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Fire Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00847C60",
+          "Opcode": "00003000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000174",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "41200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00847C60",
+          "Opcode": "00003000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000170",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "41200000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Attack Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00847C60",
+          "Opcode": "00003000",
+          "Value": "00000080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Infinite Jump",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00847C60",
+          "Opcode": "00003000",
+          "Value": "0000008C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000368",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - 1. Please activate cheat Only when getting the 1st saving",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - 2. Deactive cheat to ensure some scenes's occuring.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

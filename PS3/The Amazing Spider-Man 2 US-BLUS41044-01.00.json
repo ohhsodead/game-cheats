@@ -1,0 +1,182 @@
+{
+  "Game": "The Amazing Spider-Man 2 US",
+  "Region": "BLUS41044",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B96A60",
+          "Opcode": "00002000",
+          "Value": "60650000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E8EFC",
+          "Opcode": "00002000",
+          "Value": "38A00001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier (x2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BFF8FC",
+          "Opcode": "00002000",
+          "Value": "1F9C0002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier (x4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BFF8FC",
+          "Opcode": "00002000",
+          "Value": "1F9C0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier (x10)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BFF8FC",
+          "Opcode": "00002000",
+          "Value": "1F9C000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier (x20)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BFF8FC",
+          "Opcode": "00002000",
+          "Value": "1F9C0014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Upgrade Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BE77AC",
+          "Opcode": "00002000",
+          "Value": "38604E20",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B96A5C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B96A60",
+          "Opcode": "00002000",
+          "Value": "60650000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier X2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BFF8FC",
+          "Opcode": "00002000",
+          "Value": "1F9C0002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier X4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BFF8FC",
+          "Opcode": "00002000",
+          "Value": "1F9C0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier X10",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BFF8FC",
+          "Opcode": "00002000",
+          "Value": "1F9C000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier X20",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BFF8FC",
+          "Opcode": "00002000",
+          "Value": "1F9C0014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier X100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BFF8FC",
+          "Opcode": "00002000",
+          "Value": "1F9C0064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier X1000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BFF8FC",
+          "Opcode": "00002000",
+          "Value": "1F9C03E8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

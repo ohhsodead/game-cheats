@@ -1,0 +1,106 @@
+{
+  "Game": "Army of Two The 40th Day EU",
+  "Region": "BLES00659",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo & Grenade",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001613F0",
+          "Opcode": "00002000",
+          "Value": "7CBC2814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018EC600",
+          "Opcode": "00002000",
+          "Value": "39C07FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018EC604",
+          "Opcode": "00002000",
+          "Value": "91DB0304",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018EC608",
+          "Opcode": "00002000",
+          "Value": "807D0304",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018EC60C",
+          "Opcode": "00002000",
+          "Value": "4A74B364",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003796C",
+          "Opcode": "00002000",
+          "Value": "498B4C94",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Cash (Press L3+R3) (99999999 RMB)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C005",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01CE0CD4",
+          "Opcode": "00003000",
+          "Value": "0000049C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000091C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000598",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

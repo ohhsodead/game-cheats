@@ -1,0 +1,586 @@
+{
+  "Game": "Silent Hill Homecoming US",
+  "Region": "BLUS30169",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "017C4090",
+          "Opcode": "00003000",
+          "Value": "00000150",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "4A000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gun 1 Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "32E4ADF8",
+          "Opcode": "00003000",
+          "Value": "000017A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gun 2 Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "32E4ADEC",
+          "Opcode": "00003000",
+          "Value": "000010A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gun 3 Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "32E4ADB8",
+          "Opcode": "00003000",
+          "Value": "000011A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invulnerability",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00765340",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo Doesn't Decrease When You Fire",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030FC18",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Reloading Doesn't Decrease Total Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030FB88",
+          "Opcode": "00002000",
+          "Value": "480005A8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Reloading Loads All Ammo Into Guns",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030FB80",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Melee Attacks Don't Affect Anything",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00156274",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Weak Melee Attacks Don't Decrease Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00203D3C",
+          "Opcode": "00002000",
+          "Value": "48000018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gunfire Doesn't Decrease Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00203D54",
+          "Opcode": "00002000",
+          "Value": "4800001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Strong Melee Attacks Don't Decrease Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00203D78",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Don't Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021E680",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Don't Attack (Alt)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00215998",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0021A72C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00231398",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00232CDC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Press A Button Once To Complete A Button Masher",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C17D0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Attacks Do 2x More Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00203ED4",
+          "Opcode": "00002000",
+          "Value": "1C000002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Attacks Do 4x More Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00203ED4",
+          "Opcode": "00002000",
+          "Value": "1C000004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Attacks Do 8x More Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00203ED4",
+          "Opcode": "00002000",
+          "Value": "1C000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Attacks Do 16x More Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00203ED4",
+          "Opcode": "00002000",
+          "Value": "1C000010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Weird Facial Expressions",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00075B1C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00075B58",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00075B90",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00075BC4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00075BF8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00075C2C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00075C64",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00075C94",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00075CC4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.25x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0018EA78",
+          "Opcode": "00002000",
+          "Value": "3C003FA0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018EA7C",
+          "Opcode": "00002000",
+          "Value": "901E0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.5x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0018EA78",
+          "Opcode": "00002000",
+          "Value": "3C003FC0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018EA7C",
+          "Opcode": "00002000",
+          "Value": "901E0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.5x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003BDF5C",
+          "Opcode": "00002000",
+          "Value": "48010D0C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003CEC64",
+          "Opcode": "00002000",
+          "Value": "3D203FC0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003CEC68",
+          "Opcode": "00002000",
+          "Value": "912A090C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003CEC6C",
+          "Opcode": "00002000",
+          "Value": "4BFEF2F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003BDF5C",
+          "Opcode": "00002000",
+          "Value": "48010D0C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003CEC64",
+          "Opcode": "00002000",
+          "Value": "3D204000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003CEC68",
+          "Opcode": "00002000",
+          "Value": "912A090C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003CEC6C",
+          "Opcode": "00002000",
+          "Value": "4BFEF2F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2.5x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003BDF5C",
+          "Opcode": "00002000",
+          "Value": "48010D0C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003CEC64",
+          "Opcode": "00002000",
+          "Value": "3D204020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003CEC68",
+          "Opcode": "00002000",
+          "Value": "912A090C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003CEC6C",
+          "Opcode": "00002000",
+          "Value": "4BFEF2F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.125x Brightness",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E8080",
+          "Opcode": "00002000",
+          "Value": "3C003F90",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E8098",
+          "Opcode": "00002000",
+          "Value": "900900B0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.25x Brightness",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E8080",
+          "Opcode": "00002000",
+          "Value": "3C003FA0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E8098",
+          "Opcode": "00002000",
+          "Value": "900900B0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.375x Brightness",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E8080",
+          "Opcode": "00002000",
+          "Value": "3C003FB0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E8098",
+          "Opcode": "00002000",
+          "Value": "900900B0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.5x Brightness",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E8080",
+          "Opcode": "00002000",
+          "Value": "3C003FC0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E8098",
+          "Opcode": "00002000",
+          "Value": "900900B0",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "Game": "Star Wars The Force Unleashed EU",
+  "Region": "BLES00262",
+  "Version": "02.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006C1C7C",
+          "Opcode": "00002000",
+          "Value": "D0030004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Force",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007F0874",
+          "Opcode": "00002000",
+          "Value": "C2A30008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007F0878",
+          "Opcode": "00002000",
+          "Value": "D2A30004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A599C",
+          "Opcode": "00002000",
+          "Value": "D043000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Force",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A59B4",
+          "Opcode": "00002000",
+          "Value": "D043000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Fury",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A59CC",
+          "Opcode": "00002000",
+          "Value": "D043000C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

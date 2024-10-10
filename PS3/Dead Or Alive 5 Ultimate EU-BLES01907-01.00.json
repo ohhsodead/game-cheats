@@ -1,0 +1,126 @@
+{
+  "Game": "Dead Or Alive 5 Ultimate EU",
+  "Region": "BLES01907",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1P Can Hit Anywhere And 2P Can't Hit 1P At All",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00289040",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00289138",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00289330",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Can Throw Anywhere And 2P Can't Throw 1P At All",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002F84C4",
+          "Opcode": "00002000",
+          "Value": "7C1BE800",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Block",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002F6FC0",
+          "Opcode": "00002000",
+          "Value": "48000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002F705C",
+          "Opcode": "00002000",
+          "Value": "48000064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002F7160",
+          "Opcode": "00002000",
+          "Value": "48000048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002F71B0",
+          "Opcode": "00002000",
+          "Value": "48000018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Hold",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002D7BC0",
+          "Opcode": "00002000",
+          "Value": "48000380",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "One Hit Kills?",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BDA98",
+          "Opcode": "00002000",
+          "Value": "7C831810",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "itigeki",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BDA98",
+          "Opcode": "00002000",
+          "Value": "7C831810",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

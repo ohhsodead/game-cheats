@@ -1,0 +1,30 @@
+{
+  "Game": "Mortal Kombat Komplete Edition EU",
+  "Region": "BLES01508",
+  "Version": "01.05",
+  "Cheats": [
+    {
+      "Name": "Master Code",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "424C4553 01132018",
+          "Opcode": "00000105",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Hit X-Ray Max Infinite",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0019C798",
+          "Opcode": "00002000",
+          "Value": "4082000C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

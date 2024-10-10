@@ -1,0 +1,33 @@
+{
+  "Game": "Hunted The Demon's Forge EU",
+  "Region": "BLES01310",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Gold 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "02C24CFC",
+          "Opcode": "00003000",
+          "Value": "00000010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

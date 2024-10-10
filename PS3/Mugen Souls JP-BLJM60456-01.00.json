@@ -1,0 +1,55 @@
+{
+  "Game": "Mugen Souls JP",
+  "Region": "BLJM60456",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max G After 1 Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002B8A54",
+          "Opcode": "00002000",
+          "Value": "409D0068",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Mugen P After 1 Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002B8998",
+          "Opcode": "00002000",
+          "Value": "409D0058",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max G Up Points on Use or Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002B8084",
+          "Opcode": "00002000",
+          "Value": "419D000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max PP During Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002B8168",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

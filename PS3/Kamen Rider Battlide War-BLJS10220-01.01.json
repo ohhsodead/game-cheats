@@ -1,0 +1,31 @@
+{
+  "Game": "Kamen Rider Battlide War",
+  "Region": "BLJS10220",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Combo 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C4FE4",
+          "Opcode": "00002000",
+          "Value": "38A0270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kills 10000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C48E8",
+          "Opcode": "00002000",
+          "Value": "38032710",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

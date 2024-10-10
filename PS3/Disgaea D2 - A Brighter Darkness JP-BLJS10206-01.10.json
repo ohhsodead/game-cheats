@@ -1,0 +1,297 @@
+{
+  "Game": "Disgaea D2 - A Brighter Darkness JP",
+  "Region": "BLJS10206",
+  "Version": "01.10",
+  "Cheats": [
+    {
+      "Name": "Mana Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001532C",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Turn 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001F9E4C",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bonus Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001DD694",
+          "Opcode": "00002000",
+          "Value": "39200064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EF4F4",
+          "Opcode": "00002000",
+          "Value": "7C090378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max HL",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002EF84",
+          "Opcode": "00002000",
+          "Value": "4800002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Dispatch An Unlimited Amount Of Units On Stage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001ED4B8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Remove Limit of Assembly Counts From Item World",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A6A1C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00266808",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bonus Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E25A0",
+          "Opcode": "00002000",
+          "Value": "38000064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Dispatch An Unlimited Amount Of Units On Stage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001F1A34",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E9E68",
+          "Opcode": "00002000",
+          "Value": "7C000050",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F3CDC",
+          "Opcode": "00002000",
+          "Value": "7C000378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MANA MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001532C",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "BONUS MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001DD694",
+          "Opcode": "00002000",
+          "Value": "39200064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EF4F4",
+          "Opcode": "00002000",
+          "Value": "7C090378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HLMAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002EF84",
+          "Opcode": "00002000",
+          "Value": "4800002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "syutugeki",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001ED4B8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "aitemugikai",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A6A1C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00266808",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.10]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "BONUS MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E25A0",
+          "Opcode": "00002000",
+          "Value": "38000064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "syutugeki",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001F1A34",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E9E68",
+          "Opcode": "00002000",
+          "Value": "7C000050",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F3CDC",
+          "Opcode": "00002000",
+          "Value": "7C000378",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

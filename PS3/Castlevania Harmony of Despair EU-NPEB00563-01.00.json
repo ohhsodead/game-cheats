@@ -1,0 +1,234 @@
+{
+  "Game": "Castlevania Harmony of Despair EU",
+  "Region": "NPEB00563",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Time Left Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C8B970",
+          "Opcode": "00003000",
+          "Value": "00000044",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player HP & MP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028BBAC",
+          "Opcode": "00002000",
+          "Value": "3CA03040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBB0",
+          "Opcode": "00002000",
+          "Value": "60A517E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBB4",
+          "Opcode": "00002000",
+          "Value": "3CC03048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBB8",
+          "Opcode": "00002000",
+          "Value": "81250008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBBC",
+          "Opcode": "00002000",
+          "Value": "2F890254",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBC0",
+          "Opcode": "00002000",
+          "Value": "419E0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBC4",
+          "Opcode": "00002000",
+          "Value": "38A50010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBC8",
+          "Opcode": "00002000",
+          "Value": "7F853000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBCC",
+          "Opcode": "00002000",
+          "Value": "409DFFEC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBD0",
+          "Opcode": "00002000",
+          "Value": "4828BBE4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBD4",
+          "Opcode": "00002000",
+          "Value": "3CC0447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBD8",
+          "Opcode": "00002000",
+          "Value": "90C50014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBDC",
+          "Opcode": "00002000",
+          "Value": "90C50018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028BBE0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0077DFFC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kills 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0077FE80",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage Dealt 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0077DA8C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Play Time 999:59:59",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0077DE98",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlock Hard Difficulty & All Chapters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C97F64",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "0000400E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "High Score 99999999 in Record",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C97B84",
+          "Opcode": "00004000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "0000400E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Best Time 0:00:00 in Record",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C97C84",
+          "Opcode": "00004000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "0000400E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

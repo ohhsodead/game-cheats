@@ -1,0 +1,19 @@
+{
+  "Game": "Tears to Tiara Kakan no Daichi (AP 2800) JP",
+  "Region": "BLJM60094",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max HP/MP/LV/SKL",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30335F50",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

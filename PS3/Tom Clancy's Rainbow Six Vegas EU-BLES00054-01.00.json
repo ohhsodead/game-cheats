@@ -1,0 +1,43 @@
+{
+  "Game": "Tom Clancy's Rainbow Six Vegas EU",
+  "Region": "BLES00054",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Grenades",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00608E4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0006A39D",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0006A39C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

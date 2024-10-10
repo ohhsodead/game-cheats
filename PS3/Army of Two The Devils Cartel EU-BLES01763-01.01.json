@@ -1,0 +1,79 @@
+{
+  "Game": "Army of Two The Devils Cartel EU",
+  "Region": "BLES01763",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo & Grenade",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0014980C",
+          "Opcode": "00002000",
+          "Value": "30A50000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0081967C",
+          "Opcode": "00002000",
+          "Value": "FFE0F090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Grenades",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00149A6C",
+          "Opcode": "00002000",
+          "Value": "30A50000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0081A6DC",
+          "Opcode": "00002000",
+          "Value": "FFE0F090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Grenades (Alt)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00149A6C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00149A6C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "Game": "BioHazard Revival Selection JP",
+  "Region": "BLJM60372",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Always Low Time (Veronica)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB3E38",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Retry Always 0 (Veronica)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB3E40",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Save Record (Veronica)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB3618",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health (Veronica)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BDEA9E",
+          "Opcode": "00001000",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlock Everything (Veronica)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB358C",
+          "Opcode": "00002000",
+          "Value": "00001FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlock All Files (Veronica)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB3E04",
+          "Opcode": "00002000",
+          "Value": "00FFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L1) 1st Person View, (Press L2) Normal View (Veronica)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB35F7",
+          "Opcode": "00000000",
+          "Value": "000000C2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB35F7",
+          "Opcode": "00000000",
+          "Value": "00000012",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L3+R3) to Get Special Weapon in Item Box (Veronica)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB3AE4",
+          "Opcode": "00002000",
+          "Value": "002003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C008",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3AE8",
+          "Opcode": "00002000",
+          "Value": "00020BB5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3AEC",
+          "Opcode": "00002000",
+          "Value": "000303E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3AF0",
+          "Opcode": "00002000",
+          "Value": "000403E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3AF4",
+          "Opcode": "00002000",
+          "Value": "002103E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3AF8",
+          "Opcode": "00002000",
+          "Value": "00220F9C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3AFC",
+          "Opcode": "00002000",
+          "Value": "008E03E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3B00",
+          "Opcode": "00002000",
+          "Value": "000B03E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3B04",
+          "Opcode": "00002000",
+          "Value": "000103E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R2+X) Save Free Near Typewriter (New save recommended)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000042",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB35FD",
+          "Opcode": "00000000",
+          "Value": "00000020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R2+[]) Item Box Anywhere (Veronica)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000082",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB35FD",
+          "Opcode": "00000000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R2+O) Security Box 1 Anywhere (Veronica)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000022",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB35FD",
+          "Opcode": "00000000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R2+TRIANGLE) Security Box 2 Anywhere (Veronica)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000012",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB35FD",
+          "Opcode": "00000000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "PTAS 99999999 (Biohazard 4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF9C8",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always 1st Save (Biohazard 4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF9BC",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Continued Record (Biohazard 4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF9C0",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always Low Time (Biohazard 4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF9C4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Game Round 3 (Biohazard 4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF9BE",
+          "Opcode": "00001000",
+          "Value": "00000002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R1) to Leon HP (Biohazard 4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018FF9D4",
+          "Opcode": "00001000",
+          "Value": "00000960",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018FF9D6",
+          "Opcode": "00001000",
+          "Value": "00000960",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R1) to Ashley HP (Biohazard 4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018FF9D8",
+          "Opcode": "00001000",
+          "Value": "00000258",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018FF9DA",
+          "Opcode": "00001000",
+          "Value": "00000258",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item Box Slots Max (Biohazard 4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0192B85C",
+          "Opcode": "00003000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "0000007F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bullet 999 (Biohazard 4)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0192B854",
+          "Opcode": "00003010",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

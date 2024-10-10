@@ -1,0 +1,45 @@
+{
+  "Game": "L.A Noire EU",
+  "Region": "BLES00933",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Intuition Power (Press Select+L2+R2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "31F34668",
+          "Opcode": "00002000",
+          "Value": "70000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Intuition Power (Press Select+L2+R2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "31F34668",
+          "Opcode": "00002000",
+          "Value": "70000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

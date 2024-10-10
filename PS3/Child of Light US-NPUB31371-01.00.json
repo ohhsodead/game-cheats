@@ -1,0 +1,266 @@
+{
+  "Game": "Child of Light US",
+  "Region": "NPUB31371",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Bombs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C32D8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000BE78C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000BEDCC",
+          "Opcode": "00002000",
+          "Value": "3C807FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rapid Bombs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C32E0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health + 1 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00158110",
+          "Opcode": "00002000",
+          "Value": "48B79507",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B79504",
+          "Opcode": "00002000",
+          "Value": "7C053000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B79508",
+          "Opcode": "00002000",
+          "Value": "81FFFFFC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B7950C",
+          "Opcode": "00002000",
+          "Value": "2F8F0283",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B79510",
+          "Opcode": "00002000",
+          "Value": "419D000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B79514",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B79518",
+          "Opcode": "00002000",
+          "Value": "48158117",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B7951C",
+          "Opcode": "00002000",
+          "Value": "48158123",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00158110",
+          "Opcode": "00002000",
+          "Value": "48B79507",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B79504",
+          "Opcode": "00002000",
+          "Value": "7C053000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B79508",
+          "Opcode": "00002000",
+          "Value": "81FFFFFC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B7950C",
+          "Opcode": "00002000",
+          "Value": "2F8F0283",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B79510",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B79514",
+          "Opcode": "00002000",
+          "Value": "48158117",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B79518",
+          "Opcode": "00002000",
+          "Value": "48158123",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Igniculus Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A4AF4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Recover Max Health w/ Igniculus",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015809C",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001582DC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items(Cannot be used with Max Items on Use)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0006227C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Items on Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0006226C",
+          "Opcode": "00002000",
+          "Value": "3B800064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Items on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000600E4",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Skill Points on Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00105900",
+          "Opcode": "00002000",
+          "Value": "38600063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Lv99 after 1 Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00156B5C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "Game": "The King of Fighters XIII AS",
+  "Region": "BLAS50366",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "No Hit/No Grab 1P/2P (Press Select=On) (Press Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000F4F0C",
+          "Opcode": "00002000",
+          "Value": "4082073C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000F4F0C",
+          "Opcode": "00002000",
+          "Value": "4182073C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F6A34",
+          "Opcode": "00002000",
+          "Value": "7C16B800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000F6A38",
+          "Opcode": "00002000",
+          "Value": "40800C24",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible & Hit Anywhere",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F7828",
+          "Opcode": "00002000",
+          "Value": "7C16B800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000F782C",
+          "Opcode": "00002000",
+          "Value": "40800014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F71E4",
+          "Opcode": "00002000",
+          "Value": "7C16B800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000F71E8",
+          "Opcode": "00002000",
+          "Value": "40800C24",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible & Hit Anywhere",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F7FD8",
+          "Opcode": "00002000",
+          "Value": "7C16B800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000F7FDC",
+          "Opcode": "00002000",
+          "Value": "40800014",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

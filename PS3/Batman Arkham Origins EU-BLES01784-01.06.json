@@ -1,0 +1,19 @@
+{
+  "Game": "Batman Arkham Origins EU",
+  "Region": "BLES01784",
+  "Version": "01.06",
+  "Cheats": [
+    {
+      "Name": "Debug Menu (press R1+START)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F249F0",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

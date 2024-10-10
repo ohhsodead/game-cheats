@@ -1,0 +1,268 @@
+{
+  "Game": "Venetica US",
+  "Region": "BLUS30636",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Gain Any XP To Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FAA0",
+          "Opcode": "00002000",
+          "Value": "48000018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Level Up For Insanely High Constitution",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FB08",
+          "Opcode": "00002000",
+          "Value": "3CE01000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB0C",
+          "Opcode": "00002000",
+          "Value": "60E70000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Level Up For Insanely High Wisdom",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FB24",
+          "Opcode": "00002000",
+          "Value": "3CC03000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB28",
+          "Opcode": "00002000",
+          "Value": "60C60000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Level Up For Insanely High Strength",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FB3C",
+          "Opcode": "00002000",
+          "Value": "3CC07FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB40",
+          "Opcode": "00002000",
+          "Value": "60C6FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Level Up For Insanely High Mental Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FB58",
+          "Opcode": "00002000",
+          "Value": "3C607FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB5C",
+          "Opcode": "00002000",
+          "Value": "6063FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Level Up To Set Many Things",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FB04",
+          "Opcode": "00002000",
+          "Value": "3C601000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB08",
+          "Opcode": "00002000",
+          "Value": "60630000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB0C",
+          "Opcode": "00002000",
+          "Value": "907F0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB10",
+          "Opcode": "00002000",
+          "Value": "3C603000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB14",
+          "Opcode": "00002000",
+          "Value": "60630000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB18",
+          "Opcode": "00002000",
+          "Value": "907F0024",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB1C",
+          "Opcode": "00002000",
+          "Value": "3C607FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB20",
+          "Opcode": "00002000",
+          "Value": "6063FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB24",
+          "Opcode": "00002000",
+          "Value": "907F0028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB28",
+          "Opcode": "00002000",
+          "Value": "3C607FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB2C",
+          "Opcode": "00002000",
+          "Value": "6063FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB30",
+          "Opcode": "00002000",
+          "Value": "907F002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB34",
+          "Opcode": "00002000",
+          "Value": "3860EA60",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB38",
+          "Opcode": "00002000",
+          "Value": "907F0030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB3C",
+          "Opcode": "00002000",
+          "Value": "3860EA60",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB40",
+          "Opcode": "00002000",
+          "Value": "907F0038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB44",
+          "Opcode": "00002000",
+          "Value": "3860EA60",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB48",
+          "Opcode": "00002000",
+          "Value": "907F003C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB4C",
+          "Opcode": "00002000",
+          "Value": "3C600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB50",
+          "Opcode": "00002000",
+          "Value": "907F0058",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB54",
+          "Opcode": "00002000",
+          "Value": "386003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB58",
+          "Opcode": "00002000",
+          "Value": "907F0050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB5C",
+          "Opcode": "00002000",
+          "Value": "3C60447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0009FB60",
+          "Opcode": "00002000",
+          "Value": "907F0048",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Game": "Dynasty Warriors 8 US",
+  "Region": "BLUS31185",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1000x Sword Hit Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCC7A4",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BCC7A8",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00ABE178",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00ABE194",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Musou",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00184F68",
+          "Opcode": "00002000",
+          "Value": "987E0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Rage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00184FC8",
+          "Opcode": "00002000",
+          "Value": "801D01F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00184FD4",
+          "Opcode": "00002000",
+          "Value": "901D01F0",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

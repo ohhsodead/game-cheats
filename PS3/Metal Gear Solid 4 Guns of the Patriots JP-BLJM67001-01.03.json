@@ -1,0 +1,611 @@
+{
+  "Game": "Metal Gear Solid 4 Guns of the Patriots JP",
+  "Region": "BLJM67001",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "99999999 DP in Drebin's Shop",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003E1F40",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L1) to Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003E1F40",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000B4A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003002",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003E1F40",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000B48",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003005",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003E1F40",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000B4C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Stress",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003E1F40",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000B50",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo & Grenade Always 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0057ED58",
+          "Opcode": "00003000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Never Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0057ED58",
+          "Opcode": "00003000",
+          "Value": "0000001E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003002",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0057ED58",
+          "Opcode": "00003000",
+          "Value": "0000001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003005",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ration 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0057DAE8",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008C578",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0008C754",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0008C4DC",
+          "Opcode": "00002000",
+          "Value": "7D004378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00087484",
+          "Opcode": "00002000",
+          "Value": "7C040378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "DP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00089658",
+          "Opcode": "00002000",
+          "Value": "3D2005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0008965C",
+          "Opcode": "00002000",
+          "Value": "6129E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Camouflage 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007665C",
+          "Opcode": "00002000",
+          "Value": "380000C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Energy, Battery, etc... Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000385B4",
+          "Opcode": "00002000",
+          "Value": "B18809E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385B8",
+          "Opcode": "00002000",
+          "Value": "3800012C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385BC",
+          "Opcode": "00002000",
+          "Value": "B00809EA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385C0",
+          "Opcode": "00002000",
+          "Value": "38000500",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385C4",
+          "Opcode": "00002000",
+          "Value": "B00809E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385C8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385CC",
+          "Opcode": "00002000",
+          "Value": "39600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385D0",
+          "Opcode": "00002000",
+          "Value": "91680000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Adjustable Zoom?",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003E268",
+          "Opcode": "00002000",
+          "Value": "380040E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003E280",
+          "Opcode": "00002000",
+          "Value": "A367FF8E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003E284",
+          "Opcode": "00002000",
+          "Value": "291B0780",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003E288",
+          "Opcode": "00002000",
+          "Value": "C005007C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003E28C",
+          "Opcode": "00002000",
+          "Value": "408A000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003E290",
+          "Opcode": "00002000",
+          "Value": "B0070000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003E294",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003DBDC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Recovery Item 0?",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00279DDC",
+          "Opcode": "00002000",
+          "Value": "39600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008C578",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0008C754",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0008C4DC",
+          "Opcode": "00002000",
+          "Value": "7D004378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00087484",
+          "Opcode": "00002000",
+          "Value": "7C040378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "DP MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00089658",
+          "Opcode": "00002000",
+          "Value": "3D2005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0008965C",
+          "Opcode": "00002000",
+          "Value": "6129E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Energy,Battery,etc... MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000385B4",
+          "Opcode": "00002000",
+          "Value": "B18809E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385B8",
+          "Opcode": "00002000",
+          "Value": "3800012C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385BC",
+          "Opcode": "00002000",
+          "Value": "B00809EA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385C0",
+          "Opcode": "00002000",
+          "Value": "38000500",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385C4",
+          "Opcode": "00002000",
+          "Value": "B00809E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385C8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385CC",
+          "Opcode": "00002000",
+          "Value": "39600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000385D0",
+          "Opcode": "00002000",
+          "Value": "91680000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "syukan",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003E268",
+          "Opcode": "00002000",
+          "Value": "380040E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003E280",
+          "Opcode": "00002000",
+          "Value": "A367FF8E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003E284",
+          "Opcode": "00002000",
+          "Value": "291B0780",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003E288",
+          "Opcode": "00002000",
+          "Value": "C005007C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003E28C",
+          "Opcode": "00002000",
+          "Value": "408A000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003E290",
+          "Opcode": "00002000",
+          "Value": "B0070000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003E294",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003DBDC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kaihukuaitemu0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00279DDC",
+          "Opcode": "00002000",
+          "Value": "39600000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

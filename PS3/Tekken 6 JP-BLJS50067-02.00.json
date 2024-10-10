@@ -1,0 +1,31 @@
+{
+  "Game": "Tekken 6 JP",
+  "Region": "BLJS50067",
+  "Version": "02.00",
+  "Cheats": [
+    {
+      "Name": "Play On Forest Stage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0090AE9B",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Play On Sheep Stage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0090AE9B",
+          "Opcode": "00002000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "Game": "Soccer Tsuku Pro Soccer Club o Tsukurou JP",
+  "Region": "BLJM61064",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0053F854",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Instructions Don't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002DD83C",
+          "Opcode": "00002000",
+          "Value": "30660000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023A2BC",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Director Style Experience",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00507A4C",
+          "Opcode": "00002000",
+          "Value": "7CA4F014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Player Editor Bonus Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003CDFD4",
+          "Opcode": "00002000",
+          "Value": "30670000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003CFA38",
+          "Opcode": "00002000",
+          "Value": "30A50000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MONEY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0053F854",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "sizikaisuu",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002DD83C",
+          "Opcode": "00002000",
+          "Value": "30660000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023A2BC",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kantoku keikennti",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00507A4C",
+          "Opcode": "00002000",
+          "Value": "7CA4F014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EDIT BONUS POINT MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003CDFD4",
+          "Opcode": "00002000",
+          "Value": "30670000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003CFA38",
+          "Opcode": "00002000",
+          "Value": "30A50000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "Game": "Final Fantasy XIII US",
+  "Region": "MRTC00003",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Gil 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "44591228",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "LV 10 Crystarum LV10",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "4459123C",
+          "Opcode": "00002000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005A22D8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite CP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0059219C",
+          "Opcode": "00002000",
+          "Value": "3C00000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Use CP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005921A0",
+          "Opcode": "00002000",
+          "Value": "6000423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Status Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005898A0",
+          "Opcode": "00002000",
+          "Value": "92370018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005898A4",
+          "Opcode": "00002000",
+          "Value": "9237001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item Buy Sell 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005AA2D8",
+          "Opcode": "00002000",
+          "Value": "3B800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005AA5A8",
+          "Opcode": "00002000",
+          "Value": "38C00063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Item",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00591440",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item Drop X 8",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005AA434",
+          "Opcode": "00002000",
+          "Value": "549B1838",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Weapon EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0041CA60",
+          "Opcode": "00002000",
+          "Value": "93830014",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

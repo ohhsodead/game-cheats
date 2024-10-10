@@ -1,0 +1,19 @@
+{
+  "Game": "Midnight Club Los Angeles Complete Edition US",
+  "Region": "BLUS30442",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Freeze Race Timer",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00226960",
+          "Opcode": "00002000",
+          "Value": "39600000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

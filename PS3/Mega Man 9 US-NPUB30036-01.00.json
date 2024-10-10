@@ -1,0 +1,31 @@
+{
+  "Game": "Mega Man 9 US",
+  "Region": "NPUB30036",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "06481750",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "064816AC",
+          "Opcode": "00000000",
+          "Value": "00000080",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "Game": "Musou Orochi 2 Ultimate JP",
+  "Region": "BLJM61084",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "1 Hit Max Level",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D7415C",
+          "Opcode": "00002000",
+          "Value": "BF800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D6E2A8",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Hit Kills",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D72DA8",
+          "Opcode": "00002000",
+          "Value": "BF800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Musou",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D6E780",
+          "Opcode": "00002000",
+          "Value": "38D1B717",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00058660",
+          "Opcode": "00002000",
+          "Value": "40980084",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Musou Instantly Refills To Full",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D6E4E4",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit With Fire, Lightning, and Ice",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00052E70",
+          "Opcode": "00002000",
+          "Value": "409D0018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00053028",
+          "Opcode": "00002000",
+          "Value": "409D0194",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000530F4",
+          "Opcode": "00002000",
+          "Value": "409DFD94",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Shadow Clone Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0033DEC4",
+          "Opcode": "00002000",
+          "Value": "409EFF98",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Defeated Number 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035BFCC",
+          "Opcode": "00002000",
+          "Value": "3883270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Precious Stones Max With Ultimate Mode Weapon Purchase",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030637C",
+          "Opcode": "00002000",
+          "Value": "90031378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Defeated Number 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035C508",
+          "Opcode": "00002000",
+          "Value": "3883270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Precious Stones Max With Ultimate Mode Weapon Purchase",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00306824",
+          "Opcode": "00002000",
+          "Value": "90031378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Stock Experience Max (Experience Value Allocation)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00307214",
+          "Opcode": "00002000",
+          "Value": "90031374",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D6E3F8",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Musou Instantly Refills To Full",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D6E634",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Musou",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005898C",
+          "Opcode": "00002000",
+          "Value": "40980084",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit With Fire, Lightning, and Ice",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000522A8",
+          "Opcode": "00002000",
+          "Value": "409D0018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Shadow Clone Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0033F480",
+          "Opcode": "00002000",
+          "Value": "409EFF98",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kills 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035BFCC",
+          "Opcode": "00002000",
+          "Value": "3883270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MONEY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030637C",
+          "Opcode": "00002000",
+          "Value": "90031378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kills 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035C508",
+          "Opcode": "00002000",
+          "Value": "3883270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MONEY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00306824",
+          "Opcode": "00002000",
+          "Value": "90031378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Empirical value MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00307214",
+          "Opcode": "00002000",
+          "Value": "90031374",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "Game": "Naruto Shippuden Ultimate Ninja Storm 3 JP",
+  "Region": "BLJS10200",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00864EC0",
+          "Opcode": "00002000",
+          "Value": "3B600009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Substitution Jutsu",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009801CC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Chakra",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00866500",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BA069C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BA1718",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Level Hero On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AA054",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Level Legend On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AA09C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00864EC0",
+          "Opcode": "00002000",
+          "Value": "3B600009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Chakra MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00866500",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MONEY MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BA069C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BA1718",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hero MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AA054",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Legend MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AA09C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Ryo on Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BA06EC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health, Chakra & Decoy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008690BC",
+          "Opcode": "00002000",
+          "Value": "4888DE65",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008690C0",
+          "Opcode": "00002000",
+          "Value": "4BFFA0E5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010F6F20",
+          "Opcode": "00002000",
+          "Value": "39630008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010F6F24",
+          "Opcode": "00002000",
+          "Value": "816B0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010F6F28",
+          "Opcode": "00002000",
+          "Value": "816B0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010F6F2C",
+          "Opcode": "00002000",
+          "Value": "820B0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010F6F30",
+          "Opcode": "00002000",
+          "Value": "920B0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010F6F34",
+          "Opcode": "00002000",
+          "Value": "820B001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010F6F38",
+          "Opcode": "00002000",
+          "Value": "920B0018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010F6F3C",
+          "Opcode": "00002000",
+          "Value": "820B002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010F6F40",
+          "Opcode": "00002000",
+          "Value": "920B0028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010F6F44",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Fast Partner Recharge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008641A0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Item Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00984338",
+          "Opcode": "00002000",
+          "Value": "3B7B0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Item Lv. After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AA09C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000AA054",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

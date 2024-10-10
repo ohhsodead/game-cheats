@@ -1,0 +1,19 @@
+{
+  "Game": "Need for Speed ProStreet JP",
+  "Region": "BLJM60059",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Cash",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "513D71B0",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

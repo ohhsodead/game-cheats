@@ -1,0 +1,100 @@
+{
+  "Game": "Shin Sangoku Musou 7 Moushouden JP",
+  "Region": "BLJM61128",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Level",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00085064",
+          "Opcode": "00002000",
+          "Value": "4E6E6B28",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Hit Max Musou",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000BD8A0",
+          "Opcode": "00002000",
+          "Value": "4E6E6B28",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Musou",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00110584",
+          "Opcode": "00002000",
+          "Value": "40800010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000674F8",
+          "Opcode": "00002000",
+          "Value": "90A4000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1000 Power, Defense And Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0031A320",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0031A548",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0031A6E0",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1000x Sword Hit Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AD63B4",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AD63B8",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

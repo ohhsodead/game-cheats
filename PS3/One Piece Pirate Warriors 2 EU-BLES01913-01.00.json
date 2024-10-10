@@ -1,0 +1,55 @@
+{
+  "Game": "One Piece Pirate Warriors 2 EU",
+  "Region": "BLES01913",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "10x Hit Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00205F74",
+          "Opcode": "00002000",
+          "Value": "3880000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "100x Hit Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00205F74",
+          "Opcode": "00002000",
+          "Value": "38800064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1000x Hit Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00205F74",
+          "Opcode": "00002000",
+          "Value": "388003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Hit Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00205F74",
+          "Opcode": "00002000",
+          "Value": "3880FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

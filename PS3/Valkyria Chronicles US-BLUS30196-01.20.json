@@ -1,0 +1,335 @@
+{
+  "Game": "Valkyria Chronicles US",
+  "Region": "BLUS30196",
+  "Version": "01.20",
+  "Cheats": [
+    {
+      "Name": "(Press Select) to EXP 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1030F7B0",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "DCT 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10346794",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1031BEAC",
+          "Opcode": "00002000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0019AE18",
+          "Opcode": "00002000",
+          "Value": "D19F0310",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP & Tank BHP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1031BEF0",
+          "Opcode": "00004000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "0000404D 00000154 00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Continuous Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1031BEFE 00000000",
+          "Opcode": "00004200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "0000404D 00000154 00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.20]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Reenter Camp for Max Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0052DE5C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Exp After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0053E0C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max DCT on use (Go back in and out of workshop.)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0052F60C",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max DCT on gain (After battle.)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0053E088",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite CP (Command Points)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0018A30C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Infinite AP (or AP Max)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A05A4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP & Can Always Act",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B89164",
+          "Opcode": "00002000",
+          "Value": "480D7858",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C609BC",
+          "Opcode": "00002000",
+          "Value": "80690004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C609C0",
+          "Opcode": "00002000",
+          "Value": "7D292214",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C609C4",
+          "Opcode": "00002000",
+          "Value": "2C030000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C609C8",
+          "Opcode": "00002000",
+          "Value": "40820014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C609CC",
+          "Opcode": "00002000",
+          "Value": "3860270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C609D0",
+          "Opcode": "00002000",
+          "Value": "90690008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C609D4",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C609D8",
+          "Opcode": "00002000",
+          "Value": "98690016",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C609DC",
+          "Opcode": "00002000",
+          "Value": "4BF2878C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00508548",
+          "Opcode": "00002000",
+          "Value": "7F64DB78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite DCT",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004D7068",
+          "Opcode": "00002000",
+          "Value": "7C641B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B8798",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000CEA9C",
+          "Opcode": "00002000",
+          "Value": "C1A90308",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000CEAA4",
+          "Opcode": "00002000",
+          "Value": "D1A90310",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max CP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001AB0B8",
+          "Opcode": "00002000",
+          "Value": "3BE00014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001AB0BC",
+          "Opcode": "00002000",
+          "Value": "93E9000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001AB0C0",
+          "Opcode": "00002000",
+          "Value": "4BFFFED8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

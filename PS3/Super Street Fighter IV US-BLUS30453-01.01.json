@@ -1,0 +1,1051 @@
+{
+  "Game": "Super Street Fighter IV US",
+  "Region": "BLUS30453",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Info - [For 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Health [01.01 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A158C8",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C40",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000007D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A158C8",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C4C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000007D0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Combo Power [01.01 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A158C8",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C54",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Ultra Power [01.01 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A158C8",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C68",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000190",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Score 99999999 [01.01 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A15900",
+          "Opcode": "00003000",
+          "Value": "00000038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.02]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Infinite Super Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A63FC",
+          "Opcode": "00002000",
+          "Value": "00000007",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A63B8",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Infinite Ultra Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A6408",
+          "Opcode": "00002000",
+          "Value": "00000007",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A63BC",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Hit Kill On P2 (L1+L2+LEFT=ON) (L1+L2+Right=Off*)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00800005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A6420",
+          "Opcode": "00002000",
+          "Value": "00002710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A6420",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Defense Up (R1+R2+Left=On) (R1+R2+Right=Off*)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "0080000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A6424",
+          "Opcode": "00002000",
+          "Value": "00002710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "0020000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A6424",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Always Perfect if doesn't get hit by CPU on final hit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A63F8",
+          "Opcode": "00002000",
+          "Value": "00002710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No EX Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A6610",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No Special Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A660C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No Super Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A6614",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No Throw Escape",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A6604",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No Ultra Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A6618",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.05]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Health [01.05 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C50",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000007D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C5C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000007D0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Combo Power [01.05 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C64",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite ultra Power [01.05 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000190",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Set 2P HP to 0 (Press L2+R2) [01.05 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C50",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C5C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Set 2P Combo Power to 0 (Press L1+R1) [01.05 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C64",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Set 2P ultra Power to 0 (Press L1+R1) [01.05 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Score 99999999 [01.05 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B1B660",
+          "Opcode": "00003000",
+          "Value": "00000038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A158C8",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C40",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000007D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A158C8",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C4C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000007D0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Combo Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A158C8",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C54",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Ultra Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A158C8",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C68",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000190",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Score 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A15900",
+          "Opcode": "00003000",
+          "Value": "00000038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C50",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000007D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C5C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000007D0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Combo Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C64",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Ultra Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000190",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Set 2P HP to 0 (Press L2+R2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C50",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C5C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Set 2P Combo Power to 0 (Press L1+R1)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C64",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Set 2P Ultra Power to 0 (Press L1+R1)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B1B628",
+          "Opcode": "00003000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00006C78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Score 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B1B660",
+          "Opcode": "00003000",
+          "Value": "00000038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.07]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Infinite Super Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B2B8F0",
+          "Opcode": "00002000",
+          "Value": "00000007",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Infinite Ultra Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B2B8FC",
+          "Opcode": "00002000",
+          "Value": "00000007",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Takes Less Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B2B918",
+          "Opcode": "00002000",
+          "Value": "00000048",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Full Recovery Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B2B8EC",
+          "Opcode": "00002000",
+          "Value": "00002710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No EX Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B2BB30",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No Special Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B2BB2C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No Super Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B2BB34",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No Throw Escape",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B2BB24",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No Ultra Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B2BB38",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "Game": "BlazBlue Continuum Shift US",
+  "Region": "BLUS30576",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Timer 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F5C6B0",
+          "Opcode": "00002000",
+          "Value": "00001733",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F5C6B4",
+          "Opcode": "00002000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00CBF760",
+          "Opcode": "00003000",
+          "Value": "000008F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00002EE0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Power Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00CBF760",
+          "Opcode": "00003000",
+          "Value": "00004D1C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00002710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00CBF764",
+          "Opcode": "00003000",
+          "Value": "000008F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00002EE0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 Power Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00CBF764",
+          "Opcode": "00003000",
+          "Value": "00004D1C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00002710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 Death (Press Select + L2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00010001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00CBF764",
+          "Opcode": "00003000",
+          "Value": "000008F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

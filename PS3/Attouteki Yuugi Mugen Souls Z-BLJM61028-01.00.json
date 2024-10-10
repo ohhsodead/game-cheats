@@ -1,0 +1,271 @@
+{
+  "Game": "Attouteki Yuugi Mugen Souls Z",
+  "Region": "BLJM61028",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0025F13C",
+          "Opcode": "00002000",
+          "Value": "7C651B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Turn 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002DF5E4",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0040D13C",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00235570",
+          "Opcode": "00002000",
+          "Value": "7C831850",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Confusion Or Uptake?",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0032D778",
+          "Opcode": "00002000",
+          "Value": "39407530",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Empirical Value X 2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00357274",
+          "Opcode": "00002000",
+          "Value": "4873AA35",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A91CA8",
+          "Opcode": "00002000",
+          "Value": "1FFF0002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A91CAC",
+          "Opcode": "00002000",
+          "Value": "7FE3FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A91CB0",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Empirical Value X 8",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00357274",
+          "Opcode": "00002000",
+          "Value": "4873AA35",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A91CA8",
+          "Opcode": "00002000",
+          "Value": "1FFF0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A91CAC",
+          "Opcode": "00002000",
+          "Value": "7FE3FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A91CB0",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Empirical Value X 16",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00357274",
+          "Opcode": "00002000",
+          "Value": "4873AA35",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A91CA8",
+          "Opcode": "00002000",
+          "Value": "1FFF0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A91CAC",
+          "Opcode": "00002000",
+          "Value": "7FE3FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A91CB0",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Empirical Value X 32",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00357274",
+          "Opcode": "00002000",
+          "Value": "4873AA35",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A91CA8",
+          "Opcode": "00002000",
+          "Value": "1FFF0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A91CAC",
+          "Opcode": "00002000",
+          "Value": "7FE3FA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A91CB0",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Move",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035ABB8",
+          "Opcode": "00002000",
+          "Value": "3BC0270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0025F13C",
+          "Opcode": "00002000",
+          "Value": "7C651B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0040D13C",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00235570",
+          "Opcode": "00002000",
+          "Value": "7C831850",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "torikomi",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0032D778",
+          "Opcode": "00002000",
+          "Value": "39407530",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MOVE MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035ABB8",
+          "Opcode": "00002000",
+          "Value": "3BC0270F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

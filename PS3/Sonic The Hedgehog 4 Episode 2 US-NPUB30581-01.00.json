@@ -1,0 +1,124 @@
+{
+  "Game": "Sonic The Hedgehog 4 Episode 2 US",
+  "Region": "NPUB30581",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Free Super Sonic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00159DC4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00159DD0",
+          "Opcode": "00002000",
+          "Value": "2F80FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00164F4C",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00164F58",
+          "Opcode": "00002000",
+          "Value": "2F80FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rings Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001FAA64",
+          "Opcode": "00002000",
+          "Value": "7CE53B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Rings on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015D1C0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Lives Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B2B3C",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Lives on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015972C",
+          "Opcode": "00002000",
+          "Value": "48000018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B2BF8",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Special Stage Freeze Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035A9C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Special Stage Max Rings",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035B3A4",
+          "Opcode": "00002000",
+          "Value": "392003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

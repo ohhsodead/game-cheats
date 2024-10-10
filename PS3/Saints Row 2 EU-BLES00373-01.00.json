@@ -1,0 +1,223 @@
+{
+  "Game": "Saints Row 2 EU",
+  "Region": "BLES00373",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Enemy Never Fire & Fighters Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002E510C",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002E510C",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - For above. (Press Up=On) (Press Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hairless Player",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00205E3C",
+          "Opcode": "00002000",
+          "Value": "4182000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Move All Car",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AE61F8",
+          "Opcode": "00002000",
+          "Value": "4182FE90",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AE61F8",
+          "Opcode": "00002000",
+          "Value": "4082FE90",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - For above. (Press Right=On) (Press Left=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Speed Run Mod 2x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003046BC",
+          "Opcode": "00002000",
+          "Value": "3D204000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Speed Run Mod 3x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003046BC",
+          "Opcode": "00002000",
+          "Value": "3D204040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player & Enemy Damange Mod",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AE61F8",
+          "Opcode": "00002000",
+          "Value": "4182FE90",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AE61F8",
+          "Opcode": "00002000",
+          "Value": "4082FE90",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - For above. (Press Select=0) (Press Start=100x)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - For above. (Press Select+Up=Normal)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player & Enemy Damage Mod",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AE61F8",
+          "Opcode": "00002000",
+          "Value": "4182FE90",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AE61F8",
+          "Opcode": "00002000",
+          "Value": "4082FE90",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

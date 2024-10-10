@@ -1,0 +1,201 @@
+{
+  "Game": "Sangokushi 12 with Powerup Kit JP",
+  "Region": "BLJM61078",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Military Provisions",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009833D8",
+          "Opcode": "00002000",
+          "Value": "48000024",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Years Don't Progress",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004CA3A4",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Secret Strategies Don't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0027700C",
+          "Opcode": "00002000",
+          "Value": "7C641B78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A6F58",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Helm",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B6A9C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Helm Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000D4B74",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Combat Time Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B68FC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can See Everything",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C9F68",
+          "Opcode": "00002000",
+          "Value": "38800003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "hyourou",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009833D8",
+          "Opcode": "00002000",
+          "Value": "48000024",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "nengetu",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004CA3A4",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "hisaku p",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0027700C",
+          "Opcode": "00002000",
+          "Value": "7C641B78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A6F58",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "saihaiMAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B6A9C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "saihaiheranai",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000D4B74",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B68FC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "sikai",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C9F68",
+          "Opcode": "00002000",
+          "Value": "38800003",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

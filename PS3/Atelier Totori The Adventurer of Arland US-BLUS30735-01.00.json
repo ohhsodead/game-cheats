@@ -1,0 +1,98 @@
+{
+  "Game": "Atelier Totori The Adventurer of Arland US",
+  "Region": "BLUS30735",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00297A34",
+          "Opcode": "00002000",
+          "Value": "4800001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00297A78",
+          "Opcode": "00002000",
+          "Value": "4800001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999 HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028451C",
+          "Opcode": "00002000",
+          "Value": "409D01A0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999 MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00284530",
+          "Opcode": "00002000",
+          "Value": "409D0180",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999 LP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00284544",
+          "Opcode": "00002000",
+          "Value": "409D0160",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999 Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00284558",
+          "Opcode": "00002000",
+          "Value": "409D0140",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999 Def",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028456C",
+          "Opcode": "00002000",
+          "Value": "409D007C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999 Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002845F4",
+          "Opcode": "00002000",
+          "Value": "409DFF8C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

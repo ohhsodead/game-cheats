@@ -1,0 +1,153 @@
+{
+  "Game": "Hyperdimension Neptunia mk2 US",
+  "Region": "BLUS30901",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Gold On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C65BC",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max EXP On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BF248",
+          "Opcode": "00002000",
+          "Value": "939C0028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Status on Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BF3E0",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF414",
+          "Opcode": "00002000",
+          "Value": "3B4000C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF448",
+          "Opcode": "00002000",
+          "Value": "3B40012C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF47C",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF4B0",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF4E4",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF518",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF54C",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF580",
+          "Opcode": "00002000",
+          "Value": "3B40270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF5B4",
+          "Opcode": "00002000",
+          "Value": "3B60270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF5E8",
+          "Opcode": "00002000",
+          "Value": "3B60270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BF624",
+          "Opcode": "00002000",
+          "Value": "3B60000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player/Enemy Max Damage (Press Up=On) (Press Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012B2FC",
+          "Opcode": "00002000",
+          "Value": "409D0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012B2FC",
+          "Opcode": "00002000",
+          "Value": "419D0010",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

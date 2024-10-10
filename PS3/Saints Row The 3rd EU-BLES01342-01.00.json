@@ -1,0 +1,19 @@
+{
+  "Game": "Saints Row The 3rd EU",
+  "Region": "BLES01342",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Money on Gain/Sell",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00467B74",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

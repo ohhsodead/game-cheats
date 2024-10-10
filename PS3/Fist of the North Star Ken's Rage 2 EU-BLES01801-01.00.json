@@ -1,0 +1,173 @@
+{
+  "Game": "Fist of the North Star Ken's Rage 2 EU",
+  "Region": "BLES01801",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Enemies Can't Move (Press Up=On) (Press Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B3388",
+          "Opcode": "00002000",
+          "Value": "419E001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B3434",
+          "Opcode": "00002000",
+          "Value": "41860010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B3388",
+          "Opcode": "00002000",
+          "Value": "409E001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B3434",
+          "Opcode": "00002000",
+          "Value": "40860010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Level Max 50 Enemy Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003D6C0",
+          "Opcode": "00002000",
+          "Value": "4081003C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy Explode (Press L3=On) (Press R3=Normal Mode)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00906A2C",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00906A2C",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Game Speed 2X",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00909478",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Game Speed 3X",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00909478",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Game Speed 4X",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00909478",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Recover Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00354EA8",
+          "Opcode": "00002000",
+          "Value": "A13E00E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00354EB0",
+          "Opcode": "00002000",
+          "Value": "B13E00E6",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Power Recover",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035504C",
+          "Opcode": "00002000",
+          "Value": "A13E00E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00355050",
+          "Opcode": "00002000",
+          "Value": "B13E00EA",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

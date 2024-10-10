@@ -1,0 +1,370 @@
+{
+  "Game": "Dead Rising 2 US",
+  "Region": "BLUS30439",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Max Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006DF04C",
+          "Opcode": "00002000",
+          "Value": "D1A3002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006E0864",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "33A01150",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "PP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "33A01104",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R2) Life Recovery",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "33A0110C",
+          "Opcode": "00002000",
+          "Value": "44960000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Run Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "33A01114",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "3x Run Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "33A01114",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Run Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "33A01114",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "5x Run Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "33A01114",
+          "Opcode": "00002000",
+          "Value": "40A00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "6x Run Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "33A01114",
+          "Opcode": "00002000",
+          "Value": "40C00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "7x Run Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "33A01114",
+          "Opcode": "00002000",
+          "Value": "40E00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "8x Run Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "33A01114",
+          "Opcode": "00002000",
+          "Value": "41000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9x Run Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "33A01114",
+          "Opcode": "00002000",
+          "Value": "41100000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "10x Run Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "33A01114",
+          "Opcode": "00002000",
+          "Value": "41200000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Weapon Strength Mod (L2+Up On L2+Down Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00100001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003783D8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00128C4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003595E0",
+          "Opcode": "00002000",
+          "Value": "D1A300F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00400001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003783D8",
+          "Opcode": "00002000",
+          "Value": "EC006828",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00128C4C",
+          "Opcode": "00002000",
+          "Value": "396BFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003595E0",
+          "Opcode": "00002000",
+          "Value": "D3E300F4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006E207C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Weapon Strength Mod (L2+Up On L2+Down Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00100001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003790EC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00128200",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0035B5A4",
+          "Opcode": "00002000",
+          "Value": "D1A300F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00400001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003790EC",
+          "Opcode": "00002000",
+          "Value": "EC006828",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00128200",
+          "Opcode": "00002000",
+          "Value": "396BFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0035B5A4",
+          "Opcode": "00002000",
+          "Value": "D3E300F4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy Kill Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00177B0C",
+          "Opcode": "00002000",
+          "Value": "90090038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00177B10",
+          "Opcode": "00002000",
+          "Value": "9009003C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00177B14",
+          "Opcode": "00002000",
+          "Value": "90090048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00177B18",
+          "Opcode": "00002000",
+          "Value": "9009004C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00177B1C",
+          "Opcode": "00002000",
+          "Value": "90090050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00177B20",
+          "Opcode": "00002000",
+          "Value": "81290038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00177B24",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

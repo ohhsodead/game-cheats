@@ -1,0 +1,151 @@
+{
+  "Game": "DuckTales Remastered EU",
+  "Region": "NPEB01287",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "99 Lives on Lose",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001AADF0",
+          "Opcode": "00002000",
+          "Value": "38600064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001AB638",
+          "Opcode": "00002000",
+          "Value": "C02302B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001AB63C",
+          "Opcode": "00002000",
+          "Value": "D02302AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001AB640",
+          "Opcode": "00002000",
+          "Value": "D023249C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001AB644",
+          "Opcode": "00002000",
+          "Value": "D02324A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001AB648",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001AB64C",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99 Lives on Lose",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001AADF0",
+          "Opcode": "00002000",
+          "Value": "38600064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0019A728",
+          "Opcode": "00002000",
+          "Value": "38600064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99 Lives on Lose",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001AC398",
+          "Opcode": "00002000",
+          "Value": "38600064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0019BAC0",
+          "Opcode": "00002000",
+          "Value": "38600064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001ACBE0",
+          "Opcode": "00002000",
+          "Value": "C02302B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001ACBE4",
+          "Opcode": "00002000",
+          "Value": "D02302AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001ACBE8",
+          "Opcode": "00002000",
+          "Value": "D023249C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001ACBEC",
+          "Opcode": "00002000",
+          "Value": "D02324A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001ACBF0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001ACBF4",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

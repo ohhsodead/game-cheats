@@ -1,0 +1,161 @@
+{
+  "Game": "Dynasty Warriors Gundam 3 US",
+  "Region": "BLUS30703",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Money On Item Sell",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008B3E0",
+          "Opcode": "00002000",
+          "Value": "7D244B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Pilot EXP On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008BC80",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Unit Status on Upgrading",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00088C84",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Upgrade Slot",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0016B30C",
+          "Opcode": "00002000",
+          "Value": "380A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00789688",
+          "Opcode": "00003000",
+          "Value": "00000120",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00004E20",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00789688",
+          "Opcode": "00003000",
+          "Value": "00000124",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00004E20",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00789688",
+          "Opcode": "00003000",
+          "Value": "00000128",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00002328",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00789688",
+          "Opcode": "00003000",
+          "Value": "0000012C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00002328",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Thrust",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00789688",
+          "Opcode": "00003000",
+          "Value": "0000013E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000004B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00789688",
+          "Opcode": "00003000",
+          "Value": "00000140",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000004B0",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "Game": "Bioshock JP",
+  "Region": "BLJS10041",
+  "Version": "01.10",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005C1B04",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00536E98",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00541C40",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Adam",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0056228C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Lot 192",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0050D2F4",
+          "Opcode": "00002000",
+          "Value": "39400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005C1B04",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00536E98",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MONEY MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00541C40",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ADAM MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0056228C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

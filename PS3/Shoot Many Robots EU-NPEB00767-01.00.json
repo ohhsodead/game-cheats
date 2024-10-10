@@ -1,0 +1,95 @@
+{
+  "Game": "Shoot Many Robots EU",
+  "Region": "NPEB00767",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Juice Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A9980",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00193204",
+          "Opcode": "00002000",
+          "Value": "C01F0100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0019320C",
+          "Opcode": "00002000",
+          "Value": "D01F0088",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00193218",
+          "Opcode": "00002000",
+          "Value": "D01F0084",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999,999 Nuts On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00195D60",
+          "Opcode": "00002000",
+          "Value": "3C00000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00195D64",
+          "Opcode": "00002000",
+          "Value": "6000423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999,999,999 Nuts On Gain (displayed as 000000 sometimes)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00195D60",
+          "Opcode": "00002000",
+          "Value": "3C003B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00195D64",
+          "Opcode": "00002000",
+          "Value": "6000C9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Ammo After Shot",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0023AEEC",
+          "Opcode": "00002000",
+          "Value": "380003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Game": "BlazBlue JP",
+  "Region": "BLJM60157",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "All Gallery",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00937428",
+          "Opcode": "00004000",
+          "Value": "01010101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004028",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009374C8",
+          "Opcode": "00001000",
+          "Value": "00000101",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.02]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Gallery",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008F72D0",
+          "Opcode": "00004000",
+          "Value": "01010101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004028",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008F7370",
+          "Opcode": "00001000",
+          "Value": "00000101",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

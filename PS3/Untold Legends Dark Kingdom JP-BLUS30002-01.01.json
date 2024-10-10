@@ -1,0 +1,247 @@
+{
+  "Game": "Untold Legends Dark Kingdom JP",
+  "Region": "BLUS30002",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Gold 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "50066924",
+          "Opcode": "00003000",
+          "Value": "00000094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "50066924",
+          "Opcode": "00003000",
+          "Value": "00000094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Mana 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "50066924",
+          "Opcode": "00003000",
+          "Value": "00000094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000000CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Titan 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "50066924",
+          "Opcode": "00003000",
+          "Value": "00000094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000000D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "50066924",
+          "Opcode": "00003000",
+          "Value": "00000094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000000D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "50066924",
+          "Opcode": "00003000",
+          "Value": "00000094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000000D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "50066924",
+          "Opcode": "00003000",
+          "Value": "00000094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000000DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "50066924",
+          "Opcode": "00003000",
+          "Value": "00000094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000007C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Power 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "50066924",
+          "Opcode": "00003000",
+          "Value": "00000094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "50066924",
+          "Opcode": "00003000",
+          "Value": "00000094",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000000C4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

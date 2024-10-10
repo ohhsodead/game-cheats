@@ -1,0 +1,136 @@
+{
+  "Game": "Ryu ga Gotoku Of the End JP",
+  "Region": "BLJM60316",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Cash 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "015214D8",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Continues",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01521580",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kills 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01521584",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always 1st Save",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01521590",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Exp Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0153548C",
+          "Opcode": "00002000",
+          "Value": "002DAC62",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01535476",
+          "Opcode": "00005100",
+          "Value": "01535474",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Snipe Gauge Always Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0153547C",
+          "Opcode": "00002000",
+          "Value": "457A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01535478",
+          "Opcode": "00002000",
+          "Value": "45FA0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bullet 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0151FCD8",
+          "Opcode": "00004100",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000008",
+          "Opcode": "0000403E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Change Weapon to Reload if necessary",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

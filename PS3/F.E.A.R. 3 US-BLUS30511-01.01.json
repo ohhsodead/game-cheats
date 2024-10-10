@@ -1,0 +1,1096 @@
+{
+  "Game": "F.E.A.R. 3 US",
+  "Region": "BLUS30511",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Slow Motion Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0065C31C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo In Clip Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00500954",
+          "Opcode": "00002000",
+          "Value": "38000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Reserve Ammo Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01459654",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Possession Time & Fettel Can Hold Enemies For 30 Second",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00425EAC",
+          "Opcode": "00002000",
+          "Value": "3C007F7F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00425EB0",
+          "Opcode": "00002000",
+          "Value": "9009000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00425EB4",
+          "Opcode": "00002000",
+          "Value": "90090010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Big Mech's Shield Instantly Refills",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005DC1B8",
+          "Opcode": "00002000",
+          "Value": "3C007F7F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005DC1C4",
+          "Opcode": "00002000",
+          "Value": "901A01E4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Sprint",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003AB0F4",
+          "Opcode": "00002000",
+          "Value": "901D0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AB124",
+          "Opcode": "00002000",
+          "Value": "3C007F7F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AB138",
+          "Opcode": "00002000",
+          "Value": "901D001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A1584",
+          "Opcode": "00002000",
+          "Value": "3C004000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A1588",
+          "Opcode": "00002000",
+          "Value": "9003001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "3x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A1584",
+          "Opcode": "00002000",
+          "Value": "3C004040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A1588",
+          "Opcode": "00002000",
+          "Value": "9003001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A1584",
+          "Opcode": "00002000",
+          "Value": "3C004080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A1588",
+          "Opcode": "00002000",
+          "Value": "9003001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "8x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A1584",
+          "Opcode": "00002000",
+          "Value": "3C004100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A1588",
+          "Opcode": "00002000",
+          "Value": "9003001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "12x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A1584",
+          "Opcode": "00002000",
+          "Value": "3C004140",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A1588",
+          "Opcode": "00002000",
+          "Value": "9003001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "16x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A1584",
+          "Opcode": "00002000",
+          "Value": "3C004180",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A1588",
+          "Opcode": "00002000",
+          "Value": "9003001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Small Mech's Laser Never Overheats",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0050E5E0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Multiple Things Don't Overheat (See 2 Notes)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0050DEBC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 1/2 - Small Mech's Laser Or Rockets, The Big Mech's Machine",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 2/2 - The Laser Gun Never Heat Up, Fettel Never Gets Exhau",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Don't Move Or Attack (See Note)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D7B70",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note - Small Mechs Still Attack, don't use on the invisible mons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health & More (See 6 Notes)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005BA19C",
+          "Opcode": "00002000",
+          "Value": "EC210828",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 1/6 - Soldiers can't see you. Enemies die from any damage.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 2/6 - Big Mech can't fire rockets but has infinite shield d",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 3/6 - Big Mech still takes damage without the shield active",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 4/6 - Your big mech never detonates or anything from too mu",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 5/6 - Small mechs detonate before you can enter them.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note 6/6 - Do not have this on throughout entire last level.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Slow Motion Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006589BC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo In Clip Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004FD0B0",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Reserve Ammo Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01450D38",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Possession Time & Fettel Can Hold Enemies For 30 Second",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004227F4",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004227F8",
+          "Opcode": "00002000",
+          "Value": "9009000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004227FC",
+          "Opcode": "00002000",
+          "Value": "90090010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Big Mech's Shield Instantly Refills",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005D88B0",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005D88BC",
+          "Opcode": "00002000",
+          "Value": "901A01E4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Sprint",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A7888",
+          "Opcode": "00002000",
+          "Value": "901D0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A78B8",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A78CC",
+          "Opcode": "00002000",
+          "Value": "901D001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039DD18",
+          "Opcode": "00002000",
+          "Value": "3C004000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039DD1C",
+          "Opcode": "00002000",
+          "Value": "9003001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "3x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039DD18",
+          "Opcode": "00002000",
+          "Value": "3C004040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039DD1C",
+          "Opcode": "00002000",
+          "Value": "9003001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039DD18",
+          "Opcode": "00002000",
+          "Value": "3C004080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039DD1C",
+          "Opcode": "00002000",
+          "Value": "9003001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "8x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039DD18",
+          "Opcode": "00002000",
+          "Value": "3C004100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039DD1C",
+          "Opcode": "00002000",
+          "Value": "9003001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "12x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039DD18",
+          "Opcode": "00002000",
+          "Value": "3C004140",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039DD1C",
+          "Opcode": "00002000",
+          "Value": "9003001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "16x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039DD18",
+          "Opcode": "00002000",
+          "Value": "3C004180",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039DD1C",
+          "Opcode": "00002000",
+          "Value": "9003001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Small Mech's Laser Never Overheats",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0050AD5C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Multiple Things Don't Overheat (See 2 Notes)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0050A638",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Don't Move Or Attack (See Note)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D5E7C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Note - Small Mechs still attack, don't use on the invisible mons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health & More (See 6 Notes)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005B68D0",
+          "Opcode": "00002000",
+          "Value": "EC210828",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Big Mech Rockets Don't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005089F0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Possession Time Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00422A18",
+          "Opcode": "00002000",
+          "Value": "C3FF0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00422A1C",
+          "Opcode": "00002000",
+          "Value": "D3FF0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Doesn't Decrease For You, Enemies Die From Any Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "015CE8A8",
+          "Opcode": "00002000",
+          "Value": "487C3494",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D3C",
+          "Opcode": "00002000",
+          "Value": "813E0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D40",
+          "Opcode": "00002000",
+          "Value": "4BFFFFB0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D44",
+          "Opcode": "00002000",
+          "Value": "801D00A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D48",
+          "Opcode": "00002000",
+          "Value": "EC000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D4C",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D50",
+          "Opcode": "00002000",
+          "Value": "409E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D54",
+          "Opcode": "00002000",
+          "Value": "C01D0058",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D58",
+          "Opcode": "00002000",
+          "Value": "D01D0054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D5C",
+          "Opcode": "00002000",
+          "Value": "4B83CB50",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Doesn't Decrease For You",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "015CE8A8",
+          "Opcode": "00002000",
+          "Value": "487C3494",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D3C",
+          "Opcode": "00002000",
+          "Value": "813E0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D40",
+          "Opcode": "00002000",
+          "Value": "4BFFFFB0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D44",
+          "Opcode": "00002000",
+          "Value": "801D00A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D48",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D4C",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D50",
+          "Opcode": "00002000",
+          "Value": "409E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D54",
+          "Opcode": "00002000",
+          "Value": "C01D0058",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D58",
+          "Opcode": "00002000",
+          "Value": "D01D0054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D91D5C",
+          "Opcode": "00002000",
+          "Value": "4B83CB50",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Doesn't Decrease For You, Enemies Die From Any Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "015D71E0",
+          "Opcode": "00002000",
+          "Value": "487C5CC4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CE9C",
+          "Opcode": "00002000",
+          "Value": "813E0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEA0",
+          "Opcode": "00002000",
+          "Value": "4BFFFFB0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEA4",
+          "Opcode": "00002000",
+          "Value": "801D00A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEA8",
+          "Opcode": "00002000",
+          "Value": "EC000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEAC",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEB0",
+          "Opcode": "00002000",
+          "Value": "409E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEB4",
+          "Opcode": "00002000",
+          "Value": "C01D0058",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEB8",
+          "Opcode": "00002000",
+          "Value": "D01D0054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEBC",
+          "Opcode": "00002000",
+          "Value": "4B83A328",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Doesn't Decrease For You",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "015D71E0",
+          "Opcode": "00002000",
+          "Value": "487C5CC4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CE9C",
+          "Opcode": "00002000",
+          "Value": "813E0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEA0",
+          "Opcode": "00002000",
+          "Value": "4BFFFFB0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEA4",
+          "Opcode": "00002000",
+          "Value": "801D00A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEA8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEAC",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEB0",
+          "Opcode": "00002000",
+          "Value": "409E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEB4",
+          "Opcode": "00002000",
+          "Value": "C01D0058",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEB8",
+          "Opcode": "00002000",
+          "Value": "D01D0054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01D9CEBC",
+          "Opcode": "00002000",
+          "Value": "4B83A328",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo In Clip Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0050092C",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Possession Time Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004260D0",
+          "Opcode": "00002000",
+          "Value": "C3FF0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004260D4",
+          "Opcode": "00002000",
+          "Value": "D3FF0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Big Mech's Shield Instantly Refills",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005DC1B8",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005DC1C4",
+          "Opcode": "00002000",
+          "Value": "901A01E4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Sprint",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003AB0F4",
+          "Opcode": "00002000",
+          "Value": "901D0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AB124",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AB138",
+          "Opcode": "00002000",
+          "Value": "901D001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Don't Move Or Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D7B70",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Big Mech Rockets Don't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0050C274",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

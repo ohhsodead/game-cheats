@@ -1,0 +1,545 @@
+{
+  "Game": "Dead Space 2 (LE) US",
+  "Region": "BLUS30680",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1.5x Movement & Aiming Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029ACBC",
+          "Opcode": "00002000",
+          "Value": "3C003FC0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Movement & Aiming Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029ACBC",
+          "Opcode": "00002000",
+          "Value": "3C004000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2.5x Movement & Aiming Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029ACBC",
+          "Opcode": "00002000",
+          "Value": "3C004020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "3x Movement & Aiming Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029ACBC",
+          "Opcode": "00002000",
+          "Value": "3C004040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Some Collision Checks",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008A99C",
+          "Opcode": "00002000",
+          "Value": "3F607FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Headless Isaac",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BCAB0",
+          "Opcode": "00002000",
+          "Value": "3C000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Lurkers Can't Move & Disappear",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00118548",
+          "Opcode": "00002000",
+          "Value": "3C000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00119014",
+          "Opcode": "00002000",
+          "Value": "3D400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Leapers Can't Move & Disappear",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00118758",
+          "Opcode": "00002000",
+          "Value": "3D400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00119014",
+          "Opcode": "00002000",
+          "Value": "3D400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00119F8C",
+          "Opcode": "00002000",
+          "Value": "3EA00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pukers Can't Spit Long Range Nor Close Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011F080",
+          "Opcode": "00002000",
+          "Value": "3FE00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pukers Can't Spit Long Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011F4A8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Use Of Med Packs & Stasis Packs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00226B34",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Inventory Ammo Never Decreases Nor Disappears",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D41FC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Mega Sized Weapon Clips",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001F82A0",
+          "Opcode": "00002000",
+          "Value": "3C007FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Can't Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011BF18",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011BF1C",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Don't Move Nor Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011BF0C",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011BF10",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011BF14",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011BF18",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011BF1C",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011BF20",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011BF24",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011BF28",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011BF2C",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011BF30",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011BF34",
+          "Opcode": "00002000",
+          "Value": "00000074",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Never Approach You",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00143850",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00143854",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00143858",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0014385C",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00143860",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00143864",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00143868",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0014386C",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00143870",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00143874",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00143878",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0014387C",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00143880",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00143884",
+          "Opcode": "00002000",
+          "Value": "000000E4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Spitters Never Spit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011F5CC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Lurkers Never Shoot",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011E2B4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Leapers, Lurkers, & Pack Get Stuck On The Ground If They Jump",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011D348",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Knocked Down Enemies Can't Get Back Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011C0C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "The Pregnant Necromorph Doesn't Release Swarmers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00119E30",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Leapers & Swarmers Get Stuck In The Air After They Jump",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00118F14",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Enemies Approach You A Lot Lesser",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00117E28",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00117E1C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Die From 1 Hit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000A6E9C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Load Game For Insanely High Health & Stasis",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000A6B54",
+          "Opcode": "00002000",
+          "Value": "488F5B04",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0099C658",
+          "Opcode": "00002000",
+          "Value": "3D405D5F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0099C65C",
+          "Opcode": "00002000",
+          "Value": "914300E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0099C660",
+          "Opcode": "00002000",
+          "Value": "914300E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0099C664",
+          "Opcode": "00002000",
+          "Value": "914300F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0099C668",
+          "Opcode": "00002000",
+          "Value": "914300F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0099C66C",
+          "Opcode": "00002000",
+          "Value": "4B70A4EC",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "Game": "J-STAR Victory VS JP",
+  "Region": "BLJS10258",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite JP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5BE4",
+          "Opcode": "00002000",
+          "Value": "480003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001B302C",
+          "Opcode": "00002000",
+          "Value": "914815C4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Health, Special & Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00086E90",
+          "Opcode": "00002000",
+          "Value": "486F2C50",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779AE0",
+          "Opcode": "00002000",
+          "Value": "80030044",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779AE4",
+          "Opcode": "00002000",
+          "Value": "2C000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779AE8",
+          "Opcode": "00002000",
+          "Value": "40820020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779AEC",
+          "Opcode": "00002000",
+          "Value": "3C00000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779AF0",
+          "Opcode": "00002000",
+          "Value": "6000423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779AF4",
+          "Opcode": "00002000",
+          "Value": "90030090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779AF8",
+          "Opcode": "00002000",
+          "Value": "90030098",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779AFC",
+          "Opcode": "00002000",
+          "Value": "9003009C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779B00",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779B04",
+          "Opcode": "00002000",
+          "Value": "90030130",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779B08",
+          "Opcode": "00002000",
+          "Value": "80630090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779B0C",
+          "Opcode": "00002000",
+          "Value": "4B90D388",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Victory Burst Always Full",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000CB8E4",
+          "Opcode": "00002000",
+          "Value": "486AE22D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779B10",
+          "Opcode": "00002000",
+          "Value": "2C1D0120",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779B14",
+          "Opcode": "00002000",
+          "Value": "7F9CEA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779B18",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779B1C",
+          "Opcode": "00002000",
+          "Value": "907C0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00779B20",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Item Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001EF5C0",
+          "Opcode": "00002000",
+          "Value": "38A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EF690",
+          "Opcode": "00002000",
+          "Value": "38A30000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite JP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F5CCC",
+          "Opcode": "00002000",
+          "Value": "480003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001B30A4",
+          "Opcode": "00002000",
+          "Value": "914815C4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Health, Special & Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00086EB0",
+          "Opcode": "00002000",
+          "Value": "486F5760",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C610",
+          "Opcode": "00002000",
+          "Value": "80030044",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C614",
+          "Opcode": "00002000",
+          "Value": "2C000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C618",
+          "Opcode": "00002000",
+          "Value": "40820020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C61C",
+          "Opcode": "00002000",
+          "Value": "3C00000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C620",
+          "Opcode": "00002000",
+          "Value": "6000423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C624",
+          "Opcode": "00002000",
+          "Value": "90030090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C628",
+          "Opcode": "00002000",
+          "Value": "90030098",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C62C",
+          "Opcode": "00002000",
+          "Value": "9003009C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C630",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C634",
+          "Opcode": "00002000",
+          "Value": "90030130",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C638",
+          "Opcode": "00002000",
+          "Value": "80630090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C63C",
+          "Opcode": "00002000",
+          "Value": "4B90A878",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Victory Burst Always Full",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000CB9CC",
+          "Opcode": "00002000",
+          "Value": "486B0C75",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C640",
+          "Opcode": "00002000",
+          "Value": "2C1D0120",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C644",
+          "Opcode": "00002000",
+          "Value": "7F9CEA14",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C648",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C64C",
+          "Opcode": "00002000",
+          "Value": "907C0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0077C650",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Item Usage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001EF7B4",
+          "Opcode": "00002000",
+          "Value": "38A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EF884",
+          "Opcode": "00002000",
+          "Value": "38A30000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

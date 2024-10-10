@@ -1,0 +1,55 @@
+{
+  "Game": "Rambo EU",
+  "Region": "BLES01963",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "INFINITE HEALTH",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0017A34C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C1254",
+          "Opcode": "00002000",
+          "Value": "409D0030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ring Pickup = 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008D31C",
+          "Opcode": "00002000",
+          "Value": "419D000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0017A34C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "Game": "Hatsune Miku Project Diva F",
+  "Region": "BLJM60527",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "DP 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00444528",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Score 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00620F80",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Combo 1000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006225D8",
+          "Opcode": "00002000",
+          "Value": "396B03E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rank Point Perfect",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00622980",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Miss Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0061F62C",
+          "Opcode": "00002000",
+          "Value": "7C601B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "RANK POINT Perfect",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00622980",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MISS Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0061F62C",
+          "Opcode": "00002000",
+          "Value": "7C601B78",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

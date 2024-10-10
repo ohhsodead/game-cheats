@@ -1,0 +1,178 @@
+{
+  "Game": "DmC Devil May Cry EU",
+  "Region": "NPUB30830",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Devil Trigger",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0004D89C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Red Orbs on Buy & Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0065E150",
+          "Opcode": "00002000",
+          "Value": "3C80000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0065E154",
+          "Opcode": "00002000",
+          "Value": "6084423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Refill Health while Attacking (With Triangle)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00000010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "D0027F24",
+          "Opcode": "00003000",
+          "Value": "00000844",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003003",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "D0027F24",
+          "Opcode": "00003000",
+          "Value": "00000840",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003006",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health (Press L3) (When stage loaded not before)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "D0027F24",
+          "Opcode": "00003000",
+          "Value": "00000840",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "452D9000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "D0027F24",
+          "Opcode": "00003000",
+          "Value": "00000844",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "452D9000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Max Items & Infinite Items in shop can't used together",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Items on Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0065DEB0",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items in Shop",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0065DEB4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Infinite Upgrade Points will disable Infinite Devil Trigg",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Upgrade Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0004D88C",
+          "Opcode": "00002000",
+          "Value": "EC2218FA",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

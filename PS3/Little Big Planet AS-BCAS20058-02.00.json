@@ -1,0 +1,33 @@
+{
+  "Game": "Little Big Planet AS",
+  "Region": "BCAS20058",
+  "Version": "02.00",
+  "Cheats": [
+    {
+      "Name": "Score 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A223E0",
+          "Opcode": "00003000",
+          "Value": "00000110",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "47C34F80",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

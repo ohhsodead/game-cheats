@@ -1,0 +1,1292 @@
+{
+  "Game": "de Blob 2 US",
+  "Region": "BLUS30559",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Lives Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000151D4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pick Up A Life For Max Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00015208",
+          "Opcode": "00002000",
+          "Value": "90A40014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Being Harmed Doesn't Decrease Shields",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012163C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pick Up A Shield For Max Shields",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00121878",
+          "Opcode": "00002000",
+          "Value": "38A00005",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always Have Max Paint Amount",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CB080",
+          "Opcode": "00002000",
+          "Value": "80DF0110",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can't Die",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CF6E8",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Nothing Decreases Your Paint Amount",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CFD48",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Getting Inked Cycles Through Colors",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000456F8",
+          "Opcode": "00002000",
+          "Value": "2C050008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000456FC",
+          "Opcode": "00002000",
+          "Value": "409C000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00045700",
+          "Opcode": "00002000",
+          "Value": "38600001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00045704",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00045708",
+          "Opcode": "00002000",
+          "Value": "38630001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0004570C",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Nothing Can Ink You",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00114E8C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can't Be Attacked",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D67E8",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Large Paintbots Instantly Respawn",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002093F4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies That Spawn From Ink Vents Are Missing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0020EC58",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies That Come From Ink Vents Never Respawn",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0020EE88",
+          "Opcode": "00002000",
+          "Value": "3C607F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0020EE8C",
+          "Opcode": "00002000",
+          "Value": "907F00B8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Instantly Respawn From Ink Vents",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0020EE8C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Don't Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002206A4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Getting Inked Makes You (No Colour)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00114E84",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Getting Inked Makes You (Yellow)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00114E84",
+          "Opcode": "00002000",
+          "Value": "38600001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Getting Inked Makes You (Blue)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00114E84",
+          "Opcode": "00002000",
+          "Value": "38600002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Getting Inked Makes You (Green)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00114E84",
+          "Opcode": "00002000",
+          "Value": "38600003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Getting Inked Makes You (Red)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00114E84",
+          "Opcode": "00002000",
+          "Value": "38600004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Getting Inked Makes You (Orange)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00114E84",
+          "Opcode": "00002000",
+          "Value": "38600005",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Getting Inked Makes You (Purple)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00114E84",
+          "Opcode": "00002000",
+          "Value": "38600006",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Getting Inked Makes You (Brown)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00114E84",
+          "Opcode": "00002000",
+          "Value": "38600007",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Getting Inked Makes You (Pink)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00114E84",
+          "Opcode": "00002000",
+          "Value": "38600008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Getting Inked Makes You (Teal)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00114E84",
+          "Opcode": "00002000",
+          "Value": "38600009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Getting Inked Makes You (Black/Inked)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00114E84",
+          "Opcode": "00002000",
+          "Value": "38600010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Jump In Air While Holding Square",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001131D8",
+          "Opcode": "00002000",
+          "Value": "48489928",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB00",
+          "Opcode": "00002000",
+          "Value": "7C6802A6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB04",
+          "Opcode": "00002000",
+          "Value": "3CE00011",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB08",
+          "Opcode": "00002000",
+          "Value": "60E73BD4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB0C",
+          "Opcode": "00002000",
+          "Value": "7F871800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB10",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB14",
+          "Opcode": "00002000",
+          "Value": "409E0024",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB18",
+          "Opcode": "00002000",
+          "Value": "70C7000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB1C",
+          "Opcode": "00002000",
+          "Value": "2F870002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB20",
+          "Opcode": "00002000",
+          "Value": "409E0018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB24",
+          "Opcode": "00002000",
+          "Value": "3CE00080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB28",
+          "Opcode": "00002000",
+          "Value": "88E7C9D7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB2C",
+          "Opcode": "00002000",
+          "Value": "2F870001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB30",
+          "Opcode": "00002000",
+          "Value": "409E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB34",
+          "Opcode": "00002000",
+          "Value": "38600001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB38",
+          "Opcode": "00002000",
+          "Value": "2C080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB3C",
+          "Opcode": "00002000",
+          "Value": "98660000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB40",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059CB44",
+          "Opcode": "00002000",
+          "Value": "4BB76698",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Small Physical Size",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CD718",
+          "Opcode": "00002000",
+          "Value": "483CF028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059C740",
+          "Opcode": "00002000",
+          "Value": "3CC03FAC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059C744",
+          "Opcode": "00002000",
+          "Value": "90C40068",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059C748",
+          "Opcode": "00002000",
+          "Value": "C0440068",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059C74C",
+          "Opcode": "00002000",
+          "Value": "4BC30FD0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AB41C",
+          "Opcode": "00002000",
+          "Value": "481FAFA4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A63C0",
+          "Opcode": "00002000",
+          "Value": "3C603FAC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A63C4",
+          "Opcode": "00002000",
+          "Value": "90640010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A63C8",
+          "Opcode": "00002000",
+          "Value": "C0440010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A63CC",
+          "Opcode": "00002000",
+          "Value": "4BE05054",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Large Physical Size (You can't get through some areas)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CD718",
+          "Opcode": "00002000",
+          "Value": "483CF028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059C740",
+          "Opcode": "00002000",
+          "Value": "3CC04100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059C744",
+          "Opcode": "00002000",
+          "Value": "90C40068",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059C748",
+          "Opcode": "00002000",
+          "Value": "C0440068",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059C74C",
+          "Opcode": "00002000",
+          "Value": "4BC30FD0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AB41C",
+          "Opcode": "00002000",
+          "Value": "481FAFA4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A63C0",
+          "Opcode": "00002000",
+          "Value": "3C604100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A63C4",
+          "Opcode": "00002000",
+          "Value": "90640010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A63C8",
+          "Opcode": "00002000",
+          "Value": "C0440010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A63CC",
+          "Opcode": "00002000",
+          "Value": "4BE05054",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Toggle Colors (Read Info)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0010D624",
+          "Opcode": "00002000",
+          "Value": "4849374C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D70",
+          "Opcode": "00002000",
+          "Value": "F821FFF1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D74",
+          "Opcode": "00002000",
+          "Value": "F8810000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D78",
+          "Opcode": "00002000",
+          "Value": "83E30008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D7C",
+          "Opcode": "00002000",
+          "Value": "3C800080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D80",
+          "Opcode": "00002000",
+          "Value": "A084C9D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D84",
+          "Opcode": "00002000",
+          "Value": "2F840100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D88",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D8C",
+          "Opcode": "00002000",
+          "Value": "63FF0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D90",
+          "Opcode": "00002000",
+          "Value": "48000038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D94",
+          "Opcode": "00002000",
+          "Value": "2F840001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D98",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D9C",
+          "Opcode": "00002000",
+          "Value": "63FF0002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DA0",
+          "Opcode": "00002000",
+          "Value": "48000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DA4",
+          "Opcode": "00002000",
+          "Value": "3C800080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DA8",
+          "Opcode": "00002000",
+          "Value": "A084C9D2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DAC",
+          "Opcode": "00002000",
+          "Value": "2F840100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DB0",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DB4",
+          "Opcode": "00002000",
+          "Value": "63FF0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DB8",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DBC",
+          "Opcode": "00002000",
+          "Value": "2F840001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DC0",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DC4",
+          "Opcode": "00002000",
+          "Value": "3BE00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DC8",
+          "Opcode": "00002000",
+          "Value": "93E30008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DCC",
+          "Opcode": "00002000",
+          "Value": "E8810000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DD0",
+          "Opcode": "00002000",
+          "Value": "38210010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0DD4",
+          "Opcode": "00002000",
+          "Value": "4BB6C854",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Up adds yellow, right adds blue, down adds red, left remo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Press R1 + L1 For Full Color Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D0F88",
+          "Opcode": "00002000",
+          "Value": "483CFE88",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0E10",
+          "Opcode": "00002000",
+          "Value": "3C800080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0E14",
+          "Opcode": "00002000",
+          "Value": "A084C9DE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0E18",
+          "Opcode": "00002000",
+          "Value": "2F840101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0E1C",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0E20",
+          "Opcode": "00002000",
+          "Value": "809B0110",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0E24",
+          "Opcode": "00002000",
+          "Value": "909B010C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0E28",
+          "Opcode": "00002000",
+          "Value": "809B010C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0E2C",
+          "Opcode": "00002000",
+          "Value": "4BC30160",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Toggle Graviton Or Wrecking Ball (Read Info)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0010FC70",
+          "Opcode": "00002000",
+          "Value": "484967D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6440",
+          "Opcode": "00002000",
+          "Value": "3CC00080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6444",
+          "Opcode": "00002000",
+          "Value": "88E6C9DB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6448",
+          "Opcode": "00002000",
+          "Value": "2F870001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A644C",
+          "Opcode": "00002000",
+          "Value": "409E0058",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6450",
+          "Opcode": "00002000",
+          "Value": "A0E6C9D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6454",
+          "Opcode": "00002000",
+          "Value": "2F870100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6458",
+          "Opcode": "00002000",
+          "Value": "409E0018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A645C",
+          "Opcode": "00002000",
+          "Value": "38E00002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6460",
+          "Opcode": "00002000",
+          "Value": "98E50023",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6464",
+          "Opcode": "00002000",
+          "Value": "3CE041F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6468",
+          "Opcode": "00002000",
+          "Value": "90E50014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A646C",
+          "Opcode": "00002000",
+          "Value": "48000038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6470",
+          "Opcode": "00002000",
+          "Value": "2F870001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6474",
+          "Opcode": "00002000",
+          "Value": "409E001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6478",
+          "Opcode": "00002000",
+          "Value": "3CE04400",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A647C",
+          "Opcode": "00002000",
+          "Value": "90E50968",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6480",
+          "Opcode": "00002000",
+          "Value": "90E5096C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6484",
+          "Opcode": "00002000",
+          "Value": "38E00001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6488",
+          "Opcode": "00002000",
+          "Value": "90E50960",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A648C",
+          "Opcode": "00002000",
+          "Value": "48000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6490",
+          "Opcode": "00002000",
+          "Value": "A0E6C9D2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6494",
+          "Opcode": "00002000",
+          "Value": "2F870100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A6498",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A649C",
+          "Opcode": "00002000",
+          "Value": "3CE03000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A64A0",
+          "Opcode": "00002000",
+          "Value": "90E50014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A64A4",
+          "Opcode": "00002000",
+          "Value": "80C50048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A64A8",
+          "Opcode": "00002000",
+          "Value": "4BB697CC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info 1/2 - R2 + Up = Wrecking Ball. Jump once to be able to use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info 2/2 - R2 + Right = Instant full size Graviton. R2 + Down =",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can't Be Grabbed, Harmed, Inked, Water Doesn't Remove Your Color",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001F35F8",
+          "Opcode": "00002000",
+          "Value": "483AD708",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D00",
+          "Opcode": "00002000",
+          "Value": "891D0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D04",
+          "Opcode": "00002000",
+          "Value": "6108000D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D08",
+          "Opcode": "00002000",
+          "Value": "991D0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D0C",
+          "Opcode": "00002000",
+          "Value": "811D0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A0D10",
+          "Opcode": "00002000",
+          "Value": "4BC528EC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Partial Rainbow Effect On",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0010FC7C",
+          "Opcode": "00002000",
+          "Value": "48492114",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A1D90",
+          "Opcode": "00002000",
+          "Value": "88E50023",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A1D94",
+          "Opcode": "00002000",
+          "Value": "2F870000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A1D98",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A1D9C",
+          "Opcode": "00002000",
+          "Value": "38E00001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A1DA0",
+          "Opcode": "00002000",
+          "Value": "98E50023",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A1DA4",
+          "Opcode": "00002000",
+          "Value": "80E50020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005A1DA8",
+          "Opcode": "00002000",
+          "Value": "4BB6DED8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pinky Ammo Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0025F08C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Inspiration",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00238710",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Time Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000D7A6C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

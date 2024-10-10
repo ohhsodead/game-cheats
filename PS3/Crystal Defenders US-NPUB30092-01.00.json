@@ -1,0 +1,69 @@
+{
+  "Game": "Crystal Defenders US",
+  "Region": "NPUB30092",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "(Press Select) to Gil 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "300CE040",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press Select) to Crystal 499",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "300CE16C",
+          "Opcode": "00002000",
+          "Value": "000001F3",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L1+R1) to Characters Level 7",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "300CEE60",
+          "Opcode": "00004000",
+          "Value": "00000006",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "000040C8 00000090 00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

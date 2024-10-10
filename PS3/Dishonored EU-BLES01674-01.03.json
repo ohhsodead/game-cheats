@@ -1,0 +1,57 @@
+{
+  "Game": "Dishonored EU",
+  "Region": "BLES01674",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00924A7C",
+          "Opcode": "00002000",
+          "Value": "38600063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00924A88",
+          "Opcode": "00002000",
+          "Value": "7C631B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Item",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009245CC",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009245D4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rune 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00925058",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

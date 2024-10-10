@@ -1,0 +1,62 @@
+{
+  "Game": "Super Street Fighter II Turbo HD Remix US",
+  "Region": "NPUB30054",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "P1 Infinite HP, use only 1 HP code",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "801F072C",
+          "Opcode": "00002000",
+          "Value": "00900090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "45x HP (Press L2+R2) During Every Round",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "801F072C",
+          "Opcode": "00002000",
+          "Value": "27102710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Infinite Super Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "801F09B4",
+          "Opcode": "00000000",
+          "Value": "00000030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 Empty Super Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "801F0DB4",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

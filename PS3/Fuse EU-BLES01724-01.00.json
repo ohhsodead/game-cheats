@@ -1,0 +1,83 @@
+{
+  "Game": "Fuse EU",
+  "Region": "BLES01724",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004938AC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Credits x50",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00ED32DC",
+          "Opcode": "00002000",
+          "Value": "1EF70032",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00ED32E0",
+          "Opcode": "00002000",
+          "Value": "7FDDB814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "XP x4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00ED1F64",
+          "Opcode": "00002000",
+          "Value": "494BDDA7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014BDDA4",
+          "Opcode": "00002000",
+          "Value": "1E730004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014BDDA8",
+          "Opcode": "00002000",
+          "Value": "EBDD0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014BDDAC",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004938AC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

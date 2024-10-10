@@ -1,0 +1,43 @@
+{
+  "Game": "Galaga Legions DX US",
+  "Region": "NPUB30321",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0064CE31",
+          "Opcode": "00000000",
+          "Value": "00000005",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0064CE58",
+          "Opcode": "00000000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Time (Time Attack Mode)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0064CE4C",
+          "Opcode": "00000000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

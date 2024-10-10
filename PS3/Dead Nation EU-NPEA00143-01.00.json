@@ -1,0 +1,33 @@
+{
+  "Game": "Dead Nation EU",
+  "Region": "NPEA00143",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Money 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010B9D98",
+          "Opcode": "00003000",
+          "Value": "00001BD4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

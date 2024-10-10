@@ -1,0 +1,305 @@
+{
+  "Game": "Musou Orochi Z AS",
+  "Region": "BLAS50130",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Total EXP 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00653CB8",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Collect All Special Skills",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00653CCE 00000013",
+          "Opcode": "00004200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004012",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "K.O.9999 in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00654308",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L1) to Limited Time Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006546FC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Life Max in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00630510 00630512",
+          "Opcode": "00005100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00630510 00630514",
+          "Opcode": "00005100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Musou Max in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00630516 00630518",
+          "Opcode": "00005100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Attack Max in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0063051A",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Defense Max in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0063051C",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Agility Max in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0063051E",
+          "Opcode": "00001000",
+          "Value": "000001F4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Hyper Move in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00630520",
+          "Opcode": "00002000",
+          "Value": "41F00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Mega Jump in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00630524",
+          "Opcode": "00002000",
+          "Value": "41F00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Special Effects Enabled in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00654374",
+          "Opcode": "00002000",
+          "Value": "00000010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0065437C",
+          "Opcode": "00004000",
+          "Value": "00000708",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004004",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Officers Level Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0064E314 00000062",
+          "Opcode": "00004200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "00004060 000000DC 00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0064E324",
+          "Opcode": "00004000",
+          "Value": "00035B60",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "00004060 000000DC 00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Officers Stats Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Opcode": "00004100 0064E318 000003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "00004060 000000DC 00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "00004100 0064E31A 000003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "00004060 000000DC 00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "00004100 0064E31C 000003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "00004060 000000DC 00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "00004100 0064E31E 000003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "00004060 000000DC 00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "00004100 0064E320 000001F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "00004060 000000DC 00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Collect All Movies",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00653CF2",
+          "Opcode": "00001000",
+          "Value": "0000FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00653CF4",
+          "Opcode": "00002000",
+          "Value": "FFBFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

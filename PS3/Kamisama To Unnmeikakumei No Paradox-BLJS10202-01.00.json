@@ -1,0 +1,513 @@
+{
+  "Game": "Kamisama To Unnmeikakumei No Paradox",
+  "Region": "BLJS10202",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "EN Not Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00012344",
+          "Opcode": "00002000",
+          "Value": "A0031922",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SP Not Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00214FE0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00116BF4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Money Not Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00117004",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0010BF74",
+          "Opcode": "00002000",
+          "Value": "7D605B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Godhead (Shinkaku) Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007B6F8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Godhead (Shinkaku) Not Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007B280",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Burst",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00086D4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000654F8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Level 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00215B60",
+          "Opcode": "00002000",
+          "Value": "3C00FB9A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage MAX L3+L2 On R3+R2 Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000654F8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000654F8",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Burst max L3+X On L3+O Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00086D4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00086D4C",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Godhead (Shinkaku) Not Decrease R3+X On R3+O Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007B280",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007B280",
+          "Opcode": "00002000",
+          "Value": "7C1E0050",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EN Not decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00012344",
+          "Opcode": "00002000",
+          "Value": "A0031922",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SP Not decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00214FE0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "money MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00116BF4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "money Not decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00117004",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0010BF74",
+          "Opcode": "00002000",
+          "Value": "7D605B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Godhead (shinkaku) MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007B6F8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Godhead (shinkaku) Not decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007B280",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Burst max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00086D4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000654F8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Level9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00215B60",
+          "Opcode": "00002000",
+          "Value": "3C00FB9A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [CODEUNIQUE ONLY]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage MAX L3+L2 ON R3+R2 OFF",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000654F8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000654F8",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Burst max L3+X ON L3+O OFF",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00086D4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00086D4C",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Godhead (shinkaku) Not decrease R3+X ON R3+O OFF",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007B280",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0007B280",
+          "Opcode": "00002000",
+          "Value": "7C1E0050",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage Max L3+L2 On R3+R2 Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000654F8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000654F8",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Burst Max L3+X On L3+O Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00086D4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00086D4C",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

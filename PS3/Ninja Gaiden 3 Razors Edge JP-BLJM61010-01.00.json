@@ -1,0 +1,355 @@
+{
+  "Game": "Ninja Gaiden 3 Razors Edge JP",
+  "Region": "BLJM61010",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Invincible (Press UP=On) (Press Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030B378",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030B378",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Energy Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030D534",
+          "Opcode": "00002000",
+          "Value": "D03F0BC4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C508",
+          "Opcode": "00002000",
+          "Value": "3CA0028E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C518",
+          "Opcode": "00002000",
+          "Value": "60A50E70",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C52C",
+          "Opcode": "00002000",
+          "Value": "80650000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C530",
+          "Opcode": "00002000",
+          "Value": "90650004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C538",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Karma Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C6970",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rengeki 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001FB0D0",
+          "Opcode": "00002000",
+          "Value": "306303E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Set Game Speed 1/4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B5EB8",
+          "Opcode": "00002000",
+          "Value": "3CC03E80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B5EBC",
+          "Opcode": "00002000",
+          "Value": "90C30008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B5EC0",
+          "Opcode": "00002000",
+          "Value": "C0230008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Set Game Speed 1/2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B5EB8",
+          "Opcode": "00002000",
+          "Value": "3CC03F00",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B5EBC",
+          "Opcode": "00002000",
+          "Value": "90C30008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B5EC0",
+          "Opcode": "00002000",
+          "Value": "C0230008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Set Game Speed 3/4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B5EB8",
+          "Opcode": "00002000",
+          "Value": "3CC03F40",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B5EBC",
+          "Opcode": "00002000",
+          "Value": "90C30008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B5EC0",
+          "Opcode": "00002000",
+          "Value": "C0230008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Range Size (4x)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BDEE8",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Range Size (100x)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BDEE8",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Karma",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C6970",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rengeki 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001FB0D0",
+          "Opcode": "00002000",
+          "Value": "306303E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030D534",
+          "Opcode": "00002000",
+          "Value": "D03F0BC4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C508",
+          "Opcode": "00002000",
+          "Value": "3CA0028E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C518",
+          "Opcode": "00002000",
+          "Value": "60A50E70",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C52C",
+          "Opcode": "00002000",
+          "Value": "80650000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C530",
+          "Opcode": "00002000",
+          "Value": "90650004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C538",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "KARMA MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C6970",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "rengeki999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001FB0D0",
+          "Opcode": "00002000",
+          "Value": "306303E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Energy MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030D534",
+          "Opcode": "00002000",
+          "Value": "D03F0BC4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C508",
+          "Opcode": "00002000",
+          "Value": "3CA0028E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C518",
+          "Opcode": "00002000",
+          "Value": "60A50E70",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C52C",
+          "Opcode": "00002000",
+          "Value": "80650000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C530",
+          "Opcode": "00002000",
+          "Value": "90650004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C538",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

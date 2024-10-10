@@ -1,0 +1,267 @@
+{
+  "Game": "Trinity Universe JP",
+  "Region": "BLJM60162",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Money 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C52CE8",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP X 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E5AE4",
+          "Opcode": "00002000",
+          "Value": "1C8403E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAR 1 HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C1D958",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34C1D97C",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAR 2 HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C1E24C",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34C1E270",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAR 3 HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C1EB40",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34C1EB64",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAR 4 HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C1F434",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "34C1F458",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAR 1 EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C1DA48",
+          "Opcode": "00002000",
+          "Value": "0B84ADD3",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAR 2 EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C1E33C",
+          "Opcode": "00002000",
+          "Value": "0B84ADD3",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAR 3 EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C1EC30",
+          "Opcode": "00002000",
+          "Value": "0B84ADD3",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAR 4 EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C1F524",
+          "Opcode": "00002000",
+          "Value": "0B84ADD3",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAR 1 AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C1D95C",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAR 2 AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C1E250",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAR 3 AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C1EB44",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAR 4 AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C1F438",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Buy/Sell Item 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021B498",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0022F5D8",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00239548",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sensation 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C5599C",
+          "Opcode": "00002000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E7450",
+          "Opcode": "00002000",
+          "Value": "39200063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gallery",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "34C54CBC",
+          "Opcode": "00004000",
+          "Value": "AAAAAAAA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004008",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

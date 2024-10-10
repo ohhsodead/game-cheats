@@ -1,0 +1,33 @@
+{
+  "Game": "Tales Of Xillia US",
+  "Region": "BLUS31006",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00187A60",
+          "Opcode": "00002000",
+          "Value": "82320020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00187A64",
+          "Opcode": "00002000",
+          "Value": "9232000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00187A68",
+          "Opcode": "00002000",
+          "Value": "4801D74D",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

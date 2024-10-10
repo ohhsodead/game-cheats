@@ -1,0 +1,67 @@
+{
+  "Game": "Rune Factory Oceans EU",
+  "Region": "BLES01550",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Dragon Shrine Donations",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00135E2C",
+          "Opcode": "00002000",
+          "Value": "40810010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money When Buying/Selling",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00135E68",
+          "Opcode": "00002000",
+          "Value": "40810010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max RP 9999 on Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003B7440",
+          "Opcode": "00002000",
+          "Value": "38A0270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max HP 9999 on Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003B73D4",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money on Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00135E58",
+          "Opcode": "00002000",
+          "Value": "90A60004",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

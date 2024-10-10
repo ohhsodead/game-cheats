@@ -1,0 +1,535 @@
+{
+  "Game": "Pro Yakyuu Spirits 2013 AS",
+  "Region": "BLAS50575",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "0 Strikes",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002A2358",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0 Balls",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002A237C",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9999 Total Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005D1F30",
+          "Opcode": "00002000",
+          "Value": "38A0270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0 Strikes L2+Down=On R2+Down=Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A2358",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A2358",
+          "Opcode": "00002000",
+          "Value": "7C842814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0 Balls L2+Up=On R2+Up=Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A237C",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A237C",
+          "Opcode": "00002000",
+          "Value": "7C842814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0 Outs L2+Left=On R2+Left=Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00800001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A23A0",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00800002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A23A0",
+          "Opcode": "00002000",
+          "Value": "7C842814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9999 Spirits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0067D258",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99999 VP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039B874",
+          "Opcode": "00002000",
+          "Value": "3C80000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039B878",
+          "Opcode": "00002000",
+          "Value": "6084423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006A0F98",
+          "Opcode": "00002000",
+          "Value": "2C040000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Money Management 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006AF9B0",
+          "Opcode": "00002000",
+          "Value": "3C8005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006AF9BC",
+          "Opcode": "00002000",
+          "Value": "6084E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "255 Reliability",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006ACDB0",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "255 Personnel Force",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006AC49C",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "255 Talent",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006AC3F4",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "255 Strength",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006AC95C",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "255 Ability To Take Action",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006AC4F0",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "255 Economic Strength",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006AC448",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Strike 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002A2358",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ball 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002A237C",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Total Points 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005D1F30",
+          "Opcode": "00002000",
+          "Value": "38A0270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Strike 0 L2+DOWN=ON R2+DOWN=OFF",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A2358",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A2358",
+          "Opcode": "00002000",
+          "Value": "7C842814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ball 0 L2+UP=ON R2+UP=OFF",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A237C",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A237C",
+          "Opcode": "00002000",
+          "Value": "7C842814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Out 0 L2+LEFT=ON R2+LEFT=OFF",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00800001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A23A0",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00800002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A23A0",
+          "Opcode": "00002000",
+          "Value": "7C842814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Spirits 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0067D258",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "VP999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039B874",
+          "Opcode": "00002000",
+          "Value": "3C80000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039B878",
+          "Opcode": "00002000",
+          "Value": "6084423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006A0F98",
+          "Opcode": "00002000",
+          "Value": "2C040000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MONEY 999999 Management",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006AF9B0",
+          "Opcode": "00002000",
+          "Value": "3C8005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006AF9BC",
+          "Opcode": "00002000",
+          "Value": "6084E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "sinrai 255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006ACDB0",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "zinnzi 255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006AC49C",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kiryou 255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006AC3F4",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "tairyoku 255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006AC95C",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "koudou 255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006AC4F0",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "keizai 255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006AC448",
+          "Opcode": "00002000",
+          "Value": "388000FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Game": "Need for Speed Shift 2 Unleashed EU",
+  "Region": "BLES01066",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Cash",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "33E093FC",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "33E09400",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

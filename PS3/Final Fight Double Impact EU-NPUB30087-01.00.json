@@ -1,0 +1,33 @@
+{
+  "Game": "Final Fight Double Impact EU",
+  "Region": "NPUB30087",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "200x Health (Press L1+R1+Up)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "0010000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "35EF8AF0",
+          "Opcode": "00001000",
+          "Value": "00007080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "35EF8BB0",
+          "Opcode": "00001000",
+          "Value": "00007080",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

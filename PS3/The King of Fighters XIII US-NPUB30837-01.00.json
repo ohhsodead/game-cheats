@@ -1,0 +1,45 @@
+{
+  "Game": "The King of Fighters XIII US",
+  "Region": "NPUB30837",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1P Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F74D4",
+          "Opcode": "00002000",
+          "Value": "7C16B800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000F74D8",
+          "Opcode": "00002000",
+          "Value": "40800C24",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible & Hit Anywhere",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F82C8",
+          "Opcode": "00002000",
+          "Value": "7C16B800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000F82CC",
+          "Opcode": "00002000",
+          "Value": "40800014",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

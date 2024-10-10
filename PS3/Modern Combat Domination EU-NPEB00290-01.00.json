@@ -1,0 +1,67 @@
+{
+  "Game": "Modern Combat Domination EU",
+  "Region": "NPEB00290",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002569B0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "DUMB AI. 'THEY WONT SHOOT 'EASY CHALLENGES'",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000506AC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenades (Buy At Loadout Screen)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00052B28",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002569B0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Dumb Enemy AI",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000506AC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

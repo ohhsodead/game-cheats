@@ -1,0 +1,38 @@
+{
+  "Game": "Shin Sangoku Musou 6 Moushouden JP",
+  "Region": "BLJM61000",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Money After Buying",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028CAE4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028CAE8",
+          "Opcode": "00002000",
+          "Value": "90030C78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit Kill Enemy + Recover Hit Hp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6F4F0",
+          "Opcode": "00002000",
+          "Value": "BF800000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

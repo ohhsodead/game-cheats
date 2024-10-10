@@ -1,0 +1,45 @@
+{
+  "Game": "Soulcalibur V JP",
+  "Region": "BLJS10115",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Hit Anywhere",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0006D48C",
+          "Opcode": "00002000",
+          "Value": "409E04A8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Hit 1P/2P (Press X=On Auto, Off Mode)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0006D440",
+          "Opcode": "00002000",
+          "Value": "409DFAF4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0006D440",
+          "Opcode": "00002000",
+          "Value": "419DFAF4",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

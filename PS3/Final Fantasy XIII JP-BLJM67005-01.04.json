@@ -1,0 +1,90 @@
+{
+  "Game": "Final Fantasy XIII JP",
+  "Region": "BLJM67005",
+  "Version": "01.04",
+  "Cheats": [
+    {
+      "Name": "Gil 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "4446BE38",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Material/Item 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005867FC",
+          "Opcode": "00002000",
+          "Value": "2B800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Reflected on no. of items available 4 increases.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All characters CP 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "4447BA70",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4447D8F0",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4447F770",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "444806B0",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "44482530",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "44483470",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

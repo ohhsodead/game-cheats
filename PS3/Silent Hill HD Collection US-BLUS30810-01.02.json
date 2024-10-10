@@ -1,0 +1,503 @@
+{
+  "Game": "Silent Hill HD Collection US",
+  "Region": "BLUS30810",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Info - [For Silent Hill 2]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pick Up 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001123E8",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00148910",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health (L3=On R3=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00014A9C",
+          "Opcode": "00002000",
+          "Value": "41800014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001F7DC",
+          "Opcode": "00002000",
+          "Value": "4082083C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00014A9C",
+          "Opcode": "00002000",
+          "Value": "40800014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001F7DC",
+          "Opcode": "00002000",
+          "Value": "4182083C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Reload 65535",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00112854",
+          "Opcode": "00002000",
+          "Value": "38A0FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0011286C",
+          "Opcode": "00002000",
+          "Value": "38A0FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy Caught (L3=On R3=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000BD038",
+          "Opcode": "00002000",
+          "Value": "41820050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000BD038",
+          "Opcode": "00002000",
+          "Value": "40820050",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00063398",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For Silent Hill 3]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pick Up 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BFDA0",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Damager",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0013605C",
+          "Opcode": "00002000",
+          "Value": "3CA0BF80",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0006E3E0",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Pick Up 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00132448",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001C5DE8",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012E258",
+          "Opcode": "00002000",
+          "Value": "D0430154",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012E270",
+          "Opcode": "00002000",
+          "Value": "48000058",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible (Use with Infinite Health)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012E25C",
+          "Opcode": "00002000",
+          "Value": "388042C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012E260",
+          "Opcode": "00002000",
+          "Value": "B0830162",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012E264",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo/Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00132550",
+          "Opcode": "00002000",
+          "Value": "30C60000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007A6E8",
+          "Opcode": "00002000",
+          "Value": "FC201090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Save Always 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0027AA10",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - The below 4 require you to kill 1 enemy for them to work",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Enemies killed by Weapons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007A7FC",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Enemies Killed by Weapons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007A7FC",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Enemies killed by Melee",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007A834",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Enemies killed by Melee",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007A834",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001266A8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001266B4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible (Use with Infinite Health)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001266A0",
+          "Opcode": "00002000",
+          "Value": "386042C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001266A4",
+          "Opcode": "00002000",
+          "Value": "B07F018A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C1728",
+          "Opcode": "00002000",
+          "Value": "31080000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Supplies",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C1EEC",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001345D0",
+          "Opcode": "00002000",
+          "Value": "FC201090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Save Always 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00028D7C",
+          "Opcode": "00002000",
+          "Value": "30A50000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - The below 4 require you to kill 1 enemy for them to work",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Enemies killed by Weapons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00134898",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Enemies Killed by Weapons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00134898",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Enemies killed by Melee",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00134910",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Enemies killed by Melee",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00134910",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

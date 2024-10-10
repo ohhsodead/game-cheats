@@ -1,0 +1,31 @@
+{
+  "Game": "Need for Speed Hot Pursuit EU",
+  "Region": "BLES00949",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite SCPT Point",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3A2AC788",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Driver Point",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3A2AC78C",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

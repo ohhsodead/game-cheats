@@ -1,0 +1,101 @@
+{
+  "Game": "Duke Nukem Forever EU",
+  "Region": "BLES01147",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Ammo 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021AF90",
+          "Opcode": "00002000",
+          "Value": "839E09CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0021AF98",
+          "Opcode": "00002000",
+          "Value": "2C9C0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0021AF9C",
+          "Opcode": "00002000",
+          "Value": "3D6047C3",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0021AFA4",
+          "Opcode": "00002000",
+          "Value": "616B4F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0021AFAC",
+          "Opcode": "00002000",
+          "Value": "3BA10100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0021AFB4",
+          "Opcode": "00002000",
+          "Value": "917C0988",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ego",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D95000",
+          "Opcode": "00002000",
+          "Value": "3D804316",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D95004",
+          "Opcode": "00002000",
+          "Value": "918B0A1C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D95008",
+          "Opcode": "00002000",
+          "Value": "C20B0A1C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9500C",
+          "Opcode": "00002000",
+          "Value": "D20B0A18",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D95010",
+          "Opcode": "00002000",
+          "Value": "4B486E40",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0021BE4C",
+          "Opcode": "00002000",
+          "Value": "48B791B4",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

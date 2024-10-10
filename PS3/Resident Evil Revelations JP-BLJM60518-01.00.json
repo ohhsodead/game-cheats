@@ -1,0 +1,62 @@
+{
+  "Game": "Resident Evil Revelations JP",
+  "Region": "BLJM60518",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003E66CC",
+          "Opcode": "00002000",
+          "Value": "3880FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026A508",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003EA46C",
+          "Opcode": "00002000",
+          "Value": "4082003C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Hit Kill Ammo Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ACEAC",
+          "Opcode": "00002000",
+          "Value": "3860270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Quick Shot Stab Fast",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002AF6A0",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

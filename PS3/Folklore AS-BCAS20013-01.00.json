@@ -1,0 +1,107 @@
+{
+  "Game": "Folklore AS",
+  "Region": "BCAS20013",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Ellen EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10146CB8",
+          "Opcode": "00002000",
+          "Value": "0000FDE8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ellen HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10146C14",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "10146C16",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Keats EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10146AB8",
+          "Opcode": "00002000",
+          "Value": "0000FDE8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ellen MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10146C18",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "10146C1A",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Keats HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10146A14",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "10146A16",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Keats MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10146A18",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "10146A1A",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

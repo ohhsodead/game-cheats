@@ -1,0 +1,657 @@
+{
+  "Game": "Yakuza Dead Souls EU",
+  "Region": "BLES01399",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01537E08",
+          "Opcode": "00002000",
+          "Value": "1F000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0154BDBC",
+          "Opcode": "00002000",
+          "Value": "00FF0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "255 Balls",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0154BDC6",
+          "Opcode": "00000000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Have Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01534DD5",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534DD6",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534DD8",
+          "Opcode": "00004000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000008",
+          "Opcode": "00004003",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534DDC",
+          "Opcode": "00002000",
+          "Value": "000E0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534DE4",
+          "Opcode": "00002000",
+          "Value": "00120000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534DEC",
+          "Opcode": "00002000",
+          "Value": "001D0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534DF0",
+          "Opcode": "00002000",
+          "Value": "00007B6D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534DF4",
+          "Opcode": "00002000",
+          "Value": "00190000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534DF8",
+          "Opcode": "00002000",
+          "Value": "00007DE6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534DFC",
+          "Opcode": "00002000",
+          "Value": "001B0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E00",
+          "Opcode": "00002000",
+          "Value": "00007DFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E04",
+          "Opcode": "00004000",
+          "Value": "001F0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000008",
+          "Opcode": "00004003",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E08",
+          "Opcode": "00002000",
+          "Value": "00007B49",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E10",
+          "Opcode": "00002000",
+          "Value": "00007D00",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E18",
+          "Opcode": "00002000",
+          "Value": "00007D00",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E1C",
+          "Opcode": "00002000",
+          "Value": "021C0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E20",
+          "Opcode": "00002000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E24",
+          "Opcode": "00004000",
+          "Value": "021E0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000008",
+          "Opcode": "00004005",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E28",
+          "Opcode": "00002000",
+          "Value": "000000EC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E30",
+          "Opcode": "00004000",
+          "Value": "000000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000008",
+          "Opcode": "00004006",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E4C",
+          "Opcode": "00002000",
+          "Value": "03530000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E54",
+          "Opcode": "00002000",
+          "Value": "03520000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E5C",
+          "Opcode": "00002000",
+          "Value": "03480000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E60",
+          "Opcode": "00004000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000008",
+          "Opcode": "00004004",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E64",
+          "Opcode": "00002000",
+          "Value": "03690000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E6C",
+          "Opcode": "00002000",
+          "Value": "03190000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E74",
+          "Opcode": "00002000",
+          "Value": "03690000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E7C",
+          "Opcode": "00002000",
+          "Value": "021D0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E80",
+          "Opcode": "00002000",
+          "Value": "000000FB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E84",
+          "Opcode": "00002000",
+          "Value": "023C0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E88",
+          "Opcode": "00002000",
+          "Value": "000000FB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E8C",
+          "Opcode": "00002000",
+          "Value": "02540000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01534E90",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536604",
+          "Opcode": "00002000",
+          "Value": "02C8FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536608",
+          "Opcode": "00002000",
+          "Value": "003A0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0153660C",
+          "Opcode": "00002000",
+          "Value": "02C7FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536610",
+          "Opcode": "00002000",
+          "Value": "003C0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536614",
+          "Opcode": "00002000",
+          "Value": "02DCFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536618",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0153661C",
+          "Opcode": "00002000",
+          "Value": "02C3000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536620",
+          "Opcode": "00002000",
+          "Value": "000AFFEE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536624",
+          "Opcode": "00002000",
+          "Value": "02A20000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536628",
+          "Opcode": "00002000",
+          "Value": "00130001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0153662C",
+          "Opcode": "00002000",
+          "Value": "02A80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536630",
+          "Opcode": "00002000",
+          "Value": "0000FF00",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536634",
+          "Opcode": "00002000",
+          "Value": "0000FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536638",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0153663C",
+          "Opcode": "00002000",
+          "Value": "0295FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536640",
+          "Opcode": "00002000",
+          "Value": "000D0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536644",
+          "Opcode": "00002000",
+          "Value": "0001FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536648",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0153664C",
+          "Opcode": "00002000",
+          "Value": "0298FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536650",
+          "Opcode": "00002000",
+          "Value": "FFFF0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536654",
+          "Opcode": "00002000",
+          "Value": "02A2FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536658",
+          "Opcode": "00002000",
+          "Value": "00130001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0153665C",
+          "Opcode": "00002000",
+          "Value": "02C2FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536660",
+          "Opcode": "00002000",
+          "Value": "000A0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536664",
+          "Opcode": "00002000",
+          "Value": "02C2FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536668",
+          "Opcode": "00002000",
+          "Value": "000A03E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0153666C",
+          "Opcode": "00002000",
+          "Value": "02C7FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536670",
+          "Opcode": "00002000",
+          "Value": "00010001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536674",
+          "Opcode": "00002000",
+          "Value": "02CBFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536678",
+          "Opcode": "00002000",
+          "Value": "FFFF0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0153667C",
+          "Opcode": "00002000",
+          "Value": "02CCFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536680",
+          "Opcode": "00002000",
+          "Value": "000F0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536684",
+          "Opcode": "00002000",
+          "Value": "02DEFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536688",
+          "Opcode": "00002000",
+          "Value": "FFFF0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0153668C",
+          "Opcode": "00004000",
+          "Value": "0000FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000008",
+          "Opcode": "0000400D",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536690",
+          "Opcode": "00004000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000008",
+          "Opcode": "0000400D",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015366F4",
+          "Opcode": "00002000",
+          "Value": "0298FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015366F8",
+          "Opcode": "00002000",
+          "Value": "00190001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "015366FC",
+          "Opcode": "00002000",
+          "Value": "029DFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536700",
+          "Opcode": "00002000",
+          "Value": "00190001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536704",
+          "Opcode": "00002000",
+          "Value": "02A6FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536708",
+          "Opcode": "00002000",
+          "Value": "00020001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0153670C",
+          "Opcode": "00002000",
+          "Value": "02A8FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536710",
+          "Opcode": "00002000",
+          "Value": "00500001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536714",
+          "Opcode": "00002000",
+          "Value": "02BBFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01536718",
+          "Opcode": "00002000",
+          "Value": "00050001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0153671C",
+          "Opcode": "00002000",
+          "Value": "029CFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

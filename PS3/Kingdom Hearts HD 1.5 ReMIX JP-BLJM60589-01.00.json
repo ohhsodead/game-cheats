@@ -1,0 +1,86 @@
+{
+  "Game": "Kingdom Hearts HD 1.5 ReMIX JP",
+  "Region": "BLJM60589",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Buy & Sell Max Munnies",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B1890",
+          "Opcode": "00002000",
+          "Value": "41810008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B18EC",
+          "Opcode": "00002000",
+          "Value": "41810008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Level (1 Fight)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0018E1E8",
+          "Opcode": "00002000",
+          "Value": "41810008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Munny",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "40810008",
+          "Opcode": "000B1890",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00163EC0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "munnies max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "40810008",
+          "Opcode": "000B1890",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00163EC0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

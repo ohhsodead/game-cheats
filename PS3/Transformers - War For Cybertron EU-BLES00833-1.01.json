@@ -1,0 +1,45 @@
+{
+  "Game": "Transformers - War For Cybertron EU",
+  "Region": "BLES00833",
+  "Version": "1.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008B3710",
+          "Opcode": "00002000",
+          "Value": "C0630360",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008B3714",
+          "Opcode": "00002000",
+          "Value": "D063035C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008B371C",
+          "Opcode": "00002000",
+          "Value": "EC431828",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo / No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00075AAC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

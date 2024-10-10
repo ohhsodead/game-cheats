@@ -1,0 +1,105 @@
+{
+  "Game": "Resident Evil Revelations US",
+  "Region": "BLUS31051",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Zombie Not Do Nothing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002667D4",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Quick Shot Stab Fast",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002AF6A0",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003E68EC",
+          "Opcode": "00002000",
+          "Value": "3880FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026A508",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003EA68C",
+          "Opcode": "00002000",
+          "Value": "4082003C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Hit Kill Ammo Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002ACEAC",
+          "Opcode": "00002000",
+          "Value": "3860270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003E6B6C",
+          "Opcode": "00002000",
+          "Value": "3880FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026A3B8",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003EA90C",
+          "Opcode": "00002000",
+          "Value": "4082003C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

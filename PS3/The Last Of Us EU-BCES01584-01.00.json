@@ -1,0 +1,234 @@
+{
+  "Game": "The Last Of Us EU",
+  "Region": "BCES01584",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Everything (Ammo, Items, Skills, Parts)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003C9E0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo + Bottomless Clip (No Reload)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00686348",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A07A0",
+          "Opcode": "00002000",
+          "Value": "38A00001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A07A4",
+          "Opcode": "00002000",
+          "Value": "2F830004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A07A8",
+          "Opcode": "00002000",
+          "Value": "409E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A07AC",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A07B0",
+          "Opcode": "00002000",
+          "Value": "3AE00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E50F4",
+          "Opcode": "00002000",
+          "Value": "3CA03B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002E50F8",
+          "Opcode": "00002000",
+          "Value": "60A5C9FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002E5100",
+          "Opcode": "00002000",
+          "Value": "90A90160",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo (No Reload) (L2+R2+Up=On/L2+R2+Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00686348",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00686348",
+          "Opcode": "00002000",
+          "Value": "B13C0574",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Everything (Start+Up=On/Start+Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00180000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003C9E0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00480000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0003C9E0",
+          "Opcode": "00002000",
+          "Value": "7D2B1B2E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Flamethrower",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0068A1D4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006877E0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007A6EF4",
+          "Opcode": "00002000",
+          "Value": "48E59D4F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E59D4C",
+          "Opcode": "00002000",
+          "Value": "3A20008C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E59D50",
+          "Opcode": "00002000",
+          "Value": "923F0030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E59D54",
+          "Opcode": "00002000",
+          "Value": "923F0038",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E59D58",
+          "Opcode": "00002000",
+          "Value": "923F0044",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Oxygen",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00531BE4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Game": "The Darkness 2 US",
+  "Region": "BLUS30743",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Essences On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00346EFC",
+          "Opcode": "00002000",
+          "Value": "3C607FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible Mode (Press Up=On) (Press Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B2F38",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000B2F38",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

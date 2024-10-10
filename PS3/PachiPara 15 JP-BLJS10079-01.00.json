@@ -1,0 +1,31 @@
+{
+  "Game": "PachiPara 15 JP",
+  "Region": "BLJS10079",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Always Negative Victory Card Battle (Score 9999999)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00737610",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Battle Ball Always Win (Jade 99999)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007AC940",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

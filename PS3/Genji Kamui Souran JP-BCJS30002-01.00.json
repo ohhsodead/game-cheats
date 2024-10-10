@@ -1,0 +1,90 @@
+{
+  "Game": "Genji Kamui Souran JP",
+  "Region": "BCJS30002",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Master Code",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": " 42434A53 30002018",
+          "Opcode": "00000101",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Mashogane",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10CA7B80",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Amahagane",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10CA7B84",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00266674",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10F6366C 10F6366E",
+          "Opcode": "00005100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "God Blinks Infinite MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10435902 10435904",
+          "Opcode": "00005100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "Game": "The Witch And The Hundred Knight US",
+  "Region": "BLUS30964",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Gigacals",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005DBAC0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Quick Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005DE58C",
+          "Opcode": "00002000",
+          "Value": "3BE00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Quick Grade Point",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002F1E34",
+          "Opcode": "00002000",
+          "Value": "38A07FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00252824",
+          "Opcode": "00002000",
+          "Value": "825E01B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00252854",
+          "Opcode": "00002000",
+          "Value": "925E01AC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00252854",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005DB3A8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max AP On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0059BE94",
+          "Opcode": "00002000",
+          "Value": "39200064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Infinite Mana/Shell on Using Reinforce Option in Bucket List",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A1280",
+          "Opcode": "00002000",
+          "Value": "3D203B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001A1284",
+          "Opcode": "00002000",
+          "Value": "6129C9FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001A1288",
+          "Opcode": "00002000",
+          "Value": "91230AFC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001A1290",
+          "Opcode": "00002000",
+          "Value": "91230B00",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Infinite Anima on Using Reinforce Option in Bucket List(Meta",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A1654",
+          "Opcode": "00002000",
+          "Value": "3C00000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001A1658",
+          "Opcode": "00002000",
+          "Value": "6000423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Spend Grade Points For Max Grade Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00507D1C",
+          "Opcode": "00002000",
+          "Value": "39600063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "35E2D420",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Anima",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "35FA1504",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Shell (Money)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "35E2D41C",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Karma",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "35F67564",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Karma",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "35F67564",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

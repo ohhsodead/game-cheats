@@ -1,0 +1,251 @@
+{
+  "Game": "Tekken Tag Tournament 2 EU",
+  "Region": "BLES01702",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Info - [01.00 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money on Buy (May give Max on Gain)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00658B14",
+          "Opcode": "00002000",
+          "Value": "409D004C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00658B60",
+          "Opcode": "00002000",
+          "Value": "3C007FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Combot Money on Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00175D2C",
+          "Opcode": "00002000",
+          "Value": "3C007FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Wins P2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00319A0C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Loss P2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00319A3C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CPU Don't Attack (Press Select=On) (Press Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000BDAD8",
+          "Opcode": "00002000",
+          "Value": "409E010C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000BDC10",
+          "Opcode": "00002000",
+          "Value": "409D0048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000BDC6C",
+          "Opcode": "00002000",
+          "Value": "409E0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000BDAD8",
+          "Opcode": "00002000",
+          "Value": "419E010C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000BDC10",
+          "Opcode": "00002000",
+          "Value": "419D0048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000BDC6C",
+          "Opcode": "00002000",
+          "Value": "419E0010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable CPU Block (Press Select=On) (Press Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000DC6E8",
+          "Opcode": "00002000",
+          "Value": "419D008C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000DC6E8",
+          "Opcode": "00002000",
+          "Value": "409D008C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible + Hitanywhere Solo Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000D6998",
+          "Opcode": "00002000",
+          "Value": "7F95B800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000D699C",
+          "Opcode": "00002000",
+          "Value": "409DFD04",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible + Hitanywhere Tag Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C1670",
+          "Opcode": "00002000",
+          "Value": "70800010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000C1818",
+          "Opcode": "00002000",
+          "Value": "4BFFFEAC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [01.03 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Multi Hit 1P (Press L3=On) (Press R3=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000D58DC",
+          "Opcode": "00002000",
+          "Value": "409EFFEC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000D58DC",
+          "Opcode": "00002000",
+          "Value": "419EFFEC",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

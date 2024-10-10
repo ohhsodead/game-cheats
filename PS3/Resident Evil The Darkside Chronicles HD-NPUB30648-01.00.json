@@ -1,0 +1,133 @@
+{
+  "Game": "Resident Evil The Darkside Chronicles HD",
+  "Region": "NPUB30648",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Zombie Freezer Mode (Press L3=On) (Press R3=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0002F604",
+          "Opcode": "00002000",
+          "Value": "4082FF4C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0002F604",
+          "Opcode": "00002000",
+          "Value": "4182FF4C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - For codes below. There could be problems.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0x Zombie Speed Modifier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002F730",
+          "Opcode": "00002000",
+          "Value": "3C800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.5x Zombie Speed Modifier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002F730",
+          "Opcode": "00002000",
+          "Value": "3C803F00",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Zombie Speed Modifier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002F730",
+          "Opcode": "00002000",
+          "Value": "3C804000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Heath 1P",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00240DC0",
+          "Opcode": "00002000",
+          "Value": "4182014C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Reload Handgun (Up=On Down=Off) Can't use Shotgun",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00266B70",
+          "Opcode": "00002000",
+          "Value": "4800008C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00266B70",
+          "Opcode": "00002000",
+          "Value": "8063008C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

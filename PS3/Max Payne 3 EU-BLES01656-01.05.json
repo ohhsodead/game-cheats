@@ -1,0 +1,120 @@
+{
+  "Game": "Max Payne 3 EU",
+  "Region": "BLES01656",
+  "Version": "01.05",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00124388",
+          "Opcode": "00002000",
+          "Value": "3C60447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012438C",
+          "Opcode": "00002000",
+          "Value": "907F0358",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00124398",
+          "Opcode": "00002000",
+          "Value": "386003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001243AC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Vehicle Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0034A548",
+          "Opcode": "00002000",
+          "Value": "3C80447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034A54C",
+          "Opcode": "00002000",
+          "Value": "90830358",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034A540",
+          "Opcode": "00002000",
+          "Value": "3C800005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034A544",
+          "Opcode": "00002000",
+          "Value": "38842340",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034A548",
+          "Opcode": "00002000",
+          "Value": "C0230358",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034A54C",
+          "Opcode": "00002000",
+          "Value": "48000034",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00127280",
+          "Opcode": "00002000",
+          "Value": "3C60447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127284",
+          "Opcode": "00002000",
+          "Value": "907F0358",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127290",
+          "Opcode": "00002000",
+          "Value": "386003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001272A4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

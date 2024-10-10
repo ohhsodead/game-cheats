@@ -1,0 +1,43 @@
+{
+  "Game": "Lightning Returns - Final Fantasy XIII JP",
+  "Region": "NPJB00326",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Enemies Don't Do Anything",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E048C",
+          "Opcode": "00002000",
+          "Value": "40800028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99999999 Attack Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012E820",
+          "Opcode": "00002000",
+          "Value": "3F000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincibile + Can Use Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001056E8",
+          "Opcode": "00002000",
+          "Value": "807E0030",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

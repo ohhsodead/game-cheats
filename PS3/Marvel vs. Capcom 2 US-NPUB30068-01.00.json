@@ -1,0 +1,64 @@
+{
+  "Game": "Marvel vs. Capcom 2 US",
+  "Region": "NPUB30068",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "P1 Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0064768D",
+          "Opcode": "00000000",
+          "Value": "00000090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006481D5",
+          "Opcode": "00000000",
+          "Value": "00000090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00648D1D",
+          "Opcode": "00000000",
+          "Value": "00000090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Infinite Super Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00668562",
+          "Opcode": "00000000",
+          "Value": "00000005",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2/CPU No Super Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00668561",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00668563",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

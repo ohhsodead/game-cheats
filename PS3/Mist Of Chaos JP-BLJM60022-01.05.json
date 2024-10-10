@@ -1,0 +1,76 @@
+{
+  "Game": "Mist Of Chaos JP",
+  "Region": "BLJM60022",
+  "Version": "01.05",
+  "Cheats": [
+    {
+      "Name": "Sell Something For Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005ADD8",
+          "Opcode": "00002000",
+          "Value": "9003005C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "During World Map Warlords Can Be Used Many Times",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005E24C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0005E5CC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0005E28C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999 Remaining Reinforcements On World Map",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1925749A",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "+9 Figures Reinforce And Strengthen",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005ECFC",
+          "Opcode": "00002000",
+          "Value": "38000009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0005ED84",
+          "Opcode": "00002000",
+          "Value": "38000009",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

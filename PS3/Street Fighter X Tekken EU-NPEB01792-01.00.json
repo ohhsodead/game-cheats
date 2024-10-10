@@ -1,0 +1,45 @@
+{
+  "Game": "Street Fighter X Tekken EU",
+  "Region": "NPEB01792",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1P Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005C1AA0",
+          "Opcode": "00002000",
+          "Value": "807C0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005C1AA4",
+          "Opcode": "00002000",
+          "Value": "2C030002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005C1AA8",
+          "Opcode": "00002000",
+          "Value": "41800034",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Auto Max Power 1P/2P",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007E0750",
+          "Opcode": "00002000",
+          "Value": "418100A4",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "Game": "Borderlands 2 EU",
+  "Region": "BLES01684",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Max + Infinite Money & Black Market Money On Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00672834",
+          "Opcode": "00002000",
+          "Value": "3D607FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00672838",
+          "Opcode": "00002000",
+          "Value": "91690014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max + Infinite Skill Points & Badass Token On Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002D880",
+          "Opcode": "00002000",
+          "Value": "380003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0002D884",
+          "Opcode": "00002000",
+          "Value": "900B0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max + Infinite Money & Black Market Money on Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00672834",
+          "Opcode": "00002000",
+          "Value": "3D607FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00672838",
+          "Opcode": "00002000",
+          "Value": "91690014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max + Infinite Skill Points & Badass Token on Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002D880",
+          "Opcode": "00002000",
+          "Value": "380003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0002D884",
+          "Opcode": "00002000",
+          "Value": "900B0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo & Grenades",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00493CCC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00493CD0",
+          "Opcode": "00002000",
+          "Value": "D00B0070",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max + Infinite Money/Black Market Money on Buy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00677FA4",
+          "Opcode": "00002000",
+          "Value": "3D607FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00677FA8",
+          "Opcode": "00002000",
+          "Value": "91690014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max + Infinite Money/Black Market Money on Sale",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00677F74",
+          "Opcode": "00002000",
+          "Value": "3C007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00677F78",
+          "Opcode": "00002000",
+          "Value": "90090014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max + Infinite Skill Points/Badass Token",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002D7D8",
+          "Opcode": "00002000",
+          "Value": "380000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0002D7DC",
+          "Opcode": "00002000",
+          "Value": "900B0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Instant Level Max (No Kill/Exp Required)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0067B06C",
+          "Opcode": "00002000",
+          "Value": "7BCB0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0067B070",
+          "Opcode": "00002000",
+          "Value": "7B690020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0067B074",
+          "Opcode": "00002000",
+          "Value": "7B9F0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0067B078",
+          "Opcode": "00002000",
+          "Value": "7FE3FB78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0067B07C",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "Game": "World Soccer Winning Eleven 2011 AS",
+  "Region": "BLAS50231",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "GP 999,999,999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3007A7B0",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press Select+Up) to Loss Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019D0BD8",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L1+L2) to Home 21 & Away 0 When Goaling",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00000005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019CAC38",
+          "Opcode": "00001000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019CAC3C",
+          "Opcode": "00001000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019CAC40",
+          "Opcode": "00001000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019CAF2C",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019CAF2E",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019CAF34",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R1+R2) to Away 21 & Home 0 When Goaling",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019CAC38",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019CAC3C",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019CAC40",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019CAF2C",
+          "Opcode": "00001000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019CAF2E",
+          "Opcode": "00001000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "019CAF34",
+          "Opcode": "00001000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Game": "Marvel vs. Capcom 3 EU",
+  "Region": "BLES01026",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Max PP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00541C1C",
+          "Opcode": "00002000",
+          "Value": "3C600100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00541C20",
+          "Opcode": "00002000",
+          "Value": "93FF0044",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00541C24",
+          "Opcode": "00002000",
+          "Value": "83FF0044",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.03]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Infinite Super Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "37AA6B3C",
+          "Opcode": "00002000",
+          "Value": "47435000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Infinite X Factor Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "37AA6B80",
+          "Opcode": "00002000",
+          "Value": "44160000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 Empty Super Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "37AA6D3C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No X Factor Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "37AA6D80",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2p Stand Mode (CPU No Move)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0015CA0C",
+          "Opcode": "00002000",
+          "Value": "419E000C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

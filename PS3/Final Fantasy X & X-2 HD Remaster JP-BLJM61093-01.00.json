@@ -1,0 +1,2887 @@
+{
+  "Game": "Final Fantasy X & X-2 HD Remaster JP",
+  "Region": "BLJM61093",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "item99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00273D78",
+          "Opcode": "00002000",
+          "Value": "98BA40CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00273DE8",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "enkaunnto max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00238524",
+          "Opcode": "00002000",
+          "Value": "FFFFF82A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00238530",
+          "Opcode": "00002000",
+          "Value": "FFFFF82A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00238540",
+          "Opcode": "00002000",
+          "Value": "FC6300F2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00238560",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "enkaunnto 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00238544",
+          "Opcode": "00002000",
+          "Value": "D3FF010C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kaminari yoke",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00338834",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00338838",
+          "Opcode": "00002000",
+          "Value": "3BE000C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "gill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F084",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "over drive max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026EF74",
+          "Opcode": "00002000",
+          "Value": "38600064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "S.LV MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F254",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026F270",
+          "Opcode": "00002000",
+          "Value": "30640063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Infinite HP/MP/OverDrive",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00262BD0",
+          "Opcode": "00002000",
+          "Value": "484E3BE1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467B0",
+          "Opcode": "00002000",
+          "Value": "808305A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467B4",
+          "Opcode": "00002000",
+          "Value": "908305D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467B8",
+          "Opcode": "00002000",
+          "Value": "888305BD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467BC",
+          "Opcode": "00002000",
+          "Value": "988305BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467C0",
+          "Opcode": "00002000",
+          "Value": "8083059C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467C4",
+          "Opcode": "00002000",
+          "Value": "908305D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467C8",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - For the below AP multipliers, the AP Shown isn't multipli",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX 2x AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F20C",
+          "Opcode": "00002000",
+          "Value": "484D761D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026F210",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746828",
+          "Opcode": "00002000",
+          "Value": "1FBD0002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0074682C",
+          "Opcode": "00002000",
+          "Value": "7C63E814",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746830",
+          "Opcode": "00002000",
+          "Value": "907F55E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746834",
+          "Opcode": "00002000",
+          "Value": "7C6307B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746838",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX 4x AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F20C",
+          "Opcode": "00002000",
+          "Value": "484D761D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026F210",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746828",
+          "Opcode": "00002000",
+          "Value": "1FBD0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0074682C",
+          "Opcode": "00002000",
+          "Value": "7C63E814",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746830",
+          "Opcode": "00002000",
+          "Value": "907F55E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746834",
+          "Opcode": "00002000",
+          "Value": "7C6307B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746838",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX 8x AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F20C",
+          "Opcode": "00002000",
+          "Value": "484D761D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026F210",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746828",
+          "Opcode": "00002000",
+          "Value": "1FBD0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0074682C",
+          "Opcode": "00002000",
+          "Value": "7C63E814",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746830",
+          "Opcode": "00002000",
+          "Value": "907F55E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746834",
+          "Opcode": "00002000",
+          "Value": "7C6307B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746838",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX 16x AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F20C",
+          "Opcode": "00002000",
+          "Value": "484D761D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026F210",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746828",
+          "Opcode": "00002000",
+          "Value": "1FBD0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0074682C",
+          "Opcode": "00002000",
+          "Value": "7C63E814",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746830",
+          "Opcode": "00002000",
+          "Value": "907F55E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746834",
+          "Opcode": "00002000",
+          "Value": "7C6307B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746838",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX 32x AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F20C",
+          "Opcode": "00002000",
+          "Value": "484D761D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026F210",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746828",
+          "Opcode": "00002000",
+          "Value": "1FBD0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0074682C",
+          "Opcode": "00002000",
+          "Value": "7C63E814",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746830",
+          "Opcode": "00002000",
+          "Value": "907F55E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746834",
+          "Opcode": "00002000",
+          "Value": "7C6307B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746838",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX 64x AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F20C",
+          "Opcode": "00002000",
+          "Value": "484D761D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026F210",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746828",
+          "Opcode": "00002000",
+          "Value": "1FBD0040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0074682C",
+          "Opcode": "00002000",
+          "Value": "7C63E814",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746830",
+          "Opcode": "00002000",
+          "Value": "907F55E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746834",
+          "Opcode": "00002000",
+          "Value": "7C6307B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746838",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX 128x AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F20C",
+          "Opcode": "00002000",
+          "Value": "484D761D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026F210",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746828",
+          "Opcode": "00002000",
+          "Value": "1FBD0080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0074682C",
+          "Opcode": "00002000",
+          "Value": "7C63E814",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746830",
+          "Opcode": "00002000",
+          "Value": "907F55E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746834",
+          "Opcode": "00002000",
+          "Value": "7C6307B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746838",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX 256x AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F20C",
+          "Opcode": "00002000",
+          "Value": "484D761D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026F210",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746828",
+          "Opcode": "00002000",
+          "Value": "1FBD0100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0074682C",
+          "Opcode": "00002000",
+          "Value": "7C63E814",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746830",
+          "Opcode": "00002000",
+          "Value": "907F55E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746834",
+          "Opcode": "00002000",
+          "Value": "7C6307B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746838",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX-2 All Dresspere + All Main Command",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0034E894",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX-2 Enemy Freezes Move",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00350D74",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX-2 All Result Plates",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00359A7C",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Max Item(99) On Change",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00273D78",
+          "Opcode": "00002000",
+          "Value": "98BA40CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00273DE8",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Max Encounter Rate(1 step encounter)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00238524",
+          "Opcode": "00002000",
+          "Value": "FFFFF82A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00238530",
+          "Opcode": "00002000",
+          "Value": "FFFFF82A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00238540",
+          "Opcode": "00002000",
+          "Value": "FC6300F2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00238560",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX No Encounters",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00238544",
+          "Opcode": "00002000",
+          "Value": "D3FF010C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX 200 Avoid Lightning(Thunder Plains)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00338834",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00338838",
+          "Opcode": "00002000",
+          "Value": "3BE000C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Max Gil(on change)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F084",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Overdrive Max(After Combat)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026EF74",
+          "Opcode": "00002000",
+          "Value": "38600064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Max Sphere Level(S.Level) After Combat",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026F254",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026F270",
+          "Opcode": "00002000",
+          "Value": "30640063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Max HP/Break HP Limit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026EBF4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026EC08",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Max MP/Break MP Limit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026EC28",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026EC3C",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Max Stats",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026EC58",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026EC74",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026EC90",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026ECAC",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026ECC8",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026ECE4",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026ED00",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026ED1C",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026ED3C",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026ED5C",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Bliztball Besaid Aurochs Team Lv.99/All Abilities/CPU Player",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003389A4",
+          "Opcode": "00002000",
+          "Value": "4842FECD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00768870",
+          "Opcode": "00002000",
+          "Value": "3FE00205",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00768874",
+          "Opcode": "00002000",
+          "Value": "3C006363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00768878",
+          "Opcode": "00002000",
+          "Value": "60006363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0076887C",
+          "Opcode": "00002000",
+          "Value": "B01F681A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00768880",
+          "Opcode": "00002000",
+          "Value": "901F681C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00768884",
+          "Opcode": "00002000",
+          "Value": "981F6820",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00768888",
+          "Opcode": "00002000",
+          "Value": "3C000505",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0076888C",
+          "Opcode": "00002000",
+          "Value": "60000505",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00768890",
+          "Opcode": "00002000",
+          "Value": "B01F67DE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00768894",
+          "Opcode": "00002000",
+          "Value": "901F67E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00768898",
+          "Opcode": "00002000",
+          "Value": "981F67E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0076889C",
+          "Opcode": "00002000",
+          "Value": "3C00FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688A0",
+          "Opcode": "00002000",
+          "Value": "6000FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688A4",
+          "Opcode": "00002000",
+          "Value": "3BA00001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688A8",
+          "Opcode": "00002000",
+          "Value": "2C1D0007",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688AC",
+          "Opcode": "00002000",
+          "Value": "901F644C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688B0",
+          "Opcode": "00002000",
+          "Value": "901F653C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688B4",
+          "Opcode": "00002000",
+          "Value": "3BFF0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688B8",
+          "Opcode": "00002000",
+          "Value": "3BBD0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688BC",
+          "Opcode": "00002000",
+          "Value": "4180FFEC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688C0",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688C4",
+          "Opcode": "00002000",
+          "Value": "3BA00001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688C8",
+          "Opcode": "00002000",
+          "Value": "3FE00205",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688CC",
+          "Opcode": "00002000",
+          "Value": "2C1D0035",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688D0",
+          "Opcode": "00002000",
+          "Value": "981F6821",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688D4",
+          "Opcode": "00002000",
+          "Value": "3BFF0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688D8",
+          "Opcode": "00002000",
+          "Value": "3BBD0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688DC",
+          "Opcode": "00002000",
+          "Value": "4180FFF0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688E0",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688E4",
+          "Opcode": "00002000",
+          "Value": "3BA00001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688E8",
+          "Opcode": "00002000",
+          "Value": "3FE00205",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688EC",
+          "Opcode": "00002000",
+          "Value": "2C1D0035",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688F0",
+          "Opcode": "00002000",
+          "Value": "B01F69C2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688F4",
+          "Opcode": "00002000",
+          "Value": "3BFF0002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688F8",
+          "Opcode": "00002000",
+          "Value": "3BBD0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007688FC",
+          "Opcode": "00002000",
+          "Value": "4180FFF0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00768900",
+          "Opcode": "00002000",
+          "Value": "8BE30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00768904",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX 100x AP Multiplier In Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0025F20C",
+          "Opcode": "00002000",
+          "Value": "484D761D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0025F210",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00736828",
+          "Opcode": "00002000",
+          "Value": "1FBD0064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0073682C",
+          "Opcode": "00002000",
+          "Value": "7C63E814",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00736830",
+          "Opcode": "00002000",
+          "Value": "907F55E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00736834",
+          "Opcode": "00002000",
+          "Value": "7C6307B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00736838",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Infinite HP/MP/Overdrive/Have Good Status",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00262BD0",
+          "Opcode": "00002000",
+          "Value": "484E3BE1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467B0",
+          "Opcode": "00002000",
+          "Value": "808305A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467B4",
+          "Opcode": "00002000",
+          "Value": "908305D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467B8",
+          "Opcode": "00002000",
+          "Value": "888305BD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467BC",
+          "Opcode": "00002000",
+          "Value": "988305BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467C0",
+          "Opcode": "00002000",
+          "Value": "88830607",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467C4",
+          "Opcode": "00002000",
+          "Value": "2C040001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467C8",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467CC",
+          "Opcode": "00002000",
+          "Value": "40810008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467D0",
+          "Opcode": "00002000",
+          "Value": "98830607",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467D4",
+          "Opcode": "00002000",
+          "Value": "98830606",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467D8",
+          "Opcode": "00002000",
+          "Value": "B0830608",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467DC",
+          "Opcode": "00002000",
+          "Value": "9883060A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467E0",
+          "Opcode": "00002000",
+          "Value": "98830614",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467E4",
+          "Opcode": "00002000",
+          "Value": "38800101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467E8",
+          "Opcode": "00002000",
+          "Value": "9883060B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467EC",
+          "Opcode": "00002000",
+          "Value": "B083060C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467F0",
+          "Opcode": "00002000",
+          "Value": "B083060E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467F4",
+          "Opcode": "00002000",
+          "Value": "B0830610",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467F8",
+          "Opcode": "00002000",
+          "Value": "98830612",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007467FC",
+          "Opcode": "00002000",
+          "Value": "388000FE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746800",
+          "Opcode": "00002000",
+          "Value": "98830613",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746804",
+          "Opcode": "00002000",
+          "Value": "38800002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746808",
+          "Opcode": "00002000",
+          "Value": "98830616",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0074680C",
+          "Opcode": "00002000",
+          "Value": "80830594",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746810",
+          "Opcode": "00002000",
+          "Value": "908305D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00746814",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Break 'Break Damage Limit'",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0023FC90",
+          "Opcode": "00002000",
+          "Value": "485120C1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751D50",
+          "Opcode": "00002000",
+          "Value": "897606E1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751D54",
+          "Opcode": "00002000",
+          "Value": "2C0B0032",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751D58",
+          "Opcode": "00002000",
+          "Value": "40820018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751D5C",
+          "Opcode": "00002000",
+          "Value": "38600A02",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751D60",
+          "Opcode": "00002000",
+          "Value": "3D600098",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751D64",
+          "Opcode": "00002000",
+          "Value": "616B967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751D68",
+          "Opcode": "00002000",
+          "Value": "5463AFFE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751D6C",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751D70",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751D74",
+          "Opcode": "00002000",
+          "Value": "39600001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751D78",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Everyone Gets AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026A998",
+          "Opcode": "00002000",
+          "Value": "484E7439",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751DD0",
+          "Opcode": "00002000",
+          "Value": "3CA00101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751DD4",
+          "Opcode": "00002000",
+          "Value": "60A50101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751DD8",
+          "Opcode": "00002000",
+          "Value": "3C800206",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751DDC",
+          "Opcode": "00002000",
+          "Value": "3884EA50",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751DE0",
+          "Opcode": "00002000",
+          "Value": "90A40000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751DE4",
+          "Opcode": "00002000",
+          "Value": "90A40004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751DE8",
+          "Opcode": "00002000",
+          "Value": "38840024",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751DEC",
+          "Opcode": "00002000",
+          "Value": "90A40000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751DF0",
+          "Opcode": "00002000",
+          "Value": "90A40004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751DF4",
+          "Opcode": "00002000",
+          "Value": "88A30DC8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00751DF8",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Have All Items FFX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0205912C",
+          "Opcode": "00002000",
+          "Value": "20002001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059130",
+          "Opcode": "00002000",
+          "Value": "20022003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059134",
+          "Opcode": "00002000",
+          "Value": "20042005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059138",
+          "Opcode": "00002000",
+          "Value": "20062007",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0205913C",
+          "Opcode": "00002000",
+          "Value": "20082009",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059140",
+          "Opcode": "00002000",
+          "Value": "200A200B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059144",
+          "Opcode": "00002000",
+          "Value": "200C200D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059148",
+          "Opcode": "00002000",
+          "Value": "200E200F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0205914C",
+          "Opcode": "00002000",
+          "Value": "20102011",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059150",
+          "Opcode": "00002000",
+          "Value": "20122013",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059154",
+          "Opcode": "00002000",
+          "Value": "20142015",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059158",
+          "Opcode": "00002000",
+          "Value": "20162017",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0205915C",
+          "Opcode": "00002000",
+          "Value": "20182019",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059160",
+          "Opcode": "00002000",
+          "Value": "201A201B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059164",
+          "Opcode": "00002000",
+          "Value": "201C201D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059168",
+          "Opcode": "00002000",
+          "Value": "201E201F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0205916C",
+          "Opcode": "00002000",
+          "Value": "20202021",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059170",
+          "Opcode": "00002000",
+          "Value": "20222023",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059174",
+          "Opcode": "00002000",
+          "Value": "20242025",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059178",
+          "Opcode": "00002000",
+          "Value": "20262027",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0205917C",
+          "Opcode": "00002000",
+          "Value": "20282029",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059180",
+          "Opcode": "00002000",
+          "Value": "202A202B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059184",
+          "Opcode": "00002000",
+          "Value": "202C202D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059188",
+          "Opcode": "00002000",
+          "Value": "202E202F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0205918C",
+          "Opcode": "00002000",
+          "Value": "20302031",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059190",
+          "Opcode": "00002000",
+          "Value": "20322033",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059194",
+          "Opcode": "00002000",
+          "Value": "20342035",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059198",
+          "Opcode": "00002000",
+          "Value": "20362037",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0205919C",
+          "Opcode": "00002000",
+          "Value": "20382039",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591A0",
+          "Opcode": "00002000",
+          "Value": "203A203B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591A4",
+          "Opcode": "00002000",
+          "Value": "203C203D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591A8",
+          "Opcode": "00002000",
+          "Value": "203E203F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591AC",
+          "Opcode": "00002000",
+          "Value": "20402041",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591B0",
+          "Opcode": "00002000",
+          "Value": "20422043",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591B4",
+          "Opcode": "00002000",
+          "Value": "20442045",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591B8",
+          "Opcode": "00002000",
+          "Value": "20462047",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591BC",
+          "Opcode": "00002000",
+          "Value": "20482049",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591C0",
+          "Opcode": "00002000",
+          "Value": "204A204B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591C4",
+          "Opcode": "00002000",
+          "Value": "204C204D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591C8",
+          "Opcode": "00002000",
+          "Value": "204E204F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591CC",
+          "Opcode": "00002000",
+          "Value": "20502051",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591D0",
+          "Opcode": "00002000",
+          "Value": "20522053",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591D4",
+          "Opcode": "00002000",
+          "Value": "20542055",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591D8",
+          "Opcode": "00002000",
+          "Value": "20562057",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591DC",
+          "Opcode": "00002000",
+          "Value": "20582059",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591E0",
+          "Opcode": "00002000",
+          "Value": "205A205B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591E4",
+          "Opcode": "00002000",
+          "Value": "205C205D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591E8",
+          "Opcode": "00002000",
+          "Value": "205E205F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591EC",
+          "Opcode": "00002000",
+          "Value": "20602061",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591F0",
+          "Opcode": "00002000",
+          "Value": "20622063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591F4",
+          "Opcode": "00002000",
+          "Value": "20642065",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591F8",
+          "Opcode": "00002000",
+          "Value": "20662067",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020591FC",
+          "Opcode": "00002000",
+          "Value": "20682069",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059200",
+          "Opcode": "00002000",
+          "Value": "206A206B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059204",
+          "Opcode": "00002000",
+          "Value": "206C206D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02059208",
+          "Opcode": "00002000",
+          "Value": "206E206F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0205932C",
+          "Opcode": "00004000",
+          "Value": "63636363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004038",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX Have All Key Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "020596EC",
+          "Opcode": "00002000",
+          "Value": "FFFBFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "020596F0",
+          "Opcode": "00002000",
+          "Value": "FFFBFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX All Monsters Captured",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0205946C",
+          "Opcode": "00004000",
+          "Value": "0A0A0A0A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "0000401B",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX-2 Infinite Gil",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00358F38",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX-2 Max HP/Break HP Limit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035699C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003569B4",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0035DAF4",
+          "Opcode": "00002000",
+          "Value": "38C07FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0035DAFC",
+          "Opcode": "00002000",
+          "Value": "B0DD0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX-2 Max MP/Break MP Limit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003569F0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00356A04",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0035DB48",
+          "Opcode": "00002000",
+          "Value": "38607FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0035DB50",
+          "Opcode": "00002000",
+          "Value": "B07D0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX-2 Max Stats",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00356A20",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00356A3C",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00356A58",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00356A74",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00356A90",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00356AAC",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00356AC8",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00356AE4",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX-2 Infinite Items/Accessories",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035F400",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0035F4E8",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0035F850",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0035F938",
+          "Opcode": "00002000",
+          "Value": "60A30000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX-2 Learn 1 Skill per Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00357008",
+          "Opcode": "00002000",
+          "Value": "3BA0270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX-2 100x EXP Multiplier In Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0033B98C",
+          "Opcode": "00002000",
+          "Value": "485DC5C5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00917F50",
+          "Opcode": "00002000",
+          "Value": "1E730064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00917F54",
+          "Opcode": "00002000",
+          "Value": "7C7B9814",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00917F58",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX-2 Infinite HP/MP/Have Good Status",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004741E0",
+          "Opcode": "00002000",
+          "Value": "484A9451",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D630",
+          "Opcode": "00002000",
+          "Value": "F821FF91",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D634",
+          "Opcode": "00002000",
+          "Value": "7C0802A6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D638",
+          "Opcode": "00002000",
+          "Value": "F8010080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D63C",
+          "Opcode": "00002000",
+          "Value": "5463063E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D640",
+          "Opcode": "00002000",
+          "Value": "4BA0419D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D644",
+          "Opcode": "00002000",
+          "Value": "380000FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D648",
+          "Opcode": "00002000",
+          "Value": "B0030150",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D64C",
+          "Opcode": "00002000",
+          "Value": "3C00FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D650",
+          "Opcode": "00002000",
+          "Value": "6000FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D654",
+          "Opcode": "00002000",
+          "Value": "900309D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D658",
+          "Opcode": "00002000",
+          "Value": "90030404",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D65C",
+          "Opcode": "00002000",
+          "Value": "90030408",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D660",
+          "Opcode": "00002000",
+          "Value": "9003040C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D664",
+          "Opcode": "00002000",
+          "Value": "90030410",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D668",
+          "Opcode": "00002000",
+          "Value": "90030414",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D66C",
+          "Opcode": "00002000",
+          "Value": "90030420",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D670",
+          "Opcode": "00002000",
+          "Value": "90030424",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D674",
+          "Opcode": "00002000",
+          "Value": "90030428",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D678",
+          "Opcode": "00002000",
+          "Value": "80030388",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D67C",
+          "Opcode": "00002000",
+          "Value": "900303B8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D680",
+          "Opcode": "00002000",
+          "Value": "38005050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D684",
+          "Opcode": "00002000",
+          "Value": "B0030438",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D688",
+          "Opcode": "00002000",
+          "Value": "38000014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D68C",
+          "Opcode": "00002000",
+          "Value": "9803043C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D690",
+          "Opcode": "00002000",
+          "Value": "3800647E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D694",
+          "Opcode": "00002000",
+          "Value": "B003043A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D698",
+          "Opcode": "00002000",
+          "Value": "38000013",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D69C",
+          "Opcode": "00002000",
+          "Value": "98030449",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6A0",
+          "Opcode": "00002000",
+          "Value": "88030437",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6A4",
+          "Opcode": "00002000",
+          "Value": "2C000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6A8",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6AC",
+          "Opcode": "00002000",
+          "Value": "40810008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6B0",
+          "Opcode": "00002000",
+          "Value": "98030437",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6B4",
+          "Opcode": "00002000",
+          "Value": "98030446",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6B8",
+          "Opcode": "00002000",
+          "Value": "38007F7F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6BC",
+          "Opcode": "00002000",
+          "Value": "9803043F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6C0",
+          "Opcode": "00002000",
+          "Value": "B0030440",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6C4",
+          "Opcode": "00002000",
+          "Value": "B0030442",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6C8",
+          "Opcode": "00002000",
+          "Value": "98030441",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6CC",
+          "Opcode": "00002000",
+          "Value": "80030384",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6D0",
+          "Opcode": "00002000",
+          "Value": "900303B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6D4",
+          "Opcode": "00002000",
+          "Value": "806303B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6D8",
+          "Opcode": "00002000",
+          "Value": "E8010080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6DC",
+          "Opcode": "00002000",
+          "Value": "7C0803A6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6E0",
+          "Opcode": "00002000",
+          "Value": "38210070",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0091D6E4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FFX-2 Break 'Break Damage Limit'",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0031C570",
+          "Opcode": "00002000",
+          "Value": "485FCC51",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0031C580",
+          "Opcode": "00002000",
+          "Value": "3C80000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0031C584",
+          "Opcode": "00002000",
+          "Value": "6084423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009191C0",
+          "Opcode": "00002000",
+          "Value": "A0830150",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009191C4",
+          "Opcode": "00002000",
+          "Value": "2C0400FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009191C8",
+          "Opcode": "00002000",
+          "Value": "4082000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009191CC",
+          "Opcode": "00002000",
+          "Value": "38607FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009191D0",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009191D4",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009191D8",
+          "Opcode": "00002000",
+          "Value": "38800001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009191DC",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Always Oversoul",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003496F4",
+          "Opcode": "00002000",
+          "Value": "3860270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo/HP/Time in Gunner's Gauntlet Mini-Game",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035A6F8",
+          "Opcode": "00002000",
+          "Value": "4858B088",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008E5780",
+          "Opcode": "00002000",
+          "Value": "3BA00F27",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008E5784",
+          "Opcode": "00002000",
+          "Value": "B3A30376",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008E5788",
+          "Opcode": "00002000",
+          "Value": "B3A30378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008E578C",
+          "Opcode": "00002000",
+          "Value": "B3A3036C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008E5790",
+          "Opcode": "00002000",
+          "Value": "3BA06363",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008E5794",
+          "Opcode": "00002000",
+          "Value": "9BA30397",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008E5798",
+          "Opcode": "00002000",
+          "Value": "B3A30398",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008E579C",
+          "Opcode": "00002000",
+          "Value": "8863037E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008E57A0",
+          "Opcode": "00002000",
+          "Value": "4BA74F5C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Lightning Towers Are Perfectly Calibrated",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0044A358",
+          "Opcode": "00002000",
+          "Value": "484ADE89",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008F81E0",
+          "Opcode": "00002000",
+          "Value": "3FE0018A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008F81E4",
+          "Opcode": "00002000",
+          "Value": "63FFE590",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008F81E8",
+          "Opcode": "00002000",
+          "Value": "3C001E1E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008F81EC",
+          "Opcode": "00002000",
+          "Value": "60001E1E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008F81F0",
+          "Opcode": "00002000",
+          "Value": "981F0001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008F81F4",
+          "Opcode": "00002000",
+          "Value": "B01F0002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008F81F8",
+          "Opcode": "00002000",
+          "Value": "901F0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008F81FC",
+          "Opcode": "00002000",
+          "Value": "B01F0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008F8200",
+          "Opcode": "00002000",
+          "Value": "981F000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008F8204",
+          "Opcode": "00002000",
+          "Value": "8BE30000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008F8208",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

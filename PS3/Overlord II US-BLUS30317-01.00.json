@@ -1,0 +1,33 @@
+{
+  "Game": "Overlord II US",
+  "Region": "BLUS30317",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Treasury on Gain/Buy (All)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0058ABE0",
+          "Opcode": "00002000",
+          "Value": "3C807FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005869E0",
+          "Opcode": "00002000",
+          "Value": "3C807FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005869F8",
+          "Opcode": "00002000",
+          "Value": "3C807FFF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

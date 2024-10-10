@@ -1,0 +1,165 @@
+{
+  "Game": "The King of Fighters XII JP",
+  "Region": "BLJS10045",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "P1 HP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007832D4",
+          "Opcode": "00002000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Power Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007832D8",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Critical Counters Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007832DC",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 HP 0 (Press L2+R2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00783320",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Total Time 00:00:000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007831F0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Total Time 59:59:990",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007831F0",
+          "Opcode": "00002000",
+          "Value": "0036EE76",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 HP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007B404C",
+          "Opcode": "00002000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Power Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007B4050",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Critical Counters Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007B4054",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 HP 0 (Press L2+R2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007B4098",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Total Time 00:00:000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007B3F68",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Total Time 59:59:990",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007B3F68",
+          "Opcode": "00002000",
+          "Value": "0036EE76",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

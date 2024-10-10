@@ -1,0 +1,115 @@
+{
+  "Game": "Battle Princess Of Arcadias JP",
+  "Region": "BLJS10224",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00110E34",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "100 Times The Number of Hit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000BFCD8",
+          "Opcode": "00002000",
+          "Value": "3BA90064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Remaining Strength",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00173600",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Strength Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00002CD4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00120E34",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HITn100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000CFCD8",
+          "Opcode": "00002000",
+          "Value": "3BA90064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kyoukakaisuu",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00183600",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kyouka item",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00012CD4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

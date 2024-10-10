@@ -1,0 +1,79 @@
+{
+  "Game": "Killer is Dead JP",
+  "Region": "BLJS10215",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Moon Crystal, Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009698AC",
+          "Opcode": "00002000",
+          "Value": "3BC0270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097B47C",
+          "Opcode": "00002000",
+          "Value": "38800002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Moon Crystal Ore/Health Lvl/Blood Lvl on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00968D44",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE Crystal,LvUP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009698AC",
+          "Opcode": "00002000",
+          "Value": "3BC0270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MONEY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0097B47C",
+          "Opcode": "00002000",
+          "Value": "38800002",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

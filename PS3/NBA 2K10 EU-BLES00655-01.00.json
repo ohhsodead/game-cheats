@@ -1,0 +1,19 @@
+{
+  "Game": "NBA 2K10 EU",
+  "Region": "BLES00655",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Skill Point 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "04C6E5D4",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

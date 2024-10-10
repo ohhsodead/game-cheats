@@ -1,0 +1,38 @@
+{
+  "Game": "Enemy Front US",
+  "Region": "BLUS30996",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026EAE0",
+          "Opcode": "00002000",
+          "Value": "C02300AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026EAE4",
+          "Opcode": "00002000",
+          "Value": "D02300A4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00307C1C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

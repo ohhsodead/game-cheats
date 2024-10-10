@@ -1,0 +1,52 @@
+{
+  "Game": "Yakuza 3 US",
+  "Region": "BLUS30494",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00562C24",
+          "Opcode": "00002000",
+          "Value": "90840004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00562C28",
+          "Opcode": "00002000",
+          "Value": "80840004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A5F000",
+          "Opcode": "00002000",
+          "Value": "6063967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A5F004",
+          "Opcode": "00002000",
+          "Value": "907E0018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A5F008",
+          "Opcode": "00002000",
+          "Value": "48000060",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

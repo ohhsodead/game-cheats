@@ -1,0 +1,112 @@
+{
+  "Game": "Warriors of Orochi 3 EU",
+  "Region": "BLES01588",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "1 Hit Kill Enemy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AF7E84",
+          "Opcode": "00002000",
+          "Value": "BF800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999999 Gems",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00252388",
+          "Opcode": "00002000",
+          "Value": "7C040378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "One Hit Kill (Select+Up=On) (Select+Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BF837C",
+          "Opcode": "00002000",
+          "Value": "BF800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00410000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BF837C",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Relationships (Give a Bouquet or Something for max)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00253100",
+          "Opcode": "00002000",
+          "Value": "388000C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Crystals x99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00252B50",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Lottery Tickets x99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00253B54",
+          "Opcode": "00002000",
+          "Value": "38600063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Distribute Growth Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00252BF8",
+          "Opcode": "00002000",
+          "Value": "7C040378",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

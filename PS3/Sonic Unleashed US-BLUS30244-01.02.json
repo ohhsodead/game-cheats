@@ -1,0 +1,369 @@
+{
+  "Game": "Sonic Unleashed US",
+  "Region": "BLUS30244",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Max Rings on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00405CE8",
+          "Opcode": "00002000",
+          "Value": "3C003B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00405CEC",
+          "Opcode": "00002000",
+          "Value": "6000C9FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010A1B90",
+          "Opcode": "00002000",
+          "Value": "3C003B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010A1B98",
+          "Opcode": "00002000",
+          "Value": "6000C9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rings Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00446D9C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Ring Energy on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003FD0D8",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ring Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0043D0DC",
+          "Opcode": "00002000",
+          "Value": "FFE00090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Lives on Gain/Lose",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002583B0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002279F4",
+          "Opcode": "00002000",
+          "Value": "39600063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0022731C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BC19C4",
+          "Opcode": "00002000",
+          "Value": "FC20F890",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Werehog Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0109F878",
+          "Opcode": "00002000",
+          "Value": "7C1F0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Werehog Max Unleashe on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0109F57C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Werehog Infinite Unleashe",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0109F550",
+          "Opcode": "00002000",
+          "Value": "FFE00090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Exp on Gain/Spend",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0022851C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00228548",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gaia Colossus Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB3AE0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C0D27C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Rings on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0040E1D8",
+          "Opcode": "00002000",
+          "Value": "3C003B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0040E1DC",
+          "Opcode": "00002000",
+          "Value": "6000C9FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01088AD8",
+          "Opcode": "00002000",
+          "Value": "3C003B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01088AE0",
+          "Opcode": "00002000",
+          "Value": "6000C9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rings Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00450A3C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Ring Energy on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0040574C",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ring Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00446034",
+          "Opcode": "00002000",
+          "Value": "FFE00090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Lives on Gain/Lose",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00260ED4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00227D1C",
+          "Opcode": "00002000",
+          "Value": "39600063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00227644",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BA463C",
+          "Opcode": "00002000",
+          "Value": "FC20F890",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Werehog Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010867C0",
+          "Opcode": "00002000",
+          "Value": "7C1F0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Werehog Max Unleashe on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010864C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Werehog Infinite Unleashe",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01086498",
+          "Opcode": "00002000",
+          "Value": "FFE00090",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Exp on Gain/Spend",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00228844",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00228870",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gaia Colossus Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B6CD48",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C19D4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

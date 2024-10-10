@@ -1,0 +1,418 @@
+{
+  "Game": "Makai Senki Disgaea 3",
+  "Region": "BLJS10011",
+  "Version": "05.10",
+  "Cheats": [
+    {
+      "Name": "HL 99999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10B86348",
+          "Opcode": "00002000",
+          "Value": "00000017",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "10B8634C",
+          "Opcode": "00002000",
+          "Value": "4876E7FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Story Character EXP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10B86C70",
+          "Opcode": "00004000",
+          "Value": "00000017",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "10B86C74",
+          "Opcode": "00004000",
+          "Value": "4876E7FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Story Character HP 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E7D2EC",
+          "Opcode": "00004000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E7D2FC",
+          "Opcode": "00004000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Story Character SP 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E7D2F4",
+          "Opcode": "00004000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E7D304",
+          "Opcode": "00004000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Story Character Stats 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E7D30C",
+          "Opcode": "00004000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E7D314",
+          "Opcode": "00004000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E7D31C",
+          "Opcode": "00004000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E7D324",
+          "Opcode": "00004000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E7D32C",
+          "Opcode": "00004000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E7D334",
+          "Opcode": "00004000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HL 99999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E7C060",
+          "Opcode": "00002000",
+          "Value": "00000017",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E7C064",
+          "Opcode": "00002000",
+          "Value": "4876E7FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Story Character EXP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E7C988",
+          "Opcode": "00004000",
+          "Value": "00000017",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E7C98C",
+          "Opcode": "00004000",
+          "Value": "4876E7FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00002468",
+          "Opcode": "00004007",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Mana",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000DF458",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max HL",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B1D3C",
+          "Opcode": "00002000",
+          "Value": "2F9D0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018F4D8",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000DCE20",
+          "Opcode": "00002000",
+          "Value": "7C000050",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Damage Modifier L2+R2+LEFT=On L2+R2+RIGHT=Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00800003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000DCE20",
+          "Opcode": "00002000",
+          "Value": "7C000050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000DCE20",
+          "Opcode": "00002000",
+          "Value": "7C090050",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MANA MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000DF458",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HL MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B1D3C",
+          "Opcode": "00002000",
+          "Value": "2F9D0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018F4D8",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000DCE20",
+          "Opcode": "00002000",
+          "Value": "7C000050",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage MAX memori L2+R2+LEFT=ON L2+R2+RIGHT=OFF",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00800003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000DCE20",
+          "Opcode": "00002000",
+          "Value": "7C000050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000DCE20",
+          "Opcode": "00002000",
+          "Value": "7C090050",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

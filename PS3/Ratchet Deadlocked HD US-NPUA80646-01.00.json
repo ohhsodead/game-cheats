@@ -1,0 +1,19 @@
+{
+  "Game": "Ratchet Deadlocked HD US",
+  "Region": "NPUA80646",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002FA954",
+          "Opcode": "00002000",
+          "Value": "40820168",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

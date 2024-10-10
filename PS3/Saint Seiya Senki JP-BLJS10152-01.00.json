@@ -1,0 +1,85 @@
+{
+  "Game": "Saint Seiya Senki JP",
+  "Region": "BLJS10152",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EDEEC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00107E28",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Cosmos",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00107394",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0010788C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00107FFC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001080D8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite CP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CBC20",
+          "Opcode": "00002000",
+          "Value": "3CA04B18",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001CBC24",
+          "Opcode": "00002000",
+          "Value": "60A5967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001CBC34",
+          "Opcode": "00002000",
+          "Value": "90BE004C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

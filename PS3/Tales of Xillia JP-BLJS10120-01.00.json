@@ -1,0 +1,19 @@
+{
+  "Game": "Tales of Xillia JP",
+  "Region": "BLJS10120",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001FFBB8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

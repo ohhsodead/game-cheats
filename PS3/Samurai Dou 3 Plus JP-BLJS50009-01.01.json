@@ -1,0 +1,50 @@
+{
+  "Game": "Samurai Dou 3 Plus JP",
+  "Region": "BLJS50009",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Gold 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "302D71A0",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Points Accumulated 10000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "302D7320",
+          "Opcode": "00002000",
+          "Value": "00002710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Characters Unlocked",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "302D73E8",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004091",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

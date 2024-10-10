@@ -1,0 +1,69 @@
+{
+  "Game": "Armored Core V EU",
+  "Region": "BLES01440",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30CF7180",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money (Alt)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BD4F4",
+          "Opcode": "00002000",
+          "Value": "3C803B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BD4F8",
+          "Opcode": "00002000",
+          "Value": "6084C9FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BD4FC",
+          "Opcode": "00002000",
+          "Value": "90890040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Only work after workshop unlock.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - First misson done. Save game and restart.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

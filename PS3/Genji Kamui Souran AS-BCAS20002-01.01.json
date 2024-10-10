@@ -1,0 +1,31 @@
+{
+  "Game": "Genji Kamui Souran AS",
+  "Region": "BCAS20002",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Vitatity 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10F6368C",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kamui 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10435902",
+          "Opcode": "00002000",
+          "Value": "270F270F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

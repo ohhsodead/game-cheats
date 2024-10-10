@@ -1,0 +1,126 @@
+{
+  "Game": "Sniper Elite V3",
+  "Region": "BLES01981",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo/Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007895B8",
+          "Opcode": "00002000",
+          "Value": "60640000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Focus",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006E64D8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006E650C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006E67B4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00585874",
+          "Opcode": "00002000",
+          "Value": "3C00447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00585878",
+          "Opcode": "00002000",
+          "Value": "901E003C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058587C",
+          "Opcode": "00002000",
+          "Value": "C01E003C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP Multiplier x100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006A27A0",
+          "Opcode": "00002000",
+          "Value": "801F0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006A27A8",
+          "Opcode": "00002000",
+          "Value": "1C000064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Inf Ammo for All weapons except bombs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007890F4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00788ED8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "Game": "Ryu ga Gotoku 3 JP",
+  "Region": "BLJM60132",
+  "Version": "01.08",
+  "Cheats": [
+    {
+      "Name": "999999999 Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012FCFD8",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012FABFC",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012FABE4",
+          "Opcode": "00002000",
+          "Value": "05780578",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite BP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012FABE8",
+          "Opcode": "00002000",
+          "Value": "4692E000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012FABE8",
+          "Opcode": "00002000",
+          "Value": "4692E000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Money 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012FD058",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012FAC64",
+          "Opcode": "00002000",
+          "Value": "05780578",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Heat",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012FAC68",
+          "Opcode": "00002000",
+          "Value": "4692E000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012FAC7C",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

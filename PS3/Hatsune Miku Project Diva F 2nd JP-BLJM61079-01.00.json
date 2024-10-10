@@ -1,0 +1,388 @@
+{
+  "Game": "Hatsune Miku Project Diva F 2nd JP",
+  "Region": "BLJM61079",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Real Auto ATP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0043D794",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0043D9A0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0043DA6C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0043DA84",
+          "Opcode": "00002000",
+          "Value": "48000064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0043DF50",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0043E180",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0043E24C",
+          "Opcode": "00002000",
+          "Value": "41820104",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0043E53C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0043E554",
+          "Opcode": "00002000",
+          "Value": "41820168",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00441378",
+          "Opcode": "00002000",
+          "Value": "480000B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00441550",
+          "Opcode": "00002000",
+          "Value": "48000030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9999999 DIVA point",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "20037AC0",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9999999 Total DIVA point",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "20037AC4",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Music: all difficulty, PERFECT all",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "4000F77B",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "402803DC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4000F85B",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "402803DC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4000F93B",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "402803DC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4000FA1B",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "402803DC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Music: all difficulty, playable all",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "4000F78F",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "402803DC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4000F86F",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "402803DC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4000F94F",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "402803DC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4000FA2F",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "402803DC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "RATE100% music all the difficulty of all",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "4000F780",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "402803DC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4000F860",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "402803DC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4000F940",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "402803DC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4000FA20",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "402803DC",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "DIVA Room: Intimacy MAX front of everyone",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "41000162",
+          "Opcode": "00002000",
+          "Value": "00000463",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "400601F8",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "DIVA Room: Event Collection 100%",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1000F266",
+          "Opcode": "00002000",
+          "Value": "0000FFC0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "2000F268",
+          "Opcode": "00002000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "2000F26C",
+          "Opcode": "00002000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "2000F270",
+          "Opcode": "00002000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "2000F274",
+          "Opcode": "00002000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "2000F278",
+          "Opcode": "00002000",
+          "Value": "83010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "2000F27C",
+          "Opcode": "00002000",
+          "Value": "02000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "DIVA Room: Visual Library 100%",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "400280F0",
+          "Opcode": "00002000",
+          "Value": "00000007",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "40B40001",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

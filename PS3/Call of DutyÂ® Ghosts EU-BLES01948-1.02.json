@@ -1,0 +1,57 @@
+{
+  "Game": "Call of Duty® Ghosts EU",
+  "Region": "BLES01948",
+  "Version": "1.02",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003B439C",
+          "Opcode": "00002000",
+          "Value": "386003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003ABACC",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00272188",
+          "Opcode": "00002000",
+          "Value": "38602710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0027218C",
+          "Opcode": "00002000",
+          "Value": "90790154",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00272190",
+          "Opcode": "00002000",
+          "Value": "90790158",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

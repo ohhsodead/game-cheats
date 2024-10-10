@@ -1,0 +1,19 @@
+{
+  "Game": "Ryu ga Gotoku 5 JP",
+  "Region": "BLJM60489",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Money 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014BEA18",
+          "Opcode": "00002000",
+          "Value": "7FFFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

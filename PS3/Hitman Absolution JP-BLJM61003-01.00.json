@@ -1,0 +1,19 @@
+{
+  "Game": "Hitman Absolution JP",
+  "Region": "BLJM61003",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Can Never Be Seen/Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007A0A4C",
+          "Opcode": "00002000",
+          "Value": "3C604080",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

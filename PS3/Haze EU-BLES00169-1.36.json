@@ -1,0 +1,43 @@
+{
+  "Game": "Haze EU",
+  "Region": "BLES00169",
+  "Version": "1.36",
+  "Cheats": [
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00338544",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo, Grenade, Nectar",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00395864",
+          "Opcode": "00002000",
+          "Value": "3960044A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005328C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Game": "MGS - Peace Walker HD EU",
+  "Region": "NPEB00686",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Camouflage 100%",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005C536C",
+          "Opcode": "00002000",
+          "Value": "2C0603E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005C5374",
+          "Opcode": "00002000",
+          "Value": "38C003E8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

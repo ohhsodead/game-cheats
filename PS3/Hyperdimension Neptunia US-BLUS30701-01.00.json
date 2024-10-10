@@ -1,0 +1,88 @@
+{
+  "Game": "Hyperdimension Neptunia US",
+  "Region": "BLUS30701",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP (R2+Up) (R2+Down=Death)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002671C0",
+          "Opcode": "00002000",
+          "Value": "38C90000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002671C0",
+          "Opcode": "00002000",
+          "Value": "7CDE4850",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Exp Mod (2x)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00284BBC",
+          "Opcode": "00002000",
+          "Value": "1C840002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Exp Mod (10000x)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00284BBC",
+          "Opcode": "00002000",
+          "Value": "1C842710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold Multiplier (2x)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00284BEC",
+          "Opcode": "00002000",
+          "Value": "1C840002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold Multiplier (10000x)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00284BEC",
+          "Opcode": "00002000",
+          "Value": "1C842710",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

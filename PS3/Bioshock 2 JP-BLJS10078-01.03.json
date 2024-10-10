@@ -1,0 +1,79 @@
+{
+  "Game": "Bioshock 2 JP",
+  "Region": "BLJS10078",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo & Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001DE03C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A779C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Adam",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A715C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM,AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001DE03C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MONEY MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A779C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ADAM MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A715C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

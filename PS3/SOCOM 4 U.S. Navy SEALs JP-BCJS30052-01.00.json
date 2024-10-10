@@ -1,0 +1,132 @@
+{
+  "Game": "SOCOM 4 U.S. Navy SEALs JP",
+  "Region": "BCJS30052",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016F4C88",
+          "Opcode": "00003000",
+          "Value": "000000A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "FFFFFF54",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018821A4",
+          "Opcode": "00003000",
+          "Value": "00000160",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000008C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "03E70000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018821A4",
+          "Opcode": "00003000",
+          "Value": "00000164",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000008C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "03E70000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Backup Weapon Infinite Ammo 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018821A4",
+          "Opcode": "00003000",
+          "Value": "00000164",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000008C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Primary Weapon Infinite Ammo 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018821A4",
+          "Opcode": "00003000",
+          "Value": "00000160",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000008C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

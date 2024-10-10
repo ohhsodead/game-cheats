@@ -1,0 +1,198 @@
+{
+  "Game": "Shin Sangoku Musou 6 Moushouden AS",
+  "Region": "BLAS50413",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1P Invincible/Ghost (Press Up=On) (Press Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F70E6C",
+          "Opcode": "00002000",
+          "Value": "BF800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00F70E6C",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit Kill Enemy (Don't Use Musou Gauge)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6F5B8",
+          "Opcode": "00002000",
+          "Value": "BF800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlock MixJoy, Dialogue, Events, Cutscenes, & Wallpaper",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003059B0",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00352980",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039EC84",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A9418",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AA288",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AC680",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003AF918",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B46E0",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B4C38",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003E4C98",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003E4CF8",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003E4E30",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003E5420",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003E7004",
+          "Opcode": "00002000",
+          "Value": "38000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money After Buying",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028D45C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028D460",
+          "Opcode": "00002000",
+          "Value": "90030C78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Musou",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008A5B4",
+          "Opcode": "00002000",
+          "Value": "409C0008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

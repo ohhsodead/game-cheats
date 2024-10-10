@@ -1,0 +1,57 @@
+{
+  "Game": "Plants vs. Zombies US",
+  "Region": "NPUA30059",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Sun 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008B35F8",
+          "Opcode": "00003000",
+          "Value": "00000800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000055CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Sun On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0017BD08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sun Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00181524",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

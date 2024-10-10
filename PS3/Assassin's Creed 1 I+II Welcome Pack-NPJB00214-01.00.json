@@ -1,0 +1,31 @@
+{
+  "Game": "Assassin's Creed 1 I+II Welcome Pack",
+  "Region": "NPJB00214",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039DCFC",
+          "Opcode": "00002000",
+          "Value": "480000CC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039DCFC",
+          "Opcode": "00002000",
+          "Value": "480000CC",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Game": "Tears to Tiara II Haou no Matsuei",
+  "Region": "BLJM61076",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00083C04",
+          "Opcode": "00002000",
+          "Value": "7CBF2810",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Turn",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AE608",
+          "Opcode": "00002000",
+          "Value": "30840000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

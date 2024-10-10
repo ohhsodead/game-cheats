@@ -1,0 +1,57 @@
+{
+  "Game": "Ridge Racer 7 AS",
+  "Region": "BCAS20001",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Nitro",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004B3820",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00002D50",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43960000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "FP 999999900",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1042E0B4",
+          "Opcode": "00002000",
+          "Value": "3B9AC99C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CR 999999900",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1042E0B0",
+          "Opcode": "00002000",
+          "Value": "3B9AC99C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

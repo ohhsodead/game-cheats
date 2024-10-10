@@ -1,0 +1,891 @@
+{
+  "Game": "Shin Sangoku Musou MultiRaid Special AS",
+  "Region": "BLAS50163",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Play Time 0'00'00",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00819924",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00819928",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Timer Always Max in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BD854C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Invincible in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00899DC1",
+          "Opcode": "00000000",
+          "Value": "00000040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Life Max in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00899DC8",
+          "Opcode": "00005100",
+          "Value": "00899DCA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Fury Max in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00899DCE",
+          "Opcode": "00005100",
+          "Value": "00899DD0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Attack & Defense Max in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00899DD4",
+          "Opcode": "00001000",
+          "Value": "000001F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00899DD6",
+          "Opcode": "00001000",
+          "Value": "000001F4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Hyper Move in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00899DDC",
+          "Opcode": "00001000",
+          "Value": "000001F4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Infinite & Hyper Jump in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00899DE2",
+          "Opcode": "00000000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00899DE3",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00899DE4",
+          "Opcode": "00000000",
+          "Value": "00000032",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player 9999 K.O. in Quest",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0087BA34",
+          "Opcode": "00001000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Officers Have 4 Outfits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00823011",
+          "Opcode": "00004200",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000040",
+          "Opcode": "00004030",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0087B44D",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00822CF1",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Officers Level Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00823013 00000032",
+          "Opcode": "00004200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000040",
+          "Opcode": "00004030",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0087B44F",
+          "Opcode": "00000000",
+          "Value": "00000032",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00822CF3",
+          "Opcode": "00000000",
+          "Value": "00000032",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00823014",
+          "Opcode": "00004000",
+          "Value": "0000C350",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000040",
+          "Opcode": "00004030",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0087B450",
+          "Opcode": "00002000",
+          "Value": "0000C350",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00822CF4",
+          "Opcode": "00002000",
+          "Value": "0000C350",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Officers Stats Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00823018",
+          "Opcode": "00004000",
+          "Value": "03E803E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000040",
+          "Opcode": "00004030",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0082301C",
+          "Opcode": "00004000",
+          "Value": "03E803E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000040",
+          "Opcode": "00004030",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00823020",
+          "Opcode": "00004000",
+          "Value": "03E803E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000040",
+          "Opcode": "00004030",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0087B454",
+          "Opcode": "00004000",
+          "Value": "03E803E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004003",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00822CF8",
+          "Opcode": "00004000",
+          "Value": "03E803E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004003",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00823024",
+          "Opcode": "00004000",
+          "Value": "01F401F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000040",
+          "Opcode": "00004030",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00823028",
+          "Opcode": "00004000",
+          "Value": "01F401F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000040",
+          "Opcode": "00004030",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0082302C",
+          "Opcode": "00004000",
+          "Value": "01F401F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000040",
+          "Opcode": "00004030",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0087B460",
+          "Opcode": "00004000",
+          "Value": "01F401F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004003",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00822D04",
+          "Opcode": "00004000",
+          "Value": "01F401F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004003",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Collect All Weapons & Orbs & Chi Skill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0081876A",
+          "Opcode": "00004100",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000002",
+          "Opcode": "00004123",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008189B2",
+          "Opcode": "00004100",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000002",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00818A22",
+          "Opcode": "00004100",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000002",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00818A7A",
+          "Opcode": "00004100",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000002",
+          "Opcode": "000040C2",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Have All Materials 99 in Storehouse",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00818D54",
+          "Opcode": "00004200",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "000040BC",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00818E10",
+          "Opcode": "00000000",
+          "Value": "000000C5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00818E1C",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "000040BD",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00818EE4",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "000040BD",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "City's Facilities Upgraded to Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008199B8",
+          "Opcode": "00004200",
+          "Value": "00000005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004006",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008199BE",
+          "Opcode": "00004100",
+          "Value": "00001388",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000002",
+          "Opcode": "00004006",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlock All Officers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008185A1",
+          "Opcode": "00000000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008185A2",
+          "Opcode": "00001000",
+          "Value": "00000101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008185A4",
+          "Opcode": "00004000",
+          "Value": "01010101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004009",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008185C8",
+          "Opcode": "00001000",
+          "Value": "00000101",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008185CA",
+          "Opcode": "00000000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Collect All Treasures",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00818CD8",
+          "Opcode": "00004100",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000002",
+          "Opcode": "00004014",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Collect All Officer Cards",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00818C0A",
+          "Opcode": "00004100",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000002",
+          "Opcode": "00004067",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Collect All Movies",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00819956",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "0000402B",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Collect All Legends",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0081992C",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "0000402A",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Collect All Tactics",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00819B4A",
+          "Opcode": "00001000",
+          "Value": "00000FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00819B4C",
+          "Opcode": "00002000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Completed All Quests",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008247B7",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008247B8",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008247B9",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008247BA",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00824EBF",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00824EC0",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00824EC1",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008255C7",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008255C8",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008255C9",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008255CA",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00825CCF",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004083",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00825CD0",
+          "Opcode": "00004200",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0000000C",
+          "Opcode": "00004083",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "Game": "Ninja Gaiden Sigma US",
+  "Region": "BLUS30036",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "102C8680",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029FEA4",
+          "Opcode": "00002000",
+          "Value": "91640000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0029FEA8",
+          "Opcode": "00002000",
+          "Value": "80040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0029FEAC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1028C7E4",
+          "Opcode": "00005100",
+          "Value": "1028C7B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1028C7E4",
+          "Opcode": "00005100",
+          "Value": "1028C7E6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1028C7EC",
+          "Opcode": "00005100",
+          "Value": "1028C7EE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Game": "Bladestorm The Hundred Years' War US",
+  "Region": "BLUS30070",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "99999999 Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00072A18",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F05F8",
+          "Opcode": "00002000",
+          "Value": "409D0134",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D8348",
+          "Opcode": "00002000",
+          "Value": "409D007C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Combo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000FC334",
+          "Opcode": "00002000",
+          "Value": "3940270F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

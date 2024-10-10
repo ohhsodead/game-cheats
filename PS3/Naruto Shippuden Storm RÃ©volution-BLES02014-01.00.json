@@ -1,0 +1,50 @@
+{
+  "Game": "Naruto Shippuden Storm Révolution",
+  "Region": "BLES02014",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Ryo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016313F0",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Medals",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016313F4",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Lottery Tickets(Normal/Elite)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01649924",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0164993C",
+          "Opcode": "00002000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

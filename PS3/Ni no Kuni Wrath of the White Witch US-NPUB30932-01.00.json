@@ -1,0 +1,67 @@
+{
+  "Game": "Ni no Kuni Wrath of the White Witch US",
+  "Region": "NPUB30932",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Quick Level Up",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006F7FC8",
+          "Opcode": "00002000",
+          "Value": "3CA07FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9999 EXP Per Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006F7FC8",
+          "Opcode": "00002000",
+          "Value": "38A0270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Stats All Characters & Imajin",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0070DA40",
+          "Opcode": "00002000",
+          "Value": "4081FDA0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007263B4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Casino Coins",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00726388",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

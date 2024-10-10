@@ -1,0 +1,73 @@
+{
+  "Game": "Fallout 3 Game Of The Year Edition US",
+  "Region": "BLUS30451",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Toggle Infinite Health, Oxygen, AP, Ammo & Carrying Weight",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0112076C",
+          "Opcode": "00000000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00410000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0112076C",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Toggle Collision",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00810000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012B7410",
+          "Opcode": "00000000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00210000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012B7410",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

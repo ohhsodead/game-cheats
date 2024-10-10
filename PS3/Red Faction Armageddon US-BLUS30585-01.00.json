@@ -1,0 +1,172 @@
+{
+  "Game": "Red Faction Armageddon US",
+  "Region": "BLUS30585",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Unlimited Rifle Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0191BA90",
+          "Opcode": "00002000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Rifle Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0051FC2C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00480F64",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00451D94",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001786A8",
+          "Opcode": "00002000",
+          "Value": "3D60457A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001786AC",
+          "Opcode": "00002000",
+          "Value": "91630F24",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Salvage on Gain/Spend",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006DA3C0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo/No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0051FB24",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Salvage on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006D04F0",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenades",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00519210",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00520D50",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00520DE4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00200F48",
+          "Opcode": "00002000",
+          "Value": "3FE0457A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00200F4C",
+          "Opcode": "00002000",
+          "Value": "93E30904",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo/No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0051FC2C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

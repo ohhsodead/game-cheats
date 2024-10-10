@@ -1,0 +1,69 @@
+{
+  "Game": "Terraria JP",
+  "Region": "BLJS10222",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00291FB8",
+          "Opcode": "00002000",
+          "Value": "38090001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002837C0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00289C78",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00291FB8",
+          "Opcode": "00002000",
+          "Value": "38090001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002837C0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00289C78",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

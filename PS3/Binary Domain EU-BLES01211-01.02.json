@@ -1,0 +1,81 @@
+{
+  "Game": "Binary Domain EU",
+  "Region": "BLES01211",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Ghost Mode No Hit Player (Hold []=On/Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0019F89C",
+          "Opcode": "00002000",
+          "Value": "40820220",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0019F89C",
+          "Opcode": "00002000",
+          "Value": "41820220",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage 0 P1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BA3DC",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage 0 P1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BA8BC",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ghost Mode No Hit Player On",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0019F89C",
+          "Opcode": "00002000",
+          "Value": "41820220",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ghost Mode No Hit Player Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0019F89C",
+          "Opcode": "00002000",
+          "Value": "40820220",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

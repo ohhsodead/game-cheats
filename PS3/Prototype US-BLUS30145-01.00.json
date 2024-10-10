@@ -1,0 +1,1912 @@
+{
+  "Game": "Prototype US",
+  "Region": "BLUS30145",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite EP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300B6A30",
+          "Opcode": "00002000",
+          "Value": "7FFFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP (Press L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30372C04",
+          "Opcode": "00003000",
+          "Value": "00000EB4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "49000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30372C04",
+          "Opcode": "00003000",
+          "Value": "00000EAC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "49000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - It is normal that HP displayed incorrectly",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Never Reduces To 0, Infinite Devastators While Health Is",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028DE80",
+          "Opcode": "00002000",
+          "Value": "3C000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028DE88",
+          "Opcode": "00002000",
+          "Value": "901F0200",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028DE8C",
+          "Opcode": "00002000",
+          "Value": "419E0084",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Tank & Helicopter Health Never Decrease (Player Only)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028F758",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002923AC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Devastators While Health Is Low",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00292720",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Using Devastator Attacks Doesn't Decrease Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002927D4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Everything Dies From Any Damage (Turn On Health Never Decreases)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BF7038",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BF7040",
+          "Opcode": "00002000",
+          "Value": "901F000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Air Dashes, Rapid Jump Kicks",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004D07B4",
+          "Opcode": "00002000",
+          "Value": "38600001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Military Always Ignores You",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00305430",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Game": "Start + Up = On Start + Down = Off)",
+      "Name": "Walk On Air",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B3BE10",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00410000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B3BE10",
+          "Opcode": "00002000",
+          "Value": "F821FD01",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Black & White Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002925F4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy Tanks Don't Fire Cannons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001F9078",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Only Military Bases & Infected Buildings Aren't Deserted",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0025F648",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Walk On Air (Start + Up = On Start + Down = Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00110000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B3BE10",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00410000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B3BE10",
+          "Opcode": "00002000",
+          "Value": "F821FD01",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0042B978",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Helicopters & Tanks Don't Overheat",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0042B9CC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Artillery Strikes Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00305C04",
+          "Opcode": "00002000",
+          "Value": "80030378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Get A Military Or Police Unit's Attention To Acquire All Upgrade",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00305434",
+          "Opcode": "00002000",
+          "Value": "F86100C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305438",
+          "Opcode": "00002000",
+          "Value": "F8810120",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030543C",
+          "Opcode": "00002000",
+          "Value": "3C80300D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305440",
+          "Opcode": "00002000",
+          "Value": "3C600F0F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305444",
+          "Opcode": "00002000",
+          "Value": "60630F0F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305448",
+          "Opcode": "00002000",
+          "Value": "906483C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030544C",
+          "Opcode": "00002000",
+          "Value": "906483C4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305450",
+          "Opcode": "00002000",
+          "Value": "E86483C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305454",
+          "Opcode": "00002000",
+          "Value": "F86483C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305458",
+          "Opcode": "00002000",
+          "Value": "F86483D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030545C",
+          "Opcode": "00002000",
+          "Value": "F86483D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305460",
+          "Opcode": "00002000",
+          "Value": "F86483E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305464",
+          "Opcode": "00002000",
+          "Value": "F86483E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305468",
+          "Opcode": "00002000",
+          "Value": "F86483F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030546C",
+          "Opcode": "00002000",
+          "Value": "F86483F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305470",
+          "Opcode": "00002000",
+          "Value": "F8648400",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305474",
+          "Opcode": "00002000",
+          "Value": "F8648408",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305478",
+          "Opcode": "00002000",
+          "Value": "F8648410",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030547C",
+          "Opcode": "00002000",
+          "Value": "F8648418",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305480",
+          "Opcode": "00002000",
+          "Value": "F8648420",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305484",
+          "Opcode": "00002000",
+          "Value": "F8648428",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305488",
+          "Opcode": "00002000",
+          "Value": "F8648430",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030548C",
+          "Opcode": "00002000",
+          "Value": "F8648438",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305490",
+          "Opcode": "00002000",
+          "Value": "90648440",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305494",
+          "Opcode": "00002000",
+          "Value": "3C80300B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00305498",
+          "Opcode": "00002000",
+          "Value": "3C603B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030549C",
+          "Opcode": "00002000",
+          "Value": "6063C9FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003054A0",
+          "Opcode": "00002000",
+          "Value": "90646A30",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003054A4",
+          "Opcode": "00002000",
+          "Value": "E86100C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003054A8",
+          "Opcode": "00002000",
+          "Value": "E8810120",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003054AC",
+          "Opcode": "00002000",
+          "Value": "38210110",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003054B0",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Musclemass Power Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83C0",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Claws Power Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83C1",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Shield Power Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83C4",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Blade Power Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83C5",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Whipfist Power Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83C6",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hammerfist Power Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83C7",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infected Vision Power Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83C8",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Thermal Vision Power Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83C9",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Armor Power Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83CB",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Boost 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83CC",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disguise Power Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83CF",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Critical Mass Boost 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83D0",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Critical Mass Ability Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83D1",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Boost Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83D2",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Boost 2 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83D3",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump Upgrade 2 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83D4",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump Upgrade 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83D5",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Adrenaline Surge Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83D6",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Critical Mass Boost Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83D7",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sprint Speed 2 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83D8",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sprint Speed 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83D9",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump Upgrade Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83DA",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump Upgrade 3 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83DB",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Consume Boost 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83DC",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Stealth Consume Boost Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83DD",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Stealth Consume Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83DE",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sprint Speed Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83DF",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Regen Delay 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83E0",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Regen Rate Boost Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83E1",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Regen Rate Boost 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83E2",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Consume Boost Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83E3",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Diveroll Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83E5",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Wall Jump Latch Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83E6",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Regen Delay Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83E7",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Armored Vehicle 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83E8",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Skyjack Helicopter Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83E9",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hijack Armored Vehicle Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83EA",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Helicopter 2 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83EC",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Helicopter 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83ED",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Armored Vehicle Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83EE",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Armored Vehicle 2 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83EF",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Artillery Strike Upgrade 2 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83F0",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Artillery Strike Upgrade 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83F1",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Artillery Strike Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83F2",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Helicopter Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83F3",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Missile Launcher 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83F4",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Artillery Strike Upgrade Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83F5",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Artillery Strike Upgrade 4 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83F6",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Artillery Strike Upgrade 3 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83F7",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Grenade Launcher 2 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83F8",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Grenade Launcher 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83F9",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Missile Launcher Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83FA",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Missile Launcher 2 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83FB",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Machine Gun Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83FC",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Machine Gun 2 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83FD",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Machine Gun 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83FE",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Grenade Launcher Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C83FF",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Assault Rifle Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8401",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Assault Rifle 2 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8402",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Assault Rifle 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8403",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Groundspike Graveyard Devastator Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8404",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Groundshatter Drop Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8405",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Groundshatter Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8406",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Tendril Barrage Devastator Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8408",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Air Knuckle Shockwave Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8409",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Knuckle Shockwave Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C840A",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Air Groundspike Graveyard Devastator Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C840B",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Critical Pain Devastator Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C840C",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Cannonball Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C840D",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Palm Slam Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C840E",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Air Tendril Barrage Devastator Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C840F",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Flying Kick Boost Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8410",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Air Stomp Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8411",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Flying Elbow Drop Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8412",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Air Critical Pain Devastator Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8413",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Snapkick Launcher Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8414",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Uppercut Launcher Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8415",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Flipkick Launcher Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8416",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Airdash Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8418",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Powerbomb Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8419",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Spike Driver Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C841A",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Air Combo Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C841B",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Air Recovery Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C841C",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Airdash Double Boost Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C841D",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Airdash Double Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C841E",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Airdash Boost Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C841F",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sprinting Throw Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8420",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sprinting Grab Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8421",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bulletdive Drop Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8422",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Glide Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8423",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Body Surf Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8424",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Grapple Slam Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8425",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Long Range Throw Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8426",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Charged Throw Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8427",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Curb Stomp Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C842A",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Groundspike Upgrade Max Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C842C",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Groundspike Upgrade 1 Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C842D",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Groundspike Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C842E",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Dashing Slice Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C842F",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Blade Frenzy Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8430",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Blade Sprint Frenzy Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8431",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hunter Dirtnap Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8434",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Musclemass Throw Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8435",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Musclemass Boost Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8436",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Blade Air Slice Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8437",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Street Sweeper Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8438",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hammerfist Elbow Slam Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8439",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hammertoss Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C843A",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hammerfist Smackdown Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C843B",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Patsy Range Boost Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C843C",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Patsy Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C843D",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Longshot Grab Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C843F",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Breakdown Smash Acquired",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "300C8443",
+          "Opcode": "00000000",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

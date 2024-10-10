@@ -1,0 +1,107 @@
+{
+  "Game": "Sonic Generations US",
+  "Region": "NPUB30715",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Free Super Sonic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009686EC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00985F64",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00985F74",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B28BF4",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BDEBF0",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rings Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0096863C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Timer Always 00:00.00",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D1A3AC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 99 Lives On Lose/Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D43424",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99999 PT While Changing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D3D52C",
+          "Opcode": "00002000",
+          "Value": "9169A0F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rings 999 While Increasing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00973CC0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

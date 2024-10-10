@@ -1,0 +1,447 @@
+{
+  "Game": "Assassin's Creed IV Black Flag EU",
+  "Region": "BLES01882",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0177D59C",
+          "Opcode": "00002000",
+          "Value": "A07C005C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Oxygen Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0176D904",
+          "Opcode": "00002000",
+          "Value": "D0830080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Faster Reload (Can't Use Dual Pistols)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014C2710",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014C2714",
+          "Opcode": "00002000",
+          "Value": "7C0B0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Items Don't Decrease Gold",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018A54A8",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0179B980",
+          "Opcode": "00002000",
+          "Value": "A07C005C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health (Test)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01789E34",
+          "Opcode": "00002000",
+          "Value": "B0BE005A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018E1340",
+          "Opcode": "00002000",
+          "Value": "B0BE005A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ship Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01AE2BEC",
+          "Opcode": "00002000",
+          "Value": "D1A300D8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01AE2BF0",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Oxygen Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01789F14",
+          "Opcode": "00002000",
+          "Value": "D0830080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01D064E0",
+          "Opcode": "00002000",
+          "Value": "7C090378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo Increases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01D064E0",
+          "Opcode": "00002000",
+          "Value": "7D3F0214",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ship Swivel Gun Ammo Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01F2C62C",
+          "Opcode": "00002000",
+          "Value": "3BE00005",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Faster Reload (Can't Use Dual Pistols)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E4540",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014E4544",
+          "Opcode": "00002000",
+          "Value": "7C0B0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Money 999999999 After Pickup/Steal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01D0BF08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Items Don't Decrease Gold",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018C3A40",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sleep Never Ends",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014C1F68",
+          "Opcode": "00002000",
+          "Value": "C19F051C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Gold",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018A54A8",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Faster Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014C2710",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014C2714",
+          "Opcode": "00002000",
+          "Value": "7C0B0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Gold",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018C3A40",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Money 999999999 after pickup/steal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01D0BF08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Faster Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E4540",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014E4544",
+          "Opcode": "00002000",
+          "Value": "7C0B0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Inf health - test1 ??",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A0240C",
+          "Opcode": "00002000",
+          "Value": "B0BE005A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Inf health - test2 ??",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01789E34",
+          "Opcode": "00002000",
+          "Value": "B0BE005A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018E1340",
+          "Opcode": "00002000",
+          "Value": "B0BE005A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01D064E0",
+          "Opcode": "00002000",
+          "Value": "7C090378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo increasing ??",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01D064E0",
+          "Opcode": "00002000",
+          "Value": "7D3F0214",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM,MONEY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018A54A8",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "o2 gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0176D904",
+          "Opcode": "00002000",
+          "Value": "D0830080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM,MONEY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018C3A40",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "o2 gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01789F14",
+          "Opcode": "00002000",
+          "Value": "D0830080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "no reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014E4540",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014E4544",
+          "Opcode": "00002000",
+          "Value": "7C0B0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "sleep",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "014C1F68",
+          "Opcode": "00002000",
+          "Value": "C19F051C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "Game": "Metal Gear Solid V - Ground Zeroes US",
+  "Region": "NPUB31318",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B0EFC0",
+          "Opcode": "00002000",
+          "Value": "38604E20",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B0EFC4",
+          "Opcode": "00002000",
+          "Value": "9065001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B0EFC8",
+          "Opcode": "00002000",
+          "Value": "90650020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B0EFCC",
+          "Opcode": "00002000",
+          "Value": "90650024",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCEAE0",
+          "Opcode": "00002000",
+          "Value": "30A40000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Supressor",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCEB2C",
+          "Opcode": "00002000",
+          "Value": "30850000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Weapons Have Supressor",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCEAD4",
+          "Opcode": "00002000",
+          "Value": "38A00091",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BCEAD8",
+          "Opcode": "00002000",
+          "Value": "90A30520",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BCEADC",
+          "Opcode": "00002000",
+          "Value": "B0A30408",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenades",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A16A34",
+          "Opcode": "00002000",
+          "Value": "7FC5F378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Stats - Low Time, No Alerts, Continues & Deaths",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C90CE8",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C90CEC",
+          "Opcode": "00002000",
+          "Value": "909E002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C90CF0",
+          "Opcode": "00002000",
+          "Value": "909E0030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C90CF4",
+          "Opcode": "00002000",
+          "Value": "909E0054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C90CF8",
+          "Opcode": "00002000",
+          "Value": "909E0074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C90CFC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C90D00",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00C90D04",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

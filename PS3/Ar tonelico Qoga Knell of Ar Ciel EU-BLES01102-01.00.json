@@ -1,0 +1,102 @@
+{
+  "Game": "Ar tonelico Qoga Knell of Ar Ciel EU",
+  "Region": "BLES01102",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max DP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00463D54",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money After Buy/Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035A80C",
+          "Opcode": "00002000",
+          "Value": "409D0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0035A810",
+          "Opcode": "00002000",
+          "Value": "913F0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Super Skills",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0034D588",
+          "Opcode": "00002000",
+          "Value": "409C0090",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034D58C",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034D598",
+          "Opcode": "00002000",
+          "Value": "2B830009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max ATK, DEF, HP for the 3 Battle Members",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0034C7C0",
+          "Opcode": "00002000",
+          "Value": "409D0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034C7D0",
+          "Opcode": "00002000",
+          "Value": "409D0004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034C7E0",
+          "Opcode": "00002000",
+          "Value": "409D0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max DP (Alt)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0035EB18",
+          "Opcode": "00002000",
+          "Value": "409D0018",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

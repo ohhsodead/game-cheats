@@ -1,0 +1,38 @@
+{
+  "Game": "Deadpool EU",
+  "Region": "BLES01789",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite DP Points On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AC41DC",
+          "Opcode": "00002000",
+          "Value": "C05E0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Take No Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0061AF2C",
+          "Opcode": "00002000",
+          "Value": "7F17B000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0061AF38",
+          "Opcode": "00002000",
+          "Value": "409A000C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "Game": "Shin Sangoku Musou 7",
+  "Region": "BLJM60586",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "1P Speed Move (8X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F999D4",
+          "Opcode": "00002000",
+          "Value": "41000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Speed Move (12X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F999D4",
+          "Opcode": "00002000",
+          "Value": "41400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible No Hit (2X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F999F8",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible No Hit (3X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F999F8",
+          "Opcode": "00002000",
+          "Value": "40400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible No Hit (4X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F999F8",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible No Hit (5X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F999F8",
+          "Opcode": "00002000",
+          "Value": "40A00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9999 Kills",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00256B04",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9999 Chain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002556E8",
+          "Opcode": "00002000",
+          "Value": "3929270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Kakusei",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00255414",
+          "Opcode": "00002000",
+          "Value": "816301F4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Musou",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002555B4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002F26B0",
+          "Opcode": "00002000",
+          "Value": "2B830000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Syouseimode Rensen 30",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002FA274",
+          "Opcode": "00002000",
+          "Value": "3863001E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00611DBC",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "9999 Chain L2+L3=ON R2+R3=OFF",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002556E8",
+          "Opcode": "00002000",
+          "Value": "3929270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002556E8",
+          "Opcode": "00002000",
+          "Value": "39290001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Kakusei L2+O=ON L2+X=OFF",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000021",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00255414",
+          "Opcode": "00002000",
+          "Value": "816301F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000041",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00255414",
+          "Opcode": "00002000",
+          "Value": "816301F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Kills 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00256B04",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAIN9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002556E8",
+          "Opcode": "00002000",
+          "Value": "3929270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kakuseiMAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00255414",
+          "Opcode": "00002000",
+          "Value": "816301F4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE musou",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002555B4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MONEY MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002F26B0",
+          "Opcode": "00002000",
+          "Value": "2B830000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SYOUSEIMODE rensen 30",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002FA274",
+          "Opcode": "00002000",
+          "Value": "3863001E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00611DBC",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CHAIN 9999 L2+L3=ON R2+R3=OFF",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002556E8",
+          "Opcode": "00002000",
+          "Value": "3929270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002556E8",
+          "Opcode": "00002000",
+          "Value": "39290001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kakuseiMAX L2+O=ON L2+X=OFF",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000021",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00255414",
+          "Opcode": "00002000",
+          "Value": "816301F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000041",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00255414",
+          "Opcode": "00002000",
+          "Value": "816301F0",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

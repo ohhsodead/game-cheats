@@ -1,0 +1,394 @@
+{
+  "Game": "Red Dead Redemption US",
+  "Region": "BLUS30418",
+  "Version": "01.07",
+  "Cheats": [
+    {
+      "Name": "(Press L2+R2) to Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Opcode": "0000C00B 00000000 00000003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0154BE44",
+          "Opcode": "00003000",
+          "Value": "00000108",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "4479C000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01629A70",
+          "Opcode": "00003000",
+          "Value": "00000354",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "4479C000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0154BE44",
+          "Opcode": "00003000",
+          "Value": "00000DA0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000010C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "4479C000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01629A70",
+          "Opcode": "00003000",
+          "Value": "00000354",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000060",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "4479C000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005690C",
+          "Opcode": "00002000",
+          "Value": "3C6047C3",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00056910",
+          "Opcode": "00002000",
+          "Value": "907C0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00056914",
+          "Opcode": "00002000",
+          "Value": "907C0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00056918",
+          "Opcode": "00002000",
+          "Value": "41820048",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001DBB84",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Dead Eye",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000571E0",
+          "Opcode": "00002000",
+          "Value": "C0260394",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000571E4",
+          "Opcode": "00002000",
+          "Value": "D0260390",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00058CAC",
+          "Opcode": "00002000",
+          "Value": "3C6047C3",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00058CB0",
+          "Opcode": "00002000",
+          "Value": "907C0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00058CB4",
+          "Opcode": "00002000",
+          "Value": "907C0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00058CB8",
+          "Opcode": "00002000",
+          "Value": "4182004C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E437C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Dead Eye",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000595C4",
+          "Opcode": "00002000",
+          "Value": "C0260394",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000595C8",
+          "Opcode": "00002000",
+          "Value": "D0260390",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005690C",
+          "Opcode": "00002000",
+          "Value": "3C6047C3",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00056910",
+          "Opcode": "00002000",
+          "Value": "907C0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00056914",
+          "Opcode": "00002000",
+          "Value": "907C0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00056918",
+          "Opcode": "00002000",
+          "Value": "48000048",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00058CAC",
+          "Opcode": "00002000",
+          "Value": "3C6047C3",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00058CB0",
+          "Opcode": "00002000",
+          "Value": "907C0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00058CB4",
+          "Opcode": "00002000",
+          "Value": "907C0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00058CB8",
+          "Opcode": "00002000",
+          "Value": "4800004C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E9A54",
+          "Opcode": "00002000",
+          "Value": "30630000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Horse Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0094FC18",
+          "Opcode": "00002000",
+          "Value": "C3DF0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0094FC1C",
+          "Opcode": "00002000",
+          "Value": "D3DF0010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money On Gain/Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D46A34",
+          "Opcode": "00002000",
+          "Value": "4842A62C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01171060",
+          "Opcode": "00002000",
+          "Value": "7CA3212E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01171064",
+          "Opcode": "00002000",
+          "Value": "7CA32214",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01171068",
+          "Opcode": "00002000",
+          "Value": "80A5FFFC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0117106C",
+          "Opcode": "00002000",
+          "Value": "2C0502B8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01171070",
+          "Opcode": "00002000",
+          "Value": "40820010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01171074",
+          "Opcode": "00002000",
+          "Value": "3CA04974",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01171078",
+          "Opcode": "00002000",
+          "Value": "60A523F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0117107C",
+          "Opcode": "00002000",
+          "Value": "7CA3212E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01171080",
+          "Opcode": "00002000",
+          "Value": "4BBD59B8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

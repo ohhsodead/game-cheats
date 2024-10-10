@@ -1,0 +1,290 @@
+{
+  "Game": "Dynasty Warriors Gundam 4 JP",
+  "Region": "BLJM61140",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Team Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E2B44",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Materials",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001090CC",
+          "Opcode": "00002000",
+          "Value": "7D044378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0032A344",
+          "Opcode": "00002000",
+          "Value": "90A307B8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Transformation Back To 0 (Synthesis)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00100C84",
+          "Opcode": "00002000",
+          "Value": "3BA00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Transformation Back To 0 (Special Equipment)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00100580",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "30,000 Plays, Clears, & Kills",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00108F0C",
+          "Opcode": "00002000",
+          "Value": "39007530",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00108F1C",
+          "Opcode": "00002000",
+          "Value": "38C07530",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Burst",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CAB4",
+          "Opcode": "00002000",
+          "Value": "80BD06F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001CABC",
+          "Opcode": "00002000",
+          "Value": "F8A10088",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001CAC4",
+          "Opcode": "00002000",
+          "Value": "C8210088",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001CAC8",
+          "Opcode": "00002000",
+          "Value": "FC200E9C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001CACC",
+          "Opcode": "00002000",
+          "Value": "D03D06F4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001CAD0",
+          "Opcode": "00002000",
+          "Value": "F8810088",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Armor",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CADC",
+          "Opcode": "00002000",
+          "Value": "80DD06E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001CAE0",
+          "Opcode": "00002000",
+          "Value": "90DD06E4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Thruster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CB08",
+          "Opcode": "00002000",
+          "Value": "D05D074C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001CB10",
+          "Opcode": "00002000",
+          "Value": "A07D06E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001CB14",
+          "Opcode": "00002000",
+          "Value": "F8610088",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001CB18",
+          "Opcode": "00002000",
+          "Value": "C8410088",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001CB1C",
+          "Opcode": "00002000",
+          "Value": "FC40169C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001CB20",
+          "Opcode": "00002000",
+          "Value": "D05D075C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "TEAM POINTS",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E2B44",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "sozai",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001090CC",
+          "Opcode": "00002000",
+          "Value": "7D044378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kaizoukaisu0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00100C84",
+          "Opcode": "00002000",
+          "Value": "3BA00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00100580",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "syozikin",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0034A344",
+          "Opcode": "00002000",
+          "Value": "90A307B8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "kuriakaisuu30000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00108F0C",
+          "Opcode": "00002000",
+          "Value": "39007530",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00108F1C",
+          "Opcode": "00002000",
+          "Value": "38C07530",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

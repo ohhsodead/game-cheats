@@ -1,0 +1,76 @@
+{
+  "Game": "Minecraft US",
+  "Region": "NPUB31419",
+  "Version": "01.04",
+  "Cheats": [
+    {
+      "Name": "God Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004480FC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0047F03C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00447D6C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Food",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003D4004",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D3E4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Arrows",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003E8648",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Resources",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003FCFBC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

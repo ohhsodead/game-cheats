@@ -1,0 +1,83 @@
+{
+  "Game": "Far Cry 3 JP",
+  "Region": "BLJM60532",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C1EF80",
+          "Opcode": "00002000",
+          "Value": "38A00063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009FEC5C",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99999 Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A807B4",
+          "Opcode": "00002000",
+          "Value": "3C600001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A807B8",
+          "Opcode": "00002000",
+          "Value": "6063869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C1EF80",
+          "Opcode": "00002000",
+          "Value": "38A00063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009FEC5C",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MONEY99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A807B4",
+          "Opcode": "00002000",
+          "Value": "3C600001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A807B8",
+          "Opcode": "00002000",
+          "Value": "6063869F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

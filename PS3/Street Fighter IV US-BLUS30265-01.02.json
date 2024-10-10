@@ -1,0 +1,195 @@
+{
+  "Game": "Street Fighter IV US",
+  "Region": "BLUS30265",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "P1 Infinite Super Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A63FC",
+          "Opcode": "00002000",
+          "Value": "00000007",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A63B8",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Infinite Ultra Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A6408",
+          "Opcode": "00002000",
+          "Value": "00000007",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A63BC",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - * = Auto Off at end. Activate at Start/during Round.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Hit Kill On P2 (L1+L2+Left=On) (L1+L2+Right=Off)*",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00800005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A6420",
+          "Opcode": "00002000",
+          "Value": "00002710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A6420",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Defense Up (R1+R2+Left=On) (R1+R2+Right=Off)*",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "0080000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A6424",
+          "Opcode": "00002000",
+          "Value": "00002710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "0020000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004A6424",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Always Perfect (CPU can't hit on final hit)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A63F8",
+          "Opcode": "00002000",
+          "Value": "00002710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No EX Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A6610",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No Special Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A660C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No Super Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A6614",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No Throw Escape",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A6604",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 No Ultra Moves",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A6618",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

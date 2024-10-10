@@ -1,0 +1,19 @@
+{
+  "Game": "Ratchet & Clank Full Frontal Assault US",
+  "Region": "NPUA80642",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1P Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00050220",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

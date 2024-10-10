@@ -1,0 +1,19 @@
+{
+  "Game": "Grand Theft Auto IV Complete Edition EU",
+  "Region": "BLES01128",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1P Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0066C908",
+          "Opcode": "00002000",
+          "Value": "419EFF40",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

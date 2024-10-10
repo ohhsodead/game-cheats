@@ -1,0 +1,201 @@
+{
+  "Game": "Darksiders II EU",
+  "Region": "BLES01597",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Max Coins on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0027EDF0",
+          "Opcode": "00002000",
+          "Value": "3C007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0027EDF4",
+          "Opcode": "00002000",
+          "Value": "90090028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Skill Points [Must have atleast 1]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0027D324",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max + Infinite Wrath",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002213A8",
+          "Opcode": "00002000",
+          "Value": "C3E90008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002213AC",
+          "Opcode": "00002000",
+          "Value": "EC0CF82A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002213B0",
+          "Opcode": "00002000",
+          "Value": "D0090004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Stats After 1 Fight [9999]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00353F7C",
+          "Opcode": "00002000",
+          "Value": "3920270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00353F80",
+          "Opcode": "00002000",
+          "Value": "913D0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Reaper Gauge + Infinite Reaper Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002214A4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002214A8",
+          "Opcode": "00002000",
+          "Value": "80090000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002214AC",
+          "Opcode": "00002000",
+          "Value": "7C0007B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002214B0",
+          "Opcode": "00002000",
+          "Value": "F80100A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002214B4",
+          "Opcode": "00002000",
+          "Value": "C98100A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002214B8",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002214BC",
+          "Opcode": "00002000",
+          "Value": "FD80669C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002214C0",
+          "Opcode": "00002000",
+          "Value": "FC006018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002214C4",
+          "Opcode": "00002000",
+          "Value": "EC006FBA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002214C8",
+          "Opcode": "00002000",
+          "Value": "D00B0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Yellow Coins After Save",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0027F50C",
+          "Opcode": "00002000",
+          "Value": "3C007FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Blue Coins After Save [Info Below]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002A06D4",
+          "Opcode": "00002000",
+          "Value": "3C007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A06D8",
+          "Opcode": "00002000",
+          "Value": "900B002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Load with code, save game, quit game & reload.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

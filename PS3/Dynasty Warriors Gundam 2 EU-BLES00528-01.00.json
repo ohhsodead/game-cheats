@@ -1,0 +1,191 @@
+{
+  "Game": "Dynasty Warriors Gundam 2 EU",
+  "Region": "BLES00528",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Player Armor Max in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00848DC4",
+          "Opcode": "00003000",
+          "Value": "00000120",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00004E20",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00848DC4",
+          "Opcode": "00003000",
+          "Value": "00000124",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00004E20",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player SP Max in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00848DC4",
+          "Opcode": "00003000",
+          "Value": "00000128",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00002328",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00848DC4",
+          "Opcode": "00003000",
+          "Value": "0000012C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00002328",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Infinite Thrust in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00848DC4",
+          "Opcode": "00003000",
+          "Value": "0000013E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00848DC4",
+          "Opcode": "00003000",
+          "Value": "00000140",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Fight Range Max in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00848DC4",
+          "Opcode": "00003000",
+          "Value": "0000014E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy 1 Hit Kill in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00848DC4",
+          "Opcode": "00003000",
+          "Value": "00000136",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00848DC4",
+          "Opcode": "00003000",
+          "Value": "00000138",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Defense Max in Mission",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00848DC4",
+          "Opcode": "00003000",
+          "Value": "0000013C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

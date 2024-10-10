@@ -1,0 +1,67 @@
+{
+  "Game": "Double Dragon Neon US",
+  "Region": "NPUB30764",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Life 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BBF5D4",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 Infinite Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BBF5D8",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Super Meter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00101CA1",
+          "Opcode": "00000000",
+          "Value": "00000023",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001AABF0",
+          "Opcode": "00002000",
+          "Value": "38E00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health (Bosses too)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00705818",
+          "Opcode": "00002000",
+          "Value": "D0230264",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Game": "GhostBusters:The Video Game EU",
+  "Region": "BLUS30307",
+  "Version": "v1.03",
+  "Cheats": [
+    {
+      "Name": "No Damage Cost",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00047FC0",
+          "Opcode": "00002000",
+          "Value": "9B996754",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Ammo (No Overheating)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003CEA4",
+          "Opcode": "00002000",
+          "Value": "913D01DC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "God Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003CEAC",
+          "Opcode": "00002000",
+          "Value": "913D01BC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001328D4",
+          "Opcode": "00002000",
+          "Value": "3D207F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001328E0",
+          "Opcode": "00002000",
+          "Value": "91230380",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

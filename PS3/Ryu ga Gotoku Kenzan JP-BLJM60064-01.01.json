@@ -1,0 +1,69 @@
+{
+  "Game": "Ryu ga Gotoku Kenzan JP",
+  "Region": "BLJM60064",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Money Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10355298",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10352992",
+          "Opcode": "00005100",
+          "Value": "10352990",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Heat Gauge Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10352998",
+          "Opcode": "00005000",
+          "Value": "10352994",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Experience Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "103529A0",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Game": "Street Fighter III Third Strike US",
+  "Region": "NPUB30301",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "1P Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCC708",
+          "Opcode": "00002000",
+          "Value": "00A000A0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00CCE738",
+          "Opcode": "00002000",
+          "Value": "00030003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2P HP Set 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCCB7C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

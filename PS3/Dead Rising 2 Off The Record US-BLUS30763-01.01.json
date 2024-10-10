@@ -1,0 +1,117 @@
+{
+  "Game": "Dead Rising 2 Off The Record US",
+  "Region": "BLUS30763",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Psychopath & Player No Hit Punch/Knock ([]=Off Auto On)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00124DB0",
+          "Opcode": "00002000",
+          "Value": "4182FFCC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00124DB0",
+          "Opcode": "00002000",
+          "Value": "4082FFCC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Hit Zombie Punch",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00125150",
+          "Opcode": "00002000",
+          "Value": "4182FFCC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Zombie No Attack 100%",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0051F600",
+          "Opcode": "00002000",
+          "Value": "41820AA8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.5x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001809D4",
+          "Opcode": "00002000",
+          "Value": "3C803F00",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.75x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001809D4",
+          "Opcode": "00002000",
+          "Value": "3C803F40",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.25x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001809D4",
+          "Opcode": "00002000",
+          "Value": "3C803FA0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.5x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001809D4",
+          "Opcode": "00002000",
+          "Value": "3C803FC0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001809D4",
+          "Opcode": "00002000",
+          "Value": "3C804000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

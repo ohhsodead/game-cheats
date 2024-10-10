@@ -1,0 +1,197 @@
+{
+  "Game": "Biohazard 4 JP",
+  "Region": "NPJB00084",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "PTAS 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF9C8",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always 1st Save",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF9BC",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always Low Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF9C4",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Game Round 3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF9BE",
+          "Opcode": "00001000",
+          "Value": "00000002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R1) to Leon HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018FF9D4",
+          "Opcode": "00001000",
+          "Value": "00000960",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018FF9D6",
+          "Opcode": "00001000",
+          "Value": "00000960",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R1) to Ashley HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018FF9D8",
+          "Opcode": "00001000",
+          "Value": "000004B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018FF9DA",
+          "Opcode": "00001000",
+          "Value": "000004B0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item Box Slots Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0192B85C",
+          "Opcode": "00003000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "0000007F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bullet 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0192B854",
+          "Opcode": "00003010",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Leon HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF9D4",
+          "Opcode": "00001000",
+          "Value": "00000960",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018FF9D6",
+          "Opcode": "00001000",
+          "Value": "00000960",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ashley HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "018FF9D8",
+          "Opcode": "00001000",
+          "Value": "000004B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "018FF9DA",
+          "Opcode": "00001000",
+          "Value": "000004B0",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

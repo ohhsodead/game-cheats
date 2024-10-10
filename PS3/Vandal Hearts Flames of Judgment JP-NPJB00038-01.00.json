@@ -1,0 +1,19 @@
+{
+  "Game": "Vandal Hearts Flames of Judgment JP",
+  "Region": "NPJB00038",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite GP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004BEB00",
+          "Opcode": "00002000",
+          "Value": "00989680",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

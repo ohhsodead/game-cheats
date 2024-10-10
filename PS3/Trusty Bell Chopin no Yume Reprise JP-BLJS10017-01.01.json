@@ -1,0 +1,275 @@
+{
+  "Game": "Trusty Bell Chopin no Yume Reprise JP",
+  "Region": "BLJS10017",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Golby",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0083F938",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Golby",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E3D70",
+          "Opcode": "00001000",
+          "Value": "0000409C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Party Class 6",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0083F930",
+          "Opcode": "00002000",
+          "Value": "00000006",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0083F934",
+          "Opcode": "00002000",
+          "Value": "00000006",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All LV 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00840400",
+          "Opcode": "00004000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004018",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All EXP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00840404",
+          "Opcode": "00004000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004018",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All HP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0084040C",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004018",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00840410",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004018",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Status Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00840414",
+          "Opcode": "00004000",
+          "Value": "03E703E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004018",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00840418",
+          "Opcode": "00004000",
+          "Value": "03E703E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004018",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ATK",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E83A0",
+          "Opcode": "00002000",
+          "Value": "48000180",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MAG",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E83AC",
+          "Opcode": "00001000",
+          "Value": "0000409D",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "DEF",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E83B8",
+          "Opcode": "00001000",
+          "Value": "0000409D",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SPD",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E83C4",
+          "Opcode": "00001000",
+          "Value": "0000409D",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Change Equip Status Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E836C",
+          "Opcode": "00002000",
+          "Value": "3BE02710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E8370",
+          "Opcode": "00002000",
+          "Value": "3BA02710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E8374",
+          "Opcode": "00002000",
+          "Value": "3B802710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E8378",
+          "Opcode": "00002000",
+          "Value": "3BC02710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E8500",
+          "Opcode": "00002000",
+          "Value": "4BFFFFE4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E8518",
+          "Opcode": "00002000",
+          "Value": "4BFFFFD8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E8530",
+          "Opcode": "00002000",
+          "Value": "4BFFFFD8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Buy Sell Item 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021A5B0",
+          "Opcode": "00001000",
+          "Value": "0000409D",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0021A710",
+          "Opcode": "00001000",
+          "Value": "0000409C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

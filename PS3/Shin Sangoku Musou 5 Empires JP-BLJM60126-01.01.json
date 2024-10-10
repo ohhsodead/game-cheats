@@ -1,0 +1,50 @@
+{
+  "Game": "Shin Sangoku Musou 5 Empires JP",
+  "Region": "BLJM60126",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Money 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008764A0",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Command 6",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0087708C",
+          "Opcode": "00002000",
+          "Value": "00000006",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Item",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008764A4",
+          "Opcode": "00004000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "0000403E",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

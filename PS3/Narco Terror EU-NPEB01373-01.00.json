@@ -1,0 +1,31 @@
+{
+  "Game": "Narco Terror EU",
+  "Region": "NPEB01373",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "INFINITE HEALTH.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003D854",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003D854",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

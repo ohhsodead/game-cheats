@@ -1,0 +1,33 @@
+{
+  "Game": "Iron Man EU",
+  "Region": "BLES00247",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Unlimited HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00DD8ED4",
+          "Opcode": "00003000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000070",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43480000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

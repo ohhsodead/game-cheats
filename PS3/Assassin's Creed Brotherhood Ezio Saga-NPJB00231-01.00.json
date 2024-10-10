@@ -1,0 +1,31 @@
+{
+  "Game": "Assassin's Creed Brotherhood Ezio Saga",
+  "Region": "NPJB00231",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Money, Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F9979C",
+          "Opcode": "00002000",
+          "Value": "7C090378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MONEY,ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F9979C",
+          "Opcode": "00002000",
+          "Value": "7C090378",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

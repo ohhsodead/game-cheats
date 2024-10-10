@@ -1,0 +1,43 @@
+{
+  "Game": "Star Wars The Force Unleashed 2 US",
+  "Region": "BLUS30534",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A599C",
+          "Opcode": "00002000",
+          "Value": "D043000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Force",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A59B4",
+          "Opcode": "00002000",
+          "Value": "D043000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Fury",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A59CC",
+          "Opcode": "00002000",
+          "Value": "D043000C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

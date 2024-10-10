@@ -1,0 +1,139 @@
+{
+  "Game": "Dragon Ball Z Burst Limit JP",
+  "Region": "BLJS10020",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "P1 Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004993A8",
+          "Opcode": "00003000",
+          "Value": "000002C4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0FA00FA0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Power Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004993A8",
+          "Opcode": "00003000",
+          "Value": "000002CC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "13881388",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P2 Death (Press Select + L2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00010001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00499498",
+          "Opcode": "00003000",
+          "Value": "000002C4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health & Ki",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008F5A0",
+          "Opcode": "00002000",
+          "Value": "4830C3E1",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039B980",
+          "Opcode": "00002000",
+          "Value": "2C190000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039B984",
+          "Opcode": "00002000",
+          "Value": "40820014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039B988",
+          "Opcode": "00002000",
+          "Value": "A01E04DE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039B98C",
+          "Opcode": "00002000",
+          "Value": "B01E04DC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039B990",
+          "Opcode": "00002000",
+          "Value": "A01E04D6",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039B994",
+          "Opcode": "00002000",
+          "Value": "B01E04D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039B998",
+          "Opcode": "00002000",
+          "Value": "A01E04D4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0039B99C",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

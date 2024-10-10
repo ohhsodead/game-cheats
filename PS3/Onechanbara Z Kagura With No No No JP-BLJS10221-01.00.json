@@ -1,0 +1,81 @@
+{
+  "Game": "Onechanbara Z Kagura With No No No JP",
+  "Region": "BLJS10221",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0018A77C",
+          "Opcode": "00002000",
+          "Value": "30C30000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99999999 Orbs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00189EDC",
+          "Opcode": "00002000",
+          "Value": "3CA005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00189EE0",
+          "Opcode": "00002000",
+          "Value": "60A5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0018A77C",
+          "Opcode": "00002000",
+          "Value": "30C30000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ORB 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00189EDC",
+          "Opcode": "00002000",
+          "Value": "3CA005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00189EE0",
+          "Opcode": "00002000",
+          "Value": "60A5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

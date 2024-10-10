@@ -1,0 +1,19 @@
+{
+  "Game": "Musou Orochi Z JP",
+  "Region": "BLJM60139",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "EXP 50000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00653338",
+          "Opcode": "00002000",
+          "Value": "0000C350",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

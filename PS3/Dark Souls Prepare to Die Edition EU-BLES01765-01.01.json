@@ -1,0 +1,50 @@
+{
+  "Game": "Dark Souls Prepare to Die Edition EU",
+  "Region": "BLES01765",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Items on Discard/Deposit/Use/Pickup",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B05208",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B05258",
+          "Opcode": "00002000",
+          "Value": "4000FFB4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Souls",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B260F4",
+          "Opcode": "00002000",
+          "Value": "3D403B9B",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Humanity on Use/Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003F1CF4",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

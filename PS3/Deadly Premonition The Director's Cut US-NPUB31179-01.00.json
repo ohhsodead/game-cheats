@@ -1,0 +1,31 @@
+{
+  "Game": "Deadly Premonition The Director's Cut US",
+  "Region": "NPUB31179",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Enemy No Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0017C7BC",
+          "Opcode": "00002000",
+          "Value": "419D0084",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0017A950",
+          "Opcode": "00002000",
+          "Value": "419D0BA4",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

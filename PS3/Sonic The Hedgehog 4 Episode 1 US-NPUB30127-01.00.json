@@ -1,0 +1,112 @@
+{
+  "Game": "Sonic The Hedgehog 4 Episode 1 US",
+  "Region": "NPUB30127",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "999 Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C1254",
+          "Opcode": "00002000",
+          "Value": "409D0030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Ring = 999 Rings",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008D31C",
+          "Opcode": "00002000",
+          "Value": "419D000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Free Super Sonic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008BF4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0008BF58",
+          "Opcode": "00002000",
+          "Value": "2F80FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000900EC",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000900F8",
+          "Opcode": "00002000",
+          "Value": "2F80FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rings Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C9304",
+          "Opcode": "00002000",
+          "Value": "7CC83378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Lives Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AFE60",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Lives on Gain/Lose",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008D26C",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AFD9C",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

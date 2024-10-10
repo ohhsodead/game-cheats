@@ -1,0 +1,374 @@
+{
+  "Game": "Resonance of Fate US",
+  "Region": "BLUS30484",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Sell Item For Max Cash",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0059D138",
+          "Opcode": "00002000",
+          "Value": "48000054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059D198",
+          "Opcode": "00002000",
+          "Value": "917F03CC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Zero Items Required For Item Exchange",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0058EBA0",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EBA4",
+          "Opcode": "00002000",
+          "Value": "901F0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EBA8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EBB0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EBB4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EBB8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EC18",
+          "Opcode": "00002000",
+          "Value": "39200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EC1C",
+          "Opcode": "00002000",
+          "Value": "913F0018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EC20",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EC24",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EC28",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EC2C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EC90",
+          "Opcode": "00002000",
+          "Value": "39200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EC94",
+          "Opcode": "00002000",
+          "Value": "913F001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EC98",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EC9C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ECA0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ECA4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ED08",
+          "Opcode": "00002000",
+          "Value": "39200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ED0C",
+          "Opcode": "00002000",
+          "Value": "913F0020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ED10",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ED14",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ED18",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ED1C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ED80",
+          "Opcode": "00002000",
+          "Value": "39200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ED84",
+          "Opcode": "00002000",
+          "Value": "913F0024",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ED88",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ED8C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ED90",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058ED94",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EDF8",
+          "Opcode": "00002000",
+          "Value": "39200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EDFC",
+          "Opcode": "00002000",
+          "Value": "913F0028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EE00",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EE04",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EE08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058EE0C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99 Resonance Points After Gain 1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0022939C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002293A4",
+          "Opcode": "00002000",
+          "Value": "39200063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - For codes below. Game freeze if you jump.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemy No Move & Never lvl Up & No Float Jump Enemy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EFF60C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99999999 lvl Up & Hit kill P & Float Jump Up Enemy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EFF60C",
+          "Opcode": "00002000",
+          "Value": "4CBEBC20",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damage Multiplier x100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00255D1C",
+          "Opcode": "00002000",
+          "Value": "3D4042C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gauge Cracked Ammo 1 Hit",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F0541C",
+          "Opcode": "00002000",
+          "Value": "44800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Charge Speedy Modifier x2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002588A0",
+          "Opcode": "00002000",
+          "Value": "3C004000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

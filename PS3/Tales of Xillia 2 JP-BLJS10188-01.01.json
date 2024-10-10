@@ -1,0 +1,644 @@
+{
+  "Game": "Tales of Xillia 2 JP",
+  "Region": "BLJS10188",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "99999999 Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C68FC",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99999999 Gald",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C8E64",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Damager 0 Normal Hit Work/Magic Mode X Button",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010AF534",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010AF538",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010AF53C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010AF540",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Recover HP Hit Mode P&E (Up=On,Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010AF52C",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010AF52C",
+          "Opcode": "00002000",
+          "Value": "C2C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010AF52C",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010AF52C",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Recover HP Hit Mode Player Stan On",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010AF528",
+          "Opcode": "00002000",
+          "Value": "BE4CCCCD",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max E.CORE",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C8E34",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Battle Speed Mod (2X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010AECFC",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "TP999 Max No Infinite",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024FA6C",
+          "Opcode": "00002000",
+          "Value": "40850CF8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SP999 Max No Infinite",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024FADC",
+          "Opcode": "00002000",
+          "Value": "40990C58",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP9999 Max No Infinite",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024F87C",
+          "Opcode": "00002000",
+          "Value": "40850EC0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Auto Death Enemy No Fighters Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024F870",
+          "Opcode": "00002000",
+          "Value": "40800010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite TP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00238700",
+          "Opcode": "00002000",
+          "Value": "31230014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00238704",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Arte Count on Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0023EE2C",
+          "Opcode": "00002000",
+          "Value": "3980270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023EE30",
+          "Opcode": "00002000",
+          "Value": "91830004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Over Limit [Must Use 1 Arte Link]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218B60",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B64",
+          "Opcode": "00002000",
+          "Value": "FC430B6E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B68",
+          "Opcode": "00002000",
+          "Value": "FC0260AE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B6C",
+          "Opcode": "00002000",
+          "Value": "D0090028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B70",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B74",
+          "Opcode": "00002000",
+          "Value": "81230000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B78",
+          "Opcode": "00002000",
+          "Value": "C182CB4C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B7C",
+          "Opcode": "00002000",
+          "Value": "C1A2CB50",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B80",
+          "Opcode": "00002000",
+          "Value": "C0890028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B84",
+          "Opcode": "00002000",
+          "Value": "EC21202A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B88",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B8C",
+          "Opcode": "00002000",
+          "Value": "FC430B2E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B90",
+          "Opcode": "00002000",
+          "Value": "FC0268AE",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218B94",
+          "Opcode": "00002000",
+          "Value": "D0090028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Gald on Buy/Sell/Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021898C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max EXP on Gain(LVL. 200)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024DA2C",
+          "Opcode": "00002000",
+          "Value": "3C807FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite AC",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00238720",
+          "Opcode": "00002000",
+          "Value": "4081000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "138D8070",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "138D8074",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite TP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "138D8084",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "138D8088",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Stats",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "138D8094",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "138D8098",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "138D809C",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "138D80A0",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "138D80A4",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "138D80A8",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Items on Sell/Discard/Buy/Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00538AD8",
+          "Opcode": "00002000",
+          "Value": "40990020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Exp 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C6DC4",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gald 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C932C",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "E.CORE Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C92FC",
+          "Opcode": "00002000",
+          "Value": "419D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.25x Battle Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010AECEC",
+          "Opcode": "00002000",
+          "Value": "3E800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.5x Battle Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010AECEC",
+          "Opcode": "00002000",
+          "Value": "3F000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.75x Battle Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010AECEC",
+          "Opcode": "00002000",
+          "Value": "3F400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.5x Battle Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010AECEC",
+          "Opcode": "00002000",
+          "Value": "3FC00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Battle Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010AECEC",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Battle Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010AECEC",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "TP999 Max No Infinite",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024FF3C",
+          "Opcode": "00002000",
+          "Value": "40850CF8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0024FFAC",
+          "Opcode": "00002000",
+          "Value": "40990C58",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SP999 Max No Infinite",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024FFAC",
+          "Opcode": "00002000",
+          "Value": "40990C58",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit Dead Enemy Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00250C10",
+          "Opcode": "00002000",
+          "Value": "48000040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite TP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00238BD0",
+          "Opcode": "00002000",
+          "Value": "31230014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00238BD4",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Have All Items + Infinite All Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00533564",
+          "Opcode": "00002000",
+          "Value": "38600063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005335BC",
+          "Opcode": "00002000",
+          "Value": "38E00063",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Game": "Dead Island Riptide JP",
+  "Region": "PSN BLJS10228",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C0CEB0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invinciblity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C0CF38",
+          "Opcode": "00002000",
+          "Value": "408221D0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Attack Power (100X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BEEA9C",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

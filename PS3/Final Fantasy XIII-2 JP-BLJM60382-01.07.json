@@ -1,0 +1,607 @@
+{
+  "Game": "Final Fantasy XIII-2 JP",
+  "Region": "BLJM60382",
+  "Version": "01.07",
+  "Cheats": [
+    {
+      "Name": "Max Gill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062DFF0",
+          "Opcode": "00002000",
+          "Value": "7C682014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max CP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062B538",
+          "Opcode": "00002000",
+          "Value": "7D4A2814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999 Equipment Capacity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062DAA0",
+          "Opcode": "00002000",
+          "Value": "386003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006147E0",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006147F4",
+          "Opcode": "00002000",
+          "Value": "909E0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E4A98",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max ATB Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005ABC8",
+          "Opcode": "00002000",
+          "Value": "7F9C2814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Break Gauge Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B024C",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Break",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AFABC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Break",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AFA7C",
+          "Opcode": "00002000",
+          "Value": "7FDED014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0 Battle Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E7F80",
+          "Opcode": "00002000",
+          "Value": "38C00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Gill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062E0B0",
+          "Opcode": "00002000",
+          "Value": "7C682014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max CP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062B5F8",
+          "Opcode": "00002000",
+          "Value": "7D4A2814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "999 Equipment Capacity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062DB60",
+          "Opcode": "00002000",
+          "Value": "386003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0061489C",
+          "Opcode": "00002000",
+          "Value": "7C832378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006148A0",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E4A98",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sinkuro 1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00634D70",
+          "Opcode": "00002000",
+          "Value": "38602710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sinkuro 2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009DAE0",
+          "Opcode": "00002000",
+          "Value": "38802710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Chocobo Race Limit 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004DA1A0",
+          "Opcode": "00002000",
+          "Value": "38C0270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Chocobo Race RP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00330F08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Chocobo Race Speed 256",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0051E6FC",
+          "Opcode": "00002000",
+          "Value": "3B400100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0051E700",
+          "Opcode": "00002000",
+          "Value": "7F43232E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Chocobo Race Stamina 256",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0051E7A4",
+          "Opcode": "00002000",
+          "Value": "3B400100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0051E7A8",
+          "Opcode": "00002000",
+          "Value": "7F43232E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.06]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gill MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062DFF0",
+          "Opcode": "00002000",
+          "Value": "7C682014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CP MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062B538",
+          "Opcode": "00002000",
+          "Value": "7D4A2814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Equipment capacity 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062DAA0",
+          "Opcode": "00002000",
+          "Value": "386003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006147E0",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006147F4",
+          "Opcode": "00002000",
+          "Value": "909E0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E4A98",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ATB Gauge MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005ABC8",
+          "Opcode": "00002000",
+          "Value": "7F9C2814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Break gauge Not decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B024C",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Break MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AFA7C",
+          "Opcode": "00002000",
+          "Value": "7FDED014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Battle Time 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E7F80",
+          "Opcode": "00002000",
+          "Value": "38C00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.07]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gill MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062E0B0",
+          "Opcode": "00002000",
+          "Value": "7C682014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CP MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062B5F8",
+          "Opcode": "00002000",
+          "Value": "7D4A2814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Equipment capacity 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062DB60",
+          "Opcode": "00002000",
+          "Value": "386003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0061489C",
+          "Opcode": "00002000",
+          "Value": "7C832378",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006148A0",
+          "Opcode": "00002000",
+          "Value": "4800000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000E4A98",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ATB Gauge MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005ABC8",
+          "Opcode": "00002000",
+          "Value": "7F9C2814",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Break gauge Not decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B024C",
+          "Opcode": "00002000",
+          "Value": "7CA42B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Break MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000AFA7C",
+          "Opcode": "00002000",
+          "Value": "7FDED014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Battle Time 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E7F80",
+          "Opcode": "00002000",
+          "Value": "38C00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "sinkuro 1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00634D70",
+          "Opcode": "00002000",
+          "Value": "38602710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "sinkuro 2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009DAE0",
+          "Opcode": "00002000",
+          "Value": "38802710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "chocobo race kakekin kaijo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004DA1A0",
+          "Opcode": "00002000",
+          "Value": "38C0270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "chocobo race RP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00330F08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "chocobo race speed256",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0051E6FC",
+          "Opcode": "00002000",
+          "Value": "3B400100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0051E700",
+          "Opcode": "00002000",
+          "Value": "7F43232E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "chocobo race Stamina256",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0051E7A4",
+          "Opcode": "00002000",
+          "Value": "3B400100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0051E7A8",
+          "Opcode": "00002000",
+          "Value": "7F43232E",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

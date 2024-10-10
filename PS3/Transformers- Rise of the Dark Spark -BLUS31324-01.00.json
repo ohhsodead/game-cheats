@@ -1,0 +1,45 @@
+{
+  "Game": "Transformers: Rise of the Dark Spark ",
+  "Region": "BLUS31324",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B579B4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AF4440",
+          "Opcode": "00002000",
+          "Value": "C0450348",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AF4444",
+          "Opcode": "00002000",
+          "Value": "D0450344",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AF4448",
+          "Opcode": "00002000",
+          "Value": "EC221028",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

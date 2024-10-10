@@ -1,0 +1,31 @@
+{
+  "Game": "Saints Row IV US",
+  "Region": "BLUS31205",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Money on Gain/Sell",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00587AF0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money on Gain/Sell",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005880D0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

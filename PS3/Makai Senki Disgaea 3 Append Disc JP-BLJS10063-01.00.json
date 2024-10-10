@@ -1,0 +1,19 @@
+{
+  "Game": "Makai Senki Disgaea 3 Append Disc JP",
+  "Region": "BLJS10063",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "HL 99999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E8C3C4",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,641 @@
+{
+  "Game": "Castlevania - Lords Of Shadow 2 US",
+  "Region": "BLUS30999",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "011E165C",
+          "Opcode": "00003000",
+          "Value": "00000268",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000118",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43480000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Void Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E31F4",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Chaose Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E3220",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Shadow Dagger Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010ED8A8",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00186AA0",
+          "Opcode": "00002000",
+          "Value": "48C143B0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AE50",
+          "Opcode": "00002000",
+          "Value": "3C60011E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AE54",
+          "Opcode": "00002000",
+          "Value": "3063165C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AE58",
+          "Opcode": "00002000",
+          "Value": "80630000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AE5C",
+          "Opcode": "00002000",
+          "Value": "7C032000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AE60",
+          "Opcode": "00002000",
+          "Value": "41820008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AE64",
+          "Opcode": "00002000",
+          "Value": "EC211028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AE68",
+          "Opcode": "00002000",
+          "Value": "4B3EBC3C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Powers",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002D9FD4",
+          "Opcode": "00002000",
+          "Value": "48AC0F38",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF00",
+          "Opcode": "00002000",
+          "Value": "C3FE0028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF04",
+          "Opcode": "00002000",
+          "Value": "D3FE0024",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF08",
+          "Opcode": "00002000",
+          "Value": "4B53F0D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF0C",
+          "Opcode": "00002000",
+          "Value": "3C60010E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF10",
+          "Opcode": "00002000",
+          "Value": "606431D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF14",
+          "Opcode": "00002000",
+          "Value": "7C04F000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF18",
+          "Opcode": "00002000",
+          "Value": "4182FFE8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF1C",
+          "Opcode": "00002000",
+          "Value": "606431FC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF20",
+          "Opcode": "00002000",
+          "Value": "7C04F000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF24",
+          "Opcode": "00002000",
+          "Value": "4182FFDC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF28",
+          "Opcode": "00002000",
+          "Value": "6064D884",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF2C",
+          "Opcode": "00002000",
+          "Value": "7C04F000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF30",
+          "Opcode": "00002000",
+          "Value": "4182FFD0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00D9AF34",
+          "Opcode": "00002000",
+          "Value": "4BFFFFD0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [For 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "God Mode + Magic No Cost (after first hit)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0018FB00",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018FB04",
+          "Opcode": "00002000",
+          "Value": "38800001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018FB10",
+          "Opcode": "00002000",
+          "Value": "90830024",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018FB18",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018FB24",
+          "Opcode": "00002000",
+          "Value": "98830022",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018FB2C",
+          "Opcode": "00002000",
+          "Value": "48000450",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018FF84",
+          "Opcode": "00002000",
+          "Value": "98830022",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018FF8C",
+          "Opcode": "00002000",
+          "Value": "48000238",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Auto Block",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0018CD20",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018CD2C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0018CD84",
+          "Opcode": "00002000",
+          "Value": "4186006C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001969C0",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Chaos Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E3220",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Bat Swarm",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E34F4",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Myst Form",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010EDE88",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Tears of a Saint",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E3990",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ensnared Demon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E39E8",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stolas Clock",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E3A40",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Seal of Alastor",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E39BC",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Dodo Eggs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E3B1C",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Talisman of the Dragon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E3A6C",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Dungeon Keys",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E3B48",
+          "Opcode": "00002000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "011E235C",
+          "Opcode": "00003000",
+          "Value": "00000268",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "00000118",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43480000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Void Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E3D74",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Chaos Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E3DA0",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Shadow Dagger Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010EE520",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Bat Swarm",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E4074",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Myst Form",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010EEB00",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Tears of a Saint",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E4510",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ensnared Demon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E4568",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stolas Clock",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E45C0",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Seal of Alastor",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E453C",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Dodo Eggs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E469C",
+          "Opcode": "00002000",
+          "Value": "00000003",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Talisman of the Dragon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E45EC",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Dungeon Keys",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010E46C8",
+          "Opcode": "00002000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

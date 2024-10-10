@@ -1,0 +1,67 @@
+{
+  "Game": "Sniper Ghost Warrior 2 JP",
+  "Region": "BLJM60539",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029514C",
+          "Opcode": "00002000",
+          "Value": "3B80000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Medikits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0040B994",
+          "Opcode": "00002000",
+          "Value": "7C601B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029514C",
+          "Opcode": "00002000",
+          "Value": "3B80000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0040B994",
+          "Opcode": "00002000",
+          "Value": "7C601B78",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

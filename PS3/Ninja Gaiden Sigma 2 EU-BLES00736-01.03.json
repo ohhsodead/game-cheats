@@ -1,0 +1,148 @@
+{
+  "Game": "Ninja Gaiden Sigma 2 EU",
+  "Region": "BLES00736",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "1P Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001782F0",
+          "Opcode": "00002000",
+          "Value": "81F80004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible & Hit Anywhere",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00177C4C",
+          "Opcode": "00002000",
+          "Value": "2F960002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00177C50",
+          "Opcode": "00002000",
+          "Value": "419E0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00177C54",
+          "Opcode": "00002000",
+          "Value": "2F800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00177C58",
+          "Opcode": "00002000",
+          "Value": "419E00AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00177C60",
+          "Opcode": "00002000",
+          "Value": "81F80004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "01A75C64",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money Alt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028FEA4",
+          "Opcode": "00002000",
+          "Value": "91640000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028FEA8",
+          "Opcode": "00002000",
+          "Value": "80040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028FEAC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016DCF4C",
+          "Opcode": "00005100",
+          "Value": "016DCF60",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "016DCF4C",
+          "Opcode": "00005100",
+          "Value": "016DCF4E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016DCF70 016DCF72",
+          "Opcode": "00005100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

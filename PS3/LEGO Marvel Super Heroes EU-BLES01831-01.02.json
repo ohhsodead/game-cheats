@@ -1,0 +1,19 @@
+{
+  "Game": "LEGO Marvel Super Heroes EU",
+  "Region": "BLES01831",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Max Studs On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C78D0C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Game": "The Bureau XCOM Declassified US",
+  "Region": "BLUS30780",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo And Grenades",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0073F874 60000000",
+          "Opcode": "00020000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "Game": "God of War 3 EU",
+  "Region": "BCES00510",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Orbs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "39694C88",
+          "Opcode": "00002000",
+          "Value": "497423F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009654C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health - Hard Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00567530",
+          "Opcode": "00003000",
+          "Value": "00000010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "000001BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "48000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Jump",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3969369F",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "39693420 3969341C",
+          "Opcode": "00005000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Item Bar",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "39694C74",
+          "Opcode": "00002000",
+          "Value": "43480000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Rage of Sparta",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "39694C78",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

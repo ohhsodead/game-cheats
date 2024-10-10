@@ -1,0 +1,57 @@
+{
+  "Game": "Resonance of Fate JP",
+  "Region": "BLJM60187",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Money (Have to sell an item)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0059C4C8",
+          "Opcode": "00002000",
+          "Value": "917F03CC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Buy/Sell Money Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0059C468",
+          "Opcode": "00001000",
+          "Value": "00004800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059C4C8",
+          "Opcode": "00001000",
+          "Value": "0000917F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sell Item For Max Cash",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0059C468",
+          "Opcode": "00002000",
+          "Value": "48000054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0059C4C8",
+          "Opcode": "00002000",
+          "Value": "917F03CC",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

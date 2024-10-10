@@ -1,0 +1,40 @@
+{
+  "Game": "Final Fantasy XIII-2 EU",
+  "Region": "BLES01269",
+  "Version": "01.06",
+  "Cheats": [
+    {
+      "Name": "999999 Damage (Press Select=on) (Press Start=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0008C17C",
+          "Opcode": "00002000",
+          "Value": "41810078",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00080000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0008C17C",
+          "Opcode": "00002000",
+          "Value": "40810078",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

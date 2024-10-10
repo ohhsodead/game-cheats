@@ -1,0 +1,52 @@
+{
+  "Game": "The Walking Dead Survival Instinct US",
+  "Region": "BLUS31065",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Zombie No Attack (Up=On Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B5DBB4",
+          "Opcode": "00002000",
+          "Value": "447A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B5DBB4",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Health Modifier X999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B59C08",
+          "Opcode": "00002000",
+          "Value": "4E6E6B28",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

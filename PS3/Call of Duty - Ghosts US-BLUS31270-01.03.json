@@ -1,0 +1,587 @@
+{
+  "Game": "Call of Duty - Ghosts US",
+  "Region": "BLUS31270",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003B439C",
+          "Opcode": "00002000",
+          "Value": "386003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003ABACC",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00272188",
+          "Opcode": "00002000",
+          "Value": "38602710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0027218C",
+          "Opcode": "00002000",
+          "Value": "90790154",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00272190",
+          "Opcode": "00002000",
+          "Value": "90790158",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002725E0",
+          "Opcode": "00002000",
+          "Value": "38602710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002725E4",
+          "Opcode": "00002000",
+          "Value": "90790154",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002725E8",
+          "Opcode": "00002000",
+          "Value": "90790158",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003ABF4C",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003B481C",
+          "Opcode": "00002000",
+          "Value": "386003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<Unknown Cheat>",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000DD370",
+          "Opcode": "00002000",
+          "Value": "42BE0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000DD374",
+          "Opcode": "00002000",
+          "Value": "42BE0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000DD378",
+          "Opcode": "00002000",
+          "Value": "43BE0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<Super Jump??>",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002905BC",
+          "Opcode": "00002000",
+          "Value": "42C60000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<Part Of Super Jump Cheat Or Something Else??>",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00385050",
+          "Opcode": "00002000",
+          "Value": "42DC0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00385058",
+          "Opcode": "00002000",
+          "Value": "44FA0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<No Recoil??>",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A05C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<Infinite Ammo??>",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003AC05C",
+          "Opcode": "00002000",
+          "Value": "38C00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<Part Of Infinite Ammo Cheat Or Something Else??>",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007CD08C",
+          "Opcode": "00002000",
+          "Value": "00340001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<Part Of Infinite Ammo Cheat Or Something Else??>0X07BC9C5",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007CD0B4",
+          "Opcode": "00002000",
+          "Value": "00340001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<ZombiKillah Mod v2.0>",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00385050",
+          "Opcode": "00002000",
+          "Value": "42DC0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00385058",
+          "Opcode": "00002000",
+          "Value": "44FA0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<ZombiKillah Mod v2.0>",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038F33C",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038F340",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038F344",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038F348",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038F34C",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038F358",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038F35C",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<ZombiKillah Mod v2.0>",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A04FC",
+          "Opcode": "00002000",
+          "Value": "C0230000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A0504",
+          "Opcode": "00002000",
+          "Value": "4082003C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<ZombiKillah Mod v2.0>",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A05C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<ZombiKillah Mod v2.0>",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A05DC",
+          "Opcode": "00002000",
+          "Value": "C0230000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A05E4",
+          "Opcode": "00002000",
+          "Value": "4800003C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "<ZombiKillah Mod v2.0>",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003AC05C",
+          "Opcode": "00002000",
+          "Value": "38C00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unknown Cheat",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000DD370",
+          "Opcode": "00002000",
+          "Value": "42BE0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000DD374",
+          "Opcode": "00002000",
+          "Value": "42BE0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000DD378",
+          "Opcode": "00002000",
+          "Value": "43BE0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Super Jump??",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002905BC",
+          "Opcode": "00002000",
+          "Value": "42C60000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Part Of Super Jump Cheat Or Something Else??",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00385050",
+          "Opcode": "00002000",
+          "Value": "42DC0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00385058",
+          "Opcode": "00002000",
+          "Value": "44FA0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Recoil??",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A05C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo??",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003AC05C",
+          "Opcode": "00002000",
+          "Value": "38C00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Part Of Infinite Ammo Cheat Or Something Else??",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007CD08C",
+          "Opcode": "00002000",
+          "Value": "00340001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Part Of Infinite Ammo Cheat Or Something Else?? 0X07BC9C5",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007CD0B4",
+          "Opcode": "00002000",
+          "Value": "00340001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ZombiKillah Mod v2.0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00385050",
+          "Opcode": "00002000",
+          "Value": "42DC0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00385058",
+          "Opcode": "00002000",
+          "Value": "44FA0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ZombiKillah Mod v2.0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038F33C",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038F340",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038F344",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038F348",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038F34C",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038F358",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0038F35C",
+          "Opcode": "00002000",
+          "Value": "3727C5AB",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ZombiKillah Mod v2.0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A04FC",
+          "Opcode": "00002000",
+          "Value": "C0230000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A0504",
+          "Opcode": "00002000",
+          "Value": "4082003C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ZombiKillah Mod v2.0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A05C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ZombiKillah Mod v2.0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003A05DC",
+          "Opcode": "00002000",
+          "Value": "C0230000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003A05E4",
+          "Opcode": "00002000",
+          "Value": "4800003C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "ZombiKillah Mod v2.0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003AC05C",
+          "Opcode": "00002000",
+          "Value": "38C00000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

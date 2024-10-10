@@ -1,0 +1,79 @@
+{
+  "Game": "Tomb Raider JP",
+  "Region": "BLJM60557",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00611504",
+          "Opcode": "00002000",
+          "Value": "7C1D0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00642614",
+          "Opcode": "00002000",
+          "Value": "39200064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Skill Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00751CD0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE AMMO",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00611504",
+          "Opcode": "00002000",
+          "Value": "7C1D0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00642614",
+          "Opcode": "00002000",
+          "Value": "39200064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Skill points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00751CD0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

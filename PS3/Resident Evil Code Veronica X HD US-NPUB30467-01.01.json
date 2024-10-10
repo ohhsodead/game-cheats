@@ -1,0 +1,256 @@
+{
+  "Game": "Resident Evil Code Veronica X HD US",
+  "Region": "NPUB30467",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Always Low Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB3DB8",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Retry Always 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB3DC0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Save Record",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB3598",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BDEA1E",
+          "Opcode": "00001000",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlock Everything",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB350C",
+          "Opcode": "00002000",
+          "Value": "00001FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlock All Files",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB3D84",
+          "Opcode": "00002000",
+          "Value": "00FFFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L1) 1st Person View, (Press L2) Normal View",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3577",
+          "Opcode": "00000000",
+          "Value": "000000C2",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3577",
+          "Opcode": "00000000",
+          "Value": "00000012",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L3+R3) to Get Special Weapon in Item Box",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C008",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3A68",
+          "Opcode": "00002000",
+          "Value": "00020BB5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3A6C",
+          "Opcode": "00002000",
+          "Value": "000303E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3A70",
+          "Opcode": "00002000",
+          "Value": "000403E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3A74",
+          "Opcode": "00002000",
+          "Value": "002103E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3A78",
+          "Opcode": "00002000",
+          "Value": "00220F9C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3A7C",
+          "Opcode": "00002000",
+          "Value": "008E03E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3A80",
+          "Opcode": "00002000",
+          "Value": "000B03E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB3A84",
+          "Opcode": "00002000",
+          "Value": "000103E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R2+X) Save Free Near Typewriter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000042",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB357D",
+          "Opcode": "00000000",
+          "Value": "00000020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R2+[]) Item Box Anywhere",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000082",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB357D",
+          "Opcode": "00000000",
+          "Value": "00000004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R2+O) Security Box 1 Anywhere",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000022",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB357D",
+          "Opcode": "00000000",
+          "Value": "0000000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R2+TRIANGLE) Security Box 2 Anywhere",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000012",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BB357D",
+          "Opcode": "00000000",
+          "Value": "00000014",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

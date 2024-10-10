@@ -1,0 +1,408 @@
+{
+  "Game": "Grand Theft Auto V US",
+  "Region": "BLUS31156",
+  "Version": "01.05",
+  "Cheats": [
+    {
+      "Name": "0 Wanted Level",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F5879C",
+          "Opcode": "00002000",
+          "Value": "39600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EF1C90",
+          "Opcode": "00002000",
+          "Value": "3BA003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EFD688",
+          "Opcode": "00002000",
+          "Value": "38E00063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health (Disable Invincibility)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0108E2E0",
+          "Opcode": "00002000",
+          "Value": "3C605000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0108E2E4",
+          "Opcode": "00002000",
+          "Value": "907F00C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility (Disable Infinite Health)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0108E2E0",
+          "Opcode": "00002000",
+          "Value": "38603FA0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0108E2E4",
+          "Opcode": "00002000",
+          "Value": "B07F00B4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Special Ability",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0102FC94",
+          "Opcode": "00002000",
+          "Value": "C03F0034",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money After Tossing A Dollar In A Strip Club",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0144C96C",
+          "Opcode": "00002000",
+          "Value": "482449D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0169133C",
+          "Opcode": "00002000",
+          "Value": "2C0800B8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01691340",
+          "Opcode": "00002000",
+          "Value": "40820018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01691344",
+          "Opcode": "00002000",
+          "Value": "2C0A0003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01691348",
+          "Opcode": "00002000",
+          "Value": "40820010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0169134C",
+          "Opcode": "00002000",
+          "Value": "3FE03B9B",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01691350",
+          "Opcode": "00002000",
+          "Value": "3BFFCA00",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01691354",
+          "Opcode": "00002000",
+          "Value": "93FEFFFC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01691358",
+          "Opcode": "00002000",
+          "Value": "607F0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0169135C",
+          "Opcode": "00002000",
+          "Value": "4BDBB614",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Crashproof Player Vehicle Engine",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00DA72A0",
+          "Opcode": "00002000",
+          "Value": "488EA0C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01691360",
+          "Opcode": "00002000",
+          "Value": "54E49F7E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01691364",
+          "Opcode": "00002000",
+          "Value": "2C040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01691368",
+          "Opcode": "00002000",
+          "Value": "38803000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0169136C",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01691370",
+          "Opcode": "00002000",
+          "Value": "38803FA0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01691374",
+          "Opcode": "00002000",
+          "Value": "B08300B4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01691378",
+          "Opcode": "00002000",
+          "Value": "C06300C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0169137C",
+          "Opcode": "00002000",
+          "Value": "4B715F28",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0 Wanted Level",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FA01CC",
+          "Opcode": "00002000",
+          "Value": "39600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F37530",
+          "Opcode": "00002000",
+          "Value": "3BA003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F430E8",
+          "Opcode": "00002000",
+          "Value": "38E00063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health (Disable Invincibility)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010DC120",
+          "Opcode": "00002000",
+          "Value": "3C605000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010DC124",
+          "Opcode": "00002000",
+          "Value": "907F00C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility (Disable Infinite Health)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010DC120",
+          "Opcode": "00002000",
+          "Value": "38603FA0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010DC124",
+          "Opcode": "00002000",
+          "Value": "B07F00B4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Special Ability",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0107A80C",
+          "Opcode": "00002000",
+          "Value": "C03F0034",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0 Wanted Level",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FA0BAC",
+          "Opcode": "00002000",
+          "Value": "39600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F37F10",
+          "Opcode": "00002000",
+          "Value": "3BA003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F43AC8",
+          "Opcode": "00002000",
+          "Value": "38E00063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health (Disable Invincibility)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010DCB00",
+          "Opcode": "00002000",
+          "Value": "3C605000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010DCB04",
+          "Opcode": "00002000",
+          "Value": "907F00C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility (Disable Infinite Health)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010DCB00",
+          "Opcode": "00002000",
+          "Value": "38603FA0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010DCB04",
+          "Opcode": "00002000",
+          "Value": "B07F00B4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Special Ability",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0107B1EC",
+          "Opcode": "00002000",
+          "Value": "C03F0034",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

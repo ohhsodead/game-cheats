@@ -1,0 +1,31 @@
+{
+  "Game": "Earthworm Jim HD US",
+  "Region": "NPUB30120",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C8C10",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Bullets",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001AD13C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Game": "Warriors of Orochi 3 JP",
+  "Region": "BLJM60417",
+  "Version": "01.04",
+  "Cheats": [
+    {
+      "Name": "1 Hit Kill Enemy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BF837C",
+          "Opcode": "00002000",
+          "Value": "BF800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Hit Kill Enemy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BF8464",
+          "Opcode": "00002000",
+          "Value": "BF800000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

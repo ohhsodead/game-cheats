@@ -1,0 +1,116 @@
+{
+  "Game": "Resistance 3 US",
+  "Region": "BCUS98176",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Primary Ammo Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00570B6C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Secondary Ammo Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00571770",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Grenades Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00158268",
+          "Opcode": "00002000",
+          "Value": "38600005",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can't Die",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0017761C",
+          "Opcode": "00002000",
+          "Value": "3C607F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00177620",
+          "Opcode": "00002000",
+          "Value": "907F00F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00177624",
+          "Opcode": "00002000",
+          "Value": "3BC00000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00183D70",
+          "Opcode": "00002000",
+          "Value": "3C607F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00183D74",
+          "Opcode": "00002000",
+          "Value": "907D00F8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00183D78",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00183D7C",
+          "Opcode": "00002000",
+          "Value": "4BFFFF6C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Have All Weapons",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BE7F0",
+          "Opcode": "00002000",
+          "Value": "3CA07FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001BE7F4",
+          "Opcode": "00002000",
+          "Value": "60A5FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

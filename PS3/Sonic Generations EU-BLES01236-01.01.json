@@ -1,0 +1,157 @@
+{
+  "Game": "Sonic Generations EU",
+  "Region": "BLES01236",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Rings 999 While Increasing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00973BCC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Life 99 While Changing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D43204",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Timer Always 00:00.00",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D1A18C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press []) to Boost Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "036659F8",
+          "Opcode": "00003000",
+          "Value": "000005AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "42C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99999 PT While Changing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D3D30C",
+          "Opcode": "00002000",
+          "Value": "9169A0F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Free Super Sonic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009687C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0098603C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0098604C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00BDECC8",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B28CCC",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rings Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00968714",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D1A358",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99 Lives On Gain/Lose",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D433D0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

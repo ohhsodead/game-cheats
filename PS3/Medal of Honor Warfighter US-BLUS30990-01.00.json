@@ -1,0 +1,19 @@
+{
+  "Game": "Medal of Honor Warfighter US",
+  "Region": "BLUS30990",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00173DD8",
+          "Opcode": "00002000",
+          "Value": "390003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

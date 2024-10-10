@@ -1,0 +1,177 @@
+{
+  "Game": "Red Dead Redemption GOTY Edition EU",
+  "Region": "BLES01294",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0004996C",
+          "Opcode": "00002000",
+          "Value": "3C6047C3",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00049970",
+          "Opcode": "00002000",
+          "Value": "907C0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00049974",
+          "Opcode": "00002000",
+          "Value": "907C0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00049978",
+          "Opcode": "00002000",
+          "Value": "4800004C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D533C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Dead Eye",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0004A284",
+          "Opcode": "00002000",
+          "Value": "C0260394",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0004A288",
+          "Opcode": "00002000",
+          "Value": "D0260390",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000DAA24",
+          "Opcode": "00002000",
+          "Value": "30630000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Horse Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00940AB8",
+          "Opcode": "00002000",
+          "Value": "C3DF0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00940ABC",
+          "Opcode": "00002000",
+          "Value": "D3DF0010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money On Gain/Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D3817C",
+          "Opcode": "00002000",
+          "Value": "4842A62C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011741D4",
+          "Opcode": "00002000",
+          "Value": "7CA3212E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011741D8",
+          "Opcode": "00002000",
+          "Value": "7CA32214",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011741DC",
+          "Opcode": "00002000",
+          "Value": "80A5FFFC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011741E0",
+          "Opcode": "00002000",
+          "Value": "2C0502B8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011741E4",
+          "Opcode": "00002000",
+          "Value": "40820010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011741E8",
+          "Opcode": "00002000",
+          "Value": "3CA04974",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011741EC",
+          "Opcode": "00002000",
+          "Value": "60A523F0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011741F0",
+          "Opcode": "00002000",
+          "Value": "7CA3212E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "011741F8",
+          "Opcode": "00002000",
+          "Value": "4BBD59B8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

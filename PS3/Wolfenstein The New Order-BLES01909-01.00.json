@@ -1,0 +1,198 @@
+{
+  "Game": "Wolfenstein The New Order",
+  "Region": "BLES01909",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Infinite Health/Armor",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012CD03C",
+          "Opcode": "00002000",
+          "Value": "486B4AC4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B00",
+          "Opcode": "00002000",
+          "Value": "3C804B18",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B04",
+          "Opcode": "00002000",
+          "Value": "6084967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B08",
+          "Opcode": "00002000",
+          "Value": "90830004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B0C",
+          "Opcode": "00002000",
+          "Value": "9083000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B10",
+          "Opcode": "00002000",
+          "Value": "C0230004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B14",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E507B4",
+          "Opcode": "00002000",
+          "Value": "388003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E506D4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Laser Cutter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E62C88",
+          "Opcode": "00002000",
+          "Value": "60770000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health (Guardian Robot)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010A7D7C",
+          "Opcode": "00002000",
+          "Value": "488D9D9C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B18",
+          "Opcode": "00002000",
+          "Value": "C0230008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B1C",
+          "Opcode": "00002000",
+          "Value": "D023000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B20",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload (Guardian Robot)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AEA4AC",
+          "Opcode": "00002000",
+          "Value": "30C60000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AE9C54",
+          "Opcode": "00002000",
+          "Value": "38600001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Infinite Health/Armor",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "012CD03C",
+          "Opcode": "00002000",
+          "Value": "486B4AC4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B00",
+          "Opcode": "00002000",
+          "Value": "3C804479",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B04",
+          "Opcode": "00002000",
+          "Value": "6084C000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B08",
+          "Opcode": "00002000",
+          "Value": "90830004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B0C",
+          "Opcode": "00002000",
+          "Value": "9083000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B10",
+          "Opcode": "00002000",
+          "Value": "C0230004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "01981B14",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "Game": "F.E.A.R. 2 Project Origin US",
+  "Region": "BLUS30251",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Use A Health Kit For Permanent Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006442F8",
+          "Opcode": "00002000",
+          "Value": "91630030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00644308",
+          "Opcode": "00002000",
+          "Value": "48000044",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Kits Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006442F0",
+          "Opcode": "00002000",
+          "Value": "D1A30018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003170A8",
+          "Opcode": "00002000",
+          "Value": "39400004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0031717C",
+          "Opcode": "00002000",
+          "Value": "4BFFFF5C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Use A Health Kit For Permanent Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00651178",
+          "Opcode": "00002000",
+          "Value": "91630030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00651188",
+          "Opcode": "00002000",
+          "Value": "48000044",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Kits Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00651170",
+          "Opcode": "00002000",
+          "Value": "D1A30018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0031F7A8",
+          "Opcode": "00002000",
+          "Value": "39400004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0031F87C",
+          "Opcode": "00002000",
+          "Value": "4BFFFF5C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Armor Doesn't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00656ACC",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00656AD0",
+          "Opcode": "00002000",
+          "Value": "901D002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Kits Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002EDA44",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004C8C08",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002EF408",
+          "Opcode": "00002000",
+          "Value": "394BFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0032F8A0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005985DC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005C1114",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Mech Machine Guns Don't Overheat",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00327A0C",
+          "Opcode": "00002000",
+          "Value": "C1BE8064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Focus",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004C1550",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004C1554",
+          "Opcode": "00002000",
+          "Value": "901F0070",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004C1558",
+          "Opcode": "00002000",
+          "Value": "901F0078",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004C155C",
+          "Opcode": "00002000",
+          "Value": "C01F0078",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Sprint Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002D39D8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Load Game For 8 Health Kits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002F3EC8",
+          "Opcode": "00002000",
+          "Value": "989D0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Kits Automatically Refill Health On All Difficulties",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00668338",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Doesn't Decrease For You, Enemies Die from Any Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00652D88",
+          "Opcode": "00002000",
+          "Value": "48C5C1E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF70",
+          "Opcode": "00002000",
+          "Value": "895F01AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF74",
+          "Opcode": "00002000",
+          "Value": "2F8A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF78",
+          "Opcode": "00002000",
+          "Value": "EC000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF7C",
+          "Opcode": "00002000",
+          "Value": "EDAD6828",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF80",
+          "Opcode": "00002000",
+          "Value": "EDA06828",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF84",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF88",
+          "Opcode": "00002000",
+          "Value": "C01F0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF8C",
+          "Opcode": "00002000",
+          "Value": "C1BF0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF90",
+          "Opcode": "00002000",
+          "Value": "4B3A3DFC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00656AE8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Health Doesn't Decrease For You",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00652D88",
+          "Opcode": "00002000",
+          "Value": "48C5C1E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF70",
+          "Opcode": "00002000",
+          "Value": "895F01AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF74",
+          "Opcode": "00002000",
+          "Value": "2F8A0000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF78",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF7C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF80",
+          "Opcode": "00002000",
+          "Value": "EDA06828",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF84",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF88",
+          "Opcode": "00002000",
+          "Value": "C01F0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF8C",
+          "Opcode": "00002000",
+          "Value": "C1BF0014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012AEF90",
+          "Opcode": "00002000",
+          "Value": "4B3A3DFC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00656AE8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

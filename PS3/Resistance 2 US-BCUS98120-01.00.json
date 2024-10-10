@@ -1,0 +1,219 @@
+{
+  "Game": "Resistance 2 US",
+  "Region": "BCUS98120",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004DDD50",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Weapon 2 Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004DDB88",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Reserve Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004E2D58",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rapid Fire",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004D7BA8",
+          "Opcode": "00002000",
+          "Value": "ED63637E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rapid Fire (Alt)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004D7BA8",
+          "Opcode": "00002000",
+          "Value": "C17E8010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Don't Move From Their Locations",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003450E0",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Dumber Enemy AI",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00346B78",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00346D18",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0010C2A8",
+          "Opcode": "00002000",
+          "Value": "3D807F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0010C2AC",
+          "Opcode": "00002000",
+          "Value": "918300E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0010C2B0",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Grenades",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0010E050",
+          "Opcode": "00002000",
+          "Value": "38600006",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Jump A Lot Farther",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00126584",
+          "Opcode": "00002000",
+          "Value": "C17E8048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00126590",
+          "Opcode": "00002000",
+          "Value": "ED6B5832",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "High Jump While Moving",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00126584",
+          "Opcode": "00002000",
+          "Value": "C17E8048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00126590",
+          "Opcode": "00002000",
+          "Value": "EDA159FA",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00126594",
+          "Opcode": "00002000",
+          "Value": "EFBD0372",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001265D0",
+          "Opcode": "00002000",
+          "Value": "EF7D003A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001265DC",
+          "Opcode": "00002000",
+          "Value": "EF7B003A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Run Faster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001274DC",
+          "Opcode": "00002000",
+          "Value": "EFAB502A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Run Increasingly Faster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001274DC",
+          "Opcode": "00002000",
+          "Value": "EFAB5032",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

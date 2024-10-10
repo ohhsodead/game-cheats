@@ -1,0 +1,43 @@
+{
+  "Game": "Just Cause 2 EU",
+  "Region": "BLES00517",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00715A64",
+          "Opcode": "00002000",
+          "Value": "ED800028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0039A148",
+          "Opcode": "00002000",
+          "Value": "39290000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Explosives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BD358",
+          "Opcode": "00002000",
+          "Value": "38A00009",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

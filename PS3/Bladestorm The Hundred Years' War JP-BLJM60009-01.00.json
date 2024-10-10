@@ -1,0 +1,419 @@
+{
+  "Game": "Bladestorm The Hundred Years' War JP",
+  "Region": "BLJM60009",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1A34F5FC",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00072A18",
+          "Opcode": "00002000",
+          "Value": "409D0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Reputation",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1A34F600",
+          "Opcode": "00002000",
+          "Value": "000007D0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Point",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000F05F8",
+          "Opcode": "00002000",
+          "Value": "409D0134",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001D8348",
+          "Opcode": "00002000",
+          "Value": "409D007C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0036409C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Combo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000FC334",
+          "Opcode": "00002000",
+          "Value": "3940270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unit 1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1A34F8B2",
+          "Opcode": "00000000",
+          "Value": "0000001E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F8B3",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unit 2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1A34F8B6",
+          "Opcode": "00000000",
+          "Value": "0000001E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F8B7",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unit 3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1A34F8BA",
+          "Opcode": "00000000",
+          "Value": "0000001E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F8BB",
+          "Opcode": "00000000",
+          "Value": "00000009",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Weapon/Equip 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1A34F628",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "000040AA",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F6FA",
+          "Opcode": "00000000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F6C1",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004014",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F727",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004030",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F75F",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F79D",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F7DB",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Item 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1A34F81B",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004027",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F84C",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "0000403C",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Battle Book",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1A34F845",
+          "Opcode": "00000000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "00004100 1A34F846 0000FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000002",
+          "Opcode": "00004005",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Battle Book SP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Opcode": "00004100 1A34F90E 0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000054",
+          "Opcode": "00004011",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Battle Book LV 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1A34F907",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000054",
+          "Opcode": "00004011",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "All Weapon/Equip 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1A34F628",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "000040AD",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F6FA",
+          "Opcode": "00000000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F727",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004030",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F75F",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F79D",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1A34F7DB",
+          "Opcode": "00004200",
+          "Value": "00000063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00004036",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Game": "White Knight Chronicles US",
+  "Region": "BCUS98146",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "HP/MP Recover When Drawing Weapon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00512424",
+          "Opcode": "00002000",
+          "Value": "8009005C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00512428",
+          "Opcode": "00002000",
+          "Value": "2F800001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain or Loss Items to Get 255",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003BDDB8",
+          "Opcode": "00002000",
+          "Value": "380000FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AC Max when Attacking Enemies",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00519A40",
+          "Opcode": "00002000",
+          "Value": "3C0042C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00519A44",
+          "Opcode": "00002000",
+          "Value": "90091560",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Use Skill Points to Gain Skill Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0036E160",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0036E184",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

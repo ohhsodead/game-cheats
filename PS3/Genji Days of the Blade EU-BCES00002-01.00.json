@@ -1,0 +1,74 @@
+{
+  "Game": "Genji Days of the Blade EU",
+  "Region": "BCES00002",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Mashogane Fragments",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002718BC",
+          "Opcode": "00002000",
+          "Value": "916A0700",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Essence of Amahagane",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00271914",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Upgrade for Max HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00271914",
+          "Opcode": "00002000",
+          "Value": "3800270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Upgrade for Max Kamui",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026EB3C",
+          "Opcode": "00002000",
+          "Value": "380003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain 99 Items on Pickup",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00271814",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0026EF4C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

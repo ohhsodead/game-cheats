@@ -1,0 +1,19 @@
+{
+  "Game": "Zombie Apocalypse US",
+  "Region": "NPUB30069",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Life 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BCFA18",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

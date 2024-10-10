@@ -1,0 +1,185 @@
+{
+  "Game": "ICO & Shadow of the Colossus Collection EU",
+  "Region": "BCES01097",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "[ICO] (Press L2+[]) to Enemy 1 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000088",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012CF5C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "[ICO] (Press L1+L2) to Enemy Low AI",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001328FC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "[Wander] (Press R1+TRIANGLE) to Unlock Hard Mode after Saving",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014DBB6C",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "[Wander] (Press R1+X) to Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "00000048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014DFA40",
+          "Opcode": "00002000",
+          "Value": "43C80000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007103EC",
+          "Opcode": "00003000",
+          "Value": "0000002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "[Wander] (Press R1+R2) to Infinite Grip",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C003",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014DFA44",
+          "Opcode": "00002000",
+          "Value": "43480000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007103EC",
+          "Opcode": "00003000",
+          "Value": "00000030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "43480000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "[Wander] (Press R1+[]) Attack Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000088",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "014DF9E0",
+          "Opcode": "00002000",
+          "Value": "43C80000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Don't open the CHT options of 2 games at the same time.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "[ICO] Enemy low AI",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00147314",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "[ICO] 1 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00141974",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Game": "Assassin's Creed Brotherhood JP",
+  "Region": "BLJM60250",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00960CDC",
+          "Opcode": "00002000",
+          "Value": "801F005C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

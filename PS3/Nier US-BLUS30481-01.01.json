@@ -1,0 +1,241 @@
+{
+  "Game": "Nier US",
+  "Region": "BLUS30481",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0046F8FC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money HP/MP & All Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003B2FF4",
+          "Opcode": "00002000",
+          "Value": "3F000379",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B2FF8",
+          "Opcode": "00002000",
+          "Value": "6318E490",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B2FFC",
+          "Opcode": "00002000",
+          "Value": "3F200098",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3000",
+          "Opcode": "00002000",
+          "Value": "6339967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3004",
+          "Opcode": "00002000",
+          "Value": "93380070",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3008",
+          "Opcode": "00002000",
+          "Value": "933800BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B300C",
+          "Opcode": "00002000",
+          "Value": "3F20000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3010",
+          "Opcode": "00002000",
+          "Value": "6339423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3014",
+          "Opcode": "00002000",
+          "Value": "9338004C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3018",
+          "Opcode": "00002000",
+          "Value": "3B20270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B301C",
+          "Opcode": "00002000",
+          "Value": "93380050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3020",
+          "Opcode": "00002000",
+          "Value": "93380054",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3024",
+          "Opcode": "00002000",
+          "Value": "3F20447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3028",
+          "Opcode": "00002000",
+          "Value": "93380058",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B302C",
+          "Opcode": "00002000",
+          "Value": "9338005C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3030",
+          "Opcode": "00002000",
+          "Value": "3B400063",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3034",
+          "Opcode": "00002000",
+          "Value": "3B200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3038",
+          "Opcode": "00002000",
+          "Value": "3B1800C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B303C",
+          "Opcode": "00002000",
+          "Value": "9B580000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3040",
+          "Opcode": "00002000",
+          "Value": "3B180001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3044",
+          "Opcode": "00002000",
+          "Value": "3B390001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3048",
+          "Opcode": "00002000",
+          "Value": "2C990100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B304C",
+          "Opcode": "00002000",
+          "Value": "41A50008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3050",
+          "Opcode": "00002000",
+          "Value": "4BFFFFEC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3054",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3058",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B305C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3060",
+          "Opcode": "00002000",
+          "Value": "EB010108",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3064",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003B3068",
+          "Opcode": "00002000",
+          "Value": "48376358",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "007293BC",
+          "Opcode": "00002000",
+          "Value": "4BC89C38",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

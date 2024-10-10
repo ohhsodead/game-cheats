@@ -1,0 +1,205 @@
+{
+  "Game": "Mobile Suit Gundam Crossfire JP",
+  "Region": "BLJS10002",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Point 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "51825358",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Rank Senior General",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "51827676",
+          "Opcode": "00001000",
+          "Value": "00000010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player EXP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "5182767C",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player LV 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "5182767A",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player Status 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "51827682",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "51827686",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "5182768A",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "First Partner Rank Senior General",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "518276A6",
+          "Opcode": "00001000",
+          "Value": "00000010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "First Partner EXP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "518276AC",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "First Partner LV99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "518276AA",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "First Partner Status 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "518276B2",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "518276B6",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "518276BA",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Second Partner Rank Senior General",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "518276D6",
+          "Opcode": "00001000",
+          "Value": "00000010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Second Partner EXP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "518276DC",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Second Partner LV99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "518276DA",
+          "Opcode": "00001000",
+          "Value": "00000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Second Partner Status 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "518276E2",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "518276E6",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "518276EA",
+          "Opcode": "00001000",
+          "Value": "000003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

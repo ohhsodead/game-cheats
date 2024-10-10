@@ -1,0 +1,52 @@
+{
+  "Game": "Trine EU",
+  "Region": "NPEB00100",
+  "Version": "1.03",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0023ACD0",
+          "Opcode": "00002000",
+          "Value": "80760258",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023ACD4",
+          "Opcode": "00002000",
+          "Value": "90760254",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0023AC98",
+          "Opcode": "00002000",
+          "Value": "3BA000C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023AC9C",
+          "Opcode": "00002000",
+          "Value": "93B60790",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0023ACA0",
+          "Opcode": "00002000",
+          "Value": "4800001C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

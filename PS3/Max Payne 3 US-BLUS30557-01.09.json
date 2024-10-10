@@ -1,0 +1,168 @@
+{
+  "Game": "Max Payne 3 US",
+  "Region": "BLUS30557",
+  "Version": "01.09",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00124388",
+          "Opcode": "00002000",
+          "Value": "3C60447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012438C",
+          "Opcode": "00002000",
+          "Value": "907F0358",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00124398",
+          "Opcode": "00002000",
+          "Value": "386003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001243AC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00451EA8",
+          "Opcode": "00002000",
+          "Value": "339C0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Bullet-Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00208D50",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012A308",
+          "Opcode": "00002000",
+          "Value": "3C60447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012A30C",
+          "Opcode": "00002000",
+          "Value": "907F0358",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012A318",
+          "Opcode": "00002000",
+          "Value": "386003E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0012A32C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00471EA8",
+          "Opcode": "00002000",
+          "Value": "339C0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Bullet-Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002105D0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Vehicle Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0032F518",
+          "Opcode": "00002000",
+          "Value": "3C80447A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0032F51C",
+          "Opcode": "00002000",
+          "Value": "90830358",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0032F520",
+          "Opcode": "00002000",
+          "Value": "3C800005",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0032F524",
+          "Opcode": "00002000",
+          "Value": "38842340",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0032F528",
+          "Opcode": "00002000",
+          "Value": "C0230358",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0032F52C",
+          "Opcode": "00002000",
+          "Value": "48000034",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

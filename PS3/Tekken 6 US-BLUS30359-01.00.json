@@ -1,0 +1,87 @@
+{
+  "Game": "Tekken 6 US",
+  "Region": "BLUS30359",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Fight Money 765,000,000G",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "361FAB94",
+          "Opcode": "00002000",
+          "Value": "2D98F940",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "361FAB98",
+          "Opcode": "00002000",
+          "Value": "2D98F940",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 HP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AA1124 00AA1120",
+          "Opcode": "00005000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000001",
+          "Opcode": "00005000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press Select) to 2P HP 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AA1D50",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [01.03 Only]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit Anywhere",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C27D8",
+          "Opcode": "00002000",
+          "Value": "419E0228",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

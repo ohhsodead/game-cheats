@@ -1,0 +1,130 @@
+{
+  "Game": "God Of War Ascension US",
+  "Region": "BCUS98232",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Master Code",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "42434153",
+          "Opcode": "00000100",
+          "Value": "25016018",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Red Orbs 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00230E04",
+          "Opcode": "00002000",
+          "Value": "3C600098",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00230E08",
+          "Opcode": "00002000",
+          "Value": "6063967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0062D040",
+          "Opcode": "00002000",
+          "Value": "6C656400",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0062D044",
+          "Opcode": "00002000",
+          "Value": "C0230218",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0062D048",
+          "Opcode": "00002000",
+          "Value": "D0230214",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0062D04C",
+          "Opcode": "00002000",
+          "Value": "3C800003",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0062D050",
+          "Opcode": "00002000",
+          "Value": "4B9FAB68",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00037BB4",
+          "Opcode": "00002000",
+          "Value": "48605490",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00232514",
+          "Opcode": "00002000",
+          "Value": "FFE3086E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Rage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0023104C",
+          "Opcode": "00002000",
+          "Value": "3C800082",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00231050",
+          "Opcode": "00002000",
+          "Value": "C0244E2C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00231054",
+          "Opcode": "00002000",
+          "Value": "D0230020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00231058",
+          "Opcode": "00002000",
+          "Value": "48000054",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

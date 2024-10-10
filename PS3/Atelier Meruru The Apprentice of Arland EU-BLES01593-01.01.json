@@ -1,0 +1,66 @@
+{
+  "Game": "Atelier Meruru The Apprentice of Arland EU",
+  "Region": "BLES01593",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Money On Buy/Sell/Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0020C240",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Stats",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00204DA4",
+          "Opcode": "00002000",
+          "Value": "409D01A0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00204DB8",
+          "Opcode": "00002000",
+          "Value": "409D0180",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00204DCC",
+          "Opcode": "00002000",
+          "Value": "409D0160",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00204DE0",
+          "Opcode": "00002000",
+          "Value": "409D0140",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00204DF4",
+          "Opcode": "00002000",
+          "Value": "409D007C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00204E04",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

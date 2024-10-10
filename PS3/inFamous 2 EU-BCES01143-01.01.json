@@ -1,0 +1,422 @@
+{
+  "Game": "inFamous 2 EU",
+  "Region": "BCES01143",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "EXP 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A18C60",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A18C64",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009E8D20",
+          "Opcode": "00003000",
+          "Value": "000007BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009E8D20",
+          "Opcode": "00003000",
+          "Value": "000007C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Energy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009E8D20",
+          "Opcode": "00003000",
+          "Value": "00001F34",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009E8D20",
+          "Opcode": "00003000",
+          "Value": "00001F38",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009E8D20",
+          "Opcode": "00003000",
+          "Value": "00001F3C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.5x AI Walk Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C837E",
+          "Opcode": "00001000",
+          "Value": "00003F00",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.75x AI Walk Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C837E",
+          "Opcode": "00001000",
+          "Value": "00003EC0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x AI Walk Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C837E",
+          "Opcode": "00001000",
+          "Value": "00004000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AIs Walk Backward",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C837E",
+          "Opcode": "00001000",
+          "Value": "0000BF80",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump 2x Higher",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218D8E",
+          "Opcode": "00001000",
+          "Value": "00004000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump 3x Higher",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218D8E",
+          "Opcode": "00001000",
+          "Value": "00004040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump 4x Higher",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218D8E",
+          "Opcode": "00001000",
+          "Value": "00004080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump 5x Higher",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218D8E",
+          "Opcode": "00001000",
+          "Value": "000040A0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump 6x Higher",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218D8E",
+          "Opcode": "00001000",
+          "Value": "000040C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump 7x Higher",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218D8E",
+          "Opcode": "00001000",
+          "Value": "000040E0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump 8x Higher",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218D8E",
+          "Opcode": "00001000",
+          "Value": "00004100",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump 9x Higher",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218D8E",
+          "Opcode": "00001000",
+          "Value": "00004110",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Jump 10x Higher",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218D8E",
+          "Opcode": "00001000",
+          "Value": "00004120",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ionic Charges Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0014D368",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Cole Is Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00172394",
+          "Opcode": "00002000",
+          "Value": "3C007F7F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0017239C",
+          "Opcode": "00002000",
+          "Value": "900907BC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001723A0",
+          "Opcode": "00002000",
+          "Value": "900907C0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001723C0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Nothing Changes Karma",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012971C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Only Gain Evil Karma",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00129738",
+          "Opcode": "00001000",
+          "Value": "00004800",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Only Gain Good Karma",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00129738",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Very Fast Karma Gain/Lose",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00129724",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Nothing Can Die (Select + L3=On) (Select + R3=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Opcode": "0000C000 00000000 00030000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034E8E4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Opcode": "0000C000 00000000 00050000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0034E8E4",
+          "Opcode": "00002000",
+          "Value": "D02307C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Electricity Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0014D410",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0014E484",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000F796C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Most Enemies Never Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E2FB2",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

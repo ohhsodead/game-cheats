@@ -1,0 +1,111 @@
+{
+  "Game": "Rocket Knight EU",
+  "Region": "NPEB00186",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00010100",
+          "Opcode": "00002000",
+          "Value": "3C804100",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010104",
+          "Opcode": "00002000",
+          "Value": "81C30014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010108",
+          "Opcode": "00002000",
+          "Value": "7F847000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001010C",
+          "Opcode": "00002000",
+          "Value": "419E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010110",
+          "Opcode": "00002000",
+          "Value": "EC21F828",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00010114",
+          "Opcode": "00002000",
+          "Value": "480BD034",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000CD144",
+          "Opcode": "00002000",
+          "Value": "4BF42FBC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite MP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00096238",
+          "Opcode": "00002000",
+          "Value": "EC63082A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Score (Press L3+R3)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "30914168",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Continues (Press L1+L2+R1+R2)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "0000000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "309141C8",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

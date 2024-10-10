@@ -1,0 +1,71 @@
+{
+  "Game": "Gran Turismo 6 EU",
+  "Region": "BCES01893",
+  "Version": "01.08",
+  "Cheats": [
+    {
+      "Name": "Freeze timer driving license",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003FA23C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FFA80",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00400360",
+          "Opcode": "00002000",
+          "Value": "931F024C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze timer driving license",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0041CC88",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "004226C0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00422FCC",
+          "Opcode": "00002000",
+          "Value": "931F024C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gold Medal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00FCA1AC",
+          "Opcode": "00002000",
+          "Value": "923E0014",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Game": "Remember Me",
+  "Region": "BLES01701",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "PMP 30000x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C494A8",
+          "Opcode": "00002000",
+          "Value": "38637530",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "PMP x30000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00C494A8",
+          "Opcode": "00002000",
+          "Value": "38637530",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

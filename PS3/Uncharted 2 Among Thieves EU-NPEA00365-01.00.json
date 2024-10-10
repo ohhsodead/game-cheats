@@ -1,0 +1,71 @@
+{
+  "Game": "Uncharted 2 Among Thieves EU",
+  "Region": "NPEA00365",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009FB40",
+          "Opcode": "00002000",
+          "Value": "48A4AB95",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AEA6D4",
+          "Opcode": "00002000",
+          "Value": "80030030",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AEA6D8",
+          "Opcode": "00002000",
+          "Value": "9003002C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00AEA6DC",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0086DFB0",
+          "Opcode": "00002000",
+          "Value": "396B0000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money After Earning Any Amount",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000CF34C",
+          "Opcode": "00002000",
+          "Value": "3C0005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000CF350",
+          "Opcode": "00002000",
+          "Value": "6000E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

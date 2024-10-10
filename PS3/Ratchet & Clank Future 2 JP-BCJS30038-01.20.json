@@ -1,0 +1,67 @@
+{
+  "Game": "Ratchet & Clank Future 2 JP",
+  "Region": "BCJS30038",
+  "Version": "01.20",
+  "Cheats": [
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E24F68",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E24F64",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E25068",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E25064",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008DB88",
+          "Opcode": "00002000",
+          "Value": "419A0038",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

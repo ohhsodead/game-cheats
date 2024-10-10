@@ -1,0 +1,140 @@
+{
+  "Game": "Far Cry 3 EU",
+  "Region": "NPEB01096",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Money On Buy/Sell",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A740F8",
+          "Opcode": "00002000",
+          "Value": "38802710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Skill Points On Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038CA1C",
+          "Opcode": "00002000",
+          "Value": "38A00063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo + Bottomless Clip [No Reload]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A5D238",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A5D23C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A5D250",
+          "Opcode": "00002000",
+          "Value": "80830014",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Alt Infinite Ammo + Bottomless Clip [No Reload]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A5D238",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A5D23C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A5D298",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Speed 2X",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B21978",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Exp On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038CD88",
+          "Opcode": "00002000",
+          "Value": "307F0030",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health (Press Up=On) (Press Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0097FD74",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00400000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0097FD74",
+          "Opcode": "00002000",
+          "Value": "C0430010",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

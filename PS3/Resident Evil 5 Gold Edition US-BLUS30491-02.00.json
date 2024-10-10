@@ -1,0 +1,166 @@
+{
+  "Game": "Resident Evil 5 Gold Edition US",
+  "Region": "BLUS30491",
+  "Version": "02.00",
+  "Cheats": [
+    {
+      "Name": "Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009C6FB0",
+          "Opcode": "00002000",
+          "Value": "801700D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C6FB4",
+          "Opcode": "00002000",
+          "Value": "2F80000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C6FB8",
+          "Opcode": "00002000",
+          "Value": "419D006C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "38879778",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money On Use",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AEA734",
+          "Opcode": "00002000",
+          "Value": "7D244B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Exchange Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3887977C",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0085EEB4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0085EF38",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A7AB4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001A812C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D2B18",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009CA308",
+          "Opcode": "00002000",
+          "Value": "801700D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009CA30C",
+          "Opcode": "00002000",
+          "Value": "2F80000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009CA310",
+          "Opcode": "00002000",
+          "Value": "419D006C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009C7000",
+          "Opcode": "00002000",
+          "Value": "801700D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C7004",
+          "Opcode": "00002000",
+          "Value": "2F80000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C0008",
+          "Opcode": "00002000",
+          "Value": "419D006C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

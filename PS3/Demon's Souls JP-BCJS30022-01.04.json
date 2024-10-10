@@ -1,0 +1,143 @@
+{
+  "Game": "Demon's Souls JP",
+  "Region": "BCJS30022",
+  "Version": "01.04",
+  "Cheats": [
+    {
+      "Name": "Souls 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "301E8048",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP 99999/99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "301E7FDC",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "301E7FE4",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - If you're in Soul body, HP is halved.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MP 99999/99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "301E7FE8",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "301E7FF0",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Stamina 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "301E8000",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Souls 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "301E8098",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP 99999/99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "301E802C",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "301E8034",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MP 99999/99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "301E8038",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "301E8040",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Stamina 99999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "301E8050",
+          "Opcode": "00002000",
+          "Value": "0001869F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

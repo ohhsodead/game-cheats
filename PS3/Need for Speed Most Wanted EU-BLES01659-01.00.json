@@ -1,0 +1,50 @@
+{
+  "Game": "Need for Speed Most Wanted EU",
+  "Region": "BLES01659",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Nitro",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0025B4C4",
+          "Opcode": "00002000",
+          "Value": "FC22DEEE",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Nitro",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0025C024",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E4958",
+          "Opcode": "00002000",
+          "Value": "3FC03B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002E495C",
+          "Opcode": "00002000",
+          "Value": "63DEC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

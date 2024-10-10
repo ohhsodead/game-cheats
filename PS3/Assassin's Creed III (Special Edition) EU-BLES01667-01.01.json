@@ -1,0 +1,43 @@
+{
+  "Game": "Assassin's Creed III (Special Edition) EU",
+  "Region": "BLES01667",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Money 999999999 After Pickup/Steal",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016A8F78",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016A4360",
+          "Opcode": "00002000",
+          "Value": "7D3F0214",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "011D6F14",
+          "Opcode": "00002000",
+          "Value": "B0BE005A",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

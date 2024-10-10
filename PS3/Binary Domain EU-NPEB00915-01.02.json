@@ -1,0 +1,19 @@
+{
+  "Game": "Binary Domain EU",
+  "Region": "NPEB00915",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Damage 0 P1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BA39C",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

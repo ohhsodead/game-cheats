@@ -1,0 +1,146 @@
+{
+  "Game": "Dynasty Warriors 7 Xtreme Legends EU",
+  "Region": "BLES01496",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Money After Buying",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028EA5C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0028EA60",
+          "Opcode": "00002000",
+          "Value": "90030C78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit Kill Enemy + Recover Hit Hp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6F548",
+          "Opcode": "00002000",
+          "Value": "BF800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Musou",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008A648",
+          "Opcode": "00002000",
+          "Value": "409C0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1000 HP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00289814",
+          "Opcode": "00002000",
+          "Value": "409D0028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1400 Attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00289814",
+          "Opcode": "00002000",
+          "Value": "409D0028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1400 Defense",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00289924",
+          "Opcode": "00002000",
+          "Value": "409D0028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Musou +3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002858A8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "500 Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00285704",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Multiple Arrow Shot",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F62044",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Move Player Speed (Normal)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6FF0C",
+          "Opcode": "00002000",
+          "Value": "3F800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Move Player Speed (2x)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F6FF0C",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

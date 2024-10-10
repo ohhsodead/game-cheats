@@ -1,0 +1,43 @@
+{
+  "Game": "Winning Post 7 2013",
+  "Region": "BLJM60576",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E2950",
+          "Opcode": "00002000",
+          "Value": "7C1E0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.01]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MONEY",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E2950",
+          "Opcode": "00002000",
+          "Value": "7C1E0378",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

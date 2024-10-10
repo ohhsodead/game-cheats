@@ -1,0 +1,38 @@
+{
+  "Game": "Fracture EUR",
+  "Region": "BLES00329",
+  "Version": "1.01",
+  "Cheats": [
+    {
+      "Name": "No Reload, Infinite Ammo/Grenades",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00479C40",
+          "Opcode": "00002000",
+          "Value": "39200063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00549A14",
+          "Opcode": "00002000",
+          "Value": "D1A3004C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00549A18",
+          "Opcode": "00002000",
+          "Value": "EC2D6824",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

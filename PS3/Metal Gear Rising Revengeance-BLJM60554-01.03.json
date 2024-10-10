@@ -1,0 +1,69 @@
+{
+  "Game": "Metal Gear Rising Revengeance",
+  "Region": "BLJM60554",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "Max BP on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0092BDC0",
+          "Opcode": "00002000",
+          "Value": "7CE6292D",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005CC1D0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005CE030",
+          "Opcode": "00002000",
+          "Value": "7C882378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "BP MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0092BDC0",
+          "Opcode": "00002000",
+          "Value": "7CE6292D",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005CC1D0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005CE030",
+          "Opcode": "00002000",
+          "Value": "7C882378",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

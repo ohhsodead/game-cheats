@@ -1,0 +1,50 @@
+{
+  "Game": "Twisted Metal US",
+  "Region": "BCUS98106",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0050837C",
+          "Opcode": "00002000",
+          "Value": "C0430010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00508380",
+          "Opcode": "00002000",
+          "Value": "D0430028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0031FBA8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Turbo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001C9EBC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "Game": "Call of Duty 4 Modern Warfare JP",
+  "Region": "BLJS10013",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "HP Max (Press Select, Will be red)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "107C1124",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "107C1128",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo OF All 32767 (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDD0",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDD4",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDD8",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDDC",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDE0",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDE4",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Grenade 999 (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDE8",
+          "Opcode": "00002000",
+          "Value": "000007FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Flash Grenade 999 (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EFD8",
+          "Opcode": "00002000",
+          "Value": "000007FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo Of All 32767 (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C006",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDD0",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDD4",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDD8",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDDC",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDE0",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "1090EDE4",
+          "Opcode": "00002000",
+          "Value": "00007FFF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "Game": "Batman - Arkham Origins US",
+  "Region": "BLUS31207",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00598C0C",
+          "Opcode": "00002000",
+          "Value": "38600080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00598C10",
+          "Opcode": "00002000",
+          "Value": "907F02AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00598C14",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00599C3C",
+          "Opcode": "00002000",
+          "Value": "38600080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00599C40",
+          "Opcode": "00002000",
+          "Value": "907F02AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00599C44",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Upgrade Points Don't Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0003FB14",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Endless Combo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00034068",
+          "Opcode": "00002000",
+          "Value": "49292314",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C6370",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C6374",
+          "Opcode": "00002000",
+          "Value": "90650000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C6378",
+          "Opcode": "00002000",
+          "Value": "4E800020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C637C",
+          "Opcode": "00002000",
+          "Value": "386713AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C6380",
+          "Opcode": "00002000",
+          "Value": "7C032800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C6384",
+          "Opcode": "00002000",
+          "Value": "4182FFF4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C6388",
+          "Opcode": "00002000",
+          "Value": "386713E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C638C",
+          "Opcode": "00002000",
+          "Value": "7C032800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C6390",
+          "Opcode": "00002000",
+          "Value": "4182FFE8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C6394",
+          "Opcode": "00002000",
+          "Value": "3867140C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C6398",
+          "Opcode": "00002000",
+          "Value": "7C032800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C639C",
+          "Opcode": "00002000",
+          "Value": "4082FFD4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C63A0",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C63A4",
+          "Opcode": "00002000",
+          "Value": "906713AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C63A8",
+          "Opcode": "00002000",
+          "Value": "906713E0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "012C63AC",
+          "Opcode": "00002000",
+          "Value": "4BFFFFC8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "Game": "Resident Evil 5 Gold Edition EU",
+  "Region": "BLES00485",
+  "Version": "02.00",
+  "Cheats": [
+    {
+      "Name": "1 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0053F9E8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Mercenaries Max Score",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00017608",
+          "Opcode": "00002000",
+          "Value": "3FA0000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0001760C",
+          "Opcode": "00002000",
+          "Value": "63BD423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Mercenaries Combo Never Break",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E924",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Mercenaries Max Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00920964",
+          "Opcode": "00002000",
+          "Value": "3D2045B9",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00920968",
+          "Opcode": "00002000",
+          "Value": "912B03E4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1p Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009C7000",
+          "Opcode": "00002000",
+          "Value": "801700D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C7004",
+          "Opcode": "00002000",
+          "Value": "2F80000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C7008",
+          "Opcode": "00002000",
+          "Value": "419D006C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Speedhack 2x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008609FC",
+          "Opcode": "00002000",
+          "Value": "EC7BD82A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Speedhack 5x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008609FC",
+          "Opcode": "00002000",
+          "Value": "C07E0070",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Speedhack 4x",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "008607C8",
+          "Opcode": "00002000",
+          "Value": "EF63182A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008609FC",
+          "Opcode": "00002000",
+          "Value": "EC7BD82A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Mercenaries Time Never Decrease + Combo Never Break",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001E85C",
+          "Opcode": "00002000",
+          "Value": "C3FE801C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Mercenaries Add 9999 sec by Killing with Melee",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002319C",
+          "Opcode": "00002000",
+          "Value": "3880270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Mercenaries Add 999 sec by Killing with Melee",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002319C",
+          "Opcode": "00002000",
+          "Value": "388003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Mercenaries Add 99 sec by Killing with Melee",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0002319C",
+          "Opcode": "00002000",
+          "Value": "38800063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "38879778",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AEA734",
+          "Opcode": "00002000",
+          "Value": "7D244B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EX Point",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3887977C",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0085EEB4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0085EF38",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A7AB4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001A812C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D2B18",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1p invelcible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009C7000",
+          "Opcode": "00002000",
+          "Value": "801700D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C7004",
+          "Opcode": "00002000",
+          "Value": "2F80000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C0008",
+          "Opcode": "00002000",
+          "Value": "419D006C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

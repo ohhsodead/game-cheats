@@ -1,0 +1,211 @@
+{
+  "Game": "One Piece Kaizoku Musou 2 JP",
+  "Region": "BLJM60572",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "2x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E762C",
+          "Opcode": "00002000",
+          "Value": "3CC04000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "3x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E762C",
+          "Opcode": "00002000",
+          "Value": "3CC04040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E762C",
+          "Opcode": "00002000",
+          "Value": "3CC04080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "5x Movement Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E762C",
+          "Opcode": "00002000",
+          "Value": "3CC040A0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Movement Speed 1P Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021D464",
+          "Opcode": "00002000",
+          "Value": "3D204000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "3x Movement Speed 1P Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021D464",
+          "Opcode": "00002000",
+          "Value": "3D204040",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Movement Speed 1P Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021D464",
+          "Opcode": "00002000",
+          "Value": "3D204080",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "5x Movement Speed 1P Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021D464",
+          "Opcode": "00002000",
+          "Value": "3D2040A0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "When Enemy Hits Infinite HP (Phase 3 Code Don't Handle)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003318A8",
+          "Opcode": "00002000",
+          "Value": "BC23D70A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Luffy Mode Style Full Auto Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021B47C",
+          "Opcode": "00002000",
+          "Value": "4082043C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "10x Range Hit Size",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00204E04",
+          "Opcode": "00002000",
+          "Value": "3880000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "100x Range Hit Size",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00204E04",
+          "Opcode": "00002000",
+          "Value": "38800064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1000x Range Hit Size",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00204E04",
+          "Opcode": "00002000",
+          "Value": "388003E8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Range Hit Size",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00204E04",
+          "Opcode": "00002000",
+          "Value": "3880FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026C264",
+          "Opcode": "00002000",
+          "Value": "7CC53378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "K.O. 1000000",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00343AFC",
+          "Opcode": "00002000",
+          "Value": "2C080000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MONEY MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0026C264",
+          "Opcode": "00002000",
+          "Value": "7CC53378",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

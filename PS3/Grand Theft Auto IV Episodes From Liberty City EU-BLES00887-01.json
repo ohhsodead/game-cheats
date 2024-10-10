@@ -1,0 +1,19 @@
+{
+  "Game": "Grand Theft Auto IV Episodes From Liberty City EU",
+  "Region": "BLES00887",
+  "Version": "01",
+  "Cheats": [
+    {
+      "Name": "1P Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0066C550",
+          "Opcode": "00002000",
+          "Value": "419EFF40",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

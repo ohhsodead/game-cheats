@@ -1,0 +1,66 @@
+{
+  "Game": "Saint Seya Sanctuary Battle EU",
+  "Region": "BLES01421",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Cosmo (MP)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00107A64",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00107F5C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001086CC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001087A8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite CP (Cosmo Points)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001CCE40",
+          "Opcode": "00002000",
+          "Value": "3CA04B18",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001CCE44",
+          "Opcode": "00002000",
+          "Value": "60A5967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001CCE54",
+          "Opcode": "00002000",
+          "Value": "90BE004C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Game": "Tekken Tag Tournament HD US",
+  "Region": "NPUB30590",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Invincible P1 Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00104ACC",
+          "Opcode": "00002000",
+          "Value": "4086FF4C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit Anywhere P1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00104B38",
+          "Opcode": "00002000",
+          "Value": "409EFEA0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincible P2 Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00104B4C",
+          "Opcode": "00002000",
+          "Value": "409EFEA0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit Anywhere P2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00104AB8",
+          "Opcode": "00002000",
+          "Value": "4082FF60",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

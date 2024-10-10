@@ -1,0 +1,31 @@
+{
+  "Game": "God of War 3 JP",
+  "Region": "BCJS37001",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Orbs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "39694C88",
+          "Opcode": "00002000",
+          "Value": "497423F0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009654C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "Game": "Singularity US",
+  "Region": "BLUS30296",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Info - Press [F1] Singularity.txt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "High Jump",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EA39C8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Use A Health Kit To Get Lots Of Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E4D978",
+          "Opcode": "00002000",
+          "Value": "3D404800",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E4D980",
+          "Opcode": "00002000",
+          "Value": "915F02E4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "TMD Energy Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E501EC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rapid Fire Impulse",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E54614",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Enemies Never Attack Nor Move",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F7DB98",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "You & Enemies Are Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E54C80",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Can Walk Through Most Things",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00691634",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0069163C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00691640",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00691650",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00691654",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00691658",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00691668",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0069166C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00691670",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health After Taking Damage",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00E41ED0",
+          "Opcode": "00002000",
+          "Value": "3C007F80",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E41ED4",
+          "Opcode": "00002000",
+          "Value": "901E02E4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E41EDC",
+          "Opcode": "00002000",
+          "Value": "901E02E8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00E41EE4",
+          "Opcode": "00002000",
+          "Value": "C3FE02E4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Medkits On Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D9417C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Medkits/Weapon Tech Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D80460",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Ammo Never Decreases",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D8169C",
+          "Opcode": "00002000",
+          "Value": "914B000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max E99 Tech Upon Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00D94194",
+          "Opcode": "00002000",
+          "Value": "90690004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Have All Upgrades & TMD Stuff",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00DBC224",
+          "Opcode": "00002000",
+          "Value": "90690000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00DBC228",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00DBCF14",
+          "Opcode": "00002000",
+          "Value": "38600002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00DBCF18",
+          "Opcode": "00002000",
+          "Value": "90690000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00DBD178",
+          "Opcode": "00002000",
+          "Value": "38600002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00DBD17C",
+          "Opcode": "00002000",
+          "Value": "90690000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00DBD744",
+          "Opcode": "00002000",
+          "Value": "38C00002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00DBD748",
+          "Opcode": "00002000",
+          "Value": "90C90008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00DBD76C",
+          "Opcode": "00002000",
+          "Value": "38C00002",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00DBD770",
+          "Opcode": "00002000",
+          "Value": "90DD000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Moon Jump (Hold X)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00EA37B4",
+          "Opcode": "00002000",
+          "Value": "492729A4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02116158",
+          "Opcode": "00002000",
+          "Value": "3D200275",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0211615C",
+          "Opcode": "00002000",
+          "Value": "81290000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02116160",
+          "Opcode": "00002000",
+          "Value": "89290086",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02116164",
+          "Opcode": "00002000",
+          "Value": "48000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02116184",
+          "Opcode": "00002000",
+          "Value": "2F890001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02116188",
+          "Opcode": "00002000",
+          "Value": "419E0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0211618C",
+          "Opcode": "00002000",
+          "Value": "D1BF0008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02116190",
+          "Opcode": "00002000",
+          "Value": "4AD8D628",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B54578",
+          "Opcode": "00002000",
+          "Value": "495C1ECC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02116444",
+          "Opcode": "00002000",
+          "Value": "881C0078",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02116448",
+          "Opcode": "00002000",
+          "Value": "3CC00275",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0211644C",
+          "Opcode": "00002000",
+          "Value": "93C60000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "02116450",
+          "Opcode": "00002000",
+          "Value": "4AA3E12C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

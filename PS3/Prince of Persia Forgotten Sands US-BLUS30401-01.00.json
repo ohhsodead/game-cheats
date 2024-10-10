@@ -1,0 +1,31 @@
+{
+  "Game": "Prince of Persia Forgotten Sands US",
+  "Region": "BLUS30401",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "MAX Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "1159FF9B",
+          "Opcode": "00002000",
+          "Value": "FF000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Rewind",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "11648DB7",
+          "Opcode": "00002000",
+          "Value": "FF000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

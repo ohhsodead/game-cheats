@@ -1,0 +1,38 @@
+{
+  "Game": "Tiger Woods PGA Tour 2011 EU",
+  "Region": "BLES00870",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "P1/Player Always 1 Stroke",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30A9D470",
+          "Opcode": "00004000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000004",
+          "Opcode": "00004012",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Player 99999900 XP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "30EB5AB8",
+          "Opcode": "00002000",
+          "Value": "05F5E09C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

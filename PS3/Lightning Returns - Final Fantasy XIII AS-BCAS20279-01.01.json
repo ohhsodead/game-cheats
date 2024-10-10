@@ -1,0 +1,31 @@
+{
+  "Game": "Lightning Returns - Final Fantasy XIII AS",
+  "Region": "BCAS20279",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "99999999 Attack Daamge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001303A0",
+          "Opcode": "00002000",
+          "Value": "3F000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincibile + Can Use Magic",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00107268",
+          "Opcode": "00002000",
+          "Value": "807E0030",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

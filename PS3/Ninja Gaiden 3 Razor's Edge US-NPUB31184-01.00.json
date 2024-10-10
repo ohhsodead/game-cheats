@@ -1,0 +1,183 @@
+{
+  "Game": "Ninja Gaiden 3 Razor's Edge US",
+  "Region": "NPUB31184",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Invincible (Press UP=On) (Press Down=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00100000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030B1F8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00200000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0030B1F8",
+          "Opcode": "00002000",
+          "Value": "40820008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Energy Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030D534",
+          "Opcode": "00002000",
+          "Value": "D03F0BC4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C508",
+          "Opcode": "00002000",
+          "Value": "3CA0028E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C518",
+          "Opcode": "00002000",
+          "Value": "60A50E70",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C52C",
+          "Opcode": "00002000",
+          "Value": "80650000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C530",
+          "Opcode": "00002000",
+          "Value": "90650004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0078C538",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Karma Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000C6970",
+          "Opcode": "00002000",
+          "Value": "48000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Rengeki 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001FB0D0",
+          "Opcode": "00002000",
+          "Value": "306303E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "2x Attack Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BDD68",
+          "Opcode": "00002000",
+          "Value": "40000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "4x Attack Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BDD68",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "8x Attack Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BDD68",
+          "Opcode": "00002000",
+          "Value": "41000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "32x Attack Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BDD68",
+          "Opcode": "00002000",
+          "Value": "42000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "64x Attack Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BDD68",
+          "Opcode": "00002000",
+          "Value": "42800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "128x Attack Range",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002BDD68",
+          "Opcode": "00002000",
+          "Value": "43000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

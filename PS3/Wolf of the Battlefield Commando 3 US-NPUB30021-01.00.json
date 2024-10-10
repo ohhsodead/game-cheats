@@ -1,0 +1,69 @@
+{
+  "Game": "Wolf of the Battlefield Commando 3 US",
+  "Region": "NPUB30021",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Money 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00340448",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Lives",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00355B3B",
+          "Opcode": "00000000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite MK",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0034044F",
+          "Opcode": "00000000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003405BB",
+          "Opcode": "00000000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00340727",
+          "Opcode": "00000000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Bombs",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009C604",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "Game": "Virtua Fighter 5 Final Showdown US",
+  "Region": "NPUB30625",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Invincible Mode (Press []=On Auto Off Mode)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C0D7C",
+          "Opcode": "00002000",
+          "Value": "409EFEE8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C6304",
+          "Opcode": "00002000",
+          "Value": "409E0264",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C0D7C",
+          "Opcode": "00002000",
+          "Value": "419EFEE8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C6304",
+          "Opcode": "00002000",
+          "Value": "419E0264",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Block",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C63D0",
+          "Opcode": "00002000",
+          "Value": "419D025C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C63E4",
+          "Opcode": "00002000",
+          "Value": "419E0200",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Disable Defense",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C63D0",
+          "Opcode": "00002000",
+          "Value": "419D025C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C63E4",
+          "Opcode": "00002000",
+          "Value": "419E0200",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Auto Guard Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002B4610",
+          "Opcode": "00002000",
+          "Value": "409E00F8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit Anywhere (Press L3=On) (Press R3=Off)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00020000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C7204",
+          "Opcode": "00002000",
+          "Value": "409E0074",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00040000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C7204",
+          "Opcode": "00002000",
+          "Value": "419E0074",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C6300",
+          "Opcode": "00002000",
+          "Value": "7F99C000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C6304",
+          "Opcode": "00002000",
+          "Value": "409D0264",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

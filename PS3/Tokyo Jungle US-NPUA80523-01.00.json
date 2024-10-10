@@ -1,0 +1,179 @@
+{
+  "Game": "Tokyo Jungle US",
+  "Region": "NPUA80523",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "inf LIFE, HUNGER, stamina .9E1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003D09C4",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D09C0",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D09B8",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D0A2C",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D0A30",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D0A34",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D0A38",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D0A3C",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D0A40",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "max life",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003FEB38",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FEB40",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "max attack",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003FEB40",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FEB44",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D0F38",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D0F3C",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "max defense",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003FF0CC",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003FF0D0",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D0F50",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D0F54",
+          "Opcode": "00002000",
+          "Value": "4B18967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "max speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003D0D38",
+          "Opcode": "00002000",
+          "Value": "44178000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003D0D34",
+          "Opcode": "00002000",
+          "Value": "44178000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

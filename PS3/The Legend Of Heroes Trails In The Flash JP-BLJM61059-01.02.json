@@ -1,0 +1,271 @@
+{
+  "Game": "The Legend Of Heroes Trails In The Flash JP",
+  "Region": "BLJM61059",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Max EP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005AB94",
+          "Opcode": "00002000",
+          "Value": "B0BE01F8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max CP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00055184",
+          "Opcode": "00002000",
+          "Value": "B0BE01FC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Tools",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A0814",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Fishing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B2A58",
+          "Opcode": "00002000",
+          "Value": "30A60000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "State Change Forever Continue",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000723C4",
+          "Opcode": "00002000",
+          "Value": "30630000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max EP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005F664",
+          "Opcode": "00002000",
+          "Value": "B0BE01F8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max CP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00059C64",
+          "Opcode": "00002000",
+          "Value": "B0BE01FC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Tools",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A87D4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Fishing",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BABE8",
+          "Opcode": "00002000",
+          "Value": "30A60000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "State Change Forever Continue",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007927C",
+          "Opcode": "00002000",
+          "Value": "30630000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EPMAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005AB94",
+          "Opcode": "00002000",
+          "Value": "B0BE01F8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CPMAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00055184",
+          "Opcode": "00002000",
+          "Value": "B0BE01FC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A0814",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE fish",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001B2A58",
+          "Opcode": "00002000",
+          "Value": "30A60000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "joutaihenka",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000723C4",
+          "Opcode": "00002000",
+          "Value": "30630000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.02]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EPMAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0005F664",
+          "Opcode": "00002000",
+          "Value": "B0BE01F8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CPMAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00059C64",
+          "Opcode": "00002000",
+          "Value": "B0BE01FC",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A87D4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE fish",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001BABE8",
+          "Opcode": "00002000",
+          "Value": "30A60000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "joutaihenka",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0007927C",
+          "Opcode": "00002000",
+          "Value": "30630000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

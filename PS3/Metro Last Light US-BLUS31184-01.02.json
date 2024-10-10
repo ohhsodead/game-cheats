@@ -1,0 +1,88 @@
+{
+  "Game": "Metro Last Light US",
+  "Region": "BLUS31184",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00260E58",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Bottomless Clip",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028FD2C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Gas Mask",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C7324",
+          "Opcode": "00002000",
+          "Value": "C02302C8",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C7328",
+          "Opcode": "00002000",
+          "Value": "D02302C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Alternative Infinite Gas Mask",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C7324",
+          "Opcode": "00002000",
+          "Value": "3E004396",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C7328",
+          "Opcode": "00002000",
+          "Value": "920302C0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Gas Mask (Equip Mask Once, Remove It, Put On Again For Max.)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002C7E84",
+          "Opcode": "00002000",
+          "Value": "3DE04461",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002C7EC4",
+          "Opcode": "00002000",
+          "Value": "91FF0428",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

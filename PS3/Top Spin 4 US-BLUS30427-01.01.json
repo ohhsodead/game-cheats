@@ -1,0 +1,19 @@
+{
+  "Game": "Top Spin 4 US",
+  "Region": "BLUS30427",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "EXP 999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00182A28",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

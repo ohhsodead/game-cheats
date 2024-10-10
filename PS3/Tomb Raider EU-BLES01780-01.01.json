@@ -1,0 +1,43 @@
+{
+  "Game": "Tomb Raider EU",
+  "Region": "BLES01780",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Arrows, Bullets, Salvage, Parts",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005F230C",
+          "Opcode": "00002000",
+          "Value": "7C1D0378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00628CAC",
+          "Opcode": "00002000",
+          "Value": "39200064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Skill Points",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "007395DC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

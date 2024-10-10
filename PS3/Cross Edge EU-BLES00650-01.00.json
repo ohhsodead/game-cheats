@@ -1,0 +1,55 @@
+{
+  "Game": "Cross Edge EU",
+  "Region": "BLES00650",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Gold After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00064EAC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max EP After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00064F5C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max TP After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0006500C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max PP After Battle",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000650BC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

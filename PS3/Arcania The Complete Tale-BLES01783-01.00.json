@@ -1,0 +1,31 @@
+{
+  "Game": "Arcania The Complete Tale",
+  "Region": "BLES01783",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0077EA5C",
+          "Opcode": "00002000",
+          "Value": "30630000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0077EA5C",
+          "Opcode": "00002000",
+          "Value": "30630000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

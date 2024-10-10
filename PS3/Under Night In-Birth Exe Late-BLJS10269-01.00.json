@@ -1,0 +1,64 @@
+{
+  "Game": "Under Night In-Birth Exe Late",
+  "Region": "BLJS10269",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00951D04",
+          "Opcode": "00002000",
+          "Value": "00002904",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00951D08",
+          "Opcode": "00002000",
+          "Value": "00002904",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00951D1C",
+          "Opcode": "00002000",
+          "Value": "00004E20",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00951D20",
+          "Opcode": "00002000",
+          "Value": "00004E20",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "hit Dead",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00952408",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0095240C",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "Game": "The House of the Dead Overkill Directors Cut EU",
+  "Region": "BLES01326",
+  "Version": "01.0",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo No Reload",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003ABFFE",
+          "Opcode": "00001000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Money 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3969F0F8",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00861E6C",
+          "Opcode": "00003000",
+          "Value": "00000028",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00003000",
+          "Value": "0000027C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0000270F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "3969F0F8",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

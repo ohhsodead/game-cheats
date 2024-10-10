@@ -1,0 +1,31 @@
+{
+  "Game": "Rayman Origins EU",
+  "Region": "BLES01387",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max Lums on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024E228",
+          "Opcode": "00002000",
+          "Value": "38A003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Freeze Level Time",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00056758",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

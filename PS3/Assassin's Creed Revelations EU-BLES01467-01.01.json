@@ -1,0 +1,31 @@
+{
+  "Game": "Assassin's Creed Revelations EU",
+  "Region": "BLES01467",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009A7724",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Cash/Throwing Knives/Bullets",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "010347D4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

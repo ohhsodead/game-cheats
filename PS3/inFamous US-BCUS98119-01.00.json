@@ -1,0 +1,220 @@
+{
+  "Game": "inFamous US",
+  "Region": "BCUS98119",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Cole Can't Die",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0013FE24",
+          "Opcode": "00002000",
+          "Value": "C0190750",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0013FE28",
+          "Opcode": "00002000",
+          "Value": "D0190754",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0013FE28",
+          "Opcode": "00002000",
+          "Value": "C07E8010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0013FE2C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Cole Is Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00147760",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Unlimited Electricity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012458C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Cole Is Good",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038B520",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Cole Is Evil",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0038B520",
+          "Opcode": "00002000",
+          "Value": "38600001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Civilians Are Invincible & Can't Decrease Karma",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001F1D14",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Objects Never Run Out Of Electricity",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000D800C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Instantly Absorb All Electricity From Objects",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000D84CC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AIs Never Move",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0017EAB0",
+          "Opcode": "00002000",
+          "Value": "3C000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AIs Move Half As Fast",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0017EAB0",
+          "Opcode": "00002000",
+          "Value": "3C003F00",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AIs Move 2x Faster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0017EAB0",
+          "Opcode": "00002000",
+          "Value": "3C004000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AIs Move Backwards",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0017EAB0",
+          "Opcode": "00002000",
+          "Value": "3C00BF80",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Game Is 1.25x Brighter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00344424",
+          "Opcode": "00002000",
+          "Value": "3D603FA0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Game Is 1.5x Brighter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00344424",
+          "Opcode": "00002000",
+          "Value": "3D603FC0",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Game Is 2x Brighter",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00344424",
+          "Opcode": "00002000",
+          "Value": "3D604000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Press [F1] inFamous.txt",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

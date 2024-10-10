@@ -1,0 +1,69 @@
+{
+  "Game": "Shadows of the Damned US",
+  "Region": "BLUS30653",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "No Move Enemy",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A45810",
+          "Opcode": "00002000",
+          "Value": "40800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Hit Anywhere Torch (Press O=On) Auto Off",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006007F0",
+          "Opcode": "00002000",
+          "Value": "42480000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00000020",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006007F0",
+          "Opcode": "00002000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.9375x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E66F0",
+          "Opcode": "00002000",
+          "Value": "3F700000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.09375x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E66F0",
+          "Opcode": "00002000",
+          "Value": "3F8C0000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "Game": "Eternal Sonata US",
+  "Region": "BLUS30161",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max Atk (999)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E9370",
+          "Opcode": "00002000",
+          "Value": "409D0180",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Mag (999)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E937C",
+          "Opcode": "00002000",
+          "Value": "409D015C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Def (999)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E9388",
+          "Opcode": "00002000",
+          "Value": "409D0138",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Spd (999)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E9394",
+          "Opcode": "00002000",
+          "Value": "409D0120",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max All Stats",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E933C",
+          "Opcode": "00002000",
+          "Value": "3BE02710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E9340",
+          "Opcode": "00002000",
+          "Value": "3BA02710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E9344",
+          "Opcode": "00002000",
+          "Value": "3B802710",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E9348",
+          "Opcode": "00002000",
+          "Value": "3BC02710",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Quick LV Up Change Equip Before Battle Always",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E9018",
+          "Opcode": "00002000",
+          "Value": "38C0FFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001E90A4",
+          "Opcode": "00002000",
+          "Value": "90C30004",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EC5FC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001EC898",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Money (99,999,999)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001E4B28",
+          "Opcode": "00002000",
+          "Value": "409C0010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Gain Item for Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0021BB10",
+          "Opcode": "00002000",
+          "Value": "409D0124",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0021BC70",
+          "Opcode": "00002000",
+          "Value": "409D000C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

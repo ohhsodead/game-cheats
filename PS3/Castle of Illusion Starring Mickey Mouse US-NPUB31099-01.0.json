@@ -1,0 +1,50 @@
+{
+  "Game": "Castle of Illusion Starring Mickey Mouse US",
+  "Region": "NPUB31099",
+  "Version": "01.0",
+  "Cheats": [
+    {
+      "Name": "Stars Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A0334",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001A15F4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Apples Never Decrease",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A2024",
+          "Opcode": "00002000",
+          "Value": "30660000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "99 Lives on Gain/Lose",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012C33C",
+          "Opcode": "00002000",
+          "Value": "38A00063",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

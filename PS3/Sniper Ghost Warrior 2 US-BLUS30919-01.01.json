@@ -1,0 +1,74 @@
+{
+  "Game": "Sniper Ghost Warrior 2 US",
+  "Region": "BLUS30919",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029514C",
+          "Opcode": "00002000",
+          "Value": "3B80000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Medikits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0040B994",
+          "Opcode": "00002000",
+          "Value": "7C601B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Medikits Alt?",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0030B824",
+          "Opcode": "00002000",
+          "Value": "7C601B78",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0111F588",
+          "Opcode": "00002000",
+          "Value": "7C601B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029509C",
+          "Opcode": "00002000",
+          "Value": "3B80000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Medikits",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0040B824",
+          "Opcode": "00002000",
+          "Value": "7C601B78",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

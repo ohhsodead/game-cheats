@@ -1,0 +1,91 @@
+{
+  "Game": "Ratchet & Clank Collection EU",
+  "Region": "BCES01503",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Info - Ratchet and Clank 1",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005026BC",
+          "Opcode": "00002000",
+          "Value": "40860008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Ratchet and Clank 2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00026EAC",
+          "Opcode": "00002000",
+          "Value": "408100F8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - Ratchet and Clank 3",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000DD7B4",
+          "Opcode": "00002000",
+          "Value": "40820210",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1p Invincible Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00026EAC",
+          "Opcode": "00002000",
+          "Value": "408100F8",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

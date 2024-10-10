@@ -1,0 +1,97 @@
+{
+  "Game": "Hellboy The Science of Evil EU",
+  "Region": "BLES00090",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Max HP (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "53C46744",
+          "Opcode": "00002000",
+          "Value": "49900000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "53C46748",
+          "Opcode": "00002000",
+          "Value": "49900000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "MP Full (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "53C97630",
+          "Opcode": "00002000",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "53C97628",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo (Press Select)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C004",
+          "Value": "00010000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "53D65A20",
+          "Opcode": "00004000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000010 00000000",
+          "Opcode": "0000400A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "53D65A24",
+          "Opcode": "00004000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000010 00000000",
+          "Opcode": "0000400A",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

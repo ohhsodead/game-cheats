@@ -1,0 +1,79 @@
+{
+  "Game": "Uncharted 3 Drake's Deception EU",
+  "Region": "BCES01175",
+  "Version": "01.18",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004796EC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Weapon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006E3C78",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00849304",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00479CDC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Weapon",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006E4288",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1 Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00849924",
+          "Opcode": "00002000",
+          "Value": "38000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

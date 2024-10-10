@@ -1,0 +1,104 @@
+{
+  "Game": "Knights Contract JP",
+  "Region": "BLJS10088",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "(Press R1) to Heinrich Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010FA918",
+          "Opcode": "00003000",
+          "Value": "00000044",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press R1) to Gretchen Health Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000008",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010FA978",
+          "Opcode": "00003000",
+          "Value": "00000044",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "000000C8",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L1) to Knight's Fury & Witch's Embrace Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C002",
+          "Value": "00000001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "010FA978",
+          "Opcode": "00003000",
+          "Value": "00000050",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "00000064",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Witch Power 9999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0115AD94",
+          "Opcode": "00003000",
+          "Value": "00000048",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Game": "Assassin's Creed II (Special Edition) JP",
+  "Region": "BLJM60233",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Money 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00A4C164",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00A55E2C",
+          "Opcode": "00002000",
+          "Value": "913F0010",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00608F64",
+          "Opcode": "00002000",
+          "Value": "801F005C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

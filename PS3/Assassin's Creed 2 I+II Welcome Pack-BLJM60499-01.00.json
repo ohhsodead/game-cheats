@@ -1,0 +1,43 @@
+{
+  "Game": "Assassin's Creed 2 I+II Welcome Pack",
+  "Region": "BLJM60499",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00939404",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money, Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0047F350",
+          "Opcode": "00002000",
+          "Value": "7C090378",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE MONEY,ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0047F350",
+          "Opcode": "00002000",
+          "Value": "7C090378",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

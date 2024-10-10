@@ -1,0 +1,639 @@
+{
+  "Game": "Katamari Forever US",
+  "Region": "BLUS30336",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Picked Up Objects Are 1.25x Heavier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000943A8",
+          "Opcode": "00002000",
+          "Value": "3D203FA0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943AC",
+          "Opcode": "00002000",
+          "Value": "91210080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943B0",
+          "Opcode": "00002000",
+          "Value": "C1810080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943B4",
+          "Opcode": "00002000",
+          "Value": "EDAD0332",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943B8",
+          "Opcode": "00002000",
+          "Value": "D1A10080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943BC",
+          "Opcode": "00002000",
+          "Value": "C1810084",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943C0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Picked Up Objects Are 1.5x Heavier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000943A8",
+          "Opcode": "00002000",
+          "Value": "3D203FC0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943AC",
+          "Opcode": "00002000",
+          "Value": "91210080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943B0",
+          "Opcode": "00002000",
+          "Value": "C1810080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943B4",
+          "Opcode": "00002000",
+          "Value": "EDAD0332",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943B8",
+          "Opcode": "00002000",
+          "Value": "D1A10080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943BC",
+          "Opcode": "00002000",
+          "Value": "C1810084",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943C0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Picked Up Objects Are 2x Heavier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000943A8",
+          "Opcode": "00002000",
+          "Value": "3D204000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943AC",
+          "Opcode": "00002000",
+          "Value": "91210080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943B0",
+          "Opcode": "00002000",
+          "Value": "C1810080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943B4",
+          "Opcode": "00002000",
+          "Value": "EDAD0332",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943B8",
+          "Opcode": "00002000",
+          "Value": "D1A10080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943BC",
+          "Opcode": "00002000",
+          "Value": "C1810084",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943C0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Picked Up Objects Are 4x Heavier",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000943A8",
+          "Opcode": "00002000",
+          "Value": "3D204080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943AC",
+          "Opcode": "00002000",
+          "Value": "91210080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943B0",
+          "Opcode": "00002000",
+          "Value": "C1810080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943B4",
+          "Opcode": "00002000",
+          "Value": "EDAD0332",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943B8",
+          "Opcode": "00002000",
+          "Value": "D1A10080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943BC",
+          "Opcode": "00002000",
+          "Value": "C1810084",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943C0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "000943C4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Instantly Obtain Nearly Everything At The Start Of A Level",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0010DBF0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Water Never Decreases In RoboKing Sprinkler Level",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00101C14",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Slowly Hover To The Ground When You Jump And Move Forward",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0011BA50",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Acceleration is 0.5x Slower",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00127C40",
+          "Opcode": "00002000",
+          "Value": "4BFFDBDD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C44",
+          "Opcode": "00002000",
+          "Value": "3C003F00",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C50",
+          "Opcode": "00002000",
+          "Value": "901E0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Acceleration is 0.75x Slower",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00127C40",
+          "Opcode": "00002000",
+          "Value": "4BFFDBDD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C44",
+          "Opcode": "00002000",
+          "Value": "3C003F40",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C50",
+          "Opcode": "00002000",
+          "Value": "901E0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Acceleration is 1.25x Faster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00127C40",
+          "Opcode": "00002000",
+          "Value": "4BFFDBDD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C44",
+          "Opcode": "00002000",
+          "Value": "3C003FA0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C50",
+          "Opcode": "00002000",
+          "Value": "901E0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Acceleration is 1.5x Faster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00127C40",
+          "Opcode": "00002000",
+          "Value": "4BFFDBDD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C44",
+          "Opcode": "00002000",
+          "Value": "3C003FC0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C50",
+          "Opcode": "00002000",
+          "Value": "901E0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Acceleration is 2x Faster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00127C40",
+          "Opcode": "00002000",
+          "Value": "4BFFDBDD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C44",
+          "Opcode": "00002000",
+          "Value": "3C004000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C50",
+          "Opcode": "00002000",
+          "Value": "901E0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Acceleration is 3x Faster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00127C40",
+          "Opcode": "00002000",
+          "Value": "4BFFDBDD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C44",
+          "Opcode": "00002000",
+          "Value": "3C004040",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C50",
+          "Opcode": "00002000",
+          "Value": "901E0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Acceleration is 4x Faster",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00127C40",
+          "Opcode": "00002000",
+          "Value": "4BFFDBDD",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C44",
+          "Opcode": "00002000",
+          "Value": "3C004080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00127C50",
+          "Opcode": "00002000",
+          "Value": "901E0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Raise/Lower Timer (Read 2 Infos)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00218190",
+          "Opcode": "00002000",
+          "Value": "3C60311E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218194",
+          "Opcode": "00002000",
+          "Value": "886378BB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00218198",
+          "Opcode": "00002000",
+          "Value": "2F83001F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0021819C",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002181A0",
+          "Opcode": "00002000",
+          "Value": "38607FFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002181A4",
+          "Opcode": "00002000",
+          "Value": "48000010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002181A8",
+          "Opcode": "00002000",
+          "Value": "2F83004F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002181AC",
+          "Opcode": "00002000",
+          "Value": "409E000C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002181B0",
+          "Opcode": "00002000",
+          "Value": "38600080",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002181B4",
+          "Opcode": "00002000",
+          "Value": "907F001C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002181B8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002181BC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info 1/2 = L2 + R2 + L1 + R1 + TRIANGLE = Increase Time (18 Minu",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info 2/2 = L2 + R2 + L1 + R1 + X = Decrease Time To Very Low (4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Activate Powerups (L2 = Heart, R2 = Broken Heart)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000911FC",
+          "Opcode": "00002000",
+          "Value": "3C60311E",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00091204",
+          "Opcode": "00002000",
+          "Value": "886378BB",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00091208",
+          "Opcode": "00002000",
+          "Value": "2F830001",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00091210",
+          "Opcode": "00002000",
+          "Value": "2F830002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always Have Heart Active",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0009120C",
+          "Opcode": "00002000",
+          "Value": "4800002C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Always Have Broken Heart Active",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00091214",
+          "Opcode": "00002000",
+          "Value": "480000D4",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

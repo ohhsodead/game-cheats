@@ -1,0 +1,64 @@
+{
+  "Game": "Terraria EU",
+  "Region": "BLES01938",
+  "Version": "01.02",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002E3000",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003C3614",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Invincibility",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003C1060",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "003C1084",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Take Item In Inventory To Maximize",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "002000E8",
+          "Opcode": "00002000",
+          "Value": "A01C2D76",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002000EC",
+          "Opcode": "00002000",
+          "Value": "B01C2D74",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

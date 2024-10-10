@@ -1,0 +1,73 @@
+{
+  "Game": "Ultimate Marvel Vs Capcom 3 JP",
+  "Region": "BLJM60383",
+  "Version": "01.03",
+  "Cheats": [
+    {
+      "Name": "P2 CPU Stands Still",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0017FBC0",
+          "Opcode": "00002000",
+          "Value": "409E0154",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "P1 Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0008104C",
+          "Opcode": "00002000",
+          "Value": "807D0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00081050",
+          "Opcode": "00002000",
+          "Value": "2C030000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00081060",
+          "Opcode": "00002000",
+          "Value": "80630010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00081068",
+          "Opcode": "00002000",
+          "Value": "41820500",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0008106C",
+          "Opcode": "00002000",
+          "Value": "80830010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00081070",
+          "Opcode": "00002000",
+          "Value": "38600000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00081078",
+          "Opcode": "00002000",
+          "Value": "418204F0",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

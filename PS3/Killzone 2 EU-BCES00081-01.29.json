@@ -1,0 +1,31 @@
+{
+  "Game": "Killzone 2 EU",
+  "Region": "BCES00081",
+  "Version": "01.29",
+  "Cheats": [
+    {
+      "Name": "God Mode",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000CE7EC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Debug Options",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B336F4",
+          "Opcode": "00002000",
+          "Value": "38600001",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

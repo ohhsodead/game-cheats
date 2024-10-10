@@ -1,0 +1,19 @@
+{
+  "Game": "Little Big Planet 2 EU",
+  "Region": "BCES00850",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Unlimited Respawn",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0006E340",
+          "Opcode": "00002000",
+          "Value": "39600000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

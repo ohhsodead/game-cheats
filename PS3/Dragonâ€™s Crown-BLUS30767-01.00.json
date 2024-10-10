@@ -1,0 +1,85 @@
+{
+  "Game": "Dragon’s Crown",
+  "Region": "BLUS30767",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0053F300",
+          "Opcode": "00002000",
+          "Value": "83BD0010",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0053F30C",
+          "Opcode": "00002000",
+          "Value": "48000018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0053F338",
+          "Opcode": "00002000",
+          "Value": "93A4000C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Gold After Buying something",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0057744C",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005AE7B4",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Score Multiplier x100",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004F768C",
+          "Opcode": "00002000",
+          "Value": "48403D74",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008FB400",
+          "Opcode": "00002000",
+          "Value": "1C840064",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008FB404",
+          "Opcode": "00002000",
+          "Value": "7C882014",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "008FB408",
+          "Opcode": "00002000",
+          "Value": "4BBFC288",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Game": "Malicious JP",
+  "Region": "NPJB00070",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Health",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F4FCBC",
+          "Opcode": "00003000",
+          "Value": "000001C4",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "015E015E",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Aura",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00F4FCBC",
+          "Opcode": "00003000",
+          "Value": "000008AC",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C3C00",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

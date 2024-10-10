@@ -1,0 +1,139 @@
+{
+  "Game": "Fairy Fencer F",
+  "Region": "BLJM61090",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Max SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00245BB0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Tension Gauge",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00245BD0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0027E050",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max WP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012EBD8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Exp",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024C24C",
+          "Opcode": "00002000",
+          "Value": "7C034A14",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Info - [Ver 01.00]",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00000000",
+          "Value": "00000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SPMAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00245BB0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Tension gauge MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00245BD0",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0027E050",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "WPMAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0012EBD8",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EXPMAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0024C24C",
+          "Opcode": "00002000",
+          "Value": "7C034A14",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

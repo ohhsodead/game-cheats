@@ -1,0 +1,38 @@
+{
+  "Game": "RayStorm HD JP",
+  "Region": "NPJB00034",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite Player Stock",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00BB4324",
+          "Opcode": "00001000",
+          "Value": "00000005",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "(Press L3+R3) to Score 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "0000C001",
+          "Value": "00060000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "31A631F0",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

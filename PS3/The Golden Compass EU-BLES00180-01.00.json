@@ -1,0 +1,52 @@
+{
+  "Game": "The Golden Compass EU",
+  "Region": "BLES00180",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "10266060",
+          "Opcode": "00003000",
+          "Value": "0000054C",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "10266060",
+          "Opcode": "00003000",
+          "Value": "00000550",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00000000",
+          "Opcode": "00002000",
+          "Value": "461C4000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Power",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "52FFDDB4",
+          "Opcode": "00002000",
+          "Value": "00000006",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

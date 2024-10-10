@@ -1,0 +1,255 @@
+{
+  "Game": "Biohazard 5 Alternative Edition JP",
+  "Region": "BLJM60199",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "1P Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009C6FC8",
+          "Opcode": "00002000",
+          "Value": "801700D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C6FCC",
+          "Opcode": "00002000",
+          "Value": "2F80000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009C6FD0",
+          "Opcode": "00002000",
+          "Value": "419D006C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.5x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016AEEE0",
+          "Opcode": "00002000",
+          "Value": "3F000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.75x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016AEEE0",
+          "Opcode": "00002000",
+          "Value": "3F400000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "0.875x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016AEEE0",
+          "Opcode": "00002000",
+          "Value": "3F600000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.125x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016AEEE0",
+          "Opcode": "00002000",
+          "Value": "3F900000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.25x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016AEEE0",
+          "Opcode": "00002000",
+          "Value": "3FA00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1.5x Game Speed",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "016AEEE0",
+          "Opcode": "00002000",
+          "Value": "3FC00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "38879778",
+          "Opcode": "00002000",
+          "Value": "0098967F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Money",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00AEA770",
+          "Opcode": "00002000",
+          "Value": "7D244B78",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "EX Point",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3887977C",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0085EECC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0085EF50",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001A7ACC",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001A8144",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009D2B30",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Exchange Point 99999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3887977C",
+          "Opcode": "00002000",
+          "Value": "05F5E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Shop Items Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "3887972C",
+          "Opcode": "00002000",
+          "Value": "FFFFFFFF",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "38879730",
+          "Opcode": "00002000",
+          "Value": "00000001",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "38879714",
+          "Opcode": "00002000",
+          "Value": "000FFFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1P Invincible",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009CA320",
+          "Opcode": "00002000",
+          "Value": "801700D0",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009CA324",
+          "Opcode": "00002000",
+          "Value": "2F80000F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "009CA328",
+          "Opcode": "00002000",
+          "Value": "419D006C",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

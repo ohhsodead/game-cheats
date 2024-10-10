@@ -1,0 +1,54 @@
+{
+  "Game": "Macross Frontier Theatrical Movie 'Itsuwari No Uta Hi'",
+  "Region": "BLJS93001",
+  "Version": "",
+  "Cheats": [
+    {
+      "Name": "Master Code",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": " 424C4A53 93001018",
+          "Opcode": "00000102",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "001719E4",
+          "Opcode": "00002000",
+          "Value": "9003020C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Anti-Missiles",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00089354",
+          "Opcode": "00002000",
+          "Value": "900B0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Increase Max SP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00082724",
+          "Opcode": "00002000",
+          "Value": "912335A0",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

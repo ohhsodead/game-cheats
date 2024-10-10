@@ -1,0 +1,50 @@
+{
+  "Game": "Record of Agarest War Zero EU",
+  "Region": "BLES01305",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "SP 500",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0028688C",
+          "Opcode": "00002000",
+          "Value": "396001F4",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AP 999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029A608",
+          "Opcode": "00002000",
+          "Value": "394003E7",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "002A48D8",
+          "Opcode": "00002000",
+          "Value": "394003E7",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "AP 999 (Alt)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0029A608",
+          "Opcode": "00002000",
+          "Value": "394003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Game": "Family Guy Back To The Multiverse EU",
+  "Region": "BLES01625",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Inventory Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00829248",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE HEALTH PACKS.",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0080DD68",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Ammo",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00829248",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0080DD68",
+          "Opcode": "00002000",
+          "Value": "60000000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

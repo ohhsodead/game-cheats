@@ -1,0 +1,177 @@
+{
+  "Game": "THE IDOLM@STER ONE FOR ALL",
+  "Region": "BLJS10260",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Money MAX(and victory)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E9EF0",
+          "Opcode": "00002000",
+          "Value": "4800009C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Voltage gauge MAX",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0001727C",
+          "Opcode": "00002000",
+          "Value": "C03A037C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Idol level down (at a level up, freeze level is less than 1 s)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EF104",
+          "Opcode": "00002000",
+          "Value": "3BA0FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Three places rewriting does not decrease duration of effect less",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00113170",
+          "Opcode": "00002000",
+          "Value": "38090000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00113190",
+          "Opcode": "00002000",
+          "Value": "38090000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "001131B0",
+          "Opcode": "00002000",
+          "Value": "38090000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Back one week (week course, freeze week that said they 1 or less",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B3A58",
+          "Opcode": "00002000",
+          "Value": "3924FFFF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Not proceed week",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000B3A58",
+          "Opcode": "00002000",
+          "Value": "39240000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Acquisition fan x2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EEEF4",
+          "Opcode": "00002000",
+          "Value": "1FC50002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Acquisition fan x4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EEEF4",
+          "Opcode": "00002000",
+          "Value": "1FC50004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Acquisition fan x8",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EEEF4",
+          "Opcode": "00002000",
+          "Value": "1FC50008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Experimental value x2",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EEEDC",
+          "Opcode": "00002000",
+          "Value": "1FBD0002",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Experimental value x4",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EEEDC",
+          "Opcode": "00002000",
+          "Value": "1FBD0004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Experimental value x8",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000EEEDC",
+          "Opcode": "00002000",
+          "Value": "1FBD0008",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "SP999 (Upon exiting the skill acquisition screen)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "000E5530",
+          "Opcode": "00002000",
+          "Value": "38C003E7",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "Game": "Final Fantasy XIII AS",
+  "Region": "BCAS25005",
+  "Version": "01.00",
+  "Cheats": [
+    {
+      "Name": "Gil",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "44588858",
+          "Opcode": "00002000",
+          "Value": "3B9AC9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Crystarum LV10",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "4458886C",
+          "Opcode": "00002000",
+          "Value": "0000000A",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "CP Max",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "4458FB50",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "44590A90",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "445919D0",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "44592910",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "44593850",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "44594790",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "445956D0",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "44596610",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "44597550",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "44598490",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "445993D0",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4459A310",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4459B250",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4459C190",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4459D0D0",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4459E010",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4459EF50",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "4459FE90",
+          "Opcode": "00002000",
+          "Value": "000F423F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0058C71C",
+          "Opcode": "00002000",
+          "Value": "48000000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Status",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0058C71C",
+          "Opcode": "00002000",
+          "Value": "92370018",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "0058C720",
+          "Opcode": "00002000",
+          "Value": "9237001C",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005AD154",
+          "Opcode": "00002000",
+          "Value": "3B800000",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "005AD424",
+          "Opcode": "00002000",
+          "Value": "38C00063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Item x 8",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005AD2B0",
+          "Opcode": "00002000",
+          "Value": "549B1838",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Weapon EXP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0041D70C",
+          "Opcode": "00002000",
+          "Value": "93830014",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

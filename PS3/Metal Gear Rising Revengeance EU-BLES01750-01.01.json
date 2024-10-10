@@ -1,0 +1,122 @@
+{
+  "Game": "Metal Gear Rising Revengeance EU",
+  "Region": "BLES01750",
+  "Version": "01.01",
+  "Cheats": [
+    {
+      "Name": "Infinite BP (99,999,999)",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006BDA38",
+          "Opcode": "00002000",
+          "Value": "3C6005F5",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "006BDA3C",
+          "Opcode": "00002000",
+          "Value": "6063E0FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max BP on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006BEB38",
+          "Opcode": "00002000",
+          "Value": "7CE6292D",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0063F36C",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Power on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005EDFF8",
+          "Opcode": "00002000",
+          "Value": "D0230004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1-Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A25D4",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max BP on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "006BC5A8",
+          "Opcode": "00002000",
+          "Value": "7CE6292D",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite HP",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0063C8EC",
+          "Opcode": "00002000",
+          "Value": "38A00000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Max Power on Gain",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "005EE2C0",
+          "Opcode": "00002000",
+          "Value": "D0230004",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "1-Hit Kill",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "004A51B4",
+          "Opcode": "00002000",
+          "Value": "38800000",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Game": "Dark Souls",
+  "Region": "BLJM60517",
+  "Version": "01.08",
+  "Cheats": [
+    {
+      "Name": "Soul 999999999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B21024",
+          "Opcode": "00002000",
+          "Value": "3C003B9A",
+          "ValueType": "int32"
+        },
+        {
+          "DataType": "int32",
+          "Offset": "00B21028",
+          "Opcode": "00002000",
+          "Value": "6000C9FF",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Items",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B00498",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Humanity 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003F1654",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Infinite Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0045BB24",
+          "Opcode": "00002000",
+          "Value": "901F0028",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Level 0",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009CD2A8",
+          "Opcode": "00002000",
+          "Value": "39200000",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "Level 9999",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "009CD2A8",
+          "Opcode": "00002000",
+          "Value": "3920270F",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE ITEM",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "00B00498",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "humanity 99",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "003F1654",
+          "Opcode": "00002000",
+          "Value": "38000063",
+          "ValueType": "int32"
+        }
+      ]
+    },
+    {
+      "Name": "INFINITE Stamina",
+      "Offsets": [
+        {
+          "DataType": "int32",
+          "Offset": "0045BB24",
+          "Opcode": "00002000",
+          "Value": "901F0028",
+          "ValueType": "int32"
+        }
+      ]
+    }
+  ]
+}

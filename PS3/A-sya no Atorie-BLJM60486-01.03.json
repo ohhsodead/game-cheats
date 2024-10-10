@@ -26,6 +26,7 @@
       "Name": "Infinite MP",
       "Offsets": [
         {
+          "DataType": "int32",
           "Offset": "000B8CA4",
           "Opcode": "00002000",
           "Value": "60000000",

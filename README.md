@@ -63,8 +63,6 @@ To add your own mods or offsets to the existing files, follow these steps:
 6. **Contribute your changes (optional):**
    - If you want to share your mods with others, you can fork the repository and submit a pull request with your changes.
 
----
-
 ## How to Add a New Game File
 
 If the game you want to add mods for doesn't already exist in the repository, follow these steps to create a new game file:

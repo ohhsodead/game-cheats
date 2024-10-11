@@ -1,5 +1,5 @@
 # Game Cheats
-This repository was made for the [Arisen Studio](https://github.com/ohhsodead/arisen-studio) project.
+This repository was made to add basic support for RTE (Real-Time Editing) in the [Arisen Studio](https://github.com/ohhsodead/arisen-studio) project.
 
 It contains cheat files for PlayStation 3 and Xbox 360 games. Each folder contains game files with cheat codes, offsets, and values for various game versions.
 
